@@ -1,0 +1,31 @@
+#EXTM3U
+#EXTINF:-1,Eurosport
+https://varun-iptv.netlify.app/m3u/Eurosport.m3u8
+#EXTINF:-1,TLC
+https://varun-iptv.netlify.app/m3u/TLC.m3u8
+#EXTINF:-1,Discovery
+https://varun-iptv.netlify.app/m3u/discoveryenglish.m3u8
+#EXTINF:-1,Travel
+https://varun-iptv.netlify.app/m3u/TRVL_Channel.m3u8
+#EXTINF:-1,HGTV
+https://varun-iptv.netlify.app/m3u/HGTV.m3u8
+#EXTINF:-1,Animal Planet
+https://varun-iptv.netlify.app/m3u/Animal_Planet.m3u8
+#EXTINF:-1,Fox Sports 1
+http://41.205.93.154/FOXSPORTS1/index.m3u8
+#EXTINF:-1,Fox Sports 2
+http://41.205.93.154/FOXSPORTS2/index.m3u8
+#EXTINF:-1,Eurosport 1
+http://41.205.93.154/EUROSPORT1/index.m3u8
+#EXTINF:-1,Eurosport 2
+http://41.205.93.154/EUROSPORT2/index.m3u8
+#EXTINF:-1,NBC
+http://41.205.93.154/NBC/index.m3u8
+#EXTINF:-1,Star Sports 1
+http://41.205.93.154/STARSPORTS1/index.m3u8
+#EXTINF:-1,Animal Planet Asia
+https://kusnadipepenk.github.io/ntn/animal.m3u8
+#EXTINF:-1,Sky Sports 1 NZ
+https://donelfantastic.github.io/live/skysportsNz1.m3u8
+
+
