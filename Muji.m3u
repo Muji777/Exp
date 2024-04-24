@@ -244,8 +244,6 @@ https://7pal.short.gy/sptsnet360
 https://7pal.short.gy/cbssptnw
 #EXTINF:-1 tvg-id="Madison.Square.Garden.HDTV.(MSG.HD).us" tvg-logo="https://i.imgur.com/OLFLQi1.jpg" group-title="Sports", USA:MSG
 https://7pal.short.gy/msgusa
-#EXTINF:-1 tvg-id="The.NFL.Network.HDTV.(NFLHD).us" tvg-logo="https://i.imgur.com/XKBiWym.jpg" group-title="Sports", USA:NFL_Network-FHD
-https://7pal.short.gy/nflnw
 #EXTINF:-1 tvg-id="ESPN.HDTV.(Dish).(ESPNHD).us" tvg-logo="https://variety.com/wp-content/uploads/2013/09/espn-logo.jpg" group-title="Sports", USA:ESPN-HD
 https://7pal.short.gy/espnus
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/6PJ4LO7.png" group-title="Events", Event 1 
@@ -262,7 +260,7 @@ https://d1wxiaxdr51kqy.cloudfront.net/playlist.m3u8
 https://d386m2lmbakvx4.cloudfront.net/playlist.m3u8
 #EXTINF:-1,BBC Earth
 https://lnc-bbc-earth.tubi.video/playlist.m3u8
-#EXTINF:-1,HGTV
+#EXTINF:-1,HGTV Asia
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/hgtv.m3u8
 #EXTINF:-1,BBC Earth
 #EXTINF:-1,Animal Planet
@@ -289,7 +287,7 @@ http://195.181.175.69:5080/547/mpegts
 http://195.181.175.69:5080/19/mpegts
 #EXTINF:-1,Discovery
 https://edge1.laotv.la/live/Discovery/sc-gaFECQ/v1/index.m3u8
-#EXTINF:-1,Animal Planet
+#EXTINF:-1,Animal Planet Asia
 https://ctrl.laotv.la/live/AnimalPlanet/index.m3u8
 #EXTINF:-1,True Sport 1
 https://edge1.laotv.la/live/TSport1/sc-gaFECQ/v1/index.m3u8
