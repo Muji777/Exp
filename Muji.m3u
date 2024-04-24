@@ -262,3 +262,43 @@ https://d1wxiaxdr51kqy.cloudfront.net/playlist.m3u8
 https://d386m2lmbakvx4.cloudfront.net/playlist.m3u8
 #EXTINF:-1,BBC Earth
 https://lnc-bbc-earth.tubi.video/playlist.m3u8
+#EXTINF:-1,HGTV
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/hgtv.m3u8
+#EXTINF:-1,BBC Earth
+https://nyanv-live-cdn.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd
+#EXTINF:-1,Animal Planet
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/animalplanet.m3u8
+#EXTINF:-1,Animal Planet
+https://dplus.gammacdn.workers.dev/videos/99.m3u8
+#EXTINF:-1,BBC 1
+http://195.181.175.69:5080/311/mpegts
+#EXTINF:-1,BBC 3
+http://195.181.175.69:5080/349/mpegts
+#EXTINF:-1,BBC 4
+http://195.181.175.69:5080/21/mpegts
+#EXTINF:-1,ITV 1
+http://195.181.175.69:5080/1198/mpegts
+#EXTINF:-1,ITV 2
+http://195.181.175.69:5080/22/mpegts
+#EXTINF:-1,ITV 3
+http://195.181.175.69:5080/23/mpegts
+#EXTINF:-1,ITV 4
+http://195.181.175.69:5080/24/mpegts
+#EXTINF:-1,Channel 4
+http://195.181.175.69:5080/547/mpegts
+#EXTINF:-1,Channel 5
+http://195.181.175.69:5080/19/mpegts
+#EXTINF:-1,Discovery
+https://edge1.laotv.la/live/Discovery/sc-gaFECQ/v1/index.m3u8
+#EXTINF:-1,Animal Planet
+https://ctrl.laotv.la/live/AnimalPlanet/index.m3u8
+#EXTINF:-1,True Sport 1
+https://edge1.laotv.la/live/TSport1/sc-gaFECQ/v1/index.m3u8
+#EXTINF:-1,True Sport 2
+https://edge1.laotv.la/live/TSport2/sc-gaFECQ/v1/index.m3u8
+#EXTINF:-1,Bein Sport 1
+https://edge1.laotv.la/live/Bsport1/sc-gaFECQ/v0/index.m3u8
+#EXTINF:-1,Bein Sport 2
+https://edge2.laotv.la/live/Bsport2/sc-gaFECQ/v0/index.m3u8
+
+
