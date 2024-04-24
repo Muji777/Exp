@@ -256,3 +256,9 @@ https://7pal.short.gy/event2
 https://7pal.short.gy/event3
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/6PJ4LO7.png" group-title="Events", Event 4
 https://7pal.short.gy/event4
+#EXTINF:-1,BBC Garden
+https://d1wxiaxdr51kqy.cloudfront.net/playlist.m3u8
+#EXTINF:-1,BBC Food
+https://d386m2lmbakvx4.cloudfront.net/playlist.m3u8
+#EXTINF:-1,BBC Earth
+https://lnc-bbc-earth.tubi.video/playlist.m3u8
