@@ -141,7 +141,6 @@ https://d386m2lmbakvx4.cloudfront.net/playlist.m3u8
 https://lnc-bbc-earth.tubi.video/playlist.m3u8
 #EXTINF:-1,HGTV Asia
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/hgtv.m3u8
-#EXTINF:-1,BBC Earth
 #EXTINF:-1,Animal Planet
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/animalplanet.m3u8
 #EXTINF:-1,Animal Planet
@@ -164,29 +163,25 @@ http://195.181.175.69:5080/24/mpegts
 http://195.181.175.69:5080/547/mpegts
 #EXTINF:-1,Channel 5
 http://195.181.175.69:5080/19/mpegts
-#EXTINF:-1,Discovery
-https://edge1.laotv.la/live/Discovery/sc-gaFECQ/v1/index.m3u8
-#EXTINF:-1,Animal Planet Asia
-https://ctrl.laotv.la/live/AnimalPlanet/index.m3u8
-EXTINF:-1,Bein Sports Xtra Australia
+#EXTINF:-1,Bein Sports Xtra Australia
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01334-beinsportsllc-beinxtra-samsungau/playlist.m3u8
-EXTINF:-1,Bein Sports Xtra UK
+#EXTINF:-1,Bein Sports Xtra UK
 https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
-EXTINF:-1,Travel Channel UK
+#EXTINF:-1,Travel Channel UK
 https://dplus.gammacdn.workers.dev/videos/110.m3u8
-EXTINF:-1,Tennis Channel
+#EXTINF:-1,Tennis Channel
 https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
-EXTINF:-1,CNN
+#EXTINF:-1,CNN
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
-EXTINF:-1,BBC Lifestyle
+#EXTINF:-1,BBC Lifestyle
 http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71120
-EXTINF:-1,BBC News
+#EXTINF:-1,BBC News
 https://i.mjh.nz/SamsungTVPlus/US4000033L.m3u8
-EXTINF:-1,Travel XP UK
+#EXTINF:-1,Travel XP UK
 https://travelxp-travelxp-1-gb.samsung.wurl.tv/3000.m3u8
-EXTINF:-1,Travel XP EU
+#EXTINF:-1,Travel XP EU
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
-EXTINF:-1,Travel XP New Zealand
+#EXTINF:-1,Travel XP New Zealand
 https://travelxp-travelxp-1-nz.samsung.wurl.tv/playlist.m3u8
 
 
