@@ -168,6 +168,9 @@ http://195.181.175.69:5080/19/mpegts
 https://edge1.laotv.la/live/Discovery/sc-gaFECQ/v1/index.m3u8
 #EXTINF:-1,Animal Planet Asia
 https://ctrl.laotv.la/live/AnimalPlanet/index.m3u8
-
+EXTINF:-1,Bein Xtra Australia
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01334-beinsportsllc-beinxtra-samsungau/playlist.m3u8
+EXTINF:-1,Bein Xtra UK
+https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
 
 
