@@ -1,13 +1,11 @@
 #EXTM3U
-#EXTINF:-1,Eurosport
-https://varun-iptv.netlify.app/m3u/Eurosport.m3u8
 #EXTINF:-1,TLC
 https://varun-iptv.netlify.app/m3u/TLC.m3u8
 #EXTINF:-1,Discovery
 https://varun-iptv.netlify.app/m3u/discoveryenglish.m3u8
 #EXTINF:-1,Travel
 https://varun-iptv.netlify.app/m3u/TRVL_Channel.m3u8
-#EXTINF:-1,HGTV
+#EXTINF:-1,HGTV India
 https://varun-iptv.netlify.app/m3u/HGTV.m3u8
 #EXTINF:-1,Animal Planet
 https://varun-iptv.netlify.app/m3u/Animal_Planet.m3u8
@@ -91,14 +89,24 @@ https://travelxp-travelxp-1-gb.samsung.wurl.tv/3000.m3u8
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1,Travel XP New Zealand
 https://travelxp-travelxp-1-nz.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1, Zee Cinema
-https://jiotv.nayeemparvez.workers.dev/bpk-tv/Zee_Cinema_HD_MOB/Fallback/index.m3u8
-#EXTINF:-1, Animal Planet Jio
-https://jiotv.nayeemparvez.workers.dev/bpk-tv/Animal_Planet_HD_MOB/Fallback/index.m3u8
-#EXTINF:-1, Discovery Asia
-https://cdn1.skygo.mn/live/disk1/Discovery_Asia/HLS-FTA/Discovery_Asia.m3u8
+#EXTINF:-1, ESPN
+http://143.244.60.30/ESPN/index.m3u8
+#EXTINF:-1, HGTV USA
+http://170.254.18.106/HGTV/index.m3u8
+#EXTINF:-1, HGTV USA
+http://143.244.60.97/HGTV/index.m3u8
+#EXTINF:-1, Paramount
+http://170.254.18.106/PARAMOUNT/index.m3u8
+#EXTINF:-1, Animal Planet USA
+http://41.205.93.154/ANIMALPLANET/index.m3u8
 
+https://z88.ubtvfans.com/live/rx1/367/ec2a5cc942ff9cd56dfea2aa478c5f35/index.m3u8
 
+https://z88.ubtvfans.com/live/rx1/97/5eb4dbe359d9f54e5c3679edaa13ec99/index.m3u8
+
+https://z88.ubtvfans.com/live/rx1/97/5eb4dbe359d9f54e5c3679edaa13ec99/index.m3u8
+
+https://z88.ubtvfans.com/live/rx3/2311/72e3628071a1ae8c37350862b0f39336/index.m3u8
 
 
 
