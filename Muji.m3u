@@ -45,8 +45,6 @@ https://donelfantastic.github.io/live/skysportsNz9.m3u8
 https://d1wxiaxdr51kqy.cloudfront.net/playlist.m3u8
 #EXTINF:-1,BBC Food
 https://d386m2lmbakvx4.cloudfront.net/playlist.m3u8
-#EXTINF:-1,BBC Earth
-https://lnc-bbc-earth.tubi.video/playlist.m3u8
 #EXTINF:-1,HGTV Asia
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/hgtv.m3u8
 #EXTINF:-1,Animal Planet
@@ -83,8 +81,6 @@ https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1,BBC News
 https://i.mjh.nz/SamsungTVPlus/US4000033L.m3u8
-#EXTINF:-1,Travel XP UK
-https://travelxp-travelxp-1-gb.samsung.wurl.tv/3000.m3u8
 #EXTINF:-1,Travel XP EU
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1,Travel XP New Zealand
@@ -107,7 +103,7 @@ https://z88.ubtvfans.com/live/rx1/367/ec2a5cc942ff9cd56dfea2aa478c5f35/index.m3u
 https://z88.ubtvfans.com/live/rx1/97/5eb4dbe359d9f54e5c3679edaa13ec99/index.m3u8
 #EXTINF:-1,  HGTV Asia
 https://z88.ubtvfans.com/live/rx3/2311/72e3628071a1ae8c37350862b0f39336/index.m3u8
-
-
+#EXTINF:-1, B4U Music
+https://www.bdtubelive.xyz/new.m3u8?id=178
 
 
