@@ -95,19 +95,9 @@ http://143.244.60.97/HGTV/index.m3u8
 http://170.254.18.106/PARAMOUNT/index.m3u8
 #EXTINF:-1, Animal Planet USA
 http://41.205.93.154/ANIMALPLANET/index.m3u8
-#EXTINF:-1,  Nat Geo Wild
-https://z88.ubtvfans.com/live/rx3/1434/452c1e8c9fb2c0430a2e3b5f2cd46e2d/index.m3u8
-#EXTINF:-1,  Animal Planet Asia
-https://z88.ubtvfans.com/live/rx1/367/ec2a5cc942ff9cd56dfea2aa478c5f35/index.m3u8
-#EXTINF:-1, BBC Earth
-https://z88.ubtvfans.com/live/rx1/97/5eb4dbe359d9f54e5c3679edaa13ec99/index.m3u8
-#EXTINF:-1,  HGTV Asia
-https://z88.ubtvfans.com/live/rx3/2311/72e3628071a1ae8c37350862b0f39336/index.m3u8
 #EXTINF:-1, 9Now Australia
-http://49.188.112.53:9981/stream/channelid/578326051?profile=pass
-#EXTINF:-1, 9Now Australia (Vpn)
 https://9now-livestreams.akamaized.net/hls/live/2008322/ch9-mel/master.m3u8
-
-
-
-
+#EXTINF:-1, Tennis Channel FHD
+http://38.96.178.201/live/TENNIS/index.m3u8
+#EXTINF:-1, CBS
+http://38.96.178.201/live/CBS/index.m3u8
