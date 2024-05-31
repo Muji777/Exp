@@ -105,3 +105,22 @@ https://cdn-1.bdiptv24.line.pm/live/SP/index.m3u8
 https://cdn-1.bdiptv24.line.pm/live/Sky/index.m3u8
 #EXTINF:-1, Star Sports 1
 https://cdn-1.bdiptv24.line.pm/live/Star1/index.m3u8
+#EXTINF:-1, BBC Earth
+http://bsex.serv00.net/Smart.php?id=bbcearth_twn
+#EXTINF:-1, BBC Lifestyle
+https://z88.ubtvfans.com/live/rx1/424/efbc520fede3c2465a725c7544821bda/index.m3u8
+#EXTINF:-1, ITV 1
+http://195.181.175.69:5080/1198/index.m3u8
+#EXTINF:-1, ITV 2
+http://195.181.175.69:5080/22/index.m3u8
+#EXTINF:-1, ITV 3
+http://195.181.175.69:5080/23/index.m3u8
+#EXTINF:-1, ITV 4
+http://195.181.175.69:5080/24/index.m3u8
+#EXTINF:-1, BBC 2
+http://195.181.175.69:5080/312/index.m3u8
+#EXTINF:-1, BBC 3
+http://195.181.175.69:5080/349/index.m3u8
+
+
+
