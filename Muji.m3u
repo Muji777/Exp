@@ -13,10 +13,6 @@ https://varun-iptv.netlify.app/m3u/Animal_Planet.m3u8
 http://41.205.93.154/FOXSPORTS1/index.m3u8
 #EXTINF:-1,Fox Sports 2
 http://41.205.93.154/FOXSPORTS2/index.m3u8
-#EXTINF:-1,Eurosport 1
-http://41.205.93.154/EUROSPORT1/index.m3u8
-#EXTINF:-1,Eurosport 2
-http://41.205.93.154/EUROSPORT2/index.m3u8
 #EXTINF:-1,NBC
 http://41.205.93.154/NBC/index.m3u8
 #EXTINF:-1,Star Sports 1
@@ -101,3 +97,11 @@ https://9now-livestreams.akamaized.net/hls/live/2008322/ch9-mel/master.m3u8
 http://38.96.178.201/live/TENNIS/index.m3u8
 #EXTINF:-1, CBS
 http://38.96.178.201/live/CBS/index.m3u8
+#EXTINF:-1, Astro Cricket
+https://cdn-1.bdiptv24.line.pm/live/AstroCricket/index.m3u8#EXTINF:-1
+#EXTINF:-1, Supersport Cricket
+https://cdn-1.bdiptv24.line.pm/live/SP/index.m3u8
+#EXTINF:-1, Sky Sports Cricket
+https://cdn-1.bdiptv24.line.pm/live/Sky/index.m3u8
+#EXTINF:-1, Star Sports 1
+https://cdn-1.bdiptv24.line.pm/live/Star1/index.m3u8
