@@ -93,10 +93,6 @@ http://170.254.18.106/PARAMOUNT/index.m3u8
 http://41.205.93.154/ANIMALPLANET/index.m3u8
 #EXTINF:-1, 9Now Australia
 https://9now-livestreams.akamaized.net/hls/live/2008322/ch9-mel/master.m3u8
-#EXTINF:-1, Tennis Channel FHD
-http://38.96.178.201/live/TENNIS/index.m3u8
-#EXTINF:-1, CBS
-http://38.96.178.201/live/CBS/index.m3u8
 #EXTINF:-1, Astro Cricket
 https://cdn-1.bdiptv24.line.pm/live/AstroCricket/index.m3u8#EXTINF:-1
 #EXTINF:-1, Supersport Cricket
