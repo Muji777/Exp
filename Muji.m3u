@@ -117,6 +117,14 @@ http://195.181.175.69:5080/24/index.m3u8
 http://195.181.175.69:5080/312/index.m3u8
 #EXTINF:-1, BBC 3
 http://195.181.175.69:5080/349/index.m3u8
-
-
+#EXTINF:-1, Ten 1
+https://toxicify.pro/sliv/stream.php?id=sony-ten-1-hd&e=.m3u8
+#EXTINF:-1, Ten 2
+https://toxicify.pro/sliv/stream.php?id=sony-ten-2-hd&e=.m3u8
+#EXTINF:-1, Ten 3
+https://toxicify.pro/sliv/stream.php?id=sony-ten-3-hd&e=.m3u8
+#EXTINF:-1, Ten 4
+https://toxicify.pro/sliv/stream.php?id=sony-ten-4-hd&e=.m3u8
+#EXTINF:-1, Ten 5
+https://toxicify.pro/sliv/stream.php?id=sony-ten-5-hd&e=.m3u8
 
