@@ -127,3 +127,25 @@ https://toxicify.pro/sliv/stream.php?id=sony-ten-5-hd&e=.m3u8
 https://fifabangladesh.live/@RANAPKX73/stream.m3u8?id=875&e=.m3u8
 #EXTINF:-1, Discovery World
 https://fifabangladesh.live/@RANAPKX73/stream.m3u8?id=463&e=.m3u8
+#EXTINF:-1 tvg-id="sony1000009252" tvg-logo="https://sonypicturesnetworks.com/images/logos/SBBCE_LOGO_NEW_PNG.png" group-title="Sony",Sony BBC Earth HD
+https://dai.google.com/linear/hls/event/V73ovbgASP-xGvQQOukwTQ/master.m3u8
+#EXTINF:-1 tvg-id="sony1000009280" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_SD_Logo_CLR.png" group-title="Sony",Sony TEN 1
+https://dai.google.com/linear/hls/event/4_pnLi2QTe6bRGvvahRbfg/master.m3u8
+#EXTINF:-1 tvg-id="sony1000009279" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_SD_Logo_CLR.png" group-title="Sony",Sony TEN 2
+https://dai.google.com/linear/hls/event/nspQRqO5RmC06VmlPrTwkQ/master.m3u8
+#EXTINF:-1 tvg-id="sony1000009283" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_SD_Logo_CLR.png" group-title="Sony",Sony TEN 3
+https://dai.google.com/linear/hls/event/9kocjiLUSf-erlSrv3d4Mw/master.m3u8
+#EXTINF:-1 tvg-id="sony1000119187" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen4_SD_Logo_CLR.png" group-title="Sony",Sony TEN 4
+https://dai.google.com/linear/hls/event/hInaEKUJSziZAGv9boOdjg/master.m3u8
+#EXTINF:-1 tvg-id="sony1000009281" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen5_SD_Logo_CLR.png" group-title="Sony",Sony TEN 5
+https://dai.google.com/linear/hls/event/S-q8I27RRzmkb-OIdoaiAw/master.m3u8
+#EXTINF:-1 tvg-id="sony1000009276" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" group-title="Sony",Sony TEN 1 HD
+https://dai.google.com/linear/hls/event/yeYP86THQ4yl7US8Zx5eug/master.m3u8
+#EXTINF:-1 tvg-id="sony1000009277" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png" group-title="Sony",Sony  TEN 2 HD
+https://dai.google.com/linear/hls/event/Syu8F41-R1y_JmQ7x0oNxQ/master.m3u8
+#EXTINF:-1 tvg-id="sony1000009278" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_HD_Logo_CLR.png" group-title="Sony",Sony TEN 3 HD
+https://dai.google.com/linear/hls/event/nmQFuHURTYGQBNdUG-2Qdw/master.m3u8
+#EXTINF:-1 tvg-id="sony1000119186" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen4_HD_Logo_CLR.png" group-title="Sony",Sony TEN 4 HD
+https://dai.google.com/linear/hls/event/x4LxWUcVSIiDaq1VCM7DSA/master.m3u8
+#EXTINF:-1 tvg-id="sony1000009275" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="Sony",Sony TEN 5 HD
+https://dai.google.com/linear/hls/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8
