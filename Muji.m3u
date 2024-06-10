@@ -79,8 +79,6 @@ https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 https://i.mjh.nz/SamsungTVPlus/US4000033L.m3u8
 #EXTINF:-1,Travel XP EU
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1,Travel XP New Zealand
-https://travelxp-travelxp-1-nz.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1, ESPN
 http://143.244.60.30/ESPN/index.m3u8
 #EXTINF:-1, HGTV USA
@@ -93,14 +91,6 @@ http://170.254.18.106/PARAMOUNT/index.m3u8
 http://41.205.93.154/ANIMALPLANET/index.m3u8
 #EXTINF:-1, 9Now Australia
 https://9now-livestreams.akamaized.net/hls/live/2008322/ch9-mel/master.m3u8
-#EXTINF:-1, Astro Cricket
-https://cdn-1.bdiptv24.line.pm/live/AstroCricket/index.m3u8#EXTINF:-1
-#EXTINF:-1, Supersport Cricket
-https://cdn-1.bdiptv24.line.pm/live/SP/index.m3u8
-#EXTINF:-1, Sky Sports Cricket
-https://cdn-1.bdiptv24.line.pm/live/Sky/index.m3u8
-#EXTINF:-1, Star Sports 1
-https://cdn-1.bdiptv24.line.pm/live/Star1/index.m3u8
 #EXTINF:-1, ITV 1
 http://195.181.175.69:5080/1198/index.m3u8
 #EXTINF:-1, ITV 2
@@ -113,16 +103,6 @@ http://195.181.175.69:5080/24/index.m3u8
 http://195.181.175.69:5080/312/index.m3u8
 #EXTINF:-1, BBC 3
 http://195.181.175.69:5080/349/index.m3u8
-#EXTINF:-1, Ten 1
-https://toxicify.pro/sliv/stream.php?id=sony-ten-1-hd&e=.m3u8
-#EXTINF:-1, Ten 2
-https://toxicify.pro/sliv/stream.php?id=sony-ten-2-hd&e=.m3u8
-#EXTINF:-1, Ten 3
-https://toxicify.pro/sliv/stream.php?id=sony-ten-3-hd&e=.m3u8
-#EXTINF:-1, Ten 4
-https://toxicify.pro/sliv/stream.php?id=sony-ten-4-hd&e=.m3u8
-#EXTINF:-1, Ten 5
-https://toxicify.pro/sliv/stream.php?id=sony-ten-5-hd&e=.m3u8
 #EXTINF:-1, Eurosport India
 https://fifabangladesh.live/@RANAPKX73/stream.m3u8?id=875&e=.m3u8
 #EXTINF:-1, Discovery World
