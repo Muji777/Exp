@@ -10,11 +10,11 @@ https://varun-iptv.netlify.app/m3u/HGTV.m3u8
 #EXTINF:-1,Animal Planet India
 https://varun-iptv.netlify.app/m3u/Animal_Planet.m3u8
 #EXTINF:-1,Fox Sports 1
-http://41.205.93.154/FOXSPORTS1/index.m3u8
+http://41.205.93.154/FOXSPORTS1/mpegts
 #EXTINF:-1,Fox Sports 2
-http://41.205.93.154/FOXSPORTS2/index.m3u8
+http://41.205.93.154/FOXSPORTS2/mpegts
 #EXTINF:-1,NBC
-http://41.205.93.154/NBC/index.m3u8
+http://41.205.93.154/NBC/mpegts
 #EXTINF:-1,Animal Planet Asia
 https://kusnadipepenk.github.io/ntn/animal.m3u8
 #EXTINF:-1,Sky Sports 1
@@ -78,25 +78,25 @@ https://i.mjh.nz/SamsungTVPlus/US4000033L.m3u8
 #EXTINF:-1,Travel XP EU
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1, HGTV USA
-http://170.254.18.106/HGTV/index.m3u8
+http://170.254.18.106/HGTV/mpegts
 #EXTINF:-1, HGTV USA
-http://143.244.60.97/HGTV/index.m3u8
+http://143.244.60.97/HGTV/mpegts
 #EXTINF:-1, Paramount
-http://170.254.18.106/PARAMOUNT/index.m3u8
+http://170.254.18.106/PARAMOUNT/mpegts
 #EXTINF:-1, 9Now Australia
 https://9now-livestreams.akamaized.net/hls/live/2008322/ch9-mel/master.m3u8
 #EXTINF:-1, ITV 1
-http://195.181.175.69:5080/1198/index.m3u8
+http://195.181.175.69:5080/1198/mpegts
 #EXTINF:-1, ITV 2
-http://195.181.175.69:5080/22/index.m3u8
+http://195.181.175.69:5080/22/mpegts
 #EXTINF:-1, ITV 3
-http://195.181.175.69:5080/23/index.m3u8
+http://195.181.175.69:5080/23/mpegts
 #EXTINF:-1, ITV 4
-http://195.181.175.69:5080/24/index.m3u8
+http://195.181.175.69:5080/24/mpegts
 #EXTINF:-1, BBC 2
-http://195.181.175.69:5080/312/index.m3u8
+http://195.181.175.69:5080/312/mpegts
 #EXTINF:-1, BBC 3
-http://195.181.175.69:5080/349/index.m3u8
+http://195.181.175.69:5080/349/mpegts
 #EXTINF:-1 tvg-id="sony1000009252" tvg-logo="https://sonypicturesnetworks.com/images/logos/SBBCE_LOGO_NEW_PNG.png" group-title="Sony",Sony BBC Earth HD
 https://dai.google.com/linear/hls/event/V73ovbgASP-xGvQQOukwTQ/master.m3u8
 #EXTINF:-1 tvg-id="sony1000009280" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_SD_Logo_CLR.png" group-title="Sony",Sony TEN 1
