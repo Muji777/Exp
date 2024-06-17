@@ -1,0 +1,130 @@
+#EXTM3U
+#EXTINF:-1,TLC
+https://varun-iptv.netlify.app/m3u/TLC.m3u8
+#EXTINF:-1,Discovery
+https://varun-iptv.netlify.app/m3u/discoveryenglish.m3u8
+#EXTINF:-1,Travel
+https://varun-iptv.netlify.app/m3u/TRVL_Channel.m3u8
+#EXTINF:-1,HGTV India
+https://varun-iptv.netlify.app/m3u/HGTV.m3u8
+#EXTINF:-1,Animal Planet India
+https://varun-iptv.netlify.app/m3u/Animal_Planet.m3u8
+#EXTINF:-1,Fox Sports 1
+http://41.205.93.154/FOXSPORTS1/index.m3u8
+#EXTINF:-1,Fox Sports 2
+http://41.205.93.154/FOXSPORTS2/index.m3u8
+#EXTINF:-1,NBC
+http://41.205.93.154/NBC/index.m3u8
+#EXTINF:-1,Animal Planet Asia
+https://kusnadipepenk.github.io/ntn/animal.m3u8
+#EXTINF:-1,Sky Sports 1
+https://donelfantastic.github.io/live/skysportsNz1.m3u8
+#EXTINF:-1,Sky Sports 2
+https://donelfantastic.github.io/live/skysportsNz2.m3u8
+#EXTINF:-1,Sky Sports 3
+https://donelfantastic.github.io/live/skysportsNz3.m3u8
+#EXTINF:-1,Sky Sports 4
+https://donelfantastic.github.io/live/skysportsNz4.m3u8
+#EXTINF:-1,Sky Sports 5
+https://donelfantastic.github.io/live/skysportsNz5.m3u8
+#EXTINF:-1,Sky Sports 6
+https://donelfantastic.github.io/live/skysportsNz6.m3u8
+#EXTINF:-1,Sky Sports 7
+https://donelfantastic.github.io/live/skysportsNz7.m3u8
+#EXTINF:-1,Sky Sports 8
+https://donelfantastic.github.io/live/skysportsNz8.m3u8
+#EXTINF:-1,Sky Sports 9
+https://donelfantastic.github.io/live/skysportsNz9.m3u8
+#EXTINF:-1,BBC Garden
+https://d1wxiaxdr51kqy.cloudfront.net/playlist.m3u8
+#EXTINF:-1,BBC Food
+https://d386m2lmbakvx4.cloudfront.net/playlist.m3u8
+#EXTINF:-1,HGTV Asia
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/hgtv.m3u8
+#EXTINF:-1,Animal Planet
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/animalplanet.m3u8
+#EXTINF:-1,Animal Planet
+https://dplus.gammacdn.workers.dev/videos/99.m3u8
+#EXTINF:-1,BBC 1
+http://195.181.175.69:5080/311/mpegts
+#EXTINF:-1,BBC 3
+http://195.181.175.69:5080/349/mpegts
+#EXTINF:-1,BBC 4
+http://195.181.175.69:5080/21/mpegts
+#EXTINF:-1,ITV 1
+http://195.181.175.69:5080/1198/mpegts
+#EXTINF:-1,ITV 2
+http://195.181.175.69:5080/22/mpegts
+#EXTINF:-1,ITV 3
+http://195.181.175.69:5080/23/mpegts
+#EXTINF:-1,ITV 4
+http://195.181.175.69:5080/24/mpegts
+#EXTINF:-1,Channel 4
+http://195.181.175.69:5080/547/mpegts
+#EXTINF:-1,Channel 5
+http://195.181.175.69:5080/19/mpegts
+#EXTINF:-1,Bein Sports Xtra Australia
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01334-beinsportsllc-beinxtra-samsungau/playlist.m3u8
+#EXTINF:-1,Bein Sports Xtra UK
+https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
+#EXTINF:-1,Travel Channel UK
+https://dplus.gammacdn.workers.dev/videos/110.m3u8
+#EXTINF:-1,Tennis Channel
+https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1,CNN
+https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1,BBC News
+https://i.mjh.nz/SamsungTVPlus/US4000033L.m3u8
+#EXTINF:-1,Travel XP EU
+https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1, HGTV USA
+http://170.254.18.106/HGTV/index.m3u8
+#EXTINF:-1, HGTV USA
+http://143.244.60.97/HGTV/index.m3u8
+#EXTINF:-1, Paramount
+http://170.254.18.106/PARAMOUNT/index.m3u8
+#EXTINF:-1, 9Now Australia
+https://9now-livestreams.akamaized.net/hls/live/2008322/ch9-mel/master.m3u8
+#EXTINF:-1, ITV 1
+http://195.181.175.69:5080/1198/index.m3u8
+#EXTINF:-1, ITV 2
+http://195.181.175.69:5080/22/index.m3u8
+#EXTINF:-1, ITV 3
+http://195.181.175.69:5080/23/index.m3u8
+#EXTINF:-1, ITV 4
+http://195.181.175.69:5080/24/index.m3u8
+#EXTINF:-1, BBC 2
+http://195.181.175.69:5080/312/index.m3u8
+#EXTINF:-1, BBC 3
+http://195.181.175.69:5080/349/index.m3u8
+#EXTINF:-1 tvg-id="sony1000009252" tvg-logo="https://sonypicturesnetworks.com/images/logos/SBBCE_LOGO_NEW_PNG.png" group-title="Sony",Sony BBC Earth HD
+https://dai.google.com/linear/hls/event/V73ovbgASP-xGvQQOukwTQ/master.m3u8
+#EXTINF:-1 tvg-id="sony1000009280" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_SD_Logo_CLR.png" group-title="Sony",Sony TEN 1
+https://dai.google.com/linear/hls/event/4_pnLi2QTe6bRGvvahRbfg/master.m3u8
+#EXTINF:-1 tvg-id="sony1000009279" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_SD_Logo_CLR.png" group-title="Sony",Sony TEN 2
+https://dai.google.com/linear/hls/event/nspQRqO5RmC06VmlPrTwkQ/master.m3u8
+#EXTINF:-1 tvg-id="sony1000009283" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_SD_Logo_CLR.png" group-title="Sony",Sony TEN 3
+https://dai.google.com/linear/hls/event/9kocjiLUSf-erlSrv3d4Mw/master.m3u8
+#EXTINF:-1 tvg-id="sony1000119187" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen4_SD_Logo_CLR.png" group-title="Sony",Sony TEN 4
+https://dai.google.com/linear/hls/event/hInaEKUJSziZAGv9boOdjg/master.m3u8
+#EXTINF:-1 tvg-id="sony1000009281" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen5_SD_Logo_CLR.png" group-title="Sony",Sony TEN 5
+https://dai.google.com/linear/hls/event/S-q8I27RRzmkb-OIdoaiAw/master.m3u8
+#EXTINF:-1 tvg-id="sony1000009276" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" group-title="Sony",Sony TEN 1 HD
+https://dai.google.com/linear/hls/event/yeYP86THQ4yl7US8Zx5eug/master.m3u8
+#EXTINF:-1 tvg-id="sony1000009277" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png" group-title="Sony",Sony  TEN 2 HD
+https://dai.google.com/linear/hls/event/Syu8F41-R1y_JmQ7x0oNxQ/master.m3u8
+#EXTINF:-1 tvg-id="sony1000009278" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_HD_Logo_CLR.png" group-title="Sony",Sony TEN 3 HD
+https://dai.google.com/linear/hls/event/nmQFuHURTYGQBNdUG-2Qdw/master.m3u8
+#EXTINF:-1 tvg-id="sony1000119186" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen4_HD_Logo_CLR.png" group-title="Sony",Sony TEN 4 HD
+https://dai.google.com/linear/hls/event/x4LxWUcVSIiDaq1VCM7DSA/master.m3u8
+#EXTINF:-1 tvg-id="sony1000009275" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="Sony",Sony TEN 5 HD
+https://dai.google.com/linear/hls/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8
+#EXTINF:-1, Arena Sport 1
+https://kusnadipepenk.github.io/ntn/arns1.m3u8
+#EXTINF:-1, Arena Sport 2
+https://kusnadipepenk.github.io/ntn/arns2.m3u8
+#EXTINF:-1, Arena Sport 3
+https://kusnadipepenk.github.io/ntn/arns3.m3u8
+#EXTINF:-1, Arena Sport 4
+https://kusnadipepenk.github.io/ntn/arns4.m3u8
+
