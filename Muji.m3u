@@ -45,24 +45,6 @@ https://raw.githubusercontent.com/mimipipi22/lalajo/main/hgtv.m3u8
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/animalplanet.m3u8
 #EXTINF:-1,Animal Planet
 https://dplus.gammacdn.workers.dev/videos/99.m3u8
-#EXTINF:-1,BBC 1
-http://195.181.175.69:5080/311/mpegts
-#EXTINF:-1,BBC 3
-http://195.181.175.69:5080/349/mpegts
-#EXTINF:-1,BBC 4
-http://195.181.175.69:5080/21/mpegts
-#EXTINF:-1,ITV 1
-http://195.181.175.69:5080/1198/mpegts
-#EXTINF:-1,ITV 2
-http://195.181.175.69:5080/22/mpegts
-#EXTINF:-1,ITV 3
-http://195.181.175.69:5080/23/mpegts
-#EXTINF:-1,ITV 4
-http://195.181.175.69:5080/24/mpegts
-#EXTINF:-1,Channel 4
-http://195.181.175.69:5080/547/mpegts
-#EXTINF:-1,Channel 5
-http://195.181.175.69:5080/19/mpegts
 #EXTINF:-1,Bein Sports Xtra Australia
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01334-beinsportsllc-beinxtra-samsungau/playlist.m3u8
 #EXTINF:-1,Bein Sports Xtra UK
@@ -85,18 +67,6 @@ http://143.244.60.97/HGTV/index.m3u8
 http://170.254.18.106/PARAMOUNT/index.m3u8
 #EXTINF:-1, 9Now Australia
 https://9now-livestreams.akamaized.net/hls/live/2008322/ch9-mel/master.m3u8
-#EXTINF:-1, ITV 1
-http://195.181.175.69:5080/1198/index.m3u8
-#EXTINF:-1, ITV 2
-http://195.181.175.69:5080/22/index.m3u8
-#EXTINF:-1, ITV 3
-http://195.181.175.69:5080/23/index.m3u8
-#EXTINF:-1, ITV 4
-http://195.181.175.69:5080/24/index.m3u8
-#EXTINF:-1, BBC 2
-http://195.181.175.69:5080/312/index.m3u8
-#EXTINF:-1, BBC 3
-http://195.181.175.69:5080/349/index.m3u8
 #EXTINF:-1 tvg-id="sony1000009252" tvg-logo="https://sonypicturesnetworks.com/images/logos/SBBCE_LOGO_NEW_PNG.png" group-title="Sony",Sony BBC Earth HD
 https://dai.google.com/linear/hls/event/V73ovbgASP-xGvQQOukwTQ/master.m3u8
 #EXTINF:-1 tvg-id="sony1000009280" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_SD_Logo_CLR.png" group-title="Sony",Sony TEN 1
@@ -119,12 +89,55 @@ https://dai.google.com/linear/hls/event/nmQFuHURTYGQBNdUG-2Qdw/master.m3u8
 https://dai.google.com/linear/hls/event/x4LxWUcVSIiDaq1VCM7DSA/master.m3u8
 #EXTINF:-1 tvg-id="sony1000009275" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="Sony",Sony TEN 5 HD
 https://dai.google.com/linear/hls/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8
-#EXTINF:-1, Arena Sport 1
+#EXTINF:-1, Arena Sport 1 m3u
 https://kusnadipepenk.github.io/ntn/arns1.m3u8
-#EXTINF:-1, Arena Sport 2
+#EXTINF:-1, Arena Sport 2 m3u
 https://kusnadipepenk.github.io/ntn/arns2.m3u8
-#EXTINF:-1, Arena Sport 3
+#EXTINF:-1, Arena Sport 3 m3u
 https://kusnadipepenk.github.io/ntn/arns3.m3u8
-#EXTINF:-1, Arena Sport 4
+#EXTINF:-1, Arena Sport 4 m3u
 https://kusnadipepenk.github.io/ntn/arns4.m3u8
+#EXTINF:-1, Arena Premium 1
+https://webtvstream.bhtelecom.ba/hls6/as_premium1.mpd
+#EXTINF:-1, Arena Premium 2
+https://webtvstream.bhtelecom.ba/hls6/as_premium2.mpd
+#EXTINF:-1, Arena Premium 3
+https://webtvstream.bhtelecom.ba/hls6/as_premium3.mpd
+#EXTINF:-1, Arena 1
+https://webtvstream.bhtelecom.ba/hls6/arena1.mpd
+#EXTINF:-1, Arena 1X2
+https://webtvstream.bhtelecom.ba/hls6/arena_1x2.mpd
+#EXTINF:-1, Arena 2
+https://webtvstream.bhtelecom.ba/hls6/arena2.mpd
+#EXTINF:-1, Arena 3
+https://webtvstream.bhtelecom.ba/hls6/arena3.mpd
+#EXTINF:-1, Arena 4
+https://webtvstream.bhtelecom.ba/hls6/arena4.mpd
+#EXTINF:-1, Arena 5
+https://webtvstream.bhtelecom.ba/hls6/arena5.mpd
+#EXTINF:-1, Arena 6
+https://webtvstream.bhtelecom.ba/hls6/arena6.mpd
+#EXTINF:-1, Arena Premier League
+https://webtvstream.bhtelecom.ba/hls6/premier_league.mpd
+#EXTINF:-1, TNT 1
+https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
+#EXTINF:-1, TNT 2
+https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
+#EXTINF:-1, TNT 3
+https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
+#EXTINF:-1, TNT 4
+https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
+#EXTINF:-1, TNT 5
+https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/gesdwrdncn/out/v1/79e752f1eccd4e18b6a8904a0bc01f2d/cenc.mpd
+#EXTINF:-1, Peacock Tv Premier League
+https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
+
+
+
+
+
+
+
+
+
 
