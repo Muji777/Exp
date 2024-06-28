@@ -101,6 +101,22 @@ https://kusnadipepenk.github.io/ntn/arns4.m3u8
 https://stream.freetv.fun/ch-ng-astro-cricket-1.ctv
 #EXTINF:-1, Willow Tv
 https://stream.freetv.fun/willow-cricket-2.ctv
+#EXTINF:-1, Discovery Asia
+https://cdn08jtedge.indihometv.com/dassdvr/194/discoveryasia/manifest.mpd
+#EXTINF:-1, 80's Music
+https://iheart-iheart80s-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1, 90's Music
+https://iheart-iheart90s-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1, 70's Music
+https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1, 80's Music
+https://lightning-now80s-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1, BBC Earth
+http://bsex.serv00.net/Smart.php?id=bbcearth_twn
+#EXTINF:-1, Discovery Asia
+https://cdn1.skygo.mn/live/disk1/Discovery_Asia/HLS-FTA/Discovery_Asia.m3u8
+
+
 
 
 
