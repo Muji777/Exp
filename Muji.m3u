@@ -9,12 +9,6 @@ https://varun-iptv.netlify.app/m3u/TRVL_Channel.m3u8
 https://varun-iptv.netlify.app/m3u/HGTV.m3u8
 #EXTINF:-1,Animal Planet India
 https://varun-iptv.netlify.app/m3u/Animal_Planet.m3u8
-#EXTINF:-1,Fox Sports 1
-http://41.205.93.154/FOXSPORTS1/index.m3u8
-#EXTINF:-1,Fox Sports 2
-http://41.205.93.154/FOXSPORTS2/index.m3u8
-#EXTINF:-1,NBC
-http://41.205.93.154/NBC/index.m3u8
 #EXTINF:-1,Animal Planet Asia
 https://kusnadipepenk.github.io/ntn/animal.m3u8
 #EXTINF:-1,BBC Garden
@@ -41,13 +35,7 @@ https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 https://i.mjh.nz/SamsungTVPlus/US4000033L.m3u8
 #EXTINF:-1,Travel XP EU
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1, HGTV USA
-http://170.254.18.106/HGTV/index.m3u8
-#EXTINF:-1, HGTV USA
-http://143.244.60.97/HGTV/index.m3u8
-#EXTINF:-1, Paramount
-http://170.254.18.106/PARAMOUNT/index.m3u8
-#EXTINF:-1, 9Now Australia
+#EXTINF:-1,9Now Australia
 https://9now-livestreams.akamaized.net/hls/live/2008322/ch9-mel/master.m3u8
 #EXTINF:-1 tvg-id="sony1000009252" tvg-logo="https://sonypicturesnetworks.com/images/logos/SBBCE_LOGO_NEW_PNG.png" group-title="Sony",Sony BBC Earth HD
 https://dai.google.com/linear/hls/event/V73ovbgASP-xGvQQOukwTQ/master.m3u8
@@ -71,13 +59,13 @@ https://dai.google.com/linear/hls/event/nmQFuHURTYGQBNdUG-2Qdw/master.m3u8
 https://dai.google.com/linear/hls/event/x4LxWUcVSIiDaq1VCM7DSA/master.m3u8
 #EXTINF:-1 tvg-id="sony1000009275" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="Sony",Sony TEN 5 HD
 https://dai.google.com/linear/hls/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8
-#EXTINF:-1, Discovery Asia
+#EXTINF:-1,Discovery Asia
 https://cdn08jtedge.indihometv.com/dassdvr/194/discoveryasia/manifest.mpd
-#EXTINF:-1, 70's Music
+#EXTINF:-1,70's Music
 https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
-#EXTINF:-1, 80's Music
+#EXTINF:-1,80's Music
 https://lightning-now80s-samsunguk.amagi.tv/playlist.m3u8
-#EXTINF:-1, Discovery Asia
+#EXTINF:-1,Discovery Asia
 https://cdn1.skygo.mn/live/disk1/Discovery_Asia/HLS-FTA/Discovery_Asia.m3u8
 #EXTINF:-1,Sky Sport 1
 https://donelfantastic.github.io/live/skysportsNz1.m3u8
@@ -97,7 +85,16 @@ https://donelfantastic.github.io/live/skysportsNz7.m3u8
 https://donelfantastic.github.io/live/skysportsNz8.m3u8
 #EXTINF:-1,Sky Sport 9
 https://donelfantastic.github.io/live/skysportsNz9.m3u8
-
+#EXTINF:-1,TNT Sports 1
+https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
+#EXTINF:-1,TNT Sports 2
+https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
+#EXTINF:-1,TNT Sports 3
+https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
+#EXTINF:-1,TNT Sports 4
+https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
+#EXTINF:-1,TNT Sports 5
+https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/gesdwrdncn/out/v1/79e752f1eccd4e18b6a8904a0bc01f2d/cenc.mpd
 
 
 
