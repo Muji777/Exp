@@ -18,8 +18,6 @@ https://d386m2lmbakvx4.cloudfront.net/playlist.m3u8
 #EXTINF:-1,HGTV Asia
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/hgtv.m3u8
 #EXTINF:-1,Animal Planet
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/animalplanet.m3u8
-#EXTINF:-1,Animal Planet
 https://dplus.gammacdn.workers.dev/videos/99.m3u8
 #EXTINF:-1,Bein Sports Xtra Australia
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01334-beinsportsllc-beinxtra-samsungau/playlist.m3u8
@@ -31,8 +29,6 @@ https://dplus.gammacdn.workers.dev/videos/110.m3u8
 https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1,CNN
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1,BBC News
-https://i.mjh.nz/SamsungTVPlus/US4000033L.m3u8
 #EXTINF:-1,Travel XP EU
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1,9Now Australia
