@@ -11,10 +11,6 @@ https://varun-iptv.netlify.app/m3u/HGTV.m3u8
 https://varun-iptv.netlify.app/m3u/Animal_Planet.m3u8
 #EXTINF:-1,Animal Planet Asia
 https://kusnadipepenk.github.io/ntn/animal.m3u8
-#EXTINF:-1,BBC Garden
-https://d1wxiaxdr51kqy.cloudfront.net/playlist.m3u8
-#EXTINF:-1,BBC Food
-https://d386m2lmbakvx4.cloudfront.net/playlist.m3u8
 #EXTINF:-1,HGTV Asia
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/hgtv.m3u8
 #EXTINF:-1,Animal Planet
@@ -63,30 +59,14 @@ https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
 https://lightning-now80s-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1,Discovery Asia
 https://cdn1.skygo.mn/live/disk1/Discovery_Asia/HLS-FTA/Discovery_Asia.m3u8
-#EXTINF:-1,Sky Sport 1
-https://donelfantastic.github.io/live/skysportsNz1.m3u8
-#EXTINF:-1,Sky Sport 2
-https://donelfantastic.github.io/live/skysportsNz2.m3u8
-#EXTINF:-1,Sky Sport 3
-https://donelfantastic.github.io/live/skysportsNz3.m3u8
-#EXTINF:-1,Sky Sport 4
-https://donelfantastic.github.io/live/skysportsNz4.m3u8
-#EXTINF:-1,Sky Sport 5
-https://donelfantastic.github.io/live/skysportsNz5.m3u8
-#EXTINF:-1,Sky Sport 6
-https://donelfantastic.github.io/live/skysportsNz6.m3u8
-#EXTINF:-1,Sky Sport 7
-https://donelfantastic.github.io/live/skysportsNz7.m3u8
-#EXTINF:-1,Sky Sport 8
-https://donelfantastic.github.io/live/skysportsNz8.m3u8
-#EXTINF:-1,Sky Sport 9
-https://donelfantastic.github.io/live/skysportsNz9.m3u8
 #EXTINF:-1,Sky Sports Football
 https://kusnadipepenk.github.io/ntn/skyfut.m3u8
 #EXTINF:-1,Sky Sports Premier League
 https://kusnadipepenk.github.io/ntn/skyprem.m3u8
-
-
+EXTINF:-1,Fox News
+http://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
+EXTINF:-1,NBC News
+https://lnc-nbc-news-now.tubi.video/master.m3u8
 
 
 
