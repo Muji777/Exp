@@ -1206,3 +1206,10 @@ https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_crime_invest.mpd
 #KODIPROP:inputstream.adaptive.license_key=5675d85ce6754ba6aa8f6acc4660f76f:140bfb365cf143c349f68699238a610c
 https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tech_storm.mpd
 
+#EXTINF:-1 group-title="SPORTS" tvg-id="TNTSports1.uk" tvg-logo="https://i.ibb.co/kqXTRqF/tntsp1.png",TNT SPORTS 1 🇬🇧
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d
+https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
+
