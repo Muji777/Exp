@@ -1,0 +1,54 @@
+#EXTINF:-1,TLC
+https://varun-iptv.netlify.app/m3u/TLC.m3u8
+#EXTINF:-1,Discovery
+https://varun-iptv.netlify.app/m3u/discoveryenglish.m3u8
+#EXTINF:-1,Travel
+https://varun-iptv.netlify.app/m3u/TRVL_Channel.m3u8
+#EXTINF:-1,HGTV India
+https://varun-iptv.netlify.app/m3u/HGTV.m3u8
+#EXTINF:-1,Animal Planet India
+https://varun-iptv.netlify.app/m3u/Animal_Planet.m3u8
+#EXTINF:-1,Animal Planet Asia
+https://kusnadipepenk.github.io/ntn/animal.m3u8
+#EXTINF:-1,Animal Planet
+https://dplus.gammacdn.workers.dev/videos/99.m3u8
+#EXTINF:-1,Bein Sports Xtra Australia
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01334-beinsportsllc-beinxtra-samsungau/playlist.m3u8
+#EXTINF:-1,Bein Sports Xtra UK
+https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
+#EXTINF:-1,Travel Channel UK
+https://dplus.gammacdn.workers.dev/videos/110.m3u8
+#EXTINF:-1,Tennis Channel
+https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1,CNN
+https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1,Travel XP EU
+https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1,Discovery Asia
+https://cdn1.skygo.mn/live/disk1/Discovery_Asia/HLS-FTA/Discovery_Asia.m3u8
+#EXTINF:-1,Sky Sports Premier League
+https://kusnadipepenk.github.io/ntn/skyprem.m3u8
+#EXTINF:-1,CBS News
+https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+#EXTINF:-1,BBC News
+https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
+#EXTINF:-1,MBC 4
+https://mbc4-prod-dub-ak.akamaized.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8
+#EXTINF:-1,MBC Bollywood
+https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
+#EXTINF:-1,Dubai One
+https://dminnvllta.cdn.mgmlcdn.com/dubaione/smil:dubaione.stream.smil/chunklist.m3u8
+#EXTINF:-1 ,Wild Earth
+https://wildearth-plex.amagi.tv/master.m3u8
+#EXTINF:-1 ,Xplore
+http://xlpore-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,Discovery Science
+http://bisdaktv.store/live/Discovery_Science.m3u8
+#EXTINF:-1 ,Discovery Turbo
+http://bisdaktv.store/live/Discovery_Turbo.m3u8
+#EXTINF:-1 ,Investigation Discovery
+http://bisdaktv.store/live/Investigation_Discovery.m3u8
+
+
+
+
