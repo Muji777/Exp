@@ -10,24 +10,100 @@ https://varun-iptv.netlify.app/m3u/HGTV.m3u8
 https://varun-iptv.netlify.app/m3u/Animal_Planet.m3u8
 #EXTINF:-1,Animal Planet Asia
 https://kusnadipepenk.github.io/ntn/animal.m3u8
-#EXTINF:-1,Animal Planet
-https://dplus.gammacdn.workers.dev/videos/99.m3u8
-#EXTINF:-1,Bein Sports Xtra Australia
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01334-beinsportsllc-beinxtra-samsungau/playlist.m3u8
-#EXTINF:-1,Bein Sports Xtra UK
-https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
 #EXTINF:-1,Travel Channel UK
 https://dplus.gammacdn.workers.dev/videos/110.m3u8
-#EXTINF:-1,Tennis Channel
-https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
-#EXTINF:-1,CNN
-https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1,Travel XP EU
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1,Discovery Asia
 https://cdn1.skygo.mn/live/disk1/Discovery_Asia/HLS-FTA/Discovery_Asia.m3u8
+#EXTINF:-1,Wild Earth
+https://wildearth-plex.amagi.tv/master.m3u8
+#EXTINF:-1,Xplore
+http://xlpore-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1,Discovery Science
+http://bisdaktv.store/live/Discovery_Science.m3u8
+#EXTINF:-1,Discovery Turbo
+http://bisdaktv.store/live/Discovery_Turbo.m3u8
+#EXTINF:-1,Investigation Discovery
+http://bisdaktv.store/live/Investigation_Discovery.m3u8
+#EXTINF:-1,Natgeo Wild
+https://kusnadipepenk.github.io/ntn/wild.m3u8
 #EXTINF:-1,Sky Sports Premier League
 https://kusnadipepenk.github.io/ntn/skyprem.m3u8
+#EXTINF:-1,Sky Sports Arena
+https://kusnadipepenk.github.io/ntn/skyare.m3u8
+#EXTINF:-1,Sky Sports F1
+https://kusnadipepenk.github.io/ntn/skygp.m3u8
+#EXTINF:-1,Sky Sports Main Event
+https://kusnadipepenk.github.io/ntn/skyfut.m3u8
+#EXTINF:-1,Eurosport
+https://kusnadipepenk.github.io/ntn/eurospo.m3u8
+#EXTINF:-1,Bein Sports Xtra, Australia
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01334-beinsportsllc-beinxtra-samsungau/playlist.m3u8
+#EXTINF:-1,Bein Sports Xtra UK
+https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
+#EXTINF:-1,Tennis Channel
+https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/USA-Network-Logo.svg/2560px-USA-Network-Logo.svg.png", USA Network (a)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=252a671825ba31ec8433f978c32ccf6d:ee560759ecc8d2274df2e63fcef56915
+https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd
+#EXTINF:-1,Zee Cinema
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd1/default/zeecinemahd1.m3u8
+#EXTINF:-1, Zee Tv
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetvhd1/default/zeetvhd1.m3u8
+#EXTINF:-1,Zee Action
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeaction1/default/zeeaction1.m3u8
+#EXTINF:-1,Zee Bollywood
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebollywood1/default/zeebollywood1.m3u8
+#EXTINF:-1,Andtv
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andtvhd1/default/andtvhd.m3u8
+#EXTINF:-1,Zee One
+https://ef56ef401101403a8b06f1dec29ef1eb.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-de_ZeeOne/playlist.m3u8
+#EXTINF:-1,Bollywood Classic
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
+#EXTINF:-1,Zee Tv
+http://103.110.110.11:8081/live/zeetv/playlist.m3u8
+#EXTINF:-1,HBO
+http://212.102.60.231/HBO/index.m3u8
+#EXTINF:-1,HBO Family
+http://212.102.60.231/HBO_FAMILY/index.m3u8
+#EXTINF:-1,HBO Extreme
+http://209.45.101.35:50000/play/HBOXTREMEHD/index.m3u8
+#EXTINF:-1,HBO 2
+http://209.45.101.35:50000/play/HBO2HD/index.m3u8
+#EXTINF:-1,HBO Plus
+http://209.45.101.35:50000/play/HBOPlus/index.m3u8
+#EXTINF:-1,HBO Signature
+http://209.45.101.35:50000/play/HBOSignature/index.m3u8
+#EXTINF:-1,Lifetime
+http://212.102.60.231/LIFETIME/index.m3u8
+#EXTINF:-1,HBO
+http://103.110.110.11:8081/live/hbo/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1,CNN
+https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1,CBS News
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 #EXTINF:-1,BBC News
@@ -38,16 +114,7 @@ https://mbc4-prod-dub-ak.akamaized.net/out/v1/c08681f81775496ab4afa2bac7ae7638/i
 https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
 #EXTINF:-1,Dubai One
 https://dminnvllta.cdn.mgmlcdn.com/dubaione/smil:dubaione.stream.smil/chunklist.m3u8
-#EXTINF:-1 ,Wild Earth
-https://wildearth-plex.amagi.tv/master.m3u8
-#EXTINF:-1 ,Xplore
-http://xlpore-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1 ,Discovery Science
-http://bisdaktv.store/live/Discovery_Science.m3u8
-#EXTINF:-1 ,Discovery Turbo
-http://bisdaktv.store/live/Discovery_Turbo.m3u8
-#EXTINF:-1 ,Investigation Discovery
-http://bisdaktv.store/live/Investigation_Discovery.m3u8
+
 
 
 
