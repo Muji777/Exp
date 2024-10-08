@@ -4,7 +4,7 @@ https://varun-iptv.netlify.app/m3u/TLC.m3u8
 https://varun-iptv.netlify.app/m3u/discoveryenglish.m3u8
 #EXTINF:-1,Travel
 https://varun-iptv.netlify.app/m3u/TRVL_Channel.m3u8
-#EXTINF:-1,HGTV India
+#EXTINF:-1,HGTV
 https://varun-iptv.netlify.app/m3u/HGTV.m3u8
 #EXTINF:-1,Animal Planet India
 https://varun-iptv.netlify.app/m3u/Animal_Planet.m3u8
