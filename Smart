@@ -82,12 +82,16 @@ http://209.45.101.35:50000/play/HBOSignature/index.m3u8
 http://212.102.60.231/LIFETIME/index.m3u8
 #EXTINF:-1,HBO
 http://103.110.110.11:8081/live/hbo/playlist.m3u8
+#EXTINF:-1,Al Jazeera
+https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/aljazeeraLive/AJE/index.m3u8
+#EXTINF:-1,RT News
+https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 #EXTINF:-1,CNN
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1,CBS News
-https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 #EXTINF:-1,BBC News
 https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
+#EXTINF:-1,CBS News
+https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8                                                                                                      
 #EXTINF:-1,Dubai One
 https://dminnvllta.cdn.mgmlcdn.com/dubaione/smil:dubaione.stream.smil/chunklist.m3u8
 
