@@ -1,4 +1,4 @@
-#EXTINF:-1,TLC
+u#EXTINF:-1,TLC
 https://varun-iptv.netlify.app/m3u/TLC.m3u8
 #EXTINF:-1,Discovery
 https://varun-iptv.netlify.app/m3u/discoveryenglish.m3u8
@@ -56,12 +56,6 @@ https://cdn09jtedge.indihometv.com/joss/133/beib2/index.m3u8
 https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
 #EXTINF:-1,Tennis Channel
 https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/USA-Network-Logo.svg/2560px-USA-Network-Logo.svg.png", USA Network (a)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=252a671825ba31ec8433f978c32ccf6d:ee560759ecc8d2274df2e63fcef56915
-https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd
 #EXTINF:-1,Zee Cinema
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd1/default/zeecinemahd1.m3u8
 #EXTINF:-1,Zee Tv
@@ -80,24 +74,6 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
 #EXTINF:-1,Cinema World
 https://cdn09jtedge.indihometv.com/joss/134/cinemaworld/index.m3u8
-#EXTINF:-1,Zee Tv
-http://103.110.110.11:8081/live/zeetv/playlist.m3u8
-#EXTINF:-1,HBO
-http://212.102.60.231/HBO/index.m3u8
-#EXTINF:-1,HBO Family
-http://212.102.60.231/HBO_FAMILY/index.m3u8
-#EXTINF:-1,HBO Extreme
-http://209.45.101.35:50000/play/HBOXTREMEHD/index.m3u8
-#EXTINF:-1,HBO 2
-http://209.45.101.35:50000/play/HBO2HD/index.m3u8
-#EXTINF:-1,HBO Plus
-http://209.45.101.35:50000/play/HBOPlus/index.m3u8
-#EXTINF:-1,HBO Signature
-http://209.45.101.35:50000/play/HBOSignature/index.m3u8
-#EXTINF:-1,Lifetime
-http://212.102.60.231/LIFETIME/index.m3u8
-#EXTINF:-1,HBO
-http://103.110.110.11:8081/live/hbo/playlist.m3u8
 #EXTINF:-1,Al Jazeera
 https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/aljazeeraLive/AJE/index.m3u8
 #EXTINF:-1,RT News
