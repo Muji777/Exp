@@ -1,4 +1,4 @@
-u#EXTINF:-1,TLC
+#EXTINF:-1,TLC
 https://varun-iptv.netlify.app/m3u/TLC.m3u8
 #EXTINF:-1,Discovery
 https://varun-iptv.netlify.app/m3u/discoveryenglish.m3u8
