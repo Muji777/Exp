@@ -6,15 +6,7 @@ https://varun-iptv.netlify.app/m3u/discoveryenglish.m3u8
 https://varun-iptv.netlify.app/m3u/TRVL_Channel.m3u8
 #EXTINF:-1,HGTV
 https://varun-iptv.netlify.app/m3u/HGTV.m3u8
-#EXTINF:-1,National Geographic
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs10
-#EXTINF:-1,Discovery Japan
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs08
-#EXTINF:-1,Animal Planet Japan
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs24
-#EXTINF:-1,History
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs09
-#EXTINF:-1,Animal Planet India
+#EXTINF:-1,Animal Planet
 https://varun-iptv.netlify.app/m3u/Animal_Planet.m3u8
 #EXTINF:-1,Travel Channel
 https://dplus.gammacdn.workers.dev/videos/110.m3u8
