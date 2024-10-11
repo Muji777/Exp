@@ -40,14 +40,32 @@ https://cdn09jtedge.indihometv.com/joss/194/animalplanet/index.m3u8
 https://cdn09jtedge.indihometv.com/joss/194/discoveryasia/index.m3u8
 #EXTINF:-1,Sky Sports Premier League
 https://kusnadipepenk.github.io/ntn/skyprem.m3u8
+#EXTINF:-1,Sky Sports Football
+http://vo01.mohdtv.com:8880/live/voby5236/59159316/2870.ts
+#EXTINF:-1,Sky Sports Action
+http://vo01.mohdtv.com:8880/live/voby5236/59159316/2880.ts
+#EXTINF:-1,Sky Sports Cricket
+http://vo01.mohdtv.com:8880/live/voby5236/59159316/2879.ts
+#EXTINF:-1,Sky Sports Mix
+http://vo01.mohdtv.com:8880/live/voby5236/59159316/2882.ts
 #EXTINF:-1,Sky Sports Arena
 https://kusnadipepenk.github.io/ntn/skyare.m3u8
 #EXTINF:-1,Sky Sports F1
 https://kusnadipepenk.github.io/ntn/skygp.m3u8
 #EXTINF:-1,Sky Sports Main Event
 https://kusnadipepenk.github.io/ntn/skyfut.m3u8
-#EXTINF:-1,Eurosport
+#EXTINF:-1,Eurosport 1
 https://kusnadipepenk.github.io/ntn/eurospo.m3u8
+#EXTINF:-1,Eurosport 2
+http://vo01.mohdtv.com:8880/live/voby5236/59159316/2916.ts
+#EXTINF:-1,TNT Sport 1
+http://vo01.mohdtv.com:8880/live/voby5236/59159316/2943.ts
+#EXTINF:-1,TNT Sport 2
+http://vo01.mohdtv.com:8880/live/voby5236/59159316/2942.ts
+#EXTINF:-1,TNT Sport 3
+http://vo01.mohdtv.com:8880/live/voby5236/59159316/2941.ts
+#EXTINF:-1,TNT Sport 4
+http://vo01.mohdtv.com:8880/live/voby5236/59159316/2940.ts
 #EXTINF:-1,Sport Tv 1
 https://cdn09jtedge.indihometv.com/joss/133/beib1/index.m3u8
 #EXTINF:-1,Sport Tv 2
@@ -60,14 +78,8 @@ https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd1/default/zeecinemahd1.m3u8
 #EXTINF:-1,Zee Tv
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetvhd1/default/zeetvhd1.m3u8
-#EXTINF:-1,Zee Action
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeaction1/default/zeeaction1.m3u8
-#EXTINF:-1,Zee Bollywood
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebollywood1/default/zeebollywood1.m3u8
 #EXTINF:-1,Andtv
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andtvhd1/default/andtvhd.m3u8
-#EXTINF:-1,Zee One
-https://ef56ef401101403a8b06f1dec29ef1eb.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-de_ZeeOne/playlist.m3u8
 #EXTINF:-1,Bollywood Classic
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8       #EXTINF:-1,MBC Bollywood
 #EXTINF:-1,MBC Bollywood
