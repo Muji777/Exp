@@ -25,8 +25,22 @@ https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1,Travel XP EU
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1,9Now Australia
-https://9now-livestreams.akamaized.net/hls/live/2008322/ch9-mel/master.m3u8
+#EXTINF:-1,Spo Tv 1
+https://cdn09jtedge.indihometv.com/joss/133/beib1/index.m3u8
+#EXTINF:-1,Spo Tv 2
+https://cdn09jtedge.indihometv.com/joss/133/beib2/index.m3u8
+#EXTINF:-1,Animal Planet Asia
+https://cdn09jtedge.indihometv.com/joss/194/animalplanet/index.m3u8
+#EXTINF:-1,Discovery Asia
+https://cdn09jtedge.indihometv.com/joss/194/discoveryasia/index.m3u8
+#EXTINF:-1,Sony Ten 1
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:61:45:08&stream=156017&extension=ts
+#EXTINF:-1,T Sports
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:61:45:08&stream=156016&extension=ts
+#EXTINF:-1, Star Sport Select 1
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:61:45:08&stream=155972&extension=ts
+#EXTINF:-1, Star Sport Select 2
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:61:45:08&stream=155973&extension=ts
 #EXTINF:-1 tvg-id="sony1000009252" tvg-logo="https://sonypicturesnetworks.com/images/logos/SBBCE_LOGO_NEW_PNG.png" group-title="Sony",Sony BBC Earth HD
 https://dai.google.com/linear/hls/event/V73ovbgASP-xGvQQOukwTQ/master.m3u8
 #EXTINF:-1 tvg-id="sony1000009280" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_SD_Logo_CLR.png" group-title="Sony",Sony TEN 1
