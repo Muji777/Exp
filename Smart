@@ -58,6 +58,14 @@ http://vo01.mohdtv.com:8880/live/voby5236/59159316/2942.ts
 http://vo01.mohdtv.com:8880/live/voby5236/59159316/2941.ts
 #EXTINF:-1,TNT Sport 4
 http://vo01.mohdtv.com:8880/live/voby5236/59159316/2940.ts
+#EXTINF:-1,Sony Ten 1
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:61:45:08&stream=156017&extension=ts
+#EXTINF:-1,T Sports
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:61:45:08&stream=156016&extension=ts
+#EXTINF:-1,Star Sport Select 1
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:61:45:08&stream=155972&extension=ts
+#EXTINF:-1,Star Sport Select 2
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:61:45:08&stream=155973&extension=ts
 #EXTINF:-1,Sport Tv 1
 https://cdn09jtedge.indihometv.com/joss/133/beib1/index.m3u8
 #EXTINF:-1,Sport Tv 2
@@ -66,9 +74,13 @@ https://cdn09jtedge.indihometv.com/joss/133/beib2/index.m3u8
 https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
 #EXTINF:-1,Tennis Channel
 https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1,Zee TV
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:61:45:08&stream=155974&extension=ts
+#EXTINF:-1,B4U Movies
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:61:45:08&stream=42443&extension=ts
 #EXTINF:-1,Zee Cinema
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd1/default/zeecinemahd1.m3u8
-#EXTINF:-1,Zee Tv
+#EXTINF:-1,Zee TV
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetvhd1/default/zeetvhd1.m3u8
 #EXTINF:-1,Andtv
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andtvhd1/default/andtvhd.m3u8
