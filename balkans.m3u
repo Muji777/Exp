@@ -1,0 +1,1171 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="HRTTV1.hr" group-title="HR",Hrt 1
+http://crnaudovica.xyz:8000/Hrt%201?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="HRTTV2.hr" group-title="HR",Hrt 2
+http://crnaudovica.xyz:8000/Hrt%202?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="HRT3.hr" group-title="HR",Hrt 3
+http://crnaudovica.xyz:8000/Hrt%203?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="HRT4.hr" group-title="HR",Hrt 4
+http://crnaudovica.xyz:8000/Hrt%204?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="Hrt 5" group-title="HR",Hrt 5
+http://crnaudovica.xyz:8000/Hrt%205?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="RTL.hr" group-title="HR",Rtl
+http://crnaudovica.xyz:8000/Rtl?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="rtl2.hr" group-title="HR",Rtl 2
+http://crnaudovica.xyz:8000/Rtl%202?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="RTLCrime.hr" group-title="HR",Rtl Crime
+http://crnaudovica.xyz:8000/Rtl%20Crime?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="RTLLiving.hr" group-title="HR",Rtl Living
+http://crnaudovica.xyz:8000/Rtl%20Living?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="RTLPassion.hr" group-title="HR",Rtl Passion
+http://crnaudovica.xyz:8000/Rtl%20Passion?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="Rtl Adria" group-title="HR",Rtl Adria
+http://crnaudovica.xyz:8000/Rtl%20Adria?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="NovaTV.hr" group-title="HR",Nova Tv
+http://crnaudovica.xyz:8000/Nova%20Tv?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="DomaTV.hr" group-title="HR",Doma Tv
+http://crnaudovica.xyz:8000/Doma%20Tv?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="Z1.hr" group-title="HR",Z1
+http://crnaudovica.xyz:8000/Z1?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="Vinkovacka" group-title="HR",Vinkovacka
+http://crnaudovica.xyz:8000/Vinkovacka?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="OsjeckaTV.hr" group-title="HR",Osjecka
+http://crnaudovica.xyz:8000/Osjecka?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="JabukaTV.hr" group-title="HR",Jabuka Tv
+http://crnaudovica.xyz:8000/Jabuka%20Tv?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="MrezaZG.hr" group-title="HR",Mreza Tv
+http://crnaudovica.xyz:8000/Mreza%20Tv?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="VarazdinskaTV.hr" group-title="HR",Varazdinska Tv
+http://crnaudovica.xyz:8000/Varazdinska%20Tv?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="Capital Tv" group-title="HR",Capital Tv
+http://crnaudovica.xyz:8000/Capital%20Tv?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="TVIstra.hr" group-title="HR",Tv Istra
+http://crnaudovica.xyz:8000/Tv%20Istra?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="Tv Dubrovnik" group-title="HR",Tv Dubrovnik
+http://crnaudovica.xyz:8000/Tv%20Dubrovnik?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="Prigorska Tv" group-title="HR",Prigorska Tv
+http://crnaudovica.xyz:8000/Prigorska%20Tv?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="LaudatoTV.hr" group-title="HR",Laudato Tv
+http://crnaudovica.xyz:8000/Laudato%20Tv?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="ZdravaTV.hr" group-title="HR",Zdrava Tv
+http://crnaudovica.xyz:8000/Zdrava%20Tv?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="N1Croatia.hr" group-title="HR",N1
+http://crnaudovica.xyz:8000/N1?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="Slo1.svn" group-title="SLO",Slo 1
+http://crnaudovica.xyz:8000/Slo%201?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="Slo2.svn" group-title="SLO",Slo 2
+http://crnaudovica.xyz:8000/Slo%202?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="Slo3.svn" group-title="SLO",Slo 3
+http://crnaudovica.xyz:8000/Slo%203?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="PopTV.svn" group-title="SLO",Pop Tv
+http://crnaudovica.xyz:8000/Pop%20Tv?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="KanalA.svn" group-title="SLO",Kanal A
+http://crnaudovica.xyz:8000/Kanal%20A?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="PlanetTV.svn" group-title="SLO",Planet Tv
+http://crnaudovica.xyz:8000/Planet%20Tv?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="BHTV1.rs" group-title="BiH",BHT
+http://crnaudovica.xyz:8000/BHT?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="OKanal.ba" group-title="BiH",RTV Herceg Bosne
+http://crnaudovica.xyz:8000/RTV%20Herceg%20Bosne?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="FTV.hr" group-title="BiH",FTV
+http://crnaudovica.xyz:8000/FTV?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="RTRS.rs" group-title="BiH",RTRS
+http://crnaudovica.xyz:8000/RTRS?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="ATV.ba" group-title="BiH",ATV BiH
+http://crnaudovica.xyz:8000/ATV%20BiH?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="HayatTV.ba" group-title="BiH",Hayat
+http://crnaudovica.xyz:8000/Hayat?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="hayat-plus.ba" group-title="BiH",Hayat Plus
+http://crnaudovica.xyz:8000/Hayat%20Plus?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="facetv.ba" group-title="BiH",Face Tv
+http://crnaudovica.xyz:8000/Face%20Tv?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="OBN.hr" group-title="BiH",OBN
+http://crnaudovica.xyz:8000/OBN?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="NovaBH.ba" group-title="BiH",Pink BiH
+http://crnaudovica.xyz:8000/Pink%20BiH?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="BN.ba" group-title="BiH",BN Televizija
+http://crnaudovica.xyz:8000/BN%20Televizija?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="AlJazeeraBalkans.hr" group-title="BiH",AL Jeezera Balkan
+http://crnaudovica.xyz:8000/AL%20Jeezera%20Balkan?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="PosavinaTV.hr" group-title="BiH",Posavina Tv
+http://crnaudovica.xyz:8000/Posavina%20Tv?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="K3.ba" group-title="BiH",K3
+http://crnaudovica.xyz:8000/K3?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="RTv USK" group-title="BiH",RTv USK
+http://crnaudovica.xyz:8000/RTv%20USK?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="MTv Igman" group-title="BiH",MTv Igman
+http://crnaudovica.xyz:8000/MTv%20Igman?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="RTv Doboj" group-title="BiH",RTv Doboj
+http://crnaudovica.xyz:8000/RTv%20Doboj?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="TK Tuzla" group-title="BiH",TK Tuzla
+http://crnaudovica.xyz:8000/TK%20Tuzla?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="RTS1.rs" group-title="SR",Rts 1
+http://crnaudovica.xyz:8000/Rts%201?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="RTS2.rs" group-title="SR",Rts 2
+http://crnaudovica.xyz:8000/Rts%202?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="RTS3.rs" group-title="SR",Rts 3
+http://crnaudovica.xyz:8000/Rts%203?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="RTSSAT.rs" group-title="SR",Rts Sat
+http://crnaudovica.xyz:8000/Rts%20Sat?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="O2.rs" group-title="SR",B 92
+http://crnaudovica.xyz:8000/B%2092?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="Prva.rs" group-title="SR",Prva Tv
+http://crnaudovica.xyz:8000/Prva%20Tv?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="PrvaPlus.rs" group-title="SR",Prva Plus
+http://crnaudovica.xyz:8000/Prva%20Plus?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="Nova RS" group-title="SR",Nova RS
+http://crnaudovica.xyz:8000/Nova%20RS?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="Pink1.rs" group-title="SR",Pink 1
+http://crnaudovica.xyz:8000/Pink%201?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="Pink2.rs" group-title="SR",Pink 2
+http://crnaudovica.xyz:8000/Pink%202?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="Pink3.rs" group-title="SR",Pink 3
+http://crnaudovica.xyz:8000/Pink%203?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="PinkPlus.rs" group-title="SR",Pink Plus
+http://crnaudovica.xyz:8000/Pink%20Plus?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="PinkExtra.svn" group-title="SR",Pink Extra
+http://crnaudovica.xyz:8000/Pink%20Extra?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="happytv.sr" group-title="SR",Happy Tv
+http://crnaudovica.xyz:8000/Happy%20Tv?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="RTVMONTENEGROSat.rs" group-title="SR",RTv CG
+http://crnaudovica.xyz:8000/RTv%20CG?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="TopTV.svn" group-title="SR",Top
+http://crnaudovica.xyz:8000/Top?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="Sabac Tv" group-title="SR",Sabac Tv
+http://crnaudovica.xyz:8000/Sabac%20Tv?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="Kladovo Tv" group-title="SR",Kladovo Tv
+http://crnaudovica.xyz:8000/Kladovo%20Tv?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="NoviPazar.rs" group-title="SR",RTv Novi Pazar
+http://crnaudovica.xyz:8000/RTv%20Novi%20Pazar?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="SportskaTV.hr" group-title="SPORT",Sportska Tv
+http://crnaudovica.xyz:8000/Sportska%20Tv?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="SportKlubHD.hr" group-title="SPORT",SportKlub
+http://crnaudovica.xyz:8000/SportKlub?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="SportKlub1.hr" group-title="SPORT",SportKlub 1
+http://crnaudovica.xyz:8000/SportKlub%201?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="SportKlub1.hr" group-title="SPORT",SportKlub 1 HR
+http://crnaudovica.xyz:8000/SportKlub%201%20HR?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="SportKlub2.rs" group-title="SPORT",SportKlub 2
+http://crnaudovica.xyz:8000/SportKlub%202?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="SportKlub3.hr" group-title="SPORT",SportKlub 3
+http://crnaudovica.xyz:8000/SportKlub%203?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="SportKlub4.rs" group-title="SPORT",SportKlub 4
+http://crnaudovica.xyz:8000/SportKlub%204?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="SportKlub5.rs" group-title="SPORT",SportKlub 5
+http://crnaudovica.xyz:8000/SportKlub%205?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="SportKlub6.rs" group-title="SPORT",SportKlub 6
+http://crnaudovica.xyz:8000/SportKlub%206?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="SportKlub 7" group-title="SPORT",SportKlub 7
+http://crnaudovica.xyz:8000/SportKlub%207?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="SportKlub 8" group-title="SPORT",SportKlub 8
+http://crnaudovica.xyz:8000/SportKlub%208?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="SportKlub 9" group-title="SPORT",SportKlub 9
+http://crnaudovica.xyz:8000/SportKlub%209?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="SportKlub 10" group-title="SPORT",SportKlub 10
+http://crnaudovica.xyz:8000/SportKlub%2010?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="Sportklub1.svn" group-title="SPORT",SportKlub 1 SLO
+http://crnaudovica.xyz:8000/SportKlub%201%20SLO?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="Sportklub2.svn" group-title="SPORT",SportKlub 2 SLO
+http://crnaudovica.xyz:8000/SportKlub%202%20SLO?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="Sportklub3.svn" group-title="SPORT",SportKlub 3 SLO
+http://crnaudovica.xyz:8000/SportKlub%203%20SLO?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="Sportklub4.svn" group-title="SPORT",SportKlub 4 SLO
+http://crnaudovica.xyz:8000/SportKlub%204%20SLO?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="SKFight.sr" group-title="SPORT",SK Fight
+http://crnaudovica.xyz:8000/SK%20Fight?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="SportKlubGolf.hr" group-title="SPORT",SK Golf
+http://crnaudovica.xyz:8000/SK%20Golf?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="SKEsports.rs" group-title="SPORT",SK eSports
+http://crnaudovica.xyz:8000/SK%20eSports?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="ArenaSport1.hr" group-title="SPORT",Arena 1 HR
+http://crnaudovica.xyz:8000/Arena%201%20HR?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="ArenaSport2.hr" group-title="SPORT",Arena 2 HR
+http://crnaudovica.xyz:8000/Arena%202%20HR?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="ArenaSport3.hr" group-title="SPORT",Arena 3 HR
+http://crnaudovica.xyz:8000/Arena%203%20HR?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="ArenaSport4.hr" group-title="SPORT",Arena 4 HR
+http://crnaudovica.xyz:8000/Arena%204%20HR?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="ArenaSport5.hr" group-title="SPORT",Arena 5 HR
+http://crnaudovica.xyz:8000/Arena%205%20HR?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="ArenaSport6.hr" group-title="SPORT",Arena 6 HR
+http://crnaudovica.xyz:8000/Arena%206%20HR?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="ArenaSport7.hr" group-title="SPORT",Arena 7 HR
+http://crnaudovica.xyz:8000/Arena%207%20HR?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="ArenaSport8.hr" group-title="SPORT",Arena 8 HR
+http://crnaudovica.xyz:8000/Arena%208%20HR?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="ArenaSport9.hr" group-title="SPORT",Arena 9 HR
+http://crnaudovica.xyz:8000/Arena%209%20HR?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="ArenaSport10.hr" group-title="SPORT",Arena 10 HR
+http://crnaudovica.xyz:8000/Arena%2010%20HR?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="MaxSport 1" group-title="SPORT",MaxSport 1
+http://crnaudovica.xyz:8000/MaxSport%201?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="MaxSport 2" group-title="SPORT",MaxSport 2
+http://crnaudovica.xyz:8000/MaxSport%202?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="Nova Sport" group-title="SPORT",Nova Sport
+http://crnaudovica.xyz:8000/Nova%20Sport?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="DAZN1BarHD.de" group-title="SPORT",Sport 1.
+http://crnaudovica.xyz:8000/Sport%201%2E?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="DAZN2BarHD.de" group-title="SPORT",Sport 2.
+http://crnaudovica.xyz:8000/Sport%202%2E?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="ArenaSport1.rs" group-title="SPORT",Arena 1 SR
+http://crnaudovica.xyz:8000/Arena%201%20SR?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="ArenaSport2.rs" group-title="SPORT",Arena 2 SR
+http://crnaudovica.xyz:8000/Arena%202%20SR?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="ArenaSport3.rs" group-title="SPORT",Arena 3 SR
+http://crnaudovica.xyz:8000/Arena%203%20SR?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="ArenaSport4.rs" group-title="SPORT",Arena 4 SR
+http://crnaudovica.xyz:8000/Arena%204%20SR?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="ArenaSport5.rs" group-title="SPORT",Arena 5 SR
+http://crnaudovica.xyz:8000/Arena%205%20SR?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="ArenaSportPremium1.rs" group-title="SPORT",Arena Premium 1
+http://crnaudovica.xyz:8000/Arena%20Premium%201?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="ArenaSportPremium2.rs" group-title="SPORT",Arena Premium 2
+http://crnaudovica.xyz:8000/Arena%20Premium%202?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="ArenaSportPremium3.rs" group-title="SPORT",Arena Premium 3
+http://crnaudovica.xyz:8000/Arena%20Premium%203?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="Arena Fight" group-title="SPORT",Arena Fight
+http://crnaudovica.xyz:8000/Arena%20Fight?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="Arena eSports" group-title="SPORT",Arena eSports
+http://crnaudovica.xyz:8000/Arena%20eSports?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="Eurosport1.rs" group-title="SPORT",EuroSport 1
+http://crnaudovica.xyz:8000/EuroSport%201?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="Eurosport2.rs" group-title="SPORT",EuroSport 2
+http://crnaudovica.xyz:8000/EuroSport%202?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="Eurosport2.rs" group-title="SPORT",EuroSportDVA
+http://crnaudovica.xyz:8000/EuroSportDVA?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="Fightbox.svn" group-title="SPORT",Fightbox
+http://crnaudovica.xyz:8000/Fightbox?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="SportKlubHD.hr" group-title="SPORT SD",SportKlub SD
+http://crnaudovica.xyz:8000/SportKlub%20SD?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="SportKlub1.hr" group-title="SPORT SD",SportKlub 1 SD
+http://crnaudovica.xyz:8000/SportKlub%201%20SD?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="SportKlub1.hr" group-title="SPORT SD",SportKlub 1 HR SD
+http://crnaudovica.xyz:8000/SportKlub%201%20HR%20SD?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="SportKlub2.hr" group-title="SPORT SD",SportKlub 2 SD
+http://crnaudovica.xyz:8000/SportKlub%202%20SD?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="SportKlub3.hr" group-title="SPORT SD",SportKlub 3 SD
+http://crnaudovica.xyz:8000/SportKlub%203%20SD?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="ArenaSport1.hr" group-title="SPORT SD",Arena 1 HR SD
+http://crnaudovica.xyz:8000/Arena%201%20HR%20SD?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="ArenaSport2.hr" group-title="SPORT SD",Arena 2 HR SD
+http://crnaudovica.xyz:8000/Arena%202%20HR%20SD?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="ArenaSport3.hr" group-title="SPORT SD",Arena 3 HR SD
+http://crnaudovica.xyz:8000/Arena%203%20HR%20SD?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="ArenaSport4.hr" group-title="SPORT SD",Arena 4 HR SD
+http://crnaudovica.xyz:8000/Arena%204%20HR%20SD?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="ArenaSport5.hr" group-title="SPORT SD",Arena 5 HR SD
+http://crnaudovica.xyz:8000/Arena%205%20HR%20SD?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="ArenaSport6.hr" group-title="SPORT SD",Arena 6 HR SD
+http://crnaudovica.xyz:8000/Arena%206%20HR%20SD?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="Arena 7 HD SD" group-title="SPORT SD",Arena 7 HD SD
+http://crnaudovica.xyz:8000/Arena%207%20HD%20SD?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="Arena 8 HD SD" group-title="SPORT SD",Arena 8 HD SD
+http://crnaudovica.xyz:8000/Arena%208%20HD%20SD?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="Arena 9 HD SD" group-title="SPORT SD",Arena 9 HD SD
+http://crnaudovica.xyz:8000/Arena%209%20HD%20SD?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="Arena 10 HD SD" group-title="SPORT SD",Arena 10 HR SD
+http://crnaudovica.xyz:8000/Arena%2010%20HR%20SD?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="KlasikTV.hr" group-title="FILMOVI",Klasik Tv
+http://crnaudovica.xyz:8000/Klasik%20Tv?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="HBOAdria.hr" group-title="FILMOVI",HBO 1
+http://crnaudovica.xyz:8000/HBO%201?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="HBOComedy.hr" group-title="FILMOVI",HBO 2
+http://crnaudovica.xyz:8000/HBO%202?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="HBO3.rs" group-title="FILMOVI",HBO 3
+http://crnaudovica.xyz:8000/HBO%203?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="Cinemax1.hr" group-title="FILMOVI",Cinemax 1
+http://crnaudovica.xyz:8000/Cinemax%201?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="Cinemax2.hr" group-title="FILMOVI",Cinemax 2
+http://crnaudovica.xyz:8000/Cinemax%202?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="CinestarTV.hr" group-title="FILMOVI",Cinestar Tv
+http://crnaudovica.xyz:8000/Cinestar%20Tv?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="CineStarTV2.hr" group-title="FILMOVI",Cinestar Tv 2
+http://crnaudovica.xyz:8000/Cinestar%20Tv%202?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="CinestarAction.hr" group-title="FILMOVI",Cinestar Action
+http://crnaudovica.xyz:8000/Cinestar%20Action?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="CinestarComedy.svn" group-title="FILMOVI",Cinestar Comedy
+http://crnaudovica.xyz:8000/Cinestar%20Comedy?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="CinestarFantasy.hr" group-title="FILMOVI",Cinestar Fantasy
+http://crnaudovica.xyz:8000/Cinestar%20Fantasy?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="CinestarPremiere1.hr" group-title="FILMOVI",Cinestar Premiere 1
+http://crnaudovica.xyz:8000/Cinestar%20Premiere%201?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="CinestarPremiere2.hr" group-title="FILMOVI",Cinestar Premiere 2
+http://crnaudovica.xyz:8000/Cinestar%20Premiere%202?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="FilmboxPremium.hr" group-title="FILMOVI",FilmBox Premium
+http://crnaudovica.xyz:8000/FilmBox%20Premium?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="FilmBoxExtra.hr" group-title="FILMOVI",FilmBox Extra
+http://crnaudovica.xyz:8000/FilmBox%20Extra?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="Diva.hr" group-title="FILMOVI",Diva Tv
+http://crnaudovica.xyz:8000/Diva%20Tv?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="TV1000.svn" group-title="FILMOVI",Tv 1000
+http://crnaudovica.xyz:8000/Tv%201000?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="Pickbox.hr" group-title="FILMOVI",Pickbox Tv
+http://crnaudovica.xyz:8000/Pickbox%20Tv?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="M1Film.hr" group-title="FILMOVI",M1 Film
+http://crnaudovica.xyz:8000/M1%20Film?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="FoxMovies.hr" group-title="FILMOVI",Fox Movies
+http://crnaudovica.xyz:8000/Fox%20Movies?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="PinkAction.rs" group-title="FILMOVI",Pink Action
+http://crnaudovica.xyz:8000/Pink%20Action?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="PinkComedy.rs" group-title="FILMOVI",Pink Comedy
+http://crnaudovica.xyz:8000/Pink%20Comedy?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="PinkCrime.rs" group-title="FILMOVI",Pink Crime i Mistery
+http://crnaudovica.xyz:8000/Pink%20Crime%20i%20Mistery?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="PinkFilm.rs" group-title="FILMOVI",Pink Film
+http://crnaudovica.xyz:8000/Pink%20Film?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="PinkHorror.rs" group-title="FILMOVI",Pink Horor
+http://crnaudovica.xyz:8000/Pink%20Horor?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="PinkMovies.rs" group-title="FILMOVI",Pink Movies
+http://crnaudovica.xyz:8000/Pink%20Movies?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="PinkPremium.rs" group-title="FILMOVI",Pink Premium
+http://crnaudovica.xyz:8000/Pink%20Premium?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="PinkSciFiFantasy.rs" group-title="FILMOVI",Pink Sci-Fi i Fantasy
+http://crnaudovica.xyz:8000/Pink%20Sci%2DFi%20i%20Fantasy?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="PinkThriller.rs" group-title="FILMOVI",Pink Thriller
+http://crnaudovica.xyz:8000/Pink%20Thriller?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="PinkWestern.rs" group-title="FILMOVI",Pink Western
+http://crnaudovica.xyz:8000/Pink%20Western?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="PinkClassic.rs" group-title="FILMOVI",Pink Classic
+http://crnaudovica.xyz:8000/Pink%20Classic?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="AXN.hr" group-title="FILMOVI",Axn
+http://crnaudovica.xyz:8000/Axn?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="AXNSpin.rs" group-title="FILMOVI",Axn Spin
+http://crnaudovica.xyz:8000/Axn%20Spin?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="Fox.hr" group-title="FILMOVI",Fox
+http://crnaudovica.xyz:8000/Fox?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="FOXLife.hr" group-title="FILMOVI",Fox Life
+http://crnaudovica.xyz:8000/Fox%20Life?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="FOXCrime.hr" group-title="FILMOVI",Fox Crime
+http://crnaudovica.xyz:8000/Fox%20Crime?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="SciFi.hr" group-title="FILMOVI",SciFi
+http://crnaudovica.xyz:8000/SciFi?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="NGC.hr" group-title="DOKUMENTARNI",National Geographic
+http://crnaudovica.xyz:8000/National%20Geographic?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="NatGeoWild.hr" group-title="DOKUMENTARNI",NGW
+http://crnaudovica.xyz:8000/NGW?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="Discovery.hr" group-title="DOKUMENTARNI",Discovery
+http://crnaudovica.xyz:8000/Discovery?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="DiscoveryScience.hr" group-title="DOKUMENTARNI",Discovery Science
+http://crnaudovica.xyz:8000/Discovery%20Science?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="History.hr" group-title="DOKUMENTARNI",History
+http://crnaudovica.xyz:8000/History?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="H2.rs" group-title="DOKUMENTARNI",History 2
+http://crnaudovica.xyz:8000/History%202?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="BBCEarth.hr" group-title="DOKUMENTARNI",BBC Earth
+http://crnaudovica.xyz:8000/BBC%20Earth?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="AnimalPlanet.hr" group-title="DOKUMENTARNI",Animal Planet
+http://crnaudovica.xyz:8000/Animal%20Planet?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="ViasatExplorer.hr" group-title="DOKUMENTARNI",Viasat Explorer
+http://crnaudovica.xyz:8000/Viasat%20Explorer?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="ViasatHistory.hr" group-title="DOKUMENTARNI",Viasat History
+http://crnaudovica.xyz:8000/Viasat%20History?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="ViasatNature.hr" group-title="DOKUMENTARNI",Viasat Nature
+http://crnaudovica.xyz:8000/Viasat%20Nature?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="DokuTv" group-title="DOKUMENTARNI",DokuTv
+http://crnaudovica.xyz:8000/DokuTv?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="TLC.hr" group-title="DOKUMENTARNI",TLC
+http://crnaudovica.xyz:8000/TLC?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="CrimeInvestigations.hr" group-title="DOKUMENTARNI",ID
+http://crnaudovica.xyz:8000/ID?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="LoviRibolov.rs" group-title="DOKUMENTARNI",Lov i Ribolov
+http://crnaudovica.xyz:8000/Lov%20i%20Ribolov?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="PinkPedia.rs" group-title="DOKUMENTARNI",Pink Pedia
+http://crnaudovica.xyz:8000/Pink%20Pedia?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="TravelChannel.hr" group-title="ZABAVNI",Travel Channel
+http://crnaudovica.xyz:8000/Travel%20Channel?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="HGTV.hr" group-title="ZABAVNI",Fine Living
+http://crnaudovica.xyz:8000/Fine%20Living?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="24Kitchen.hr" group-title="ZABAVNI",24 Kitchen
+http://crnaudovica.xyz:8000/24%20Kitchen?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="PinkKuvar.rs" group-title="ZABAVNI",Pink Kuhar
+http://crnaudovica.xyz:8000/Pink%20Kuhar?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="E.hr" group-title="ZABAVNI",E+
+http://crnaudovica.xyz:8000/E%2B?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="FashionTV.hr" group-title="ZABAVNI",Fashion 4K
+http://crnaudovica.xyz:8000/Fashion%204K?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="PinkReality.rs" group-title="ZABAVNI",Pink Reality
+http://crnaudovica.xyz:8000/Pink%20Reality?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="PinkZabava.rs" group-title="ZABAVNI",Pink Zabava
+http://crnaudovica.xyz:8000/Pink%20Zabava?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="PinkWorld.rs" group-title="ZABAVNI",Pink World
+http://crnaudovica.xyz:8000/Pink%20World?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="PinkSerije.rs" group-title="ZABAVNI",Pink Serije
+http://crnaudovica.xyz:8000/Pink%20Serije?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="PinkSoap.rs" group-title="ZABAVNI",Pink Soap
+http://crnaudovica.xyz:8000/Pink%20Soap?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="RTLKockica.hr" group-title="DJECJI",RTL Kockica
+http://crnaudovica.xyz:8000/RTL%20Kockica?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="Vavoom.hr" group-title="DJECJI",OK Bambino
+http://crnaudovica.xyz:8000/OK%20Bambino?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="Nickelodeon.hr" group-title="DJECJI",Nickelodeon
+http://crnaudovica.xyz:8000/Nickelodeon?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="BabyTV.hr" group-title="DJECJI",Baby Tv
+http://crnaudovica.xyz:8000/Baby%20Tv?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="DuckTV.hr" group-title="DJECJI",Duck Tv
+http://crnaudovica.xyz:8000/Duck%20Tv?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="NickJr.svn" group-title="DJECJI",NickJr
+http://crnaudovica.xyz:8000/NickJr?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="Hayatovci.hr" group-title="DJECJI",Hayatovci
+http://crnaudovica.xyz:8000/Hayatovci?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="MiniTV.hr" group-title="DJECJI",Mini Tv
+http://crnaudovica.xyz:8000/Mini%20Tv?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="Toon kids" group-title="DJECJI",Toon kids
+http://crnaudovica.xyz:8000/Toon%20kids?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="PINKKids.rs" group-title="DJECJI",Pink Kids
+http://crnaudovica.xyz:8000/Pink%20Kids?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="DaVinciLearning.hr" group-title="DJECJI",Da Vinci
+http://crnaudovica.xyz:8000/Da%20Vinci?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="Boomerang.hr" group-title="DJECJI",Boomerang
+http://crnaudovica.xyz:8000/Boomerang?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="CartoonNetwork.hr" group-title="DJECJI",Cartoon Network
+http://crnaudovica.xyz:8000/Cartoon%20Network?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="SuperRTL.de" group-title="DJECJI",Super RTL
+http://crnaudovica.xyz:8000/Super%20RTL?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="CMC.hr" group-title="MUZIKA",CMC
+http://crnaudovica.xyz:8000/CMC?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="Jugoton.hr" group-title="MUZIKA",Jugoton
+http://crnaudovica.xyz:8000/Jugoton?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="IDJTV.rs" group-title="MUZIKA",DM Sat HD
+http://crnaudovica.xyz:8000/DM%20Sat%20HD?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="DMSat.svn" group-title="MUZIKA",DM Sat
+http://crnaudovica.xyz:8000/DM%20Sat?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="Grand.svn" group-title="MUZIKA",Grand Tv
+http://crnaudovica.xyz:8000/Grand%20Tv?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="Grand2.svn" group-title="MUZIKA",Grand Tv 2
+http://crnaudovica.xyz:8000/Grand%20Tv%202?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="PinkKoncert.rs" group-title="MUZIKA",Pink Koncert
+http://crnaudovica.xyz:8000/Pink%20Koncert?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="PinkHits1.rs" group-title="MUZIKA",Pink Hits
+http://crnaudovica.xyz:8000/Pink%20Hits?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="PinkMusic1.rs" group-title="MUZIKA",Pink Music
+http://crnaudovica.xyz:8000/Pink%20Music?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="PinkFolk.svn" group-title="MUZIKA",Pink Folk
+http://crnaudovica.xyz:8000/Pink%20Folk?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="HayatFolk.ba" group-title="MUZIKA",Hayat Folk
+http://crnaudovica.xyz:8000/Hayat%20Folk?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="BNMusic.ba" group-title="MUZIKA",BN Music
+http://crnaudovica.xyz:8000/BN%20Music?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="OTVValentino.ba" group-title="MUZIKA",OTV Valentino
+http://crnaudovica.xyz:8000/OTV%20Valentino?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="Izvorna Tv" group-title="MUZIKA",Izvorna Tv
+http://crnaudovica.xyz:8000/Izvorna%20Tv?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="Banovina Tv" group-title="MUZIKA",Banovina Tv
+http://crnaudovica.xyz:8000/Banovina%20Tv?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="Duga.ba" group-title="MUZIKA",Tv Duga
+http://crnaudovica.xyz:8000/Tv%20Duga?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="Yu Planet" group-title="MUZIKA",Yu Planet
+http://crnaudovica.xyz:8000/Yu%20Planet?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="MTVLive.svn" group-title="MUZIKA",MTV Live
+http://crnaudovica.xyz:8000/MTV%20Live?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="MTVAdria.rs" group-title="MUZIKA",MTV Adria
+http://crnaudovica.xyz:8000/MTV%20Adria?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="VH1.hr" group-title="MUZIKA",VH 1
+http://crnaudovica.xyz:8000/VH%201?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id=" VH1Classic.svn" group-title="MUZIKA",VH 1 Classic
+http://crnaudovica.xyz:8000/VH%201%20Classic?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="ORF1.at" group-title="DE",Orf 1
+http://crnaudovica.xyz:8000/Orf%201?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="ORF2.at" group-title="DE",Orf 2
+http://crnaudovica.xyz:8000/Orf%202?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="ServusTV.at" group-title="DE",Servus Tv
+http://crnaudovica.xyz:8000/Servus%20Tv?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="RTL.de" group-title="DE",Rtl DE
+http://crnaudovica.xyz:8000/Rtl%20DE?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="RTL2.de" group-title="DE",Rtl 2 DE
+http://crnaudovica.xyz:8000/Rtl%202%20DE?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="Pro7.de" group-title="DE",Pro Sieben
+http://crnaudovica.xyz:8000/Pro%20Sieben?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="Vox.de" group-title="DE",Vox
+http://crnaudovica.xyz:8000/Vox?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="Kabel.de" group-title="DE",Kabel 1
+http://crnaudovica.xyz:8000/Kabel%201?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="Sat1.de" group-title="DE",Sat 1
+http://crnaudovica.xyz:8000/Sat%201?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="DMax.de" group-title="DE",Dmax
+http://crnaudovica.xyz:8000/Dmax?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="ZDF.de" group-title="DE",Zdf
+http://crnaudovica.xyz:8000/Zdf?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="ARD.de" group-title="DE",Das Erste
+http://crnaudovica.xyz:8000/Das%20Erste?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="Sport1HD.de" group-title="DE",Sport 1
+http://crnaudovica.xyz:8000/Sport%201?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="MTV1.mk" group-title="MK",Mrt 1
+http://crnaudovica.xyz:8000/Mrt%201?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="MTV2.mk" group-title="MK",Mrt 2
+http://crnaudovica.xyz:8000/Mrt%202?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="Mrt 3" group-title="MK",Mrt 3
+http://crnaudovica.xyz:8000/Mrt%203?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="Sitel.mk" group-title="MK",Sitel Tv
+http://crnaudovica.xyz:8000/Sitel%20Tv?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="Sitel 2" group-title="MK",Sitel 2
+http://crnaudovica.xyz:8000/Sitel%202?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="Sitel 3" group-title="MK",Sitel 3
+http://crnaudovica.xyz:8000/Sitel%203?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="Kanal5.mk" group-title="MK",Kanal 5
+http://crnaudovica.xyz:8000/Kanal%205?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="Telma.mk" group-title="MK",Telma
+http://crnaudovica.xyz:8000/Telma?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="Alfa.mk" group-title="MK",Alfa
+http://crnaudovica.xyz:8000/Alfa?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="Special 1" group-title="SPECIAL",Special 1
+http://crnaudovica.xyz:8000/Special%201?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="Special 2" group-title="SPECIAL",Special 2
+http://crnaudovica.xyz:8000/Special%202?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="Special 3" group-title="SPECIAL",Special 3
+http://crnaudovica.xyz:8000/Special%203?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="Special 4" group-title="SPECIAL",Special 4
+http://crnaudovica.xyz:8000/Special%204?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="Special 5" group-title="SPECIAL",Special 5
+http://crnaudovica.xyz:8000/Special%205?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="Special 6" group-title="SPECIAL",Special 6
+http://crnaudovica.xyz:8000/Special%206?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="Special 7" group-title="SPECIAL",Special 7
+http://crnaudovica.xyz:8000/Special%207?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="Special 8" group-title="SPECIAL",Special 8
+http://crnaudovica.xyz:8000/Special%208?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="XXX" group-title="XXX",XXX
+http://crnaudovica.xyz:8000/XXX?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="XXX 1" group-title="XXX",XXX 1
+http://crnaudovica.xyz:8000/XXX%201?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="XXX 2" group-title="XXX",XXX 2
+http://crnaudovica.xyz:8000/XXX%202?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="XXX 3" group-title="XXX",XXX 3
+http://crnaudovica.xyz:8000/XXX%203?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="XXX 4" group-title="XXX",XXX 4
+http://crnaudovica.xyz:8000/XXX%204?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="XXX 5" group-title="XXX",XXX 5
+http://crnaudovica.xyz:8000/XXX%205?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="XXX 6" group-title="XXX",XXX 6
+http://crnaudovica.xyz:8000/XXX%206?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="XXX 7" group-title="XXX",XXX 7
+http://crnaudovica.xyz:8000/XXX%207?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="XXX 8" group-title="XXX",XXX 8
+http://crnaudovica.xyz:8000/XXX%208?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="XXX 9" group-title="XXX",XXX 9
+http://crnaudovica.xyz:8000/XXX%209?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="XXX 10" group-title="XXX",XXX 10
+http://crnaudovica.xyz:8000/XXX%2010?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 tvg-id="XXX 11" group-title="XXX",XXX 11
+http://crnaudovica.xyz:8000/XXX%2011?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1 group-title="VOD" ,000XXX
+http://crnaudovica.xyz:8000/000XXX?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0017
+http://crnaudovica.xyz:8000/0017?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0018
+http://crnaudovica.xyz:8000/0018?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0023
+http://crnaudovica.xyz:8000/0023?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0026
+http://crnaudovica.xyz:8000/0026?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0027
+http://crnaudovica.xyz:8000/0027?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0029
+http://crnaudovica.xyz:8000/0029?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0037
+http://crnaudovica.xyz:8000/0037?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0039
+http://crnaudovica.xyz:8000/0039?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0048
+http://crnaudovica.xyz:8000/0048?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0050
+http://crnaudovica.xyz:8000/0050?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0053
+http://crnaudovica.xyz:8000/0053?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0055
+http://crnaudovica.xyz:8000/0055?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0056
+http://crnaudovica.xyz:8000/0056?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0072
+http://crnaudovica.xyz:8000/0072?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0074
+http://crnaudovica.xyz:8000/0074?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0078
+http://crnaudovica.xyz:8000/0078?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0080
+http://crnaudovica.xyz:8000/0080?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0133
+http://crnaudovica.xyz:8000/0133?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0140
+http://crnaudovica.xyz:8000/0140?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0142
+http://crnaudovica.xyz:8000/0142?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0143
+http://crnaudovica.xyz:8000/0143?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0222
+http://crnaudovica.xyz:8000/0222?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0230
+http://crnaudovica.xyz:8000/0230?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0231
+http://crnaudovica.xyz:8000/0231?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0232
+http://crnaudovica.xyz:8000/0232?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0233
+http://crnaudovica.xyz:8000/0233?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0234
+http://crnaudovica.xyz:8000/0234?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0235
+http://crnaudovica.xyz:8000/0235?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0236
+http://crnaudovica.xyz:8000/0236?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0237
+http://crnaudovica.xyz:8000/0237?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0238
+http://crnaudovica.xyz:8000/0238?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0239
+http://crnaudovica.xyz:8000/0239?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0240
+http://crnaudovica.xyz:8000/0240?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0241
+http://crnaudovica.xyz:8000/0241?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0242
+http://crnaudovica.xyz:8000/0242?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0243
+http://crnaudovica.xyz:8000/0243?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0244
+http://crnaudovica.xyz:8000/0244?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0245
+http://crnaudovica.xyz:8000/0245?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0246
+http://crnaudovica.xyz:8000/0246?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0247
+http://crnaudovica.xyz:8000/0247?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0248
+http://crnaudovica.xyz:8000/0248?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0249
+http://crnaudovica.xyz:8000/0249?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0250
+http://crnaudovica.xyz:8000/0250?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0251
+http://crnaudovica.xyz:8000/0251?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0252
+http://crnaudovica.xyz:8000/0252?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0253
+http://crnaudovica.xyz:8000/0253?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0254
+http://crnaudovica.xyz:8000/0254?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0255
+http://crnaudovica.xyz:8000/0255?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0256
+http://crnaudovica.xyz:8000/0256?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0257
+http://crnaudovica.xyz:8000/0257?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0258
+http://crnaudovica.xyz:8000/0258?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0259
+http://crnaudovica.xyz:8000/0259?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0260
+http://crnaudovica.xyz:8000/0260?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0261
+http://crnaudovica.xyz:8000/0261?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0262
+http://crnaudovica.xyz:8000/0262?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0263
+http://crnaudovica.xyz:8000/0263?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0264
+http://crnaudovica.xyz:8000/0264?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0265
+http://crnaudovica.xyz:8000/0265?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0266
+http://crnaudovica.xyz:8000/0266?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0267
+http://crnaudovica.xyz:8000/0267?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0268
+http://crnaudovica.xyz:8000/0268?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0269
+http://crnaudovica.xyz:8000/0269?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0270
+http://crnaudovica.xyz:8000/0270?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0271
+http://crnaudovica.xyz:8000/0271?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0272
+http://crnaudovica.xyz:8000/0272?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0273
+http://crnaudovica.xyz:8000/0273?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0274
+http://crnaudovica.xyz:8000/0274?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0275
+http://crnaudovica.xyz:8000/0275?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0276
+http://crnaudovica.xyz:8000/0276?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0277
+http://crnaudovica.xyz:8000/0277?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0278
+http://crnaudovica.xyz:8000/0278?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0279
+http://crnaudovica.xyz:8000/0279?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0280
+http://crnaudovica.xyz:8000/0280?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0281
+http://crnaudovica.xyz:8000/0281?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0282
+http://crnaudovica.xyz:8000/0282?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0283
+http://crnaudovica.xyz:8000/0283?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0284
+http://crnaudovica.xyz:8000/0284?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0285
+http://crnaudovica.xyz:8000/0285?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0286
+http://crnaudovica.xyz:8000/0286?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0287
+http://crnaudovica.xyz:8000/0287?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0288
+http://crnaudovica.xyz:8000/0288?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0289
+http://crnaudovica.xyz:8000/0289?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0290
+http://crnaudovica.xyz:8000/0290?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0291
+http://crnaudovica.xyz:8000/0291?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0292
+http://crnaudovica.xyz:8000/0292?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0293
+http://crnaudovica.xyz:8000/0293?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0294
+http://crnaudovica.xyz:8000/0294?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0295
+http://crnaudovica.xyz:8000/0295?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0296
+http://crnaudovica.xyz:8000/0296?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0297
+http://crnaudovica.xyz:8000/0297?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0298
+http://crnaudovica.xyz:8000/0298?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0299
+http://crnaudovica.xyz:8000/0299?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0300
+http://crnaudovica.xyz:8000/0300?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0301
+http://crnaudovica.xyz:8000/0301?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0302
+http://crnaudovica.xyz:8000/0302?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0303
+http://crnaudovica.xyz:8000/0303?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0304
+http://crnaudovica.xyz:8000/0304?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0305
+http://crnaudovica.xyz:8000/0305?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0306
+http://crnaudovica.xyz:8000/0306?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0307
+http://crnaudovica.xyz:8000/0307?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0308
+http://crnaudovica.xyz:8000/0308?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0309
+http://crnaudovica.xyz:8000/0309?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0310
+http://crnaudovica.xyz:8000/0310?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0311
+http://crnaudovica.xyz:8000/0311?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0312
+http://crnaudovica.xyz:8000/0312?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0313
+http://crnaudovica.xyz:8000/0313?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0314
+http://crnaudovica.xyz:8000/0314?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0315
+http://crnaudovica.xyz:8000/0315?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0316
+http://crnaudovica.xyz:8000/0316?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0317
+http://crnaudovica.xyz:8000/0317?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0318
+http://crnaudovica.xyz:8000/0318?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0319
+http://crnaudovica.xyz:8000/0319?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0320
+http://crnaudovica.xyz:8000/0320?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0321
+http://crnaudovica.xyz:8000/0321?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0322
+http://crnaudovica.xyz:8000/0322?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0323
+http://crnaudovica.xyz:8000/0323?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0324
+http://crnaudovica.xyz:8000/0324?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0325
+http://crnaudovica.xyz:8000/0325?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0326
+http://crnaudovica.xyz:8000/0326?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0327
+http://crnaudovica.xyz:8000/0327?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0328
+http://crnaudovica.xyz:8000/0328?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0329
+http://crnaudovica.xyz:8000/0329?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0330
+http://crnaudovica.xyz:8000/0330?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0331
+http://crnaudovica.xyz:8000/0331?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0332
+http://crnaudovica.xyz:8000/0332?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0333
+http://crnaudovica.xyz:8000/0333?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0334
+http://crnaudovica.xyz:8000/0334?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0335
+http://crnaudovica.xyz:8000/0335?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0336
+http://crnaudovica.xyz:8000/0336?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0337
+http://crnaudovica.xyz:8000/0337?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0338
+http://crnaudovica.xyz:8000/0338?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0339
+http://crnaudovica.xyz:8000/0339?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0340
+http://crnaudovica.xyz:8000/0340?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0341
+http://crnaudovica.xyz:8000/0341?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0342
+http://crnaudovica.xyz:8000/0342?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0343
+http://crnaudovica.xyz:8000/0343?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0344
+http://crnaudovica.xyz:8000/0344?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0345
+http://crnaudovica.xyz:8000/0345?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0346
+http://crnaudovica.xyz:8000/0346?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0346A
+http://crnaudovica.xyz:8000/0346A?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0347
+http://crnaudovica.xyz:8000/0347?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0347A
+http://crnaudovica.xyz:8000/0347A?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0348
+http://crnaudovica.xyz:8000/0348?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0348A
+http://crnaudovica.xyz:8000/0348A?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0348B
+http://crnaudovica.xyz:8000/0348B?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0349
+http://crnaudovica.xyz:8000/0349?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0349A
+http://crnaudovica.xyz:8000/0349A?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0350
+http://crnaudovica.xyz:8000/0350?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0350A
+http://crnaudovica.xyz:8000/0350A?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0351
+http://crnaudovica.xyz:8000/0351?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0351A
+http://crnaudovica.xyz:8000/0351A?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0352
+http://crnaudovica.xyz:8000/0352?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0352A
+http://crnaudovica.xyz:8000/0352A?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0353
+http://crnaudovica.xyz:8000/0353?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0353A
+http://crnaudovica.xyz:8000/0353A?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0354
+http://crnaudovica.xyz:8000/0354?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0354A
+http://crnaudovica.xyz:8000/0354A?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0355
+http://crnaudovica.xyz:8000/0355?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0356
+http://crnaudovica.xyz:8000/0356?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0357
+http://crnaudovica.xyz:8000/0357?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0358
+http://crnaudovica.xyz:8000/0358?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0359
+http://crnaudovica.xyz:8000/0359?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0360
+http://crnaudovica.xyz:8000/0360?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0361
+http://crnaudovica.xyz:8000/0361?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0362
+http://crnaudovica.xyz:8000/0362?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0363
+http://crnaudovica.xyz:8000/0363?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0364
+http://crnaudovica.xyz:8000/0364?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0365
+http://crnaudovica.xyz:8000/0365?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0366
+http://crnaudovica.xyz:8000/0366?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0367
+http://crnaudovica.xyz:8000/0367?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0368
+http://crnaudovica.xyz:8000/0368?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0369
+http://crnaudovica.xyz:8000/0369?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0370
+http://crnaudovica.xyz:8000/0370?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0371
+http://crnaudovica.xyz:8000/0371?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0372
+http://crnaudovica.xyz:8000/0372?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0373
+http://crnaudovica.xyz:8000/0373?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0374
+http://crnaudovica.xyz:8000/0374?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0375
+http://crnaudovica.xyz:8000/0375?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0376
+http://crnaudovica.xyz:8000/0376?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0377
+http://crnaudovica.xyz:8000/0377?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0379
+http://crnaudovica.xyz:8000/0379?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0380
+http://crnaudovica.xyz:8000/0380?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0381
+http://crnaudovica.xyz:8000/0381?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0382
+http://crnaudovica.xyz:8000/0382?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0383
+http://crnaudovica.xyz:8000/0383?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0384
+http://crnaudovica.xyz:8000/0384?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0385
+http://crnaudovica.xyz:8000/0385?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0386
+http://crnaudovica.xyz:8000/0386?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0387
+http://crnaudovica.xyz:8000/0387?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0388
+http://crnaudovica.xyz:8000/0388?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0389
+http://crnaudovica.xyz:8000/0389?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0390
+http://crnaudovica.xyz:8000/0390?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0391
+http://crnaudovica.xyz:8000/0391?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0392
+http://crnaudovica.xyz:8000/0392?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0393
+http://crnaudovica.xyz:8000/0393?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0394
+http://crnaudovica.xyz:8000/0394?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0395
+http://crnaudovica.xyz:8000/0395?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0396
+http://crnaudovica.xyz:8000/0396?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0397
+http://crnaudovica.xyz:8000/0397?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0398
+http://crnaudovica.xyz:8000/0398?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0399
+http://crnaudovica.xyz:8000/0399?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0400
+http://crnaudovica.xyz:8000/0400?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0401
+http://crnaudovica.xyz:8000/0401?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0402
+http://crnaudovica.xyz:8000/0402?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0403
+http://crnaudovica.xyz:8000/0403?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0404
+http://crnaudovica.xyz:8000/0404?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0405
+http://crnaudovica.xyz:8000/0405?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0406
+http://crnaudovica.xyz:8000/0406?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0407
+http://crnaudovica.xyz:8000/0407?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0408
+http://crnaudovica.xyz:8000/0408?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0409
+http://crnaudovica.xyz:8000/0409?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0410
+http://crnaudovica.xyz:8000/0410?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0411
+http://crnaudovica.xyz:8000/0411?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0412
+http://crnaudovica.xyz:8000/0412?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0413
+http://crnaudovica.xyz:8000/0413?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0414
+http://crnaudovica.xyz:8000/0414?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0415
+http://crnaudovica.xyz:8000/0415?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0416
+http://crnaudovica.xyz:8000/0416?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0417
+http://crnaudovica.xyz:8000/0417?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0418
+http://crnaudovica.xyz:8000/0418?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0419
+http://crnaudovica.xyz:8000/0419?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0420
+http://crnaudovica.xyz:8000/0420?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0421
+http://crnaudovica.xyz:8000/0421?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0422
+http://crnaudovica.xyz:8000/0422?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0423
+http://crnaudovica.xyz:8000/0423?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0424
+http://crnaudovica.xyz:8000/0424?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0426
+http://crnaudovica.xyz:8000/0426?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0427
+http://crnaudovica.xyz:8000/0427?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0428
+http://crnaudovica.xyz:8000/0428?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0429
+http://crnaudovica.xyz:8000/0429?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0430
+http://crnaudovica.xyz:8000/0430?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0431
+http://crnaudovica.xyz:8000/0431?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0432
+http://crnaudovica.xyz:8000/0432?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0433
+http://crnaudovica.xyz:8000/0433?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0434
+http://crnaudovica.xyz:8000/0434?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0435
+http://crnaudovica.xyz:8000/0435?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0436
+http://crnaudovica.xyz:8000/0436?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0437
+http://crnaudovica.xyz:8000/0437?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0438
+http://crnaudovica.xyz:8000/0438?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0439
+http://crnaudovica.xyz:8000/0439?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0440
+http://crnaudovica.xyz:8000/0440?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0441
+http://crnaudovica.xyz:8000/0441?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0442
+http://crnaudovica.xyz:8000/0442?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0443
+http://crnaudovica.xyz:8000/0443?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0444
+http://crnaudovica.xyz:8000/0444?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0445
+http://crnaudovica.xyz:8000/0445?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0446
+http://crnaudovica.xyz:8000/0446?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0447
+http://crnaudovica.xyz:8000/0447?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0448
+http://crnaudovica.xyz:8000/0448?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0449
+http://crnaudovica.xyz:8000/0449?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0450
+http://crnaudovica.xyz:8000/0450?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0451
+http://crnaudovica.xyz:8000/0451?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0452
+http://crnaudovica.xyz:8000/0452?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0453
+http://crnaudovica.xyz:8000/0453?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0454
+http://crnaudovica.xyz:8000/0454?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0455
+http://crnaudovica.xyz:8000/0455?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0456
+http://crnaudovica.xyz:8000/0456?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0457
+http://crnaudovica.xyz:8000/0457?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0458
+http://crnaudovica.xyz:8000/0458?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0459
+http://crnaudovica.xyz:8000/0459?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0460
+http://crnaudovica.xyz:8000/0460?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0461
+http://crnaudovica.xyz:8000/0461?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0462
+http://crnaudovica.xyz:8000/0462?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0463
+http://crnaudovica.xyz:8000/0463?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0464
+http://crnaudovica.xyz:8000/0464?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0465
+http://crnaudovica.xyz:8000/0465?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0466
+http://crnaudovica.xyz:8000/0466?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0467
+http://crnaudovica.xyz:8000/0467?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0468
+http://crnaudovica.xyz:8000/0468?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0469
+http://crnaudovica.xyz:8000/0469?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0470
+http://crnaudovica.xyz:8000/0470?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0471
+http://crnaudovica.xyz:8000/0471?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0472
+http://crnaudovica.xyz:8000/0472?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0473
+http://crnaudovica.xyz:8000/0473?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0474
+http://crnaudovica.xyz:8000/0474?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0475
+http://crnaudovica.xyz:8000/0475?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0476
+http://crnaudovica.xyz:8000/0476?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0477
+http://crnaudovica.xyz:8000/0477?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0478
+http://crnaudovica.xyz:8000/0478?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0479
+http://crnaudovica.xyz:8000/0479?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0480
+http://crnaudovica.xyz:8000/0480?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0481
+http://crnaudovica.xyz:8000/0481?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0482
+http://crnaudovica.xyz:8000/0482?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0483
+http://crnaudovica.xyz:8000/0483?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0484
+http://crnaudovica.xyz:8000/0484?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0485
+http://crnaudovica.xyz:8000/0485?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0486
+http://crnaudovica.xyz:8000/0486?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0487
+http://crnaudovica.xyz:8000/0487?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0488
+http://crnaudovica.xyz:8000/0488?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0489
+http://crnaudovica.xyz:8000/0489?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0490
+http://crnaudovica.xyz:8000/0490?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0491
+http://crnaudovica.xyz:8000/0491?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0492
+http://crnaudovica.xyz:8000/0492?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0493
+http://crnaudovica.xyz:8000/0493?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0494
+http://crnaudovica.xyz:8000/0494?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0495
+http://crnaudovica.xyz:8000/0495?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0496
+http://crnaudovica.xyz:8000/0496?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0497
+http://crnaudovica.xyz:8000/0497?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0498
+http://crnaudovica.xyz:8000/0498?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0499
+http://crnaudovica.xyz:8000/0499?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0500
+http://crnaudovica.xyz:8000/0500?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0501
+http://crnaudovica.xyz:8000/0501?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0502
+http://crnaudovica.xyz:8000/0502?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0503
+http://crnaudovica.xyz:8000/0503?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0504
+http://crnaudovica.xyz:8000/0504?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0505
+http://crnaudovica.xyz:8000/0505?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0506
+http://crnaudovica.xyz:8000/0506?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0507
+http://crnaudovica.xyz:8000/0507?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0508
+http://crnaudovica.xyz:8000/0508?u=00:1A:79:97:38:CB:p=001A799738CB
+#EXTINF:-1 group-title="VOD" ,0509
+http://crnaudovica.xyz:8000/0509?u=00:1A:79:97:38:CB:p=001A799738CB
