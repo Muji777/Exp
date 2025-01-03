@@ -43,6 +43,18 @@ https://wildearth-plex.amagi.tv/master.m3u8
 http://xlpore-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1,Dubai One
 https://dminnvllta.cdn.mgmlcdn.com/dubaione/smil:dubaione.stream.smil/chunklist.m3u8
+#EXTINF:-1,Ten Cricket
+https://edge3-moblive.yuppcdn.net/drm/smil:tencricketdrm.smil/manifest.mpd?%7CdrmScheme=clearkey&drmLicense=9872e439f21f4a299cab249c6554daa3:0cdfcfe0d0f1fbe100554ce3ef4c4665
+#EXTINF:-1 tvg-logo=" https://images.fubo.tv/channel-config-ui/station-logos/on-dark/willow_2023_primary-white.png" group-title="Cricket ",WILLOW CRICKET
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_key=59ed8dc9d4a48857ef8e5865919496cc:0d3680bd8b349deda8b7fdd1da71b7f8
+https://cors-proxy.cooks.fyi/https://dfwlive-v1-c1p3-sponsored.akamaized.net/Content/HLS.cps/Live/channel(WILLHD-3291.dfw.1080)/index.m3u8
+#EXTINF:-1 tvg-logo=" https://images.fubo.tv/channel-config-ui/station-logos/on-dark/willow_2023_primary-white_xtra.png " group-title="Cricket",WILLOW XTRA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_key=1f52934d28a25c51a5dd577a650dcece:323a46b02a31172c2475406e56fd3be6
+https://cors-proxy.cooks.fyi/https://dfwlive-v1-c1p3-sponsored.akamaized.net/Content/HLS.cps/Live/channel(WILLXT-3292.dfw.1080)/index.m3u8
 #EXTINF:-1,Willow Tv
 https://amg01269-amg01269c1-yupptv-us-5319.playouts.now.amagi.tv/playlist/amg01269-willowtvfast-willowplus-yupptvus/playlist.m3u8
 #EXTINF:-1 tvg-id="824.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Cricket_v1.png" group-title="Astro",Cricket
