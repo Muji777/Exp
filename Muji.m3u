@@ -1,14 +1,4 @@
 EXTM3U
-#EXTINF:-1,TLC
-https://varun-iptv.netlify.app/m3u/TLC.m3u8
-#EXTINF:-1,Discovery
-https://varun-iptv.netlify.app/m3u/discoveryenglish.m3u8
-#EXTINF:-1,Travel
-https://varun-iptv.netlify.app/m3u/TRVL_Channel.m3u8
-#EXTINF:-1,HGTV India
-https://varun-iptv.netlify.app/m3u/HGTV.m3u8
-#EXTINF:-1,Animal Planet India
-https://varun-iptv.netlify.app/m3u/Animal_Planet.m3u8
 #EXTINF:-1,Animal Planet
 https://dplus.gammacdn.workers.dev/videos/99.m3u8
 #EXTINF:-1,Bein Sports Xtra
