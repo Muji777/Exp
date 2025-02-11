@@ -1,6 +1,4 @@
 EXTM3U
-#EXTINF:-1,Animal Planet
-https://dplus.gammacdn.workers.dev/videos/99.m3u8
 #EXTINF:-1,Bein Sports Xtra
 https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
 #EXTINF:-1,Travel Channel
@@ -9,11 +7,7 @@ https://dplus.gammacdn.workers.dev/videos/110.m3u8
 https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1,Travel XP
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1,Spo Tv 1
-https://cdn09jtedge.indihometv.com/joss/133/beib1/index.m3u8
-#EXTINF:-1,Spo Tv 2
-https://cdn09jtedge.indihometv.com/joss/133/beib2/index.m3u8
-#EXTINF:-1,Animal Planet Asia
+#EXTINF:-1,Animal Planet
 https://cdn09jtedge.indihometv.com/joss/194/animalplanet/index.m3u8
 #EXTINF:-1,Discovery Asia
 https://cdn09jtedge.indihometv.com/joss/194/discoveryasia/index.m3u8
@@ -35,28 +29,6 @@ http://xlpore-samsungus.amagi.tv/playlist.m3u8
 https://dminnvllta.cdn.mgmlcdn.com/dubaione/smil:dubaione.stream.smil/chunklist.m3u8
 #EXTINF:-1,Ten Cricket
 https://edge3-moblive.yuppcdn.net/drm/smil:tencricketdrm.smil/manifest.mpd?%7CdrmScheme=clearkey&drmLicense=9872e439f21f4a299cab249c6554daa3:0cdfcfe0d0f1fbe100554ce3ef4c4665
-#EXTINF:-1 tvg-logo=" https://images.fubo.tv/channel-config-ui/station-logos/on-dark/willow_2023_primary-white.png" group-title="Cricket ",WILLOW CRICKET
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_key=59ed8dc9d4a48857ef8e5865919496cc:0d3680bd8b349deda8b7fdd1da71b7f8
-https://cors-proxy.cooks.fyi/https://dfwlive-v1-c1p3-sponsored.akamaized.net/Content/HLS.cps/Live/channel(WILLHD-3291.dfw.1080)/index.m3u8
-#EXTINF:-1 tvg-logo=" https://images.fubo.tv/channel-config-ui/station-logos/on-dark/willow_2023_primary-white_xtra.png " group-title="Cricket",WILLOW XTRA
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_key=1f52934d28a25c51a5dd577a650dcece:323a46b02a31172c2475406e56fd3be6
-https://cors-proxy.cooks.fyi/https://dfwlive-v1-c1p3-sponsored.akamaized.net/Content/HLS.cps/Live/channel(WILLXT-3292.dfw.1080)/index.m3u8
-#EXTINF:-1,Willow Tv
-https://amg01269-amg01269c1-yupptv-us-5319.playouts.now.amagi.tv/playlist/amg01269-willowtvfast-willowplus-yupptvus/playlist.m3u8
-#EXTINF:-1 tvg-id="824.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Cricket_v1.png" group-title="Astro",Cricket
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"zYTtE2sMxx+KuM1NT2ouTA", "kid":"A8Lgry+BWfnwzptdvIZfEA" } ], "type":"temporary" }
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default_primary.mpd
-#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/USA-Network-Logo.svg/2560px-USA-Network-Logo.svg.png", USA Network (a)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=252a671825ba31ec8433f978c32ccf6d:ee560759ecc8d2274df2e63fcef56915
-https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://static.wikia.nocookie.net/youtube/images/2/22/NBC.jpg/revision/latest?cb=20230910112737", NBC Sport Peacock
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0045a118e231f1326bcdb45350b1ceaa:8c13afbfa54ea37a368b8b859021f6e3
@@ -72,50 +44,10 @@ https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/m
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
-https://akam.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
-#EXTINF:-1 group-title="SPORTS" tvg-id="TNTSports1.uk" tvg-logo="https://i.ibb.co/kqXTRqF/tntsp1.png",TNT SPORTS 1 🇬🇧
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d
-https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
-#EXTINF:-1 group-title="SPORTS" tvg-id="TNTSports2.uk" tvg-logo="https://i.ibb.co/ftMYw1j/tntsp2.png",TNT SPORTS 2 🇬🇧
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6d1708b185c6c4d7b37600520c7cc93c:1aace05f58d8edef9697fd52cb09f441
-https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
-#EXTINF:-1 group-title="SPORTS" tvg-id="TNTSports3.uk" tvg-logo="https://i.ibb.co/sQwLrNy/tntsp3.png",TNT SPORTS 3 🇬🇧
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4e993aa8c1f295f8b94e8e9e6f6d0bfe:86a1ed6e96caab8eb1009fe530d2cf4f
-https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
-#EXTINF:-1 group-title="SPORTS" tvg-id="TNTSports4.uk" tvg-logo="https://i.ibb.co/cwc9MzW/tntsp4.png",TNT SPORTS 4 🇬🇧
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e31a5a81caff5d07ea2411a571fc2e59:96c5ef69479732ae734f962748c19729
-https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
-#EXTINF:-1 group-title="SPORTS" tvg-id="TNTSports5.uk" tvg-logo="https://i.ibb.co/z7Vg6tQ/tntsp5.png",TNT SPORTS 5 🇬🇧
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=60c0d9b41475e01db4ffb91ed557fbcc:36ee40e58948ca15e3caba8d47b8f34b
-https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/gesdwrdncn/out/v1/79e752f1eccd4e18b6a8904a0bc01f2d/cenc.mpd
-#EXTINF:-1 tvg-id="SPOTV HD - [Channel 427].id" tvg-name="" group-title="MPD SPORT" tvg-logo="https://i.ibb.co.com/wRWZkWs/spotv.png",~~SPO TV 馃嚠馃嚛
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e60ece8f0d9042fcb52508055ec48e5e:213f438bd4961cda987d41b7f154f1e5
-https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd
-#EXTINF:-1 tvg-id="SPOTV 2 HD - [Channel 428].id" tvg-name="" group-title="MPD SPORT" tvg-logo="https://i.ibb.co.com/ZM8qx15/spotv2.png",~~SPO TV 2 馃嚠馃嚛
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e6ed3fdf6e9f491d9ead109fc0b00cfc:3bc6c45722eb5fa7b343de9bffc4f7c7
-https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd
-#EXTINF:-1,SkySp MainEvent
+https://akam.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd                                                                            #EXTINF:-1,SkySp MainEvent
+#EXTINF:-1,Sky Sports Main Event
 http://54.36.162.3/skspmainevent/index.m3u8
-#EXTINF:-1,SkySp Premier League
+#EXTINF:-1,Sky Sports Premier League
 http://54.36.162.3/sksppremierleague/index.m3u8
 #EXTINF:-1,Sky Sports Football
 http://54.36.162.3/skspfootball/index.m3u8
@@ -125,15 +57,13 @@ http://54.36.162.3/skspcricket/index.m3u8
 http://54.36.162.3/skspgolf/index.m3u8
 #EXTINF:-1,Sky Sports F1
 http://54.36.162.3/skspf1/index.m3u8
-#EXTINF:-1,Sky Sports NFL
-http://54.36.162.3/skspnfl/index.m3u8
 #EXTINF:-1,Sky Sports Arena
 http://54.36.162.3/sksparena/index.m3u8
-#EXTINF:-1,Sky Sp NewsHQ
+#EXTINF:-1,Sky Sports News
 http://54.36.162.3/skspnews/index.m3u8
 #EXTINF:-1,Sky Sports Mix
 http://54.36.162.3/spspmix/index.m3u8
-#EXTINF:-1,Sky Sport Tennis
+#EXTINF:-1,Sky Sports Tennis
 http://54.36.162.3/sktennis/index.m3u8
 #EXTINF:-1,Eurosport 1
 http://54.36.162.3/eurosp1/index.m3u8
@@ -153,24 +83,10 @@ http://54.36.162.3/mutv/index.m3u8
 http://54.36.162.3/lfctv/index.m3u8
 #EXTINF:-1,LaLiga TV
 http://54.36.162.3/laliga/index.m3u8
-#EXTINF:-1,Racing UKT
-http://54.36.162.3/racing/index.m3u8
 #EXTINF:-1,Premier Sports 1
 http://54.36.162.3/premiersp1/index.m3u8
 #EXTINF:-1,Premier Sports 2
 http://54.36.162.3/premiersp2/index.m3u8
-#EXTINF:-1,Premiere 1
-http://54.36.162.3/pr1/index.m3u8
-#EXTINF:-1,Premiere 2
-http://54.36.162.3/pr2/index.m3u8
-#EXTINF:-1,Premiere 3
-http://54.36.162.3/pr3/index.m3u8
-#EXTINF:-1,Premiere 4
-http://54.36.162.3/pr4/index.m3u8
-#EXTINF:-1,Premiere 5
-http://54.36.162.3/pr5/index.m3u8
-#EXTINF:-1,Premiere 6
-http://54.36.162.3/pr6/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", cg_hbohd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
