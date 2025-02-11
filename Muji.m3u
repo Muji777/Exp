@@ -1,16 +1,10 @@
 EXTM3U
 #EXTINF:-1,Bein Sports Xtra
 https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
-#EXTINF:-1,Travel Channel
-https://dplus.gammacdn.workers.dev/videos/110.m3u8
 #EXTINF:-1,Tennis Channel
 https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1,Travel XP
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1,Animal Planet
-https://cdn09jtedge.indihometv.com/joss/194/animalplanet/index.m3u8
-#EXTINF:-1,Discovery Asia
-https://cdn09jtedge.indihometv.com/joss/194/discoveryasia/index.m3u8
 #EXTINF:-1,Discovery Asia
 https://cdn08jtedge.indihometv.com/dassdvr/194/discoveryasia/manifest.mpd
 #EXTINF:-1,70's Music
@@ -77,12 +71,6 @@ http://54.36.162.3/tnt2/index.m3u8
 http://54.36.162.3/tnt3/index.m3u8
 #EXTINF:-1,TNT Sports 4
 http://54.36.162.3/tnt4/index.m3u8
-#EXTINF:-1,MUTV
-http://54.36.162.3/mutv/index.m3u8
-#EXTINF:-1,LFCTV
-http://54.36.162.3/lfctv/index.m3u8
-#EXTINF:-1,LaLiga TV
-http://54.36.162.3/laliga/index.m3u8
 #EXTINF:-1,Premier Sports 1
 http://54.36.162.3/premiersp1/index.m3u8
 #EXTINF:-1,Premier Sports 2
