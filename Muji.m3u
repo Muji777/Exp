@@ -7,6 +7,16 @@ https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1,Discovery Asia
 https://cdn08jtedge.indihometv.com/dassdvr/194/discoveryasia/manifest.mpd
+#EXTINF:-1,Animal Planet
+http://fl2.moveonjoy.com/Animal_Planet/index.m3u8
+#EXTINF:-1,HGTV
+http://fl5.moveonjoy.com/HGTV/index.m3u8
+#EXTINF:-1,Nat Geo Wild
+http://fl2.moveonjoy.com/Nat_Geo_Wild/index.m3u8
+#EXTINF:-1,TLC
+http://fl5.moveonjoy.com/TLC/index.m3u8
+#EXTINF:-1,CNN
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1,70's Music
 https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:-1,80's Music
