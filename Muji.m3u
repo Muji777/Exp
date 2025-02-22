@@ -49,44 +49,16 @@ https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/m
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
 https://akam.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd                                                                            
-#EXTINF:-1,BBC One
-http://54.36.162.3/bbcone/index.m3u8
-#EXTINF:-1,Sky Sports Main Event
-http://54.36.162.3/skspmainevent/index.m3u8
-#EXTINF:-1,Sky Sports Premier League
-http://54.36.162.3/sksppremierleague/index.m3u8
-#EXTINF:-1,Sky Sports Football
-http://54.36.162.3/skspfootball/index.m3u8
-#EXTINF:-1,Sky Sports Cricket
-http://54.36.162.3/skspcricket/index.m3u8
-#EXTINF:-1,Sky Sports Golf
-http://54.36.162.3/skspgolf/index.m3u8
-#EXTINF:-1,Sky Sports F1
-http://54.36.162.3/skspf1/index.m3u8
-#EXTINF:-1,Sky Sports Arena
-http://54.36.162.3/sksparena/index.m3u8
-#EXTINF:-1,Sky Sports News
-http://54.36.162.3/skspnews/index.m3u8
-#EXTINF:-1,Sky Sports Mix
-http://54.36.162.3/spspmix/index.m3u8
-#EXTINF:-1,Sky Sports Tennis
-http://54.36.162.3/sktennis/index.m3u8
-#EXTINF:-1,Eurosport 1
-http://54.36.162.3/eurosp1/index.m3u8
-#EXTINF:-1,Eurosport 2
-http://54.36.162.3/eurosp2/index.m3u8
-#EXTINF:-1,TNT Sports 1
-http://54.36.162.3/tnt1/index.m3u8
-#EXTINF:-1,TNT Sports 2
-http://54.36.162.3/tnt2/index.m3u8
-#EXTINF:-1,TNT Sports 3
-http://54.36.162.3/tnt3/index.m3u8
-#EXTINF:-1,TNT Sports 4
-http://54.36.162.3/tnt4/index.m3u8
-#EXTINF:-1,Premier Sports 1
-http://54.36.162.3/premiersp1/index.m3u8
-#EXTINF:-1,Premier Sports 2
-http://54.36.162.3/premiersp2/index.m3u8
+#EXTINF:-1 tvg-logo=" https://images.fubo.tv/channel-config-ui/station-logos/on-dark/willow_2023_primary-white.png" group-title="Cricket ",WILLOW CRICKET
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_key=59ed8dc9d4a48857ef8e5865919496cc:0d3680bd8b349deda8b7fdd1da71b7f8
+https://cors-proxy.cooks.fyi/https://dfwlive-v1-c1p3-sponsored.akamaized.net/Content/HLS.cps/Live/channel(WILLHD-3291.dfw.1080)/index.m3u8
+#EXTINF:-1 tvg-logo=" https://images.fubo.tv/channel-config-ui/station-logos/on-dark/willow_2023_primary-white_xtra.png " group-title="Cricket",WILLOW XTRA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_key=1f52934d28a25c51a5dd577a650dcece:323a46b02a31172c2475406e56fd3be6
+https://cors-proxy.cooks.fyi/https://dfwlive-v1-c1p3-sponsored.akamaized.net/Content/HLS.cps/Live/channel(WILLXT-3292.dfw.1080)/index.m3u8
 #EXTINF:-1,TSN 1
 http://fl5.moveonjoy.com/TSN_1/index.m3u8
 #EXTINF:-1,TSN 2
