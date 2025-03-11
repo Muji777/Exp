@@ -1,4 +1,22 @@
 #EXTM3U
+#EXTINF:-1,BBC Earth
+https://d3u3pfhhvuad9k.cloudfront.net/playlist/amg00793-bbcstudios-bbcearta-lgus/playlist.m3u8
+#EXTINF:-1,Sky Sports Action
+http://supersonictv.live:8080/144264/661943/78146
+#EXTINF:-1,Sky Sports Arena
+http://supersonictv.live:8080/144264/661943/78147
+#EXTINF:-1,Sky Sports Cricket
+http://supersonictv.live:8080/144264/661943/78148
+#EXTINF:-1,Sky Sports F1
+http://supersonictv.live:8080/144264/661943/78149
+#EXTINF:-1,Sky Sports Football
+http://supersonictv.live:8080/144264/661943/78150
+#EXTINF:-1,Sky Sports Main Event
+http://supersonictv.live:8080/144264/661943/78152
+#EXTINF:-1,Sky Sports News
+http://supersonictv.live:8080/144264/661943/78154
+#EXTINF:-1,Sky Sports Premiere League
+http://supersonictv.live:8080/144264/661943/78155
 #EXTINF:-1,TNT Sports 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d
