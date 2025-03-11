@@ -1,7 +1,25 @@
 #EXTM3U
 #EXTINF:-1,BBC Earth
 https://d3u3pfhhvuad9k.cloudfront.net/playlist/amg00793-bbcstudios-bbcearta-lgus/playlist.m3u8
-#EXTINF:-1,Willow Sports
+#EXTINF:-1,Espn 1
+http://68.233.120.207:9981/stream/channelid/482036141?profile=pass
+#EXTINF:-1,Espn 2
+http://68.233.120.207:9981/stream/channelid/2081017817?profile=pass
+#EXTINF:-1,Fox Sports 1
+http://68.233.120.207:9981/stream/channelid/1688000906?profile=pass
+#EXTINF:-1,Fox Sports 2
+http://68.233.120.207:9981/stream/channelid/1608406162?profile=pass
+#EXTINF:-1,Sky Sports Cricket
+http://68.233.120.207:9981/stream/channelid/1113175995?profile=pass
+#EXTINF:-1,Sky Sports Football
+http://68.233.120.207:9981/stream/channelid/2121191464?profile=pass
+#EXTINF:-1,Sky Sports Main Event
+http://68.233.120.207:9981/stream/channelid/1280109776?profile=pass
+#EXTINF:-1,Sky Sports Premiere League
+http://68.233.120.207:9981/stream/channelid/1463261559?profile=pass
+#EXTINF:-1,Sky Sports+
+http://68.233.120.207:9981/stream/channelid/816256022?profile=pass
+#EXTINF:-1,Astro Cricket
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=03c2e0af2f8159f9f0ce9b5dbc865f10:cd84ed136b0cc71f8ab8cd4d4f6a2e4c
 https://linearjitp-playback.pstvplaylive.online/dash-wv/linear/output/v/2504/ps_manifest.mpd
@@ -33,6 +51,8 @@ https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/o
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4e993aa8c1f295f8b94e8e9e6f6d0bfe:86a1ed6e96caab8eb1009fe530d2cf4f
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
+#EXTINF:-1,Tnt Sports 4
+http://68.233.120.207:9981/stream/channelid/129277441?profile=pass
 #EXTINF:-1,Bein Sports Xtra
 https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
 #EXTINF:-1,Tennis Channel
