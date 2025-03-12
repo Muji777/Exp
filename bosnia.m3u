@@ -1,0 +1,385 @@
+﻿#EXTM3U url-tvg="https://epg.serbianforum.org/losmij/epg.xml.gz"
+#EXTINF:-1 tvg-id="RTS 1 HD" tvg-logo="https://epg.serbianforum.org/logo_znaci_2/RTS%201.png" group-title="SRBIJA",RTS 1 HD
+http://nl.iptvsolution.info/rts1/mpegts?username=slavica&token=0e8de6bf0596e8b389edbe517255748b
+#EXTINF:-1 tvg-id="RTS 1 HD" tvg-logo="https://epg.serbianforum.org/logo_znaci_2/RTS%201.png" group-title="SRBIJA",RTS 1 HD
+http://nl.iptvsolution.info/rts1/mpegts?username=milinkovic.mara&token=d90f6ec602a20e2b2c9f79380e688df6
+#EXTINF:-1 tvg-id="RTS 2 HD" tvg-logo="https://epg.serbianforum.org/logo_znaci_2/RTS%202.png" group-title="SRBIJA",RTS 2 HD
+http://nl.iptvsolution.info/rts2/mpegts?username=slavica&token=0e8de6bf0596e8b389edbe517255748b
+#EXTINF:-1 tvg-id="RTS 2 HD" tvg-logo="https://epg.serbianforum.org/logo_znaci_2/RTS%202.png" group-title="SRBIJA",RTS 2 HD
+http://nl.iptvsolution.info/rts2/mpegts?username=milinkovic.mara&token=d90f6ec602a20e2b2c9f79380e688df6
+#EXTINF:-1 tvg-id="RTS 3 HD" tvg-logo="https://epg.serbianforum.org/logo_znaci_2/RTS%203.png" group-title="SRBIJA",RTS 3 HD
+http://nl.iptvsolution.info:80/rts3/mpegts?username=milinkovic.mara&token=d90f6ec602a20e2b2c9f79380e688df6
+#EXTINF:-1 tvg-id="RTS 3 HD" tvg-logo="https://epg.serbianforum.org/logo_znaci_2/RTS%203.png" group-title="SRBIJA",RTS 3 HD
+http://nl.iptvsolution.info/rts3/mpegts?username=slavica&token=0e8de6bf0596e8b389edbe517255748b
+#EXTINF:-1 tvg-id="RTS Drama" tvg-logo="https://s14.postimg.cc/tcfoiejgx/RTS_Drama.png" group-title="SRBIJA",RTS Drama
+http://nl.iptvsolution.info:8080/rtsdrama/mpegts?username=milinkovic.mara&token=d90f6ec602a20e2b2c9f79380e688df6
+#EXTINF:-1 tvg-id="RTS Život" tvg-logo="https://s14.postimg.cc/7q0o1iidd/RTS_Zivot.png" group-title="SRBIJA",RTS Život
+http://caffe.link:25461/basivityupdate/jebemimmatervise/5815
+#EXTINF:-1 tvg-id="RTS Trezor" tvg-logo="https://s14.postimg.cc/j2d9ja3wx/RTS_Trezor.png" group-title="SRBIJA",RTS Trezor
+http://nl.iptvsolution.info:8080/rtstrezor/mpegts?username=milinkovic.mara&token=d90f6ec602a20e2b2c9f79380e688df6
+#EXTINF:-1 tvg-id="RTS Muzika" tvg-logo="https://s14.postimg.cc/rxe3tqnjl/RTS_Muzika.png" group-title="SRBIJA",RTS Muzika
+http://185.243.7.151:80/play/live.php?mac=00:1A:79:4a:e8:3c&stream=161999&extension=ts&play_token=PEfFUSjYqR
+#EXTINF:-1 tvg-id="RTS  Kolo" tvg-logo="https://s14.postimg.cc/egh5au2xd/RTS_Kolo.png" group-title="SRBIJA",RTS Kolo
+http://nl.iptvsolution.info:8080/rtskolo/mpegts?username=milinkovic.mara&token=d90f6ec602a20e2b2c9f79380e688df6
+#EXTINF:-1 tvg-id="B92" tvg-logo="https://s14.postimg.cc/vfq3qeysx/image.png" group-title="SRBIJA",B92
+http://nl.iptvsolution.info/B92/mpegts?username=slavica&token=0e8de6bf0596e8b389edbe517255748b
+#EXTINF:-1 tvg-id="B92" tvg-logo="https://s14.postimg.cc/vfq3qeysx/image.png" group-title="SRBIJA",B92
+http://nl.iptvsolution.info:80/B92/mpegts?username=milinkovic.mara&token=d90f6ec602a20e2b2c9f79380e688df6
+#EXTINF:-1 tvg-id="Prva HD (SR)" tvg-logo="https://epg.serbianforum.org/logo_znaci_2/Prva.png" group-title="SRBIJA",PRVA HD
+http://nl.iptvsolution.info:80/prvaTv/mpegts?username=milinkovic.mara&token=d90f6ec602a20e2b2c9f79380e688df6
+#EXTINF:-1 tvg-id="Prva HD (SR)" tvg-logo="https://epg.serbianforum.org/logo_znaci_2/Prva.png" group-title="SRBIJA",PRVA HD
+http://nl.iptvsolution.info/prvaTv/mpegts?username=slavica&token=0e8de6bf0596e8b389edbe517255748b
+#EXTINF:-1 tvg-id="Prva plus" tvg-logo="https://epg.serbianforum.org/logo_znaci_2/Prva%20Plus.png" group-title="SRBIJA",PRVA PLUS HD
+http://nl.iptvsolution.info/prvaplus/mpegts?username=slavica&token=0e8de6bf0596e8b389edbe517255748b
+#EXTINF:-1 tvg-id="Prva Kick" tvg-logo="https://s14.postimg.cc/8saujww01/Prva_Kick.png" group-title="SRBIJA",Prva Kick
+http://nl.iptvsolution.info:8080/prvakick/mpegts?username=milinkovic.mara&token=d90f6ec602a20e2b2c9f79380e688df6
+#EXTINF:-1 tvg-id="NOVA S HD" tvg-logo="https://epg.serbianforum.org/logo_znaci_2//Nova%20TV.png" group-title="SRBIJA",NOVA S HD
+http://nl.iptvsolution.info/toptv/mpegts?username=slavica&token=0e8de6bf0596e8b389edbe517255748b
+#EXTINF:-1 tvg-id="NOVA S HD" tvg-logo="https://epg.serbianforum.org/logo_znaci_2//Nova%20TV.png" group-title="SRBIJA",NOVA S HD
+http://nl.iptvsolution.info:8080/toptv/mpegts?username=milinkovic.mara&token=d90f6ec602a20e2b2c9f79380e688df6
+#EXTINF:-1 tvg-id="Happy" tvg-logo="https://epg.serbianforum.org/logo_znaci_2/Happy%20TV.png" group-title="SRBIJA",Happy
+http://nl.iptvsolution.info:80/Happy/mpegts?username=milinkovic.mara&token=d90f6ec602a20e2b2c9f79380e688df6
+#EXTINF:-1 tvg-id="Happy" tvg-logo="https://epg.serbianforum.org/logo_znaci_2/Happy%20TV.png" group-title="SRBIJA",Happy
+http://nl.iptvsolution.info/Happy/mpegts?username=slavica&token=0e8de6bf0596e8b389edbe517255748b
+#EXTINF:-1 tvg-id="Pink HD" tvg-logo="https://epg.serbianforum.org/logo_znaci_2/Pink%201.png" group-title="SRBIJA",PINK HD
+http://nl.iptvsolution.info:80/pink1/mpegts?username=milinkovic.mara&token=d90f6ec602a20e2b2c9f79380e688df6
+#EXTINF:-1 tvg-id="Pink HD" tvg-logo="https://epg.serbianforum.org/logo_znaci_2/Pink%201.png" group-title="SRBIJA",PINK HD
+http://nl.iptvsolution.info/pink1/mpegts?username=slavica&token=0e8de6bf0596e8b389edbe517255748b
+
+#EXTINF:-1 tvg-id="SK HD" tvg-logo="https://epg.serbianforum.org/logo_znaci_2/Sport%20Klub%20HD.png" group-title="SPORT",SK HD
+http://nl.iptvsolution.info/skhd/mpegts?username=slavica&token=0e8de6bf0596e8b389edbe517255748b
+#EXTINF:-1 tvg-id="Sport Klub 1" tvg-logo="https://epg.serbianforum.org/logo_znaci_2/Sport%20Klub%201%20HD.png" group-title="SPORT",Sport Klub 1
+http://nl.iptvsolution.info:80/sk1/mpegts?username=milinkovic.mara&token=d90f6ec602a20e2b2c9f79380e688df6
+#EXTINF:-1 tvg-id="Sport Klub 2" tvg-logo="https://epg.serbianforum.org/logo_znaci_2/Sport%20Klub%202%20HD.png" group-title="SPORT",Sport Klub 2
+http://nl.iptvsolution.info:80/sk2/mpegts?username=slavica&token=0e8de6bf0596e8b389edbe517255748b
+#EXTINF:-1 tvg-id="Sport Klub 3" tvg-logo="https://epg.serbianforum.org/logo_znaci_2/Sport%20Klub%203%20HD.png" group-title="SPORT",Sport Klub 3
+http://nl.iptvsolution.info/sk3/mpegts?username=slavica&token=0e8de6bf0596e8b389edbe517255748b
+#EXTINF:-1 tvg-id="Sport Klub 1" tvg-logo="https://epg.serbianforum.org/logo_znaci_2//Sport%20Klub%201%20HD.png" group-title="SPORT",Sport Klub 1 HR
+http://nl.iptvsolution.info/sk1hr/mpegts?username=slavica&token=0e8de6bf0596e8b389edbe517255748b
+#EXTINF:-1 tvg-id="Sport Klub 2" tvg-logo="https://epg.serbianforum.org/logo_znaci_2//Sport%20Klub%202%20HD.png" group-title="SPORT",Sport Klub 2 HR
+http://nl.iptvsolution.info/sk2hr/mpegts?username=slavica&token=0e8de6bf0596e8b389edbe517255748b
+#EXTINF:-1 tvg-id="Sport Klub 3" tvg-logo="https://epg.serbianforum.org/logo_znaci_2//Sport%20Klub%203%20HD.png" group-title="SPORT",Sport Klub 3 HR
+http://nl.iptvsolution.info:80/sk3/mpegts?username=milinkovic.mara&token=d90f6ec602a20e2b2c9f79380e688df6
+#EXTINF:-1 tvg-id="Sport Klub 1" tvg-logo="https://epg.serbianforum.org/logo_znaci_2/Sport%20Klub%201%20HD.png" group-title="SPORT",Sport Klub 1 HD
+http://nl.iptvsolution.info/sk1/mpegts?username=slavica&token=0e8de6bf0596e8b389edbe517255748b
+#EXTINF:-1 tvg-id="Sport Klub 2" tvg-logo="https://epg.serbianforum.org/logo_znaci_2/Sport%20Klub%202%20HD.png" group-title="SPORT",Sport Klub 2 HD
+http://nl.iptvsolution.info:80/sk2/mpegts?username=milinkovic.mara&token=d90f6ec602a20e2b2c9f79380e688df6
+#EXTINF:-1 tvg-id="Sport Klub 3" tvg-logo="https://epg.serbianforum.org/logo_znaci_2/Sport%20Klub%203%20HD.png" group-title="SPORT",Sport Klub 3 HD
+http://nl.iptvsolution.info:80/sk3/mpegts?username=milinkovic.mara&token=d90f6ec602a20e2b2c9f79380e688df6
+#EXTINF:-1 tvg-id="Arena Premium 1 (SN)" tvg-logo="https://i.postimg.cc/xCYcHtxX/Arena-Sport-1-Premium-RS-logo.png" group-title="SPORT",ARENA 1 PREMIUM HD
+http://nl.iptvsolution.info/arena1/mpegts?username=slavica&token=0e8de6bf0596e8b389edbe517255748b
+#EXTINF:-1 tvg-id="Arena Premium 2 (SN)" tvg-logo="https://i.postimg.cc/1t9344X6/Arena-Sport-2-Premium-RS-logo.png" group-title="SPORT",ARENA 2 PREMIUM HD
+http://nl.iptvsolution.info/arena2/mpegts?username=slavica&token=0e8de6bf0596e8b389edbe517255748b
+#EXTINF:-1 tvg-id="Arena Premium 3 (SN)" tvg-logo="https://i.postimg.cc/Y0PrX33f/Arena-Sport-3-Premium-RS-logo.png" group-title="SPORT",ARENA 3 PREMIUM HD
+http://nl.iptvsolution.info/arena3/mpegts?username=slavica&token=0e8de6bf0596e8b389edbe517255748b
+#EXTINF:-1 tvg-id="Arena Premium 1 (SN)" tvg-logo="https://i.postimg.cc/xCYcHtxX/Arena-Sport-1-Premium-RS-logo.png" group-title="SPORT",ARENA 1 PREMIUM HD
+http://nl.iptvsolution.info/arena1/mpegts?username=milinkovic.mara&token=d90f6ec602a20e2b2c9f79380e688df6
+#EXTINF:-1 tvg-id="Arena Premium 2 (SN)" tvg-logo="https://i.postimg.cc/1t9344X6/Arena-Sport-2-Premium-RS-logo.png" group-title="SPORT",ARENA 2 PREMIUM HD
+http://nl.iptvsolution.info/arena2/mpegts?username=milinkovic.mara&token=d90f6ec602a20e2b2c9f79380e688df6
+#EXTINF:-1 tvg-id="Arena Premium 3 (SN)" tvg-logo="https://i.postimg.cc/Y0PrX33f/Arena-Sport-3-Premium-RS-logo.png" group-title="SPORT",ARENA 3 PREMIUM HD
+http://nl.iptvsolution.info/arena3/mpegts?username=milinkovic.mara&token=d90f6ec602a20e2b2c9f79380e688df6
+#EXTINF:-1 tvg-id="Arena Sport 1 HD (SN)" tvg-logo="https://i.postimg.cc/br7LwK5D/Arena-1.png" group-title="SPORT",ARENA SPORT 1 HD
+http://nl.iptvsolution.info/arena1hr/mpegts?username=slavica&token=0e8de6bf0596e8b389edbe517255748b
+#EXTINF:-1 tvg-id="Arena Sport 2 HD (SN)" tvg-logo="https://i.postimg.cc/1XvnW6G9/Arena-2.png" group-title="SPORT",ARENA SPORT 2 HD
+http://nl.iptvsolution.info:80/arena2hr/mpegts?username=milinkovic.mara&token=d90f6ec602a20e2b2c9f79380e688df6
+#EXTINF:-1 tvg-id="Arena Sport 3 HD (SN)" tvg-logo="https://i.postimg.cc/0N3qCNML/Arena-3.png" group-title="SPORT",ARENA SPORT 3 HD
+http://nl.iptvsolution.info:80/arena3hr/mpegts?username=milinkovic.mara&token=d90f6ec602a20e2b2c9f79380e688df6
+#EXTINF:-1 tvg-id="Arena Sport 4 HD (SN)" tvg-logo="https://i.postimg.cc/yNDMWzQn/Arena-4.png" group-title="SPORT",ARENA SPORT 4 HD
+http://nl.iptvsolution.info:80/arena4/mpegts?username=milinkovic.mara&token=d90f6ec602a20e2b2c9f79380e688df6
+#EXTINF:-1 tvg-id="Arena Sport 5 HD (SN)" tvg-logo="https://i.postimg.cc/hvcZ8Frk/Arena-5.png" group-title="SPORT",ARENA SPORT 5 HD
+http://nl.iptvsolution.info/arena5/mpegts?username=slavica&token=0e8de6bf0596e8b389edbe517255748b
+#EXTINF:-1 tvg-id="Eurosport 1 (SR)" tvg-logo="https://epg.serbianforum.org/logo_znaci_2/Eurosport%201.png" group-title="SPORT",EUROSPORT 1 HD
+http://nl.iptvsolution.info/Eurosport1/mpegts?username=slavica&token=0e8de6bf0596e8b389edbe517255748b
+#EXTINF:-1 tvg-id="Eurosport 2 (SR)" tvg-logo="https://epg.serbianforum.org/logo_znaci_2/Eurosport%202.png" group-title="SPORT",EUROSPORT 2 HD
+http://nl.iptvsolution.info/Eurosport2/mpegts?username=slavica&token=0e8de6bf0596e8b389edbe517255748b
+#EXTINF:-1 tvg-id="Eurosport 1 (SR)" tvg-logo="https://epg.serbianforum.org/logo_znaci_2/Eurosport%201.png" group-title="SPORT",EUROSPORT 1 HD
+http://nl.iptvsolution.info/Eurosport1/mpegts?username=milinkovic.mara&token=d90f6ec602a20e2b2c9f79380e688df6
+#EXTINF:-1 tvg-id="Eurosport 2 (SR)" tvg-logo="https://epg.serbianforum.org/logo_znaci_2/Eurosport%202.png" group-title="SPORT",EUROSPORT 2 HD
+http://nl.iptvsolution.info/Eurosport2/mpegts?username=milinkovic.mara&token=d90f6ec602a20e2b2c9f79380e688df6
+
+#EXTINF:-1 tvg-id="Viasat History HD"  tvg-logo="https://epg.serbianforum.org/logo_znaci_2/Viasat%20History.png" group-title="DOKUMENTARNI",Viasat History HD
+http://nl.iptvsolution.info:80/viasathistory/mpegts?username=milinkovic.mara&token=d90f6ec602a20e2b2c9f79380e688df6
+#EXTINF:-1 tvg-id="Viasat Nature HD"  tvg-logo="https://epg.serbianforum.org/logo_znaci_2/Viasat%20Nature.png" group-title="DOKUMENTARNI",Viasat Nature HD
+http://nl.iptvsolution.info:80/visatnature/mpegts?username=slavica&token=0e8de6bf0596e8b389edbe517255748b
+#EXTINF:-1 tvg-id="History"  tvg-logo="https://epg.serbianforum.org/logo_znaci_2/History%20Channel.png" group-title="DOKUMENTARNI",History
+http://nl.iptvsolution.info/HistoryChannel/mpegts?username=slavica&token=0e8de6bf0596e8b389edbe517255748b
+#EXTINF:-1 tvg-id="Discovery Channel HD"  tvg-logo="https://epg.serbianforum.org/logo_znaci_2/Discovery%20Channel.png" group-title="DOKUMENTARNI",Discovery Channel HD
+http://nl.iptvsolution.info/discovery/mpegts?username=slavica&token=0e8de6bf0596e8b389edbe517255748b
+#EXTINF:-1 tvg-id="Lov i Ribolov"  tvg-logo="https://epg.serbianforum.org/logo_znaci_2/Lov%20I%20Ribolov.png" group-title="DOKUMENTARNI",Lov i Ribolov
+http://nl.iptvsolution.info/loviribolov/mpegts?username=slavica&token=0e8de6bf0596e8b389edbe517255748b
+#EXTINF:-1 tvg-id="TLC"  tvg-logo="https://epg.serbianforum.org/logo_znaci_3/TLC.png" group-title="DOKUMENTARNI",TLC
+http://nl.iptvsolution.info/tlc/mpegts?username=slavica&token=0e8de6bf0596e8b389edbe517255748b
+#EXTINF:-1 tvg-id="Crime&amp;Investigation"  tvg-logo="https://epg.serbianforum.org/logo_znaci_2/Crime%20&%20Investigation.png" group-title="DOKUMENTARNI",Crime  Investigation
+http://nl.iptvsolution.info:80/Crime&InvestigationNetwork/mpegts?username=milinkovic.mara&token=d90f6ec602a20e2b2c9f79380e688df6
+#EXTINF:-1 tvg-id="Investigation Discovery"  tvg-logo="https://epg.serbianforum.org/logo_znaci_2/investigation%20discovery.png" group-title="DOKUMENTARNI",Investigation Discovery
+http://nl.iptvsolution.info:80/discaveryid/mpegts?username=slavica&token=0e8de6bf0596e8b389edbe517255748b
+
+#EXTINF:-1 tvg-id="Pink Film"  tvg-logo="https://epg.serbianforum.org/logo_znaci_2/Pink%20Film.png" group-title="FILM",Pink Film
+http://nl.iptvsolution.info:80/PinkFilm/mpegts?username=milinkovic.mara&token=d90f6ec602a20e2b2c9f79380e688df6
+#EXTINF:-1 tvg-id="Pink Premium HD"  tvg-logo="https://epg.serbianforum.org/logo_znaci_2//Pink%20Premium.png" group-title="FILM",Pink Premium HD
+http://nl.iptvsolution.info/PinkPremium/mpegts?username=slavica&token=0e8de6bf0596e8b389edbe517255748b
+#EXTINF:-1 tvg-id="Pink Comedy"  tvg-logo="https://epg.serbianforum.org/logo_znaci_2//Pink%20Comedy.png" group-title="FILM",Pink Comedy
+http://nl.iptvsolution.info:80/PinkComedy/mpegts?username=milinkovic.mara&token=d90f6ec602a20e2b2c9f79380e688df6
+#EXTINF:-1 tvg-id="SUPERSTAR"  tvg-logo="https://epg.serbianforum.org/logo_znaci_2/star%20television.png" group-title="FILM",SUPERSTAR
+http://nl.iptvsolution.info:8080/superstar/mpegts?username=milinkovic.mara&token=d90f6ec602a20e2b2c9f79380e688df6
+#EXTINF:-1 tvg-id="HBO"  tvg-logo="https://epg.serbianforum.org/logo_znaci_2/HBO.png" group-title="FILM",HBO HD
+http://nl.iptvsolution.info/hboadria/mpegts?username=slavica&token=0e8de6bf0596e8b389edbe517255748b
+#EXTINF:-1 tvg-id="HBO2" tvg-logo="https://epg.serbianforum.org/logo_znaci_2/HBO.png" group-title="FILM",HBO 2 HD
+http://nl.iptvsolution.info:80/hbo2/mpegts?username=milinkovic.mara&token=d90f6ec602a20e2b2c9f79380e688df6
+#EXTINF:-1 tvg-id="HBO3" tvg-logo="https://epg.serbianforum.org/logo_znaci_2/HBO.png" group-title="FILM",HBO 3 HD
+http://nl.iptvsolution.info:80/hbo3/mpegts?username=milinkovic.mara&token=d90f6ec602a20e2b2c9f79380e688df6
+#EXTINF:-1 tvg-id="a10r"  tvg-logo="https://epg.serbianforum.org/logo_znaci_2/Cinemax%201.png" group-title="FILM",CINEMAX HD
+http://nl.iptvsolution.info/Cinemax1/mpegts?username=slavica&token=0e8de6bf0596e8b389edbe517255748b
+#EXTINF:-1 tvg-id="a10s"  tvg-logo="https://epg.serbianforum.org/logo_znaci_2/Cinemax%202.png" group-title="FILM",CINEMAX 2 HD
+http://nl.iptvsolution.info:80/Cinemax2/mpegts?username=milinkovic.mara&token=d90f6ec602a20e2b2c9f79380e688df6
+#EXTINF:-1 tvg-id="CineStar TV 1 HD (SR)"  tvg-logo="https://epg.serbianforum.org/logo_znaci_2/CineStar%20TV.png" group-title="FILM",CINESTAR TV SR
+http://nl.iptvsolution.info:80/cinestartv/mpegts?username=milinkovic.mara&token=d90f6ec602a20e2b2c9f79380e688df6
+#EXTINF:-1 tvg-id="CineStar TV Premiere 1"  tvg-logo="https://epg.serbianforum.org/logo_znaci_2/Cinestar%20premiere%201%20HD.png" group-title="FILM",CINESTAR PREMIERE 1 HD
+http://nl.iptvsolution.info/CineStarPremiere/mpegts?username=slavica&token=0e8de6bf0596e8b389edbe517255748b
+#EXTINF:-1 tvg-id="CineStar TV Premiere 2"  tvg-logo="https://epg.serbianforum.org/logo_znaci_2/Cinestar%20premiere%202%20HD.png" group-title="FILM",CINESTAR PREMIERE 2 HD
+http://nl.iptvsolution.info:80/CineStarPremiere2/mpegts?username=milinkovic.mara&token=d90f6ec602a20e2b2c9f79380e688df6
+#EXTINF:-1 tvg-id="STAR HD (INT)"  tvg-logo="https://epg.serbianforum.org/logo_znaci_2/FOX.png" group-title="FILM",STAR HD
+http://nl.iptvsolution.info/fox/mpegts?username=slavica&token=0e8de6bf0596e8b389edbe517255748b
+#EXTINF:-1 tvg-id="STAR Movies HD (INT)"  tvg-logo="https://epg.serbianforum.org/logo_znaci_2/FOX%20Movies.png" group-title="FILM",STAR Movies HD
+http://nl.iptvsolution.info/foxmovies/mpegts?username=slavica&token=0e8de6bf0596e8b389edbe517255748b
+#EXTINF:-1 tvg-id="STAR Life HD (INT)"  tvg-logo="https://epg.serbianforum.org/logo_znaci_2/FOX%20Life.png" group-title="FILM",STAR Life HD
+http://nl.iptvsolution.info:80/foxlife/mpegts?username=milinkovic.mara&token=d90f6ec602a20e2b2c9f79380e688df6
+#EXTINF:-1 tvg-id="STAR Crime"  tvg-logo="https://epg.serbianforum.org/logo_znaci_2/FOX%20Crime.png" group-title="FILM",STAR Crime HD
+http://nl.iptvsolution.info/foxcrime/mpegts?username=milinkovic.mara&token=d90f6ec602a20e2b2c9f79380e688df6
+#EXTINF:-1 tvg-id="SciFi FHD"  tvg-logo="https://epg.serbianforum.org/logo_znaci_2/SciFi.png" group-title="FILM",Sci Fi
+http://nl.iptvsolution.info:80/SciFi/mpegts?username=slavica&token=0e8de6bf0596e8b389edbe517255748b
+
+#EXTINF:-1 tvg-id="MTV Hits" tvg-logo="https://i.postimg.cc/zvkBTVDp/MTV-90s.png" group-title="MUZIKA",MTV Hits
+http://nl.iptvsolution.info:80/MTVHits/mpegts?username=milinkovic.mara&token=d90f6ec602a20e2b2c9f79380e688df6
+#EXTINF:-1 tvg-id="a186" tvg-logo="https://epg.serbianforum.org/logo_znaci_2/CMC.png" group-title="MUZIKA",CMC
+http://nl.iptvsolution.info/CMC/mpegts?username=slavica&token=0e8de6bf0596e8b389edbe517255748b
+#EXTINF:-1 tvg-id="a0cx" tvg-logo="https://epg.serbianforum.org/logo_znaci_2/Pink%20Music%201.png" group-title="MUZIKA",PINK MUSIC
+http://nl.iptvsolution.info/PinkMusic/mpegts?username=slavica&token=0e8de6bf0596e8b389edbe517255748b
+#EXTINF:-1 tvg-id="DM-SAT" tvg-logo="https://epg.serbianforum.org/logo_znaci_2/DM%20Sat.png" group-title="MUZIKA",DM SAT
+http://nl.iptvsolution.info:80/DMSat/mpegts?username=milinkovic.mara&token=d90f6ec602a20e2b2c9f79380e688df6
+#EXTINF:-1 tvg-id="hayat-music" tvg-logo="https://epg.serbianforum.org/logo_znaci_2/Hayat%20Music.png" group-title="MUZIKA",HAYAT MUSIC
+http://nl.iptvsolution.info:80/hayatMusic/mpegts?username=milinkovic.mara&token=d90f6ec602a20e2b2c9f79380e688df6
+
+#EXTINF:-1 tvg-id="Minimax" tvg-logo="https://epg.serbianforum.org/logo_znaci_2/Minimax.png" group-title="DEČIJI",Minimax
+http://nl.iptvsolution.info/Minimax/mpegts?username=slavica&token=0e8de6bf0596e8b389edbe517255748b
+#EXTINF:-1 tvg-id="Nickelodeon" tvg-logo="https://epg.serbianforum.org/logo_znaci_2/Nickelodeon.png" group-title="DEČIJI",Nickelodeon
+http://nl.iptvsolution.info:80/Nickelodeon/mpegts?username=milinkovic.mara&token=d90f6ec602a20e2b2c9f79380e688df6
+#EXTINF:-1 tvg-id="HAYATOVCI (SN)" tvg-logo="https://epg.serbianforum.org/logo_znaci_2/Hayatovci.png" group-title="DEČIJI",Hayatovci
+http://nl.iptvsolution.info:80/Hayatovci/mpegts?username=milinkovic.mara&token=d90f6ec602a20e2b2c9f79380e688df6
+
+#EXTINF:-1 tvg-id="HRT-1-HD" tvg-logo="https://epg.serbianforum.org/logo_znaci_2/HRT%201.png" group-title="HRVATSKA",HRT-TV1 HD
+http://nl.iptvsolution.info/Hrt1/mpegts?username=slavica&token=0e8de6bf0596e8b389edbe517255748b
+#EXTINF:-1 tvg-id="HRT-2-HD" tvg-logo="https://epg.serbianforum.org/logo_znaci_2/HRT%202.png" group-title="HRVATSKA",HRT-TV2 HD
+http://nl.iptvsolution.info/hrt2/mpegts?username=slavica&token=0e8de6bf0596e8b389edbe517255748b
+#EXTINF:-1 tvg-id="HRT-3-HD" tvg-logo="https://epg.serbianforum.org/logo_znaci_2/HRT%203.png" group-title="HRVATSKA",HRT-TV3 HD
+http://nl.iptvsolution.info/htr3/mpegts?username=milinkovic.mara&token=d90f6ec602a20e2b2c9f79380e688df6
+#EXTINF:-1 tvg-id="HRT-4-HD" tvg-logo="https://epg.serbianforum.org/logo_znaci_2/HRT%204.png" group-title="HRVATSKA",HRT-TV4 HD
+http://nl.iptvsolution.info/htr4/mpegts?username=milinkovic.mara&token=d90f6ec602a20e2b2c9f79380e688df6
+#EXTINF:-1 tvg-id="RTL-HD" tvg-logo="https://epg.serbianforum.org/logo_znaci_2/RTL.png" group-title="HRVATSKA",RTL HD
+http://nl.iptvsolution.info/rtl/mpegts?username=milinkovic.mara&token=d90f6ec602a20e2b2c9f79380e688df6
+#EXTINF:-1 tvg-id="RTL-2-HD" tvg-logo="https://epg.serbianforum.org/logo_znaci_2/RTL%202.png" group-title="HRVATSKA",RTL 2
+http://nl.iptvsolution.info/rtl2/mpegts?username=milinkovic.mara&token=d90f6ec602a20e2b2c9f79380e688df6
+#EXTINF:-1 tvg-id="Nova TV_max" tvg-logo="https://epg.serbianforum.org/logo_znaci_2/Nova%20TV.png" group-title="HRVATSKA",Nova TV
+http://nl.iptvsolution.info/novatv/mpegts?username=slavica&token=0e8de6bf0596e8b389edbe517255748b
+#EXTINF:-1 tvg-id="Doma TV_max" tvg-logo="https://epg.serbianforum.org/logo_znaci_2/Doma%20TV.png" group-title="HRVATSKA",Doma TV
+http://nl.iptvsolution.info/doma/mpegts?username=slavica&token=0e8de6bf0596e8b389edbe517255748b
+
+#EXTINF:-1 tvg-id="BHT 1_max" tvg-logo="https://epg.serbianforum.org/logo_znaci_2/BHT%201.png" group-title="BOSNA",BHT 1
+http://nl.iptvsolution.info/bht1/mpegts?username=slavica&token=0e8de6bf0596e8b389edbe517255748b
+#EXTINF:-1 tvg-id="RTRS (SN)" tvg-logo="https://epg.serbianforum.org/logo_znaci_2/RTRS.png" group-title="BOSNA",RTRS
+http://nl.iptvsolution.info/RTRS/mpegts?username=slavica&token=0e8de6bf0596e8b389edbe517255748b
+#EXTINF:-1 tvg-id="FTV TV" tvg-logo="https://epg.serbianforum.org/logo_znaci_2/Federalna%20TV.png" group-title="BOSNA",FEDERALNA TV
+http://nl.iptvsolution.info/federalnatv/mpegts?username=slavica&token=0e8de6bf0596e8b389edbe517255748b
+#EXTINF:-1 tvg-id="BN (SN)" tvg-logo="https://epg.serbianforum.org/logo_znaci_2/BN%20tv.png" group-title="BOSNA",BN
+http://nl.iptvsolution.info:80/BN/mpegts?username=milinkovic.mara&token=d90f6ec602a20e2b2c9f79380e688df6
+#EXTINF:-1 tvg-id="Nova BH HD" tvg-logo="https://epg.serbianforum.org/logo_znaci_2/Nova%20TV.png" group-title="BOSNA",NOVA BH
+http://nl.iptvsolution.info:80/PinkBH/mpegts?username=milinkovic.mara&token=d90f6ec602a20e2b2c9f79380e688df6
+#EXTINF:-1 tvg-id="OBN (SN)" tvg-logo="https://epg.serbianforum.org/logo_znaci_2/OBN.png" group-title="BOSNA",OBN
+http://nl.iptvsolution.info/OBN/mpegts?username=slavica&token=0e8de6bf0596e8b389edbe517255748b
+#EXTINF:-1 tvg-id="Face TV (SN)" tvg-logo="https://epg.serbianforum.org/logo_znaci_2/Face%20TV.png" group-title="BOSNA",FACE TV
+http://nl.iptvsolution.info/faceTv/mpegts?username=slavica&token=0e8de6bf0596e8b389edbe517255748b
+#EXTINF:-1 tvg-id="HAYAT HD (SN)" tvg-logo="https://epg.serbianforum.org/logo_znaci_2/Hayat%20TV.png" group-title="BOSNA",HAYAT
+http://nl.iptvsolution.info/hayatTv/mpegts?username=slavica&token=0e8de6bf0596e8b389edbe517255748b
+
+#EXTINF:-1 tvg-id="RTCG Sat" tvg-logo="https://epg.serbianforum.org/logo_znaci_2/RTCG%20Sat.png" group-title="CRNA GORA",RTCG SAT
+http://nl.iptvsolution.info/RTCG/mpegts?username=slavica&token=0e8de6bf0596e8b389edbe517255748b
+#EXTINF:-1 tvg-id="PRVA CG (SN)" tvg-logo="https://epg.serbianforum.org/logo_znaci_2/Prva.png" group-title="CRNA GORA",PRVA (CG)
+http://nl.iptvsolution.info:8080/kanalM/mpegts?username=milinkovic.mara&token=d90f6ec602a20e2b2c9f79380e688df6
+
+
+#EXTINF:-1 tvg-id="N1 RS" tvg-logo="https://epg.serbianforum.org/logo_znaci_2/N1.png" group-title="VESTI",N1 HD
+https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1srp&u=n1info&p=n1Sh4redSecre7iNf0
+#EXTINF:-1 tvg-id="N1 HD (SR)" tvg-logo="https://epg.serbianforum.org/logo_znaci_2/N1.png" group-title="VESTI",N1
+http://nl.iptvsolution.info:80/n1/mpegts?username=milinkovic.mara&token=d90f6ec602a20e2b2c9f79380e688df6
+#EXTINF:-1 tvg-id="N1 HD (SR)" tvg-logo="https://epg.serbianforum.org/logo_znaci_2/N1.png" group-title="VESTI",N1
+http://nl.iptvsolution.info/n1/mpegts?username=slavica&token=0e8de6bf0596e8b389edbe517255748b
+#EXTINF:-1 tvg-id="Al Jazeera Balkans HD" tvg-logo="https://epg.serbianforum.org/logo_znaci_2/Al%20Jazeera%20Balkans.png" group-title="VESTI",Al Jazeera Balkans HD
+http://nl.iptvsolution.info/AlJazeeraBalkans/mpegts?username=slavica&token=0e8de6bf0596e8b389edbe517255748b
+
+#EXTINF:-1 group-title="KAMERE",OPŠTINA NOVI BEOGRAD
+https://streamer.devnet.rs/hls/opstinanbg.m3u8
+#EXTINF:-1 group-title="KAMERE",ŽELEZNIČKA
+https://streamer.devnet.rs/hls/zeleznicka.m3u8
+#EXTINF:-1 group-title="KAMERE",JURIJA GAGARINA
+https://streamer.devnet.rs/hls/gagarina.m3u8
+#EXTINF:-1 group-title="KAMERE",PANČEVAC
+https://streamer.devnet.rs/hls/pancevac.m3u8
+#EXTINF:-1 group-title="KAMERE",GAZELA
+https://streamer.devnet.rs/hls/gazela.m3u8
+#EXTINF:-1 group-title="KAMERE",TAKOVSKA
+https://streamer.devnet.rs/hls/takovska.m3u8
+#EXTINF:-1 group-title="KAMERE",MIHAJLA PUPINA
+https://streamer.devnet.rs/hls/pupina.m3u8
+#EXTINF:-1 group-title="KAMERE",AUTOKOMANDA
+https://streamer.devnet.rs/hls/autokomanda.m3u8
+#EXTINF:-1 group-title="KAMERE",TRG REPUBLIKE
+https://streamer.devnet.rs/hls/trgrepublike.m3u8
+#EXTINF:-1 group-title="KAMERE",SLAVIJA
+https://streamer.devnet.rs/hls/slavija.m3u8
+#EXTINF:-1 group-title="KAMERE",MOST NA ADI
+https://streamer.devnet.rs/hls/ada.m3u8
+#EXTINF:-1 group-title="KAMERE",DESPOTA STEFANA
+https://streamer.devnet.rs/hls/despotastefana.m3u8
+#EXTINF:-1 group-title="KAMERE",BOGOSLOVIJA
+https://streamer.devnet.rs/hls/bogoslovija.m3u8
+#EXTINF:-1 group-title="KAMERE",GENEX
+https://streamer.devnet.rs/hls/genex.m3u8
+#EXTINF:-1 group-title="KAMERE",NEMANJINA
+https://streamer.devnet.rs/hls/nemanjina.m3u8
+#EXTINF:-1 group-title="KAMERE",TRG NIKOLE PAŠIĆA
+https://streamer.devnet.rs/hls/trgnikole.m3u8
+#EXTINF:-1 group-title="KAMERE",VUKOV SPOMENIK
+https://streamer.devnet.rs/hls/vuk.m3u8
+#EXTINF:-1 group-title="KAMERE",BRANKOV MOST
+https://streamer.devnet.rs/hls/brankov.m3u8
+
+#EXTINF:-1 tvg-id="Pink Erotic" tvg-logo="https://epg.serbianforum.org/logo_znaci_2/Pink%20Erotic.png" group-title="ADULT",Pink Erotic
+http://caffe.link:25461/basivityupdate/jebemimmatervise/1714
+#EXTINF:-1 tvg-id="Pink Erotic 2" tvg-logo="https://epg.serbianforum.org/logo_znaci_2/Pink%20Erotic%202.png" group-title="ADULT",Pink Erotic 2
+http://caffe.link:25461/basivityupdate/jebemimmatervise/1713
+#EXTINF:-1 tvg-id="Pink Erotic 3" tvg-logo="https://epg.serbianforum.org/logo_znaci_2/Pink%20Erotic%203.png" group-title="ADULT",Pink Erotic 3
+http://caffe.link:25461/basivityupdate/jebemimmatervise/4817
+#EXTINF:-1 tvg-id="Pink Erotic 4" tvg-logo="https://epg.serbianforum.org/logo_znaci_2/Pink%20Erotic%204.png" group-title="ADULT",Pink Erotic 4
+http://caffe.link:25461/basivityupdate/jebemimmatervise/4818
+#EXTINF:-1 tvg-id="Pink Erotic 5" tvg-logo="https://epg.serbianforum.org/logo_znaci_2/Pink%20Erotic%205.png" group-title="ADULT",Pink Erotic 5
+http://caffe.link:25461/basivityupdate/jebemimmatervise/4819
+#EXTINF:-1 tvg-id="Pink Erotic 6" tvg-logo="https://epg.serbianforum.org/logo_znaci_2/Pink%20Erotic%206.png" group-title="ADULT",Pink Erotic 6
+http://caffe.link:25461/basivityupdate/jebemimmatervise/1715
+#EXTINF:-1 tvg-id="Pink Erotic 7" tvg-logo="https://epg.serbianforum.org/logo_znaci_2/Pink%20Erotic%207.png" group-title="ADULT",Pink Erotic 7
+http://caffe.link:25461/basivityupdate/jebemimmatervise/4823
+#EXTINF:-1 tvg-id="Pink Erotic 8" tvg-logo="https://epg.serbianforum.org/logo_znaci_2/Pink%20Erotic%208.png" group-title="ADULT",Pink Erotic 8
+http://localiptv.site:85/IptvGold32/39WQdhhfjklaaIWiDJQJEIslakwkxZ/1352
+#EXTINF:-1 tvg-id="Dorcel" tvg-logo="https://epg.serbianforum.org/logo_znaci_2/Dorcel.png" group-title="ADULT",DORCEL HD
+http://caffe.link:25461/basivityupdate/jebemimmatervise/1717
+#EXTINF:-1 tvg-id="Milf TV" tvg-logo="https://epg.serbianforum.org/logo_znaci_2/Dorcel.png" group-title="ADULT",Dorcel xxx
+http://play.vipmediagroup.org:25461/live/039test-mk@aaa/03a9test-amk@aaa23ass/16604.ts
+#EXTINF:-1 tvg-id="Milf TV" tvg-logo="https://epg.serbianforum.org/logo_znaci_2/Adult%20channel.png" group-title="ADULT",Redlight HD
+http://caffe.link:25461/basivityupdate/jebemimmatervise/4820
+#EXTINF:-1 tvg-id="BRAZZERS TV" tvg-logo="https://epg.serbianforum.org/logo_znaci_2/Brazzers.png" group-title="ADULT",BRAZZERS TV
+http://caffe.link:25461/basivityupdate/jebemimmatervise/1718
+#EXTINF:-1 tvg-id="Milf TV" tvg-logo="https://epg.serbianforum.org/logo_znaci_2/Pinko%20TV.png" group-title="ADULT",Dusk TV
+http://play.vipmediagroup.org:25461/live/039test-mk@aaa/03a9test-amk@aaa23ass/16606.ts
+#EXTINF:-1 tvg-id="HUSTLER HD" tvg-logo="https://epg.serbianforum.org/logo_znaci_2/Hustler.png" group-title="ADULT",Hustler
+http://caffe.link:25461/basivityupdate/jebemimmatervise/1716
+#EXTINF:-1 tvg-id="Milf TV" tvg-logo="https://epg.serbianforum.org/logo_znaci_2/Hustler%20HD.png" group-title="ADULT",Hustler HD
+http://localiptv.site:85/IptvGold32/39WQdhhfjklaaIWiDJQJEIslakwkxZ/1579
+#EXTINF:-1 tvg-id="Milf TV" tvg-logo="https://epg.serbianforum.org/logo_znaci_2/Private.png" group-title="ADULT",Private TV
+http://localiptv.site:85/IptvGold32/39WQdhhfjklaaIWiDJQJEIslakwkxZ/1337
+#EXTINF:-1 tvg-id="Milf TV" tvg-logo="https://epg.serbianforum.org/logo_znaci_2/Adult%20channel.png" group-title="ADULT",Hot
+http://localiptv.site:85/IptvGold32/39WQdhhfjklaaIWiDJQJEIslakwkxZ/1360
+#EXTINF:-1 tvg-id="DUSK TV" tvg-logo="https://epg.serbianforum.org/logo_znaci_2/Dusk.png" group-title="ADULT",Hot Pleasure
+http://play.vipmediagroup.org:25461/live/039test-mk@aaa/03a9test-amk@aaa23ass/16611.ts
+#EXTINF:-1 tvg-id="Milf TV" tvg-logo="https://epg.serbianforum.org/logo_znaci_2/Adult%20channel.png" group-title="ADULT",PENTHOUSE QUICKIES
+http://caffe.link:25461/basivityupdate/jebemimmatervise/4822
+#EXTINF:-1 tvg-id="Milf TV" tvg-logo="https://epg.serbianforum.org/logo_znaci_2/Adult%20channel.png" group-title="ADULT",Evil Angel
+http://localiptv.site:85/CSiptv1230/DjwuHUgq28ZhsXqW0KhfQ/1580
+#EXTINF:-1 tvg-id="Milf TV" tvg-logo="https://epg.serbianforum.org/logo_znaci_2/Eroxxx%20HD.png" group-title="ADULT",Milf TV
+http://play.vipmediagroup.org:25461/live/039test-mk@aaa/03a9test-amk@aaa23ass/16577.ts
+#EXTINF:-1 tvg-id="Milf TV" tvg-logo="https://epg.serbianforum.org/logo_znaci_2/Adult%20channel.png" group-title="ADULT",Reality Kings
+http://localiptv.site:85/IptvGold32/39WQdhhfjklaaIWiDJQJEIslakwkxZ/1375
+#EXTINF:-1 tvg-id="Milf TV" tvg-logo="https://epg.serbianforum.org/logo_znaci_2/Adult%20channel.png" group-title="ADULT",Vivid
+http://localiptv.site:85/IptvGold32/39WQdhhfjklaaIWiDJQJEIslakwkxZ/1379
+
+#EXTINF:-1 radio="true" tvg-id="Radio Beograd 1 (SN)"  tvg-logo="https://epg.serbianforum.org/logo_znaci/Radio%20Beograd%201.png" group-title="RADIO" ,Radio Beograd 1
+https://rtsradio-live.morescreens.com/RTS_2_001/playlist.m3u8
+#EXTINF:-1 radio="true" tvg-id="Radio Beograd 2 (SN)"  tvg-logo="https://epg.serbianforum.org/logo_znaci/Radio%20Beograd%202.png" group-title="RADIO" ,Radio Beograd 2
+https://rtsradio-live.morescreens.com/RTS_2_002/playlist.m3u8
+#EXTINF:-1 radio="true" tvg-id="Radio 202 (SN)"  tvg-logo="https://epg.serbianforum.org/logo_znaci/Radio%20Beograd%20202.png" group-title="RADIO" ,Radio Beograd 202
+https://rtsradio-live.morescreens.com/RTS_2_004/playlist.m3u8
+#EXTINF:-1 radio="true" tvg-id="Play Radio (SN)"  tvg-logo="https://epg.serbianforum.org/logo_znaci/Radio%20B92.png" group-title="RADIO" ,Play Radio
+https://stream.playradio.rs:8443/play.aac
+#EXTINF:-1 radio="true" tvg-id="Nova S Radio"  tvg-logo="https://epg.serbianforum.org/logo_znaci_2//Nova%20TV.png" group-title="RADIO" ,Nova S Radio
+http://radio.novas.tv/novas.mp3
+#EXTINF:-1 radio="true" tvg-id="Radio S1 (SN)"  tvg-id="Radio S"  tvg-logo="https://epg.serbianforum.org/logo_znaci/Radio%20S.png" group-title="RADIO" ,Radio S1
+https://53be5ef2d13aa.streamlock.net/asmedia/radios/playlist.m3u8
+#EXTINF:-1 radio="true" tvg-id="Radio S2 (SN)"  tvg-logo="https://epg.serbianforum.org/logo_znaci/Radio%20S.png" group-title="RADIO" ,Radio S2
+https://53be5ef2d13aa.streamlock.net/asmedia/index/playlist.m3u8
+#EXTINF:-1 radio="true" tvg-id="Radio S3 (SN)"  tvg-logo="https://epg.serbianforum.org/logo_znaci/Radio%20S.png" group-title="RADIO" ,Radio S3
+https://53be5ef2d13aa.streamlock.net/asmedia/pingvin/playlist.m3u8
+#EXTINF:-1 radio="true" tvg-id="Radio S4 (SN)"  tvg-logo="https://epg.serbianforum.org/logo_znaci/Radio%20S.png" group-title="RADIO" ,Radio S4
+https://53be5ef2d13aa.streamlock.net/asmedia/gradski/playlist.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://epg.serbianforum.org/logo_znaci/Radio%20S.png" group-title="RADIO" ,Radio S EX YU
+https://5bc45691ca49f.streamlock.net/asmedia/radio_s_ex_yu/playlist.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://epg.serbianforum.org/logo_znaci/Radio%20S.png" group-title="RADIO" ,Radio S Narodna
+https://53be5ef2d13aa.streamlock.net/asmedia/radio_s_kafana/playlist.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://epg.serbianforum.org/logo_znaci/Radio%20S.png" group-title="RADIO" ,Radio S Južni
+https://5bc45691ca49f.streamlock.net/asmedia/radio_s_juzni/playlist.m3u8
+#EXTINF:-1 radio="true" tvg-id="Radio Studio B (SN)"  tvg-logo="https://epg.serbianforum.org/logo_znaci/Radio%20Studio%20B.png" group-title="RADIO" ,Radio Studio B
+http://radio.studiob.rs:8004/;*.mp3
+#EXTINF:-1 tvg-logo="https://epg.serbianforum.org/logo_znaci/Radio.png" group-title="RADIO" ,Radio Karolina
+https://streaming.karolina.rs/karolina.mp3
+#EXTINF:-1 tvg-logo="https://epg.serbianforum.org/logo_znaci/Radio.png" group-title="RADIO" ,Radio JAT
+https://streaming.radiojat.rs/radiojat.mp3
+#EXTINF:-1 tvg-logo="https://epg.serbianforum.org/logo_znaci/Radio.png" group-title="RADIO" ,Prvi Radio
+https://mastermedia.shoutca.st/proxy/prviradioue?mp=/stream
+#EXTINF:-1 tvg-logo="https://epg.serbianforum.org/logo_znaci/Radio.png" group-title="RADIO" ,Radio Užice
+http://uzice.yunethosting.net:8000/stream
+#EXTINF:-1 tvg-logo="https://epg.serbianforum.org/logo_znaci/Radio.png" group-title="RADIO" ,Požega Radio
+http://vs4885.cloudhosting.rs:8000/stream
+#EXTINF:-1 tvg-logo="https://epg.serbianforum.org/logo_znaci/Radio.png" group-title="RADIO" ,Radio Zlatibor
+http://213.239.205.210:8082/stream
+#EXTINF:-1 tvg-logo="https://epg.serbianforum.org/logo_znaci/Radio.png" group-title="RADIO" ,Radio Glas Drine
+http://109.105.201.90:8028/;*.mp3
+#EXTINF:-1 tvg-logo="https://epg.serbianforum.org/logo_znaci/Radio.png" group-title="RADIO" ,Radio Dženarika
+http://stream.dzenarika.net:8000/stream
+#EXTINF:-1 radio="true" tvg-id="Radio TDI (SN)"  tvg-logo="https://epg.serbianforum.org/logo_znaci/Radio.png" group-title="RADIO" ,TDI Radio
+http://streaming.tdiradio.com:8000/tdiradio.mp3
+#EXTINF:-1 tvg-logo="https://epg.serbianforum.org/logo_znaci/Radio.png" group-title="RADIO" ,TDI Domaća Muzika
+http://streaming.tdiradio.com/domacica.mp3
+#EXTINF:-1 tvg-logo="https://epg.serbianforum.org/logo_znaci/Radio.png" group-title="RADIO" ,TDI Love Radio
+http://streaming.tdiradio.com:8000/love.mp3
+#EXTINF:-1 tvg-logo="https://epg.serbianforum.org/logo_znaci/Radio.png" group-title="RADIO" ,TDI Top 40
+http://streaming.tdiradio.com/top40.mp3
+#EXTINF:-1 radio="true" tvg-id="Radio Naxi (SN)"  tvg-logo="https://epg.serbianforum.org/logo_znaci/Radio.png" group-title="RADIO" ,NAXI RADIO
+http://naxi128.streaming.rs:9150/;*.mp3
+#EXTINF:-1 tvg-logo="https://epg.serbianforum.org/logo_znaci/Radio.png" group-title="RADIO" ,NAXI CAFE RADIO
+http://naxidigital-cafe128.streaming.rs:8020/;*.mp3
+#EXTINF:-1 tvg-logo="https://epg.serbianforum.org/logo_znaci/Radio.png" group-title="RADIO" ,NAXI ROCK RADIO
+http://naxidigital-rock128.streaming.rs:8180/;*.mp3
+#EXTINF:-1 tvg-logo="https://epg.serbianforum.org/logo_znaci/Radio.png" group-title="RADIO" ,NAXI CLASSIC RADIO
+http://109.206.96.34:8030/;*.mp3
+#EXTINF:-1 tvg-logo="https://epg.serbianforum.org/logo_znaci/Radio.png" group-title="RADIO" ,NAXI CLUBBING RADIO
+http://naxidigital-clubbing128.streaming.rs:8090/;*.mp3
+#EXTINF:-1 tvg-logo="https://epg.serbianforum.org/logo_znaci/Radio.png" group-title="RADIO" ,NAXI DANCE RADIO
+http://naxidigital-dance128.streaming.rs:8110/;*.mp3
+#EXTINF:-1 tvg-logo="https://epg.serbianforum.org/logo_znaci/Radio.png" group-title="RADIO" ,NAXI HOUSE RADIO
+http://naxidigital-house128.streaming.rs:8000/;*.mp3
+#EXTINF:-1 tvg-logo="https://epg.serbianforum.org/logo_znaci/Radio.png" group-title="RADIO" ,NAXI R´N´B RADIO
+http://109.206.96.34:8120/;*.mp3
+#EXTINF:-1 tvg-logo="https://epg.serbianforum.org/logo_znaci/Radio.png" group-title="RADIO" ,NAXI BOEM RADIO
+http://109.206.96.18:8050/;*.mp3
+#EXTINF:-1 tvg-logo="https://epg.serbianforum.org/logo_znaci/Radio.png" group-title="RADIO" ,NAXI 80-e RADIO
+http://naxidigital-80s128.streaming.rs:8040/;*.mp3
+#EXTINF:-1 tvg-logo="https://epg.serbianforum.org/logo_znaci/Radio.png" group-title="RADIO" ,NAXI EVERGREEN RADIO
+http://naxidigital-evergreen128.streaming.rs:8010/;*.mp3
+#EXTINF:-1 tvg-logo="https://epg.serbianforum.org/logo_znaci/Radio.png" group-title="RADIO" ,NAXI GOLD RADIO
+http://109.206.96.18:8060/;*.mp3
+#EXTINF:-1 tvg-logo="https://epg.serbianforum.org/logo_znaci/Radio.png" group-title="RADIO" ,NAXI LOVE RADIO
+http://naxidigital128.kbcnet.rs:8100/;*.mp3
+#EXTINF:-1 tvg-logo="https://epg.serbianforum.org/logo_znaci/Radio.png" group-title="RADIO" ,NAXI JAZZ RADIO
+http://naxidigital-jazz128.streaming.rs:8170/;*.mp3
+#EXTINF:-1 tvg-logo="https://epg.serbianforum.org/logo_znaci/Radio.png" group-title="RADIO" ,NAXI KIDS RADIO
+http://naxidigital-kids128.streaming.rs:8050/;*.mp3
+#EXTINF:-1 tvg-logo="https://epg.serbianforum.org/logo_znaci/Radio.png" group-title="RADIO" ,NOSTALGIJA RADIO
+http://nostalgie128.streaming.rs:9250/;*.mp3
+
