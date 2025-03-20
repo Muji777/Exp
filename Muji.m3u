@@ -19,26 +19,6 @@ http://68.233.120.207:9981/stream/channelid/1280109776?profile=pass
 http://68.233.120.207:9981/stream/channelid/1463261559?profile=pass
 #EXTINF:-1,Sky Sports+
 http://68.233.120.207:9981/stream/channelid/816256022?profile=pass
-#EXTINF:-1,Astro Cricket
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=03c2e0af2f8159f9f0ce9b5dbc865f10:cd84ed136b0cc71f8ab8cd4d4f6a2e4c
-https://linearjitp-playback.pstvplaylive.online/dash-wv/linear/output/v/2504/ps_manifest.mpd
-#EXTINF:-1,Sky Sports Action
-http://supersonictv.live:8080/144264/661943/78146
-#EXTINF:-1,Sky Sports Arena
-http://supersonictv.live:8080/144264/661943/78147
-#EXTINF:-1,Sky Sports Cricket
-http://supersonictv.live:8080/144264/661943/78148
-#EXTINF:-1,Sky Sports F1
-http://supersonictv.live:8080/144264/661943/78149
-#EXTINF:-1,Sky Sports Football
-http://supersonictv.live:8080/144264/661943/78150
-#EXTINF:-1,Sky Sports Main Event
-http://supersonictv.live:8080/144264/661943/78152
-#EXTINF:-1,Sky Sports News
-http://supersonictv.live:8080/144264/661943/78154
-#EXTINF:-1,Sky Sports Premiere League
-http://supersonictv.live:8080/144264/661943/78155
 #EXTINF:-1,TNT Sports 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d
@@ -121,10 +101,7 @@ https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/m
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0045a118e231f1326bcdb45350b1ceaa:8c13afbfa54ea37a368b8b859021f6e3
 https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(knbc)/master.mpd
-#EXTINF:-1, Amazon Cricket
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=44f6a1e5467d4df7a9da2d1b96ee62ca:157d3d7156dd1b288d661d453dbfc682
-https://live-streaming-rsm.azureedge.net/snwlh/snwlh_cenc.isml/.mpd
+
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://static.wikia.nocookie.net/youtube/images/2/22/NBC.jpg/revision/latest?cb=20230910112737", NBC Sport Peacock
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0045a118e231f1326bcdb45350b1ceaa:8c13afbfa54ea37a368b8b859021f6e3
