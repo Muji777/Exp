@@ -1,6 +1,16 @@
 #EXTM3U
 #EXTINF:-1,BBC Earth
 https://d3u3pfhhvuad9k.cloudfront.net/playlist/amg00793-bbcstudios-bbcearta-lgus/playlist.m3u8
+#EXTINF:-1, Premier Sports 1
+http://68.233.120.207:9981/stream/channelid/647079268?profile=pass
+#EXTINF:-1, Premier Sports 2
+http://68.233.120.207:9981/stream/channelid/92233700?profile=pass
+#EXTINF:-1, Bein Sports 1
+http://68.233.120.207:9981/stream/channelid/1714019902?profile=pass
+#EXTINF:-1, Bein Sports 2
+http://68.233.120.207:9981/stream/channelid/695305181?profile=pass
+#EXTINF:-1, Bein Sports 3
+http://68.233.120.207:9981/stream/channelid/1001832667?profile=pass
 #EXTINF:-1,Espn 1
 http://68.233.120.207:9981/stream/channelid/482036141?profile=pass
 #EXTINF:-1,Espn 2
