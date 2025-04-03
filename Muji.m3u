@@ -3,26 +3,12 @@
 https://d3u3pfhhvuad9k.cloudfront.net/playlist/amg00793-bbcstudios-bbcearta-lgus/playlist.m3u8
 #EXTINF:-1,Willow Tv
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=19896467d408dc81a34ddefd80410a59:dd813fa1b9791bbeb62e2bc04d6c3a8c
-https://aba72ykaaaaaaaamfeij3yx4iyey4.fdb30eb8a5974deea1252630f787072b.emt.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/fk4shupy6g/out/v1/d19f6bba494a4848b4073cd60c04a038/cenc.mpd
-#EXTINF:-1,Willow Tv
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=55c7316a7e8cfff31f421cda939aab76:74d97fd894ee4de60c8a4aeb005deced
-https://a179aivottepl-a.akamaihd.net/lhr-nitro/live/clients/dash/enc/nbjeiqzxcd/out/v1/4f87be97f6c14dbd91163d2396a15a1c/cenc.mpd
-#EXTINF:-1,Willow Tv
-#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1779c27b9d077a3ba0c9cc1bb9a94b9f:cc5cf3b7928fb9e0a1ee6a8b566f0a8e
 https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/clients/dash/enc/f60kqesunw/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
 #EXTINF:-1, Premier Sports 1
 http://68.233.120.207:9981/stream/channelid/647079268?profile=pass
 #EXTINF:-1, Premier Sports 2
 http://68.233.120.207:9981/stream/channelid/92233700?profile=pass
-#EXTINF:-1, Bein Sports 1
-http://68.233.120.207:9981/stream/channelid/1714019902?profile=pass
-#EXTINF:-1, Bein Sports 2
-http://68.233.120.207:9981/stream/channelid/695305181?profile=pass
-#EXTINF:-1, Bein Sports 3
-http://68.233.120.207:9981/stream/channelid/1001832667?profile=pass
 #EXTINF:-1,Espn 1
 http://68.233.120.207:9981/stream/channelid/482036141?profile=pass
 #EXTINF:-1,Espn 2
@@ -129,7 +115,6 @@ https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/m
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0045a118e231f1326bcdb45350b1ceaa:8c13afbfa54ea37a368b8b859021f6e3
 https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(knbc)/master.mpd
-
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://static.wikia.nocookie.net/youtube/images/2/22/NBC.jpg/revision/latest?cb=20230910112737", NBC Sport Peacock
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0045a118e231f1326bcdb45350b1ceaa:8c13afbfa54ea37a368b8b859021f6e3
