@@ -1,6 +1,10 @@
 #EXTM3U
 #EXTINF:-1,BBC Earth
 https://d3u3pfhhvuad9k.cloudfront.net/playlist/amg00793-bbcstudios-bbcearta-lgus/playlist.m3u8
+#EXTINF:-1,IPL 2025
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3939a9f4ca47ad3feebd7062939d6621:ddc77a322af12e2e955e0a3b7df76a1e
+https://ABGQJFUAAAAAAAAMJ5XWFJGF673WK.955b1eb24af546b682010f3149a1c6d1.emt.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/osghbqtswt/out/v1/bb336e2e60e744b2a48a6b88b8857a5e/cenc.mpd
 #EXTINF:-1,Willow Tv
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1779c27b9d077a3ba0c9cc1bb9a94b9f:cc5cf3b7928fb9e0a1ee6a8b566f0a8e
