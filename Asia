@@ -521,78 +521,8 @@ https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_aljazeera.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-#EXTINF:-1 tvg-id="kbsworldph1" tvg-name="KBS WORLD (CON)" tvg-logo="https://i.imgur.com/0xo8Ivs.png" group-title="🇵🇭 CIGNAL INTERNATIONAL",KBS WORLD (CON)
-http://143.44.136.113:6910/001/2/ch00000090990000001353/manifest.mpd?virtualDomain=001.live_hls.zte.com
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=22ff2347107e4871aa423bea9c2bd363:c6e7ba2f48b3a3b8269e8bc360e60404
-#EXTINF:-1 tvg-id="kbsworldph2" tvg-name="KBS WORLD (CIG)" tvg-logo="https://i.imgur.com/fx1Y2Eh.png" group-title="🇵🇭 CIGNAL INTERNATIONAL",KBS WORLD (CIG)
-https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_kbsworld.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-#EXTINF:-1 tvg-id="kbs2" tvg-name="KBS 2" tvg-logo="https://i.imgur.com/0xo8Ivs.png" group-title="🇵🇭 CIGNAL INTERNATIONAL",KBS 2
-http://143.44.136.110:6910/001/2/ch00000090990000001344/manifest.mpd?virtualDomain=001.live_hls.zte.com
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-#EXTINF:-1 tvg-id="kbsjoy" tvg-name="KBS JOY" tvg-logo="https://i.imgur.com/0xo8Ivs.png" group-title="🇵🇭 CIGNAL INTERNATIONAL",KBS JOY
-http://143.44.136.110:6910/001/2/ch00000090990000001123/manifest.mpd?virtualDomain=001.live_hls.zte.com
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-#EXTINF:-1 tvg-id="kixph1" tvg-name="KIX (CON)" tvg-logo="https://i.imgur.com/0xo8Ivs.png" group-title="🇵🇭 CIGNAL INTERNATIONAL",KIX (CON)
-http://143.44.136.110:6910/001/2/ch00000090990000001263/manifest.mpd?virtualDomain=001.live_hls.zte.com
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=a8d5712967cd495ca80fdc425bc61d6b:f248c29525ed4c40cc39baeee9634735
-#EXTINF:-1 tvg-id="kixph2" tvg-name="KIX (CIG)" tvg-logo="https://i.imgur.com/fx1Y2Eh.png" group-title="🇵🇭 CIGNAL INTERNATIONAL",KIX (CIG)
-https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/kix_hd1.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-#EXTINF:-1 tvg-id="techstormph" tvg-name="TECH STORM (CON)" tvg-logo="https://i.imgur.com/0xo8Ivs.png" group-title="🇵🇭 CIGNAL INTERNATIONAL",TECH STORM (CON)
-http://143.44.136.110:6910/001/2/ch00000090990000001328/manifest.mpd?virtualDomain=001.live_hls.zte.com
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=5675d85ce6754ba6aa8f6acc4660f76f:140bfb365cf143c349f68699238a610c
-#EXTINF:-1 tvg-id="techstormph2" tvg-name="TECH STORM (CIG)" tvg-logo="https://i.imgur.com/fx1Y2Eh.png" group-title="🇵🇭 CIGNAL INTERNATIONAL",TECH STORM (CIG)
-https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tech_storm.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-#EXTINF:-1 tvg-id="fashiontvph1" tvg-name="FASHION TV (CON)" tvg-logo="https://i.imgur.com/0xo8Ivs.png" group-title="🇵🇭 CIGNAL INTERNATIONAL",FASHION TV (CON)
-http://143.44.136.110:6910/001/2/ch00000090990000001102/manifest.mpd?virtualDomain=001.live_hls.zte.com
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=971ebbe2d887476398e97c37e0c5c591:472aa631b1e671070a4bf198f43da0c7
-#EXTINF:-1 tvg-id="fashiontvph2" tvg-name="FASHION TV (CIG)" tvg-logo="https://i.imgur.com/fx1Y2Eh.png" group-title="🇵🇭 CIGNAL INTERNATIONAL",FASHION TV (CIG)
-https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_fashiontvhd.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 #EXTINF:-1 tvg-id="nhkworldjap" tvg-name="NHK WORLD" tvg-logo="https://i.imgur.com/0xo8Ivs.png" group-title="🇵🇭 CIGNAL INTERNATIONAL",NHK WORLD
 http://143.44.136.110:6910/001/2/ch00000090990000001145/manifest.mpd?virtualDomain=001.live_hls.zte.com
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-#EXTINF:-1 tvg-id="kbskorea" tvg-name="KBS KOREA" tvg-logo="https://i.imgur.com/0xo8Ivs.png" group-title="🇵🇭 CIGNAL INTERNATIONAL",KBS KOREA
-http://143.44.136.110:6910/001/2/ch00000090990000001246/manifest.mpd?virtualDomain=001.live_hls.zte.com
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-#EXTINF:-1 tvg-id="xingkong" tvg-name="XINGKONG" tvg-logo="https://i.imgur.com/0xo8Ivs.png" group-title="🇵🇭 CIGNAL INTERNATIONAL",XINGKONG
-http://143.44.136.110:6910/001/2/ch00000090990000001337/manifest.mpd?virtualDomain=001.live_hls.zte.com
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-#EXTINF:-1 tvg-id="bspjapan" tvg-name="BS PREMIUM" tvg-logo="https://i.imgur.com/0xo8Ivs.png" group-title="🇵🇭 CIGNAL INTERNATIONAL",BS PREMIUM
-http://143.44.136.110:6910/001/2/ch00000090990000001165/manifest.mpd?virtualDomain=001.live_hls.zte.com
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-#EXTINF:-1 tvg-id="gtvkorea" tvg-name="GTV" tvg-logo="https://i.imgur.com/0xo8Ivs.png" group-title="🇵🇭 CIGNAL INTERNATIONAL",GTV
-http://143.44.136.110:6910/001/2/ch00000090990000001164/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
