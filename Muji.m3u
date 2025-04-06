@@ -1,15 +1,15 @@
 #EXTM3U
 #EXTINF:-1,BBC Earth
 https://d3u3pfhhvuad9k.cloudfront.net/playlist/amg00793-bbcstudios-bbcearta-lgus/playlist.m3u8
-#EXTINF:-1, Sony Ten 1
+#EXTINF:-1,Sony Ten 1
 https://kodonolonz.serv00.net/tol/mbut/Sonyten1.m3u8
-#EXTINF:-1, Sony Ten 2
+#EXTINF:-1,Sony Ten 2
 https://kodonolonz.serv00.net/tol/mbut/Sonyten2.m3u8
-#EXTINF:-1, Sony Ten 3
+#EXTINF:-1,Sony Ten 3
 https://kodonolonz.serv00.net/tol/mbut/Sonyten3.m3u8
-#EXTINF:-1, Sony Ten 4
+#EXTINF:-1,Sony Ten 4
 https://kodonolonz.serv00.net/tol/mbut/Sonyten4.m3u8
-#EXTINF:-1, Sony Ten 5
+#EXTINF:-1,Sony Ten 5
 https://kodonolonz.serv00.net/tol/mbut/Sonyten5.m3u8
 #EXTINF:-1,IPL 2025
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -19,7 +19,7 @@ https://ABGQJFUAAAAAAAAMJ5XWFJGF673WK.955b1eb24af546b682010f3149a1c6d1.emt.cf.ww
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1779c27b9d077a3ba0c9cc1bb9a94b9f:cc5cf3b7928fb9e0a1ee6a8b566f0a8e
 https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/clients/dash/enc/f60kqesunw/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
-#EXTINF:-1, Premier Sports 1
+#EXTINF:-1,Premier Sports 1
 http://68.233.120.207:9981/stream/channelid/647079268?profile=pass
 #EXTINF:-1, Premier Sports 2
 http://68.233.120.207:9981/stream/channelid/92233700?profile=pass
@@ -94,21 +94,22 @@ http://xlpore-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1,Dubai One
 https://dminnvllta.cdn.mgmlcdn.com/dubaione/smil:dubaione.stream.smil/chunklist.m3u8
 #EXTINF:-1,Sky Sports NZ 1
-http://donelfantastic.github.io/live/skysportsNz1.m3u8
+https://7pal.short.gy/skyspt1nz
 #EXTINF:-1,Sky Sports NZ 2
-http://donelfantastic.github.io/live/skysportsNz2.m3u8
+https://7pal.short.gy/skyspt2nz
 #EXTINF:-1,Sky Sports NZ 3
-http://donelfantastic.github.io/live/skysportsNz3.m3u8
+https://7pal.short.gy/skyspt3nz
 #EXTINF:-1,Sky Sports NZ 4
-http://donelfantastic.github.io/live/skysportsNz4.m3u8
+https://7pal.short.gy/skyspt4nz
 #EXTINF:-1,Sky Sports NZ 5
-http://donelfantastic.github.io/live/skysportsNz5.m3u8
+https://7pal.short.gy/skyspt5nz
 #EXTINF:-1,Sky Sports NZ 6
-http://donelfantastic.github.io/live/skysportsNz6.m3u8
+https://7pal.short.gy/skyspt6nz
 #EXTINF:-1,Sky Sports NZ 7
-http://donelfantastic.github.io/live/skysportsNz7.m3u8
+https://7pal.short.gy/skyspt7nz
 #EXTINF:-1,Sky Sports NZ 8
-http://donelfantastic.github.io/live/skysportsNz8.m3u8
+https://7pal.short.gy/skyspt8nz
+
 #EXTINF:-1,Sky Sports NZ 9
 http://donelfantastic.github.io/live/skysportsNz9.m3u8
 #EXTINF:-1,Ten Cricket
