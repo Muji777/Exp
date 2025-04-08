@@ -1,16 +1,6 @@
-j#EXTM3U
+#EXTM3U
 #EXTINF:-1,BBC Earth
 https://d3u3pfhhvuad9k.cloudfront.net/playlist/amg00793-bbcstudios-bbcearta-lgus/playlist.m3u8
-#EXTINF:-1,Sony Ten 1
-https://kodonolonz.serv00.net/tol/mbut/Sonyten1.m3u8
-#EXTINF:-1,Sony Ten 2
-https://kodonolonz.serv00.net/tol/mbut/Sonyten2.m3u8
-#EXTINF:-1,Sony Ten 3
-https://kodonolonz.serv00.net/tol/mbut/Sonyten3.m3u8
-#EXTINF:-1,Sony Ten 4
-https://kodonolonz.serv00.net/tol/mbut/Sonyten4.m3u8
-#EXTINF:-1,Sony Ten 5
-https://kodonolonz.serv00.net/tol/mbut/Sonyten5.m3u8
 #EXTINF:-1,Willow Tv
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1779c27b9d077a3ba0c9cc1bb9a94b9f:cc5cf3b7928fb9e0a1ee6a8b566f0a8e
