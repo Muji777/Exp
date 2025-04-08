@@ -1,10 +1,6 @@
 #EXTM3U
 #EXTINF:-1,BBC Earth
 https://d3u3pfhhvuad9k.cloudfront.net/playlist/amg00793-bbcstudios-bbcearta-lgus/playlist.m3u8
-#EXTINF:-1,Fox Sports 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2fbdaa3bea0d0323ae011b318d1db716:8726ef7eaf5b9dce15fb6aa9f80bd53f
-https://ottb.live.cf.ww.aiv-cdn.net.../v1/f7892a9d706d419a846d738fa22ea33e/cenc.mpd
 #EXTINF:-1,Sony Ten 1
 https://kodonolonz.serv00.net/tol/mbut/Sonyten1.m3u8
 #EXTINF:-1,Sony Ten 2
