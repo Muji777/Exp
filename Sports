@@ -108,19 +108,6 @@ http://fl2.moveonjoy.com/NBC_SPORTS_NETWORK/index.m3u8
 http://crnaudovica.xyz:8000/EuroSport%201?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
 #EXTINF:-1,Eurosport 2
 http://crnaudovica.xyz:8000/EuroSport%202?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
-
-#EXTINF:-1,Premier Sports 1
-http://68.233.120.207:9981/stream/channelid/647079268?profile=pass
-#EXTINF:-1, Premier Sports 2
-http://68.233.120.207:9981/stream/channelid/92233700?profile=pass
-#EXTINF:-1,Espn 1
-http://68.233.120.207:9981/stream/channelid/482036141?profile=pass
-#EXTINF:-1,Espn 2
-http://68.233.120.207:9981/stream/channelid/2081017817?profile=pass
-#EXTINF:-1,Fox Sports 1
-http://68.233.120.207:9981/stream/channelid/1688000906?profile=pass
-#EXTINF:-1,Fox Sports 2
-http://68.233.120.207:9981/stream/channelid/1608406162?profile=pass
 #EXTINF:-1,Sky Sports Cricket
 http://68.233.120.207:9981/stream/channelid/1113175995?profile=pass
 #EXTINF:-1,Sky Sports Football
