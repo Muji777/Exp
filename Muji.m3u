@@ -38,73 +38,6 @@ https://nlziet-live.akamaized.net/L24/b7d8aaf5/cfe54783.isml/.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0000000000000000000000000063340a:5ce85f1aa5771900b952f0ba58857d7a
 
-#EXTINF:-1,Euro Sport 1
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-https://dash2.antik.sk/stream/nvidia_eurosport1/playlist_cenc.mpd
-
-#EXTINF:-1,Euro Sport 2
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-https://dash2.antik.sk/stream/nvidia_eurosport2/playlist_cenc.mpd
-
-#EXTINF:-1,Willow Tv
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1779c27b9d077a3ba0c9cc1bb9a94b9f:cc5cf3b7928fb9e0a1ee6a8b566f0a8e
-https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/clients/dash/enc/f60kqesunw/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
-
-#EXTINF:-1,Premier Sports 1
-http://68.233.120.207:9981/stream/channelid/647079268?profile=pass
-#EXTINF:-1, Premier Sports 2
-http://68.233.120.207:9981/stream/channelid/92233700?profile=pass
-#EXTINF:-1,Espn 1
-http://68.233.120.207:9981/stream/channelid/482036141?profile=pass
-#EXTINF:-1,Espn 2
-http://68.233.120.207:9981/stream/channelid/2081017817?profile=pass
-#EXTINF:-1,Fox Sports 1
-http://68.233.120.207:9981/stream/channelid/1688000906?profile=pass
-#EXTINF:-1,Fox Sports 2
-http://68.233.120.207:9981/stream/channelid/1608406162?profile=pass
-#EXTINF:-1,Sky Sports Cricket
-http://68.233.120.207:9981/stream/channelid/1113175995?profile=pass
-#EXTINF:-1,Sky Sports Football
-http://68.233.120.207:9981/stream/channelid/2121191464?profile=pass
-#EXTINF:-1,Sky Sports Main Event
-http://68.233.120.207:9981/stream/channelid/1280109776?profile=pass
-#EXTINF:-1,Sky Sports Premiere League
-http://68.233.120.207:9981/stream/channelid/1463261559?profile=pass
-#EXTINF:-1,Sky Sports+
-http://68.233.120.207:9981/stream/channelid/816256022?profile=pass
-
-#EXTINF:-1 tvg-id="UK | TNT Sports 1" tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/TNTSports1GB._SL170_FMpng_.png" group-title="Prime Video UK Sport",TNT Sports 1 HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d
-https://a129aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
-
-#EXTINF:-1 tvg-id="UK | TNT Sports 2" tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/TNTSports2GBWhite._SL170_FMpng_.png" group-title="Prime Video UK Sport",TNT Sports 2 HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6d1708b185c6c4d7b37600520c7cc93c:1aace05f58d8edef9697fd52cb09f441
-https://a129aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
-
-#EXTINF:-1 tvg-id="UK | TNT Sports 3" tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/TNTSports3GBWhite._SL170_FMpng_.png" group-title="Prime Video UK Sport",TNT Sports 3 HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4e993aa8c1f295f8b94e8e9e6f6d0bfe:86a1ed6e96caab8eb1009fe530d2cf4f
-https://a129aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
-
-#EXTINF:-1 tvg-id="UK | TNT Sports 4" tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/TNTSports4GBWhite._SL170_FMpng_.png" group-title="Prime Video UK Sport",TNT Sports 4 HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e31a5a81caff5d07ea2411a571fc2e59:96c5ef69479732ae734f962748c19729
-https://a129aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
-
-#EXTINF:-1 tvg-id="UK | TNT Sports 5" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TNT%20Sports%205.png" group-title="Prime Video UK Sport",TNT Sports 5 HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=60c0d9b41475e01db4ffb91ed557fbcc:36ee40e58948ca15e3caba8d47b8f34b
-https://otte.live.fly.ww.aiv-cdn.net/SIN/live/dash/enc/gesdwrdncn/out/v1/79e752f1eccd4e18b6a8904a0bc01f2d/cenc.mpd
-
 #EXTINF:-1 group-title="VIP Mexico", Sky Sports
 https://aka-live1-ott.izzigo.tv/3/out/u/dash/SKY-SPORTS-HD/default.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -195,10 +128,6 @@ https://aka-live1-ott.izzigo.tv/1/out/u/dash/ESPN-PLUS-HD/default.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=335511dfdf0d03bc06f1fdead5870b5a:1a022fb33ad3de4d4579b04966551488
 
-#EXTINF:-1,Bein Sports Xtra
-https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
-#EXTINF:-1,Tennis Channel
-https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1,Travel XP
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1,Discovery Asia
@@ -227,83 +156,6 @@ https://wildearth-plex.amagi.tv/master.m3u8
 http://xlpore-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1,Dubai One
 https://dminnvllta.cdn.mgmlcdn.com/dubaione/smil:dubaione.stream.smil/chunklist.m3u8
-#EXTINF:-1,Sky Sports NZ 1
-https://7pal.short.gy/skyspt1nz
-#EXTINF:-1,Sky Sports NZ 2
-https://7pal.short.gy/skyspt2nz
-#EXTINF:-1,Sky Sports NZ 3
-https://7pal.short.gy/skyspt3nz
-#EXTINF:-1,Sky Sports NZ 4
-https://7pal.short.gy/skyspt4nz
-#EXTINF:-1,Sky Sports NZ 5
-https://7pal.short.gy/skyspt5nz
-#EXTINF:-1,Sky Sports NZ 6
-https://7pal.short.gy/skyspt6nz
-#EXTINF:-1,Sky Sports NZ 7
-https://7pal.short.gy/skyspt7nz
-#EXTINF:-1,Sky Sports NZ 8
-https://7pal.short.gy/skyspt8nz
-#EXTINF:-1,Sky Sports NZ 9
-http://donelfantastic.github.io/live/skysportsNz9.m3u8
-#EXTINF:-1,Ten Cricket
-https://edge3-moblive.yuppcdn.net/drm/smil:tencricketdrm.smil/manifest.mpd?%7CdrmScheme=clearkey&drmLicense=9872e439f21f4a299cab249c6554daa3:0cdfcfe0d0f1fbe100554ce3ef4c4665
-
-#EXTINF:-1 tvg-id="NBCSportsBoston.us" tvg-name="" tvg-logo="https://iili.io/Jp5oxpt.png" group-title="PREMIUM SPORT" ,  NBC SPORTS 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0020d88a6713159839743f655c5da7de:ba9f34226301f69a4f0f13f65a1f92ec
-https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc122ycnuy)/master.mpd
-
-#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://static.wikia.nocookie.net/youtube/images/2/22/NBC.jpg/revision/latest?cb=20230910112737", NBC Sport Peacock
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0045a118e231f1326bcdb45350b1ceaa:8c13afbfa54ea37a368b8b859021f6e3
-https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(knbc)/master.mpd
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
-
-#EXTINF:-1 tvg-id="xx" tvg-name="" group-title="tengok bola EPL" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/refs/heads/PEJAL/logo%20ejal%20tv%20baru%20149x70.png" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/280px-Premier_League_Logo.svg.png",peacocktv
-https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=333962e3e1383529867a9a0e28a5e5d1:5d3fcbed53749ee622ed0e64f31c1cbf
-
-#EXTINF:-1 tvg-id="xx" tvg-name="" group-title="tengok bola EPL" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/refs/heads/PEJAL/logo%20ejal%20tv%20baru%20149x70.png" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/280px-Premier_League_Logo.svg.png",USA
-https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd
-
-#EXTINF:-1,TSN 1                                                                                                             
-http://fl5.moveonjoy.com/TSN_1/index.m3u8
-#EXTINF:-1,TSN 2
-http://fl5.moveonjoy.com/TSN_2/index.m3u8
-#EXTINF:-1,TSN 3
-http://fl5.moveonjoy.com/TSN_3/index.m3u8
-#EXTINF:-1,TSN 4
-http://fl5.moveonjoy.com/TSN_4/index.m3u8
-#EXTINF:-1,TSN 5
-http://fl5.moveonjoy.com/TSN_5/index.m3u8
-#EXTINF:-1,Bein Sports
-http://fl2.moveonjoy.com/BEIN_SPORTS/index.m3u8
-#EXTINF:-1,CBS Sports
-http://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
-#EXTINF:-1,NBC Sports
-http://fl2.moveonjoy.com/NBC_SPORTS_NETWORK/index.m3u8
-#EXTINF:-1,Eurosport 1
-http://crnaudovica.xyz:8000/EuroSport%201?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
-#EXTINF:-1,Eurosport 2
-http://crnaudovica.xyz:8000/EuroSport%202?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
-
-#EXTINF:-1 tvg-logo="https://tv.assets.pressassociation.io/08d5adde-34fa-50ce-94d1-58bdf387d054.png",Eurosport Asia
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=47c03f29f04747d2a298c0ad63f3b2c1:8b48b2cb2743b91d5f20cf2622067f3a
-https://atemecdnbalancer-voe.sysln.id/live/eds/EUROSPORTHD/mpd/EUROSPORTHD.mpd
-
-#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", premiersports_hd
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=fc19c98cb9504a0fb78b22fea0a4b814:ea683112a96d4ae6c32d4ea13923e8c7
-https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_premiersports_hd1.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", cg_hbohd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -409,13 +261,6 @@ https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_discovery.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f3047fc13d454dacb6db4207ee79d3d3:bdbd38748f51fc26932e96c9a2020839
 https://qp-pldt-live-grp-08-prod.akamaized.net/out/u/travel_channel_sd.mpd
-
-#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", premier_tennishd
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=59454adb530b4e0784eae62735f9d850:61100d0b8c4dd13e4eb8b4851ba192cc
-https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_premiertennishd.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", asianfoodnetwork
 #KODIPROP:inputstreamaddon=inputstream.adaptive
