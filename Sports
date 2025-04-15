@@ -1,4 +1,5 @@
 #EXTM3U
+
 #EXTINF:-1,DAZN F1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
