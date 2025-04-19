@@ -24,10 +24,7 @@ https://uselector.cdn.intigral-ott.net/APL/APL.isml/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=bce56c8de2f1b27b16dd7d3abc2409b6:8c1c393bb61be740910438f6e49c7c32
 https://uselector.cdn.intigral-ott.net/DCF/DCF.isml/manifest.mpd
 
-#EXTINF:-1, BBC Two
-https://nlziet-live.akamaized.net/L3/75825848/a684e34a.isml/.mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9cc344f5df584c77b9f10d04b7281df7:37020f567d14e9bb8df8d1be0263c3a6
+
 
 #EXTINF:-1, BBC Three
 https://nlziet-live.akamaized.net/L12/4891aa65/2c23ee3a.isml/.mpd
