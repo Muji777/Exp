@@ -61,15 +61,15 @@ https://otte.live.fly.ww.aiv-cdn.net/SIN/live/dash/enc/gesdwrdncn/out/v1/79e752f
 #KODIPROP:inputstream.adaptive.license_key=8ab2332442854e62b0018eec3ee58484:37fdee8b6eef5c96001e8c6fc47bfc08
 https://tr.live.cdn.cgates.lt/live/dash/561002/index.mpd
 
-EXTINF:-1,Sony Ten Sports 1
+#EXTINF:-1,Sony Ten Sports 1
 https://tataplay.slivcdn.com//hls/live/2011747/TEN1HD/master.m3u8
-EXTINF:-1,Sony Ten Sports 2
+#EXTINF:-1,Sony Ten Sports 2
 https://tataplay.slivcdn.com/hls/live/2020434/TEN2HD/master.m3u8
-EXTINF:-1,Sony Ten Sports 3
+#EXTINF:-1,Sony Ten Sports 3
 https://tataplay.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8
-EXTINF:-1,Sony Ten Sports 4
+#EXTINF:-1,Sony Ten Sports 4
 https://tataplay.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8
-EXTINF:-1,Sony Ten Sports 5
+#EXTINF:-1,Sony Ten Sports 5
 https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
 
 #EXTINF:-1,Sky Sports NZ 1
