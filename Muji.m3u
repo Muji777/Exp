@@ -39,6 +39,10 @@ https://nlziet-live.akamaized.net/L24/b7d8aaf5/cfe54783.isml/.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0000000000000000000000000063340a:5ce85f1aa5771900b952f0ba58857d7a
 
+#EXTINF:-1,Animal Planet Balkans
+http://crnaudovica.xyz:8000/Animal%20Planet?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1,BBC Earth Balkans
+http://crnaudovica.xyz:8000/BBC%20Earth?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
 #EXTINF:-1,Natgeo People
 http://main.canale-romanesti.com:80/98:06:3c:97:f1:e4CBBogdan/49hMgFdqZRwerYCeeMXAJYDR0eDMsP/37932
 #EXTINF:-1,Animal Planet Romania
@@ -47,7 +51,6 @@ http://main.canale-romanesti.com:80/98:06:3c:97:f1:e4CBBogdan/49hMgFdqZRwerYCeeM
 http://main.canale-romanesti.com:80/98:06:3c:97:f1:e4CBBogdan/49hMgFdqZRwerYCeeMXAJYDR0eDMsP/9011
 #EXTINF:-1,BBC Earth Romania
 http://main.canale-romanesti.com:80/98:06:3c:97:f1:e4CBBogdan/49hMgFdqZRwerYCeeMXAJYDR0eDMsP/9017
-
 #EXTINF:-1,Travel XP
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1,Discovery Asia
