@@ -123,36 +123,10 @@ https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/m
 #EXTINF:-1 tvg-id="xx" tvg-name="" group-title="tengok bola EPL" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/refs/heads/PEJAL/logo%20ejal%20tv%20baru%20149x70.png" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/280px-Premier_League_Logo.svg.png",USA
 https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd
 
-#EXTINF:-1,TSN 1                                                                                                             
-http://fl5.moveonjoy.com/TSN_1/index.m3u8
-#EXTINF:-1,TSN 2
-http://fl5.moveonjoy.com/TSN_2/index.m3u8
-#EXTINF:-1,TSN 3
-http://fl5.moveonjoy.com/TSN_3/index.m3u8
-#EXTINF:-1,TSN 4
-http://fl5.moveonjoy.com/TSN_4/index.m3u8
-#EXTINF:-1,TSN 5
-http://fl5.moveonjoy.com/TSN_5/index.m3u8
-#EXTINF:-1,Bein Sports
-http://fl2.moveonjoy.com/BEIN_SPORTS/index.m3u8
-#EXTINF:-1,CBS Sports
-http://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
-#EXTINF:-1,NBC Sports
-http://fl2.moveonjoy.com/NBC_SPORTS_NETWORK/index.m3u8
 #EXTINF:-1,Eurosport 1
 http://crnaudovica.xyz:8000/EuroSport%201?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
 #EXTINF:-1,Eurosport 2
 http://crnaudovica.xyz:8000/EuroSport%202?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
-#EXTINF:-1,Sky Sports Cricket
-http://68.233.120.207:9981/stream/channelid/1113175995?profile=pass
-#EXTINF:-1,Sky Sports Football
-http://68.233.120.207:9981/stream/channelid/2121191464?profile=pass
-#EXTINF:-1,Sky Sports Main Event
-http://68.233.120.207:9981/stream/channelid/1280109776?profile=pass
-#EXTINF:-1,Sky Sports Premiere League
-http://68.233.120.207:9981/stream/channelid/1463261559?profile=pass
-#EXTINF:-1,Sky Sports+
-http://68.233.120.207:9981/stream/channelid/816256022?profile=pass
 
 #EXTINF:-1 tvg-logo="https://tv.assets.pressassociation.io/08d5adde-34fa-50ce-94d1-58bdf387d054.png",Eurosport Asia
 #KODIPROP:inputstream.adaptive.license_type=clearkey
