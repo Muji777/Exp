@@ -135,6 +135,20 @@ https://7pal.short.gy/skyspt7nz
 https://7pal.short.gy/skyspt8nz
 #EXTINF:-1,Sky Sports NZ 9
 http://donelfantastic.github.io/live/skysportsNz9.m3u8
+#EXTINF:-1 tvg-id="FoxCricket.au" tvg-logo="https://pixvid.org/images/2025/01/31/Fox501.png" group-title="Sports | AU", Fox Sports 501
+https://7pal.short.gy/fox501au
+#EXTINF:-1 tvg-id="FoxLeague.au" tvg-logo="https://i.imgur.com/7G0lOta.png" group-title="Sports | AU", Fox Sports 502
+https://7pal.short.gy/fox502au
+#EXTINF:-1 tvg-id="FoxSports503.au" tvg-logo="https://i.imgur.com/fndl6gs.png" group-title="Sports | AU", Fox Sports 503
+https://7pal.short.gy/fox503au
+#EXTINF:-1 tvg-id="FoxFooty.au" tvg-logo="https://i.imgur.com/0tZxstM.png" group-title="Sports | AU", Fox Sports 504
+https://7pal.short.gy/fox504au
+#EXTINF:-1 tvg-id="FoxSports505.au" tvg-logo="https://i.imgur.com/pnrLdcb.png" group-title="Sports | AU", Fox Sports 505
+https://7pal.short.gy/fox505au
+#EXTINF:-1 tvg-id="FoxSports506.au" tvg-logo="https://i.imgur.com/XkOpNPe.png group-title="Sports | AU", Fox Sports 506
+https://7pal.short.gy/fox506au
+#EXTINF:-1 tvg-id="FoxSportsMore.au" tvg-logo="https://i.imgur.com/PeDP6zC.png" group-title="Sports | AU", Fox Sports 507
+https://7pal.short.gy/fox507au
 #EXTINF:-1,Ten Sports
 http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
 #EXTINF:-1,Ten Cricket
