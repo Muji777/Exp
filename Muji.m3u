@@ -24,16 +24,6 @@ https://uselector.cdn.intigral-ott.net/APL/APL.isml/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=bce56c8de2f1b27b16dd7d3abc2409b6:8c1c393bb61be740910438f6e49c7c32
 https://uselector.cdn.intigral-ott.net/DCF/DCF.isml/manifest.mpd
 
-#EXTINF:-1,HGTV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0123456789a0123456789a01234569a0:5bfde2c3d561df01f7955ca889d561de
-https://tr.live.cdn.cgates.lt/live/dash/62505/index.mpd
-
-#EXTINF:-1,BBC Three
-https://nlziet-live.akamaized.net/L12/4891aa65/2c23ee3a.isml/.mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a76ba7bf50494381beca9e2f7e3be96f:c0a14394f5518ec810656323d3fe9903
-
 #EXTINF:-1,BBC Four
 https://nlziet-live.akamaized.net/L24/b7d8aaf5/cfe54783.isml/.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
