@@ -24,11 +24,18 @@ https://uselector.cdn.intigral-ott.net/APL/APL.isml/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=bce56c8de2f1b27b16dd7d3abc2409b6:8c1c393bb61be740910438f6e49c7c32
 https://uselector.cdn.intigral-ott.net/DCF/DCF.isml/manifest.mpd
 
-#EXTINF:-1,BBC Four
-https://nlziet-live.akamaized.net/L24/b7d8aaf5/cfe54783.isml/.mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0000000000000000000000000063340a:5ce85f1aa5771900b952f0ba58857d7a
-
+#EXTINF:-1,BBC Earth
+https://cdn4.skygo.mn/live/disk1/BBC_earth/HLSv3-FTA/BBC_earth.m3u8
+#EXTINF:-1,BBC Lifestyle
+https://cdn4.skygo.mn/live/disk1/BBC_lifestyle/HLSv3-FTA/BBC_lifestyle.m3u8
+#EXTINF:-1,Discovery Asia
+https://cdn4.skygo.mn/live/disk1/Discovery_Asia/HLSv3-FTA/Discovery_Asia.m3u8
+#EXTINF:-1,BBC 2
+https://cachehsi1a.netplus.ch/live/eds/bbc2/browser-dash/bbc2.mpd
+#EXTINF:-1,FIFA+ UK
+https://jmp2.uk/sam-GBBD1100008YW.m3u8
+#EXTINF:-1,FIFA+ US
+https://jmp2.uk/sam-USBD12000255B.m3u8
 #EXTINF:-1,Animal Planet Balkans
 http://crnaudovica.xyz:8000/Animal%20Planet?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
 #EXTINF:-1,BBC Earth Balkans
