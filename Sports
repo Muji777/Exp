@@ -62,29 +62,6 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uiffe4jhf0/
 #KODIPROP:inputstream.adaptive.license_key=9afd72f20573001c23672d2158892a5f:9bc32df48a2efac30072b7e5c683bcd1
 https://a36aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/6fbnr3ei4b/out/v1/57d2ae96a4cc4230881cd801b389edf6/cenc.mpd
 
-#EXTINF:-1,Setanta Sports
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8ab2332442854e62b0018eec3ee58484:37fdee8b6eef5c96001e8c6fc47bfc08
-https://tr.live.cdn.cgates.lt/live/dash/561002/index.mpd
-
-#EXTINF:-1,Star Sports 1
-https://raw.githubusercontent.com/rahul979854/Channels/refs/heads/main/StarSport1Hd.m3u8
-#EXTINF:-1,Star Sports 2
-https://github.com/rahul979854/Channels/raw/main/StarSport2Hd.m3u8
-#EXTINF:-1,Star Sports Select 1
-https://github.com/rahul979854/Channels/raw/main/StarSportSelect1Hd.m3u8
-#EXTINF:-1,Star Sports Select 2
-https://github.com/rahul979854/Channels/raw/main/StarSportSelect2Hd.m3u8
-#EXTINF:-1,Astro Cricket
-https://github.com/rahul979854/Channels/raw/main/AstroCricketHd.m3u8
-#EXTINF:-1,Willow 1
-https://github.com/rahul979854/Channels/raw/main/WillowCricketHd.m3u8
-#EXTINF:-1,Willow 2
-https://github.com/rahul979854/Channels/raw/main/Willow2Hd.m3u8
-#EXTINF:-1,Fox Cricket
-https://github.com/rahul979854/Channels/raw/main/FoxSports501Hd.m3u8
-#EXTINF:-1,Sky Sports Cricket
-https://github.com/rahul979854/Channels/raw/main/SkySportsCricketHd.m3u8
 #EXTINF:-1,Sony Ten Sports 1
 https://tataplay.slivcdn.com//hls/live/2011747/TEN1HD/master.m3u8
 #EXTINF:-1,Sony Ten Sports 2
