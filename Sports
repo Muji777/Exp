@@ -59,27 +59,27 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uiffe4jhf0/
 
 #EXTINF:-1 tvg-id="TSN1.ca" group-title="TSN Canada" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/TSN1White16x9._SL170_FMpng_.png",TSN 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"8df41512092240d38550e83dc05e157e":"f29f106ec9f58b41c7c8391b64f3bb25"}
+#KODIPROP:inputstream.adaptive.license_key=8df41512092240d38550e83dc05e157e:f29f106ec9f58b41c7c8391b64f3bb25
 https://live-cito.9c9media.ca/1c3b314400c213d678f83ef6687899a3dfb7c8b21674096484889/f/tsn1/manifest.mpd
 
 #EXTINF:-1 tvg-id="TSN2.ca" group-title="TSN Canada" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/TSN2White16x9._SL170_FMpng_.png",TSN 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"885df0ea68814a11a3dd7718725f4075":"ab3698f738c4b90c11de7239cb5ed7c1"},{"6e12bc7a35b25b8c867006759dbed897":"ab3698f738c4b90c11de7239cb5ed7c1"},{"79cc4e13b9675fb8b52e0b561f010589":"ab3698f738c4b90c11de7239cb5ed7c1"}
+#KODIPROP:inputstream.adaptive.license_key=885df0ea68814a11a3dd7718725f4075:ab3698f738c4b90c11de7239cb5ed7c1,6e12bc7a35b25b8c867006759dbed897:ab3698f738c4b90c11de7239cb5ed7c1,79cc4e13b9675fb8b52e0b561f010589:ab3698f738c4b90c11de7239cb5ed7c1
 https://live-cito.9c9media.ca/bde85c576a4b0b38acfcb662cdc7fe7b79cb41411720084197940/f/tsn2/manifest.mpd
 
 #EXTINF:-1 tvg-id="TSN3.ca" group-title="TSN Canada" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/TSN3White16x9._SL170_FMpng_.png",TSN 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"473177ea3d394060a0d0c266521ffd68":"cb6366270ecf03b7b80aae491ef9d618"},{"9c44856a51e05cd0b58084ef36c7d5f2":"cb6366270ecf03b7b80aae491ef9d618"},{"453c5eaf69f95cba87db924543000655":"cb6366270ecf03b7b80aae491ef9d618"}
+#KODIPROP:inputstream.adaptive.license_key=473177ea3d394060a0d0c266521ffd68:cb6366270ecf03b7b80aae491ef9d618,9c44856a51e05cd0b58084ef36c7d5f2:cb6366270ecf03b7b80aae491ef9d618,453c5eaf69f95cba87db924543000655:cb6366270ecf03b7b80aae491ef9d618
 https://live-cito.9c9media.ca/cc6f72e47c28d3297599908ad89a8b9f080d61df1720084275481/f/tsn3/manifest.mpd
 
 #EXTINF:-1 tvg-id="TSN4.ca" group-title="TSN Canada" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/TSN4White16x9._SL170_FMpng_.png",TSN 4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={'7c6872a2902a4617b878999bf32ccf87':'fc53eba9d731de52e83a23d98bea304a'},{'894716c87fb65cc284929db5da63ee99':'fc53eba9d731de52e83a23d98bea304a'},{'0880925dd00056d28b4680f48450c0e8':'fc53eba9d731de52e83a23d98bea304a'}
+#KODIPROP:inputstream.adaptive.license_key=7c6872a2902a4617b878999bf32ccf87:fc53eba9d731de52e83a23d98bea304a,894716c87fb65cc284929db5da63ee99:fc53eba9d731de52e83a23d98bea304a,0880925dd00056d28b4680f48450c0e8:fc53eba9d731de52e83a23d98bea304a
 https://live-cito.9c9media.ca/6f49494abb079d3b0eafd9a8d8c42fb2647fd8fe1720084350548/f/tsn4/manifest.mpd
 
 #EXTINF:-1 tvg-id="TSN5.ca" group-title="TSN Canada" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/TSN5White16x9._SL170_FMpng_.png",TSN 5
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"f4608dc9b6164cd7b96791af91cc334c":"8d4bc6537629d3f7ad5aa4e75516f6da"},{"51da7f0edfc359249ad06dc287a65303":"8d4bc6537629d3f7ad5aa4e75516f6da"},{"9a9859f9bd5f5ff8ab961b3a6bf181c4":"8d4bc6537629d3f7ad5aa4e75516f6da"}
+#KODIPROP:inputstream.adaptive.license_key=f4608dc9b6164cd7b96791af91cc334c:8d4bc6537629d3f7ad5aa4e75516f6da,51da7f0edfc359249ad06dc287a65303:8d4bc6537629d3f7ad5aa4e75516f6da,9a9859f9bd5f5ff8ab961b3a6bf181c4:8d4bc6537629d3f7ad5aa4e75516f6da
 https://live-cito.9c9media.ca/ae6a733062fca644619fd3521f33be2d1671be151720084403103/f/tsn5/manifest.mpd
  
 #EXTINF:-1,Bein Sports Aus 2
