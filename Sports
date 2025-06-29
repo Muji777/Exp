@@ -87,21 +87,21 @@ https://live-cito.9c9media.ca/ae6a733062fca644619fd3521f33be2d1671be151720084403
 #KODIPROP:inputstream.adaptive.license_key=9afd72f20573001c23672d2158892a5f:9bc32df48a2efac30072b7e5c683bcd1
 https://a36aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/6fbnr3ei4b/out/v1/57d2ae96a4cc4230881cd801b389edf6/cenc.mpd
 
-#EXTINF:-1 tvg-id="sky-sports-action" tvg-logo="https://iptvx.one/picons/sky-sports-action.png",Sky Sports Action
+#EXTINF:-1,Sky Sports Action
 https://7pal.short.gy/ssportsat
-#EXTINF:-1 tvg-id="sky-sports-golf" tvg-logo="https://iptvx.one/picons/sky-sports-golf.png",Sky Sports Golf
+#EXTINF:-1,Sky Sports Golf
 https://7pal.short.gy/ssportsgf
-#EXTINF:-1 tvg-id="sky-sports-apl" tvg-logo="https://iptvx.one/picons/sky-sports-apl.png",Sky Sports Premier League
+#EXTINF:-1,Sky Sports Premier League
 https://7pal.short.gy/ssportspl
-#EXTINF:-1 tvg-id="sky-sports-f1" tvg-logo="https://iptvx.one/picons/sky-sports-f1.png",Sky Sports F1
+#EXTINF:-1,Sky Sports F1
 https://7pal.short.gy/SSF1uhd
-#EXTINF:-1tvg-id="sky-sports-football" tvg-logo="https://iptvx.one/picons/sky-sports-football.png",Sky Sports Football
+#EXTINF:-1,Sky Sports Football
 https://7pal.short.gy/ssportsfb
-#EXTINF:-1 tvg-id="sky-sports-maine" tvg-logo="https://iptvx.one/picons/sky-sports-maine.png",Sky Sports Main Event
+#EXTINF:-1,Sky Sports Main Event
 https://7pal.short.gy/skspmaine
-#EXTINF:-1 tvg-id="sky-sports-news" tvg-logo="https://iptvx.one/picons/sky-sports-news.png",Sky Sports News
+#EXTINF:-1,Sky Sports News
 https://7pal.short.gy/ssportsnw
-#EXTINF:-1, Sky Sports Cricket
+#EXTINF:-1,Sky Sports Cricket
 https://7pal.short.gy/ssportscrk
 
 #EXTINF:-1,Sony Ten Sports 1
