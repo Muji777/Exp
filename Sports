@@ -82,6 +82,21 @@ https://live-cito.9c9media.ca/6f49494abb079d3b0eafd9a8d8c42fb2647fd8fe1720084350
 #KODIPROP:inputstream.adaptive.license_key=f4608dc9b6164cd7b96791af91cc334c:8d4bc6537629d3f7ad5aa4e75516f6da,51da7f0edfc359249ad06dc287a65303:8d4bc6537629d3f7ad5aa4e75516f6da,9a9859f9bd5f5ff8ab961b3a6bf181c4:8d4bc6537629d3f7ad5aa4e75516f6da
 https://live-cito.9c9media.ca/ae6a733062fca644619fd3521f33be2d1671be151720084403103/f/tsn5/manifest.mpd
  
+#EXTINF:-1 tvg-id="beIN SPORTS (HD).sg" group-title="⚽️  SPORT  ⚽️" tvg-logo="https://i.ibb.co.com/d75VShH/daznxbein1.png", beIN Sports 1 🇦🇺
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f959dcdd1ca8c89658cd651ed36e2851:aa4cf56ce7c522a9e6582c42537be381
+https://a122aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/pwdvd9fm5u/out/v1/5e22845dab3648b8a7033fd5923d62d1/cenc.mpd
+
+#EXTINF:-1 tvg-id="beIN SPORTS 2 (HD).sg" group-title="⚽️  SPORT  ⚽️" tvg-logo="https://i.ibb.co.com/1XzfTtD/daznxbein2.png", beIN Sports 2 🇦🇺
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9afd72f20573001c23672d2158892a5f:9bc32df48a2efac30072b7e5c683bcd1
+https://a36aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/6fbnr3ei4b/out/v1/57d2ae96a4cc4230881cd801b389edf6/cenc.mpd
+
+#EXTINF:-1 tvg-id="beIN SPORTS 3 (HD).sg" group-title="⚽️  SPORT  ⚽️" tvg-logo="https://i.ibb.co.com/qd5PzZV/daznxbein3.png", beIN Sports 3 🇦🇺
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4b203316c47c370a1eb9097c070d7226:676e6783f23789cdf4ff0486386145ed
+https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/gigxsk0lya/out/v1/df75d887bce4437b8fdf345ae455113b/cenc.mpd
+
 #EXTINF:-1,Sky Sports Action
 https://7pal.short.gy/ssportsat
 #EXTINF:-1,Sky Sports Golf
