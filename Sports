@@ -113,11 +113,11 @@ https://7pal.short.gy/ssportsnw
 https://7pal.short.gy/ssportscrk
 #EXTINF:-1,Sky Sports Main Event
 https://7pal.short.gy/SSMEuhd
-#EXTINF:-1,Astro Sport 1
+#EXTINF:-1,Astro Premiere League 1
 https://7pal.short.gy/astross1
-#EXTINF:-1,Astro Sport 2
+#EXTINF:-1,Astro Sport Premiere League 2
 https://7pal.short.gy/astross2
-#EXTINF:-1,Astro Sport 3
+#EXTINF:-1,Astro Sport Grandstand
 https://7pal.short.gy/astross3
 #EXTINF:-1,Astro Sport 4
 https://7pal.short.gy/astross4
@@ -199,8 +199,6 @@ http://crnaudovica.xyz:8000/EuroSport%201?u=00:1A:79:97:38:CB:p=001A799738CB:ser
 http://crnaudovica.xyz:8000/EuroSport%202?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
 
 #EXTINF:-1,Arena Sport 1 🇸🇰
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referer=https://webtv.sk/tv/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -208,8 +206,6 @@ http://crnaudovica.xyz:8000/EuroSport%202?u=00:1A:79:97:38:CB:p=001A799738CB:ser
 https://dash3.antik.sk/stream/hisi_arena_sport1/playlist_cbcs.mpd
 
 #EXTINF:-1,Arena Sport 2 🇸🇰
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referer=https://webtv.sk/tv/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -227,7 +223,6 @@ https://webtvstream.bhtelecom.ba/hls6/arena_esport.mpd
 https://webtvstream.bhtelecom.ba/hls6/arena_fight.mpd
 
 #EXTINF:-1,Arena Sport 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c43c83acda60593d8e3607efd5010d7d:526f4a760ef52ab85056fbc10ea27584
 https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/arena1_n/default/index.mpd
