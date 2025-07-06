@@ -198,7 +198,7 @@ http://crnaudovica.xyz:8000/EuroSport%201?u=00:1A:79:97:38:CB:p=001A799738CB:ser
 #EXTINF:-1,Eurosport 2
 http://crnaudovica.xyz:8000/EuroSport%202?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
 
-#EXTINF:-1,Arena Sport 1 HD.sk" tvg-logo="https://i.ibb.co.com/h2bcqhS/arenasp1sk.png" group-title="⚽️  SPORT  ⚽️", Arena Sport 1 🇸🇰
+#EXTINF:-1, Arena Sport 1 🇸🇰
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referer=https://webtv.sk/tv/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -207,7 +207,7 @@ http://crnaudovica.xyz:8000/EuroSport%202?u=00:1A:79:97:38:CB:p=001A799738CB:ser
 #KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
 https://dash3.antik.sk/stream/hisi_arena_sport1/playlist_cbcs.mpd
 
-#EXTINF:-1,tvg-id="Arena Sport 2 HD.sk" tvg-logo="https://i.ibb.co.com/v4pkr0Z/arenasp2sk.png" group-title="⚽️  SPORT  ⚽️",Arena Sport 2 🇸🇰
+#EXTINF:-1,Arena Sport 2 🇸🇰
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referer=https://webtv.sk/tv/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -216,79 +216,71 @@ https://dash3.antik.sk/stream/hisi_arena_sport1/playlist_cbcs.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
 https://dash2.antik.sk/stream/hisi_as2/playlist_cbcs.mpd
 
-#EXTINF:-1,tvg-id="Arena Esport.ba" tvg-logo="https://i.ibb.co.com/KF4phjz/arenaesport.png" group-title="⚽️  SPORT  ⚽️", ARENA ESPORT 
+#EXTINF:-1, ARENA ESPORT 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 #https://webtvstream.bhtelecom.ba/hls6/arena_esport.mpd
 
-#EXTINF:-1,tvg-id="Arena Fight.ba" tvg-logo="https://i.ibb.co.com/j500zg4/afight.png" group-title="⚽️  SPORT  ⚽️", ARENA FIGHT 
+#EXTINF:-1, ARENA FIGHT 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 #https://webtvstream.bhtelecom.ba/hls6/arena_fight.mpd
 
-#EXTINF:-1,group-title="⚽️  SPORT  ⚽️" tvg-logo="https://i.ibb.co.com/S4Tj3vTf/20250128-194658.jpg",Arena Sport 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://202.70.133.95/ck/ascroatia/satu.json
-#https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/arena1_n/default/index.mpd
-
-#EXTINF:-1,group-title="⚽️  SPORT  ⚽️" tvg-logo="https://i.ibb.co.com/S4Tj3vTf/20250128-194658.jpg",Arena Sport 1
+#EXTINF:-1,Arena Sport 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c43c83acda60593d8e3607efd5010d7d:526f4a760ef52ab85056fbc10ea27584
 #https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/arena1_n/default/index.mpd
 
-#EXTINF:-1,group-title="⚽️  SPORT  ⚽️" tvg-logo="https://i.ibb.co.com/SXsYc5ct/20250128-194715.jpg",Arena Sport 2
+#EXTINF:-1,Arena Sport 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://202.70.133.95/ck/ascroatia/dua.json
 #https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/arena2/default/index.mpd
 
-#EXTINF:-1,group-title="⚽️  SPORT  ⚽️" tvg-logo="https://i.ibb.co.com/KxmsxqKM/20250128-194727.jpg",Arena Sport 3
+#EXTINF:-1,Arena Sport 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://202.70.133.95/ck/ascroatia/tiga.json
 #https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/arena3/default/index.mpd
 
-#EXTINF:-1,group-title="⚽️  SPORT  ⚽️" tvg-logo="https://i.ibb.co.com/qMKx9zF2/20250128-194744.jpg",Arena Sport 4
+#EXTINF:-1,Arena Sport 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://202.70.133.95/ck/ascroatia/empat.json
 #https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/arena4/default/index.mpd
 
-#EXTINF:-1,group-title="⚽️  SPORT  ⚽️" tvg-logo="https://i.ibb.co.com/Fq8yRZvT/20250128-194804.jpg",Arena Sport 5 Croatia
+#EXTINF:-1,Arena Sport 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://202.70.133.95/ck/ascroatia/lima.json
 #https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/arena5/default/index.mpd
 
-#EXTINF:-1,group-title="⚽️  SPORT  ⚽️" tvg-logo="https://i.ibb.co.com/mFPkb8zR/20250128-194854.jpg",Arena Sport 6
+#EXTINF:-1,Arena Sport 6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://202.70.133.95/ck/ascroatia/enam.json
 #https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/arena6/default/index.mpd
 
-#EXTINF:-1,group-title="⚽️  SPORT  ⚽️" tvg-logo="https://i.ibb.co.com/nNJ9B8Df/20250128-194910.jpg",Arena Sport 7
+#EXTINF:-1,Arena Sport 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://202.70.133.95/ck/ascroatia/tujuh.json
 #https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/arena7/default/index.mpd
 
-#EXTINF:-1,group-title="⚽️  SPORT  ⚽️" tvg-logo="https://i.ibb.co.com/Xxm3NYk0/20250128-194925.jpg",Arena Sport 8
+#EXTINF:-1,Arena Sport 8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://202.70.133.95/ck/ascroatia/delapan.json
 #https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/arena8/default/index.mpd
 
-#EXTINF:-1,group-title="⚽️  SPORT  ⚽️" tvg-logo="https://i.ibb.co.com/zWkVm2jw/20250128-194943.jpg",Arena Sport 9
+#EXTINF:-1,Arena Sport 9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://202.70.133.95/ck/ascroatia/sembilan.json
 #https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/arena9/default/index.mpd
 
-#EXTINF:-1,group-title="⚽️  SPORT  ⚽️" tvg-logo="https://i.ibb.co.com/N2b9N7Fy/20250128-195004.jpg",Arena Sport 10
+#EXTINF:-1,Arena Sport 10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://202.70.133.95/ck/ascroatia/sepuluh.json
