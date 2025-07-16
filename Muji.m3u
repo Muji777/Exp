@@ -30,10 +30,6 @@ https://cdn4.skygo.mn/live/disk1/BBC_earth/HLSv3-FTA/BBC_earth.m3u8
 https://cdn4.skygo.mn/live/disk1/BBC_lifestyle/HLSv3-FTA/BBC_lifestyle.m3u8
 #EXTINF:-1,Discovery Asia
 https://cdn4.skygo.mn/live/disk1/Discovery_Asia/HLSv3-FTA/Discovery_Asia.m3u8
-#EXTINF:-1,BBC 2
-https://cachehsi1a.netplus.ch/live/eds/bbc2/browser-dash/bbc2.mpd
-#EXTINF:-1,FIFA+ UK
-https://jmp2.uk/sam-GBBD1100008YW.m3u8
 #EXTINF:-1,FIFA+ US
 https://jmp2.uk/sam-USBD12000255B.m3u8
 #EXTINF:-1,Animal Planet Balkans
