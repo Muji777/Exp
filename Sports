@@ -190,10 +190,34 @@ https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/m
 #EXTINF:-1 tvg-id="xx" tvg-name="" group-title="tengok bola EPL" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/refs/heads/PEJAL/logo%20ejal%20tv%20baru%20149x70.png" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/280px-Premier_League_Logo.svg.png",USA
 https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd
 
-#EXTINF:-1,Eurosport 1
-http://crnaudovica.xyz:8000/EuroSport%201?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
-#EXTINF:-1,Eurosport 2
-http://crnaudovica.xyz:8000/EuroSport%202?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
+#EXTINF:-1,Euro Sport 1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=01a665d487aa4c1c898c9eb0ff1a21df:a0b9df5f92e6b218ddb6aa40a2cd996d
+https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561802/index.mpd
+
+#EXTINF:-1,Euro Sport 2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=657707bbd1e240e08bd6969df27fef7c:364e00581c1432f4175e4a2e8e0cd57e
+https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561705/index.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="go3sport", 1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f48a8131e05f4d6e84de19f086c781a6:fd28f2f966a906f4d4dcfd72ae90094e
+https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/560502/index.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="go3sport", 2
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8315b1996d92477b965cb29100a3dc07:0081c0674e9047e219caa27a07da9d4b
+https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/560505/index.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="go3sport", 3
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a6b967afcb974bb5a549377b4f09befd:87d993257a099324ccd0215475fc61a0
+https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561402/index.mpd
 
 #EXTINF:-1,tvg-id="" tvg-logo="logo_url" group-title="Local", Premier_Tennis
 #KODIPROP:inputstreamaddon=inputstream.adaptive
