@@ -72,6 +72,31 @@ https://a36aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/6fbn
 #KODIPROP:inputstream.adaptive.license_key=4b203316c47c370a1eb9097c070d7226:676e6783f23789cdf4ff0486386145ed
 https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/gigxsk0lya/out/v1/df75d887bce4437b8fdf345ae455113b/cenc.mpd
 
+#EXTINF:-1,Premier Sport 1
+https://7pal.short.gy/prsport1
+#EXTINF:-1,Premier Sport 2
+https://7pal.short.gy/prsport2
+#EXTINF:-1,Supersport Premier League
+https://7pal.short.gy/spersppl
+#EXTINF:-1,Star Sports 1
+https://live.dinesh29.com.np/stream/livetv/starsports1hd/master.m3u8
+#EXTINF:-1,Star Sports 2
+https://live.dinesh29.com.np/stream/livetv/starsports2hd/master.m3u8
+#EXTINF:-1,Star Sports Select 1
+https://live.dinesh29.com.np/stream/livetv/starsportsselecthd1/master.m3u8
+#EXTINF:-1,Star Sports Select 2
+https://live.dinesh29.com.np/stream/livetv/starsportsselecthd2/master.m3u8
+#EXTINF:-1,Sony Ten 1
+https://live.dinesh29.com.np/stream/livetv/sonyten1hd/master.m3u8
+#EXTINF:-1,Sony Ten 2
+https://live.dinesh29.com.np/stream/livetv/sonyten2hd/master.m3u8
+#EXTINF:-1,Sony Ten 3
+https://live.dinesh29.com.np/stream/livetv/sonyten3hd/master.m3u8
+#EXTINF:-1,Sony Ten 4
+https://live.dinesh29.com.np/stream/livetv/sonyten4hd/master.m3u8
+#EXTINF:-1,Sony Ten 5
+https://live.dinesh29.com.np/stream/livetv/sonyten5hd/master.m3u8
+
 #EXTINF:-1,Sky Sports Action
 https://7pal.short.gy/ssportsat
 #EXTINF:-1,Sky Sports Premier League
