@@ -30,20 +30,6 @@ https://cdn4.skygo.mn/live/disk1/BBC_earth/HLSv3-FTA/BBC_earth.m3u8
 https://cdn4.skygo.mn/live/disk1/BBC_lifestyle/HLSv3-FTA/BBC_lifestyle.m3u8
 #EXTINF:-1,Discovery Asia
 https://cdn4.skygo.mn/live/disk1/Discovery_Asia/HLSv3-FTA/Discovery_Asia.m3u8
-#EXTINF:-1,FIFA+ US
-https://jmp2.uk/sam-USBD12000255B.m3u8
-#EXTINF:-1,Animal Planet Balkans
-http://crnaudovica.xyz:8000/Animal%20Planet?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
-#EXTINF:-1,BBC Earth Balkans
-http://crnaudovica.xyz:8000/BBC%20Earth?u=00:1A:79:97:38:CB:p=001A799738CB:server_ip_port=crnaudovica.xyz:8000
-#EXTINF:-1,Natgeo People
-http://main.canale-romanesti.com:80/98:06:3c:97:f1:e4CBBogdan/49hMgFdqZRwerYCeeMXAJYDR0eDMsP/37932
-#EXTINF:-1,Animal Planet Romania
-http://main.canale-romanesti.com:80/98:06:3c:97:f1:e4CBBogdan/49hMgFdqZRwerYCeeMXAJYDR0eDMsP/9009
-#EXTINF:-1,Natgeo Wild Romania
-http://main.canale-romanesti.com:80/98:06:3c:97:f1:e4CBBogdan/49hMgFdqZRwerYCeeMXAJYDR0eDMsP/9011
-#EXTINF:-1,BBC Earth Romania
-http://main.canale-romanesti.com:80/98:06:3c:97:f1:e4CBBogdan/49hMgFdqZRwerYCeeMXAJYDR0eDMsP/9017
 #EXTINF:-1,Travel XP
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1,Discovery Asia
