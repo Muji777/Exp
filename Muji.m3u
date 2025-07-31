@@ -36,6 +36,66 @@ https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 https://cdn08jtedge.indihometv.com/dassdvr/194/discoveryasia/manifest.mpd
 #EXTINF:-1,CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1, More4
+https://viamotionhsi.netplus.ch/live/eds/more4/browser-dash/more4.mpd
+#EXTINF:-1, Channel 4
+https://viamotionhsi.netplus.ch/live/eds/channel4/browser-dash/channel4.mpd
+#EXTINF:-1, Channel 5
+https://viamotionhsi.netplus.ch/live/eds/channel5/browser-dash/channel5.mpd
+#EXTINF:-1, Paramount
+https://viamotionhsi.netplus.ch/live/eds/paramount/browser-dash/paramount.mpd
+#EXTINF:-1, Food Network
+https://viamotionhsi.netplus.ch/live/eds/foodnetwork/browser-dash/foodnetwork.mpd
+#EXTINF:-1, Al Jazeera
+https://viamotionhsi.netplus.ch/live/eds/aljazeera/browser-dash/aljazeera.mpd
+#EXTINF:-1, CNN
+https://viamotionhsi.netplus.ch/live/eds/cnn/browser-dash/cnn.mpd
+#EXTINF:-1, Sky News
+https://viamotionhsi.netplus.ch/live/eds/skynews/browser-dash/skynews.mpd
+#EXTINF:-1, ITV 1
+https://viamotionhsi.netplus.ch/live/eds/itv1/browser-dash/itv1.mpd
+#EXTINF:-1, ITV 2
+https://viamotionhsi.netplus.ch/live/eds/itv2/browser-dash/itv2.mpd
+#EXTINF:-1, ITV 3
+https://viamotionhsi.netplus.ch/live/eds/itv3/browser-dash/itv3.mpd
+#EXTINF:-1, ITV 4
+https://viamotionhsi.netplus.ch/live/eds/itv4/browser-dash/itv4.mpd
+#EXTINF:-1, BBC 2
+https://viamotionhsi.netplus.ch/live/eds/bbc2/browser-dash/bbc2.mpd
+#EXTINF:-1, BBC 3
+https://streamer.nexyl.uk/39290a19-b8dd-43ea-b8dc-081c37790f24.m3u8
+#EXTINF:-1, BBC 4
+https://streamer.nexyl.uk/48559ccd-6400-457d-8acc-06b9e24c2ed8.m3u8
+#EXTINF:-1,NatGeo HD
+https://starofvenus.dpdns.org/natgeohd/playlist.m3u8
+#EXTINF:-1,NatGeo Wild HD
+https://starofvenus.dpdns.org/natgeowild/playlist.m3u8
+#EXTINF:-1,Animal Planet
+https://starofvenus.dpdns.org/animalplanet/playlist.m3u8
+#EXTINF:-1,Discovery Asia
+https://starofvenus.dpdns.org/discoveryasia/playlist.m3u8
+#EXTINF:-1,Crime Investigation
+https://starofvenus.dpdns.org/ci/playlist.m3u8
+#EXTINF:-1,Discovery HD
+https://starofvenus.dpdns.org/discoveryhd/playlist.m3u8
+#EXTINF:-1,NatGeo HD
+https://starofvenus.dpdns.org/natgeohd/playlist.m3u8
+#EXTINF:-1,History
+https://starofvenus.dpdns.org/history/playlist.m3u8
+#EXTINF:-1,BBC Earth HD
+https://starofvenus.dpdns.org/bbcearthhd/playlist.m3u8
+#EXTINF:-1,BBC Lifestyle
+https://starofvenus.dpdns.org/bbclifestyle/playlist.m3u8
+#EXTINF:-1,NatGeo Wild HD
+https://starofvenus.dpdns.org/natgeowild/playlist.m3u8
+#EXTINF:-1,Animal Planet
+https://starofvenus.dpdns.org/animalplanet/playlist.m3u8
+#EXTINF:-1,TLC
+https://starofvenus.dpdns.org/tlc/playlist.m3u8
+#EXTINF:-1,Food Network HD
+https://starofvenus.dpdns.org/foodnetworkhd/playlist.m3u8
+#EXTINF:-1,HGTV
+https://starofvenus.dpdns.org/hgtv/playlist.m3u8                      
 #EXTINF:-1,70's Music
 https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:-1,80's Music
