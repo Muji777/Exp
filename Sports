@@ -90,24 +90,6 @@ https://7pal.short.gy/prsport1
 https://7pal.short.gy/prsport2
 #EXTINF:-1,Supersport Premier League
 https://7pal.short.gy/spersppl
-#EXTINF:-1,Star Sports 1
-https://live.dinesh29.com.np/stream/livetv/starsports1hd/master.m3u8
-#EXTINF:-1,Star Sports 2
-https://live.dinesh29.com.np/stream/livetv/starsports2hd/master.m3u8
-#EXTINF:-1,Star Sports Select 1
-https://live.dinesh29.com.np/stream/livetv/starsportsselecthd1/master.m3u8
-#EXTINF:-1,Star Sports Select 2
-https://live.dinesh29.com.np/stream/livetv/starsportsselecthd2/master.m3u8
-#EXTINF:-1,Sony Ten 1
-https://live.dinesh29.com.np/stream/livetv/sonyten1hd/master.m3u8
-#EXTINF:-1,Sony Ten 2
-https://live.dinesh29.com.np/stream/livetv/sonyten2hd/master.m3u8
-#EXTINF:-1,Sony Ten 3
-https://live.dinesh29.com.np/stream/livetv/sonyten3hd/master.m3u8
-#EXTINF:-1,Sony Ten 4
-https://live.dinesh29.com.np/stream/livetv/sonyten4hd/master.m3u8
-#EXTINF:-1,Sony Ten 5
-https://live.dinesh29.com.np/stream/livetv/sonyten5hd/master.m3u8
 
 #EXTINF:-1,Sky Sports Action
 https://7pal.short.gy/ssportsat
@@ -262,11 +244,6 @@ https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561402/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=59454adb530b4e0784eae62735f9d850:61100d0b8c4dd13e4eb8b4851ba192cc
 https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_premiertennishd.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-#EXTINF:-1 tvg-id="eurosport1" tvg-name="EUROSPORT" tvg-logo="https://i.imgur.com/0xo8Ivs.png" group-title="🇵🇭 CIGNAL SPORTS",EUROSPORT
-http://143.44.136.113:6910/001/2/ch00000090990000001325/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
 #EXTINF:-1,HBO Boxing
 #KODIPROP:inputstream.adaptive.license_type=clearkey
