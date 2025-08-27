@@ -84,29 +84,7 @@ https://a36aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/6fbn
 #KODIPROP:inputstream.adaptive.license_key=4b203316c47c370a1eb9097c070d7226:676e6783f23789cdf4ff0486386145ed
 https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/gigxsk0lya/out/v1/df75d887bce4437b8fdf345ae455113b/cenc.mpd
 
-#EXTINF:-1,Premier Sport 1
-https://7pal.short.gy/prsport1
-#EXTINF:-1,Premier Sport 2
-https://7pal.short.gy/prsport2
-#EXTINF:-1,Supersport Premier League
-https://7pal.short.gy/spersppl
 
-#EXTINF:-1,Sky Sports Action
-https://7pal.short.gy/ssportsat
-#EXTINF:-1,Sky Sports Premier League
-https://7pal.short.gy/ssportspl
-#EXTINF:-1,Sky Sports Football
-https://7pal.short.gy/ssportsfb
-#EXTINF:-1,Sky Sports News
-https://7pal.short.gy/ssportsnw
-#EXTINF:-1,Sky Sports Main Event
-https://7pal.short.gy/SSMEuhd
-#EXTINF:-1,Astro Premiere League 1
-https://7pal.short.gy/astross1
-#EXTINF:-1,Astro Sport Premiere League 2
-https://7pal.short.gy/astross2
-#EXTINF:-1,Astro Sport Grandstand
-https://7pal.short.gy/astross3
 
 #EXTINF:-1 tvg-id="TSN1 HD.ca" tvg-logo="https://i.ibb.co.com/HYzgFbZ/tsn1.png" group-title="⚽️  SPORT  ⚽️", TSN 1 🇨🇦
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
