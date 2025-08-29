@@ -1,18 +1,5 @@
 #EXTM3U
 
-██ ██ █ ██ ██ █ █▀█ █ █▀█ █ ▀█ ▀█
-█ ▀ █ █ █ ▀ █ █ █▀▀ █ █▀▀ █ █▄ █▄
-――――――――――――――――――――――――――――――――――――――――――――――
-(●) Last Update: 2025-06-10 15:09:00 GMT+7 "
-(●) Service: Playlist25
-(●) Total Channels: Null
-//////////////////////////////// BILA MENEMUKAN PLAYLIST INI \\\\\\\\\\\\\\\\ 
-\\\\\\\\\\\\\\\\ UNTUK PEMAKAIAN PRIBADI SAJA ////////////////////////////////
-
-//======================================================================== 
-//Collected menampilkan playlist >>> NASIONAL 
-//========================================================================
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png" group-title="NASIONAL",INDOSIAR_TV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
@@ -1295,5 +1282,6 @@ https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_premiertennishd.mpd
 
 #EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/sportcast3.jpg" group-title="SPORT-Tennis",Tennis Channel Taiwan 
 https://smart.pendy.dpdns.org/Smart.php?id=bositennis_twn
+
 
 #EXTM3U billed-msg="LAST UPDATE 16 juni 2025"
