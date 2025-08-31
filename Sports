@@ -109,66 +109,10 @@ https://tataplay.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8
 https://tataplay.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8
 #EXTINF:-1,Sony Ten Sports 5
 https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
-#EXTINF:-1,Sky Sports NZ 1
-https://7pal.short.gy/skyspt1nz
-#EXTINF:-1,Sky Sports NZ 2
-https://7pal.short.gy/skyspt2nz
-#EXTINF:-1,Sky Sports NZ 3
-https://7pal.short.gy/skyspt3nz
-#EXTINF:-1,Sky Sports NZ 4
-https://7pal.short.gy/skyspt4nz
-#EXTINF:-1,Sky Sports NZ 5
-https://7pal.short.gy/skyspt5nz
-#EXTINF:-1,Sky Sports NZ 6
-https://7pal.short.gy/skyspt6nz
-#EXTINF:-1,Sky Sports NZ 7
-https://7pal.short.gy/skyspt7nz
-#EXTINF:-1,Sky Sports NZ 8
-https://7pal.short.gy/skyspt8nz
-#EXTINF:-1,Sky Sports NZ 9
-http://donelfantastic.github.io/live/skysportsNz9.m3u8
-#EXTINF:-1,tvg-id="FoxCricket.au" tvg-logo="https://pixvid.org/images/2025/01/31/Fox501.png" group-title="Sports | AU", Fox Sports 501
-https://7pal.short.gy/fox501au
-#EXTINF:-1,tvg-id="FoxLeague.au" tvg-logo="https://i.imgur.com/7G0lOta.png" group-title="Sports | AU", Fox Sports 502
-https://7pal.short.gy/fox502au
-#EXTINF:-1,tvg-id="FoxSports503.au" tvg-logo="https://i.imgur.com/fndl6gs.png" group-title="Sports | AU", Fox Sports 503
-https://7pal.short.gy/fox503au
-#EXTINF:-1,tvg-id="FoxFooty.au" tvg-logo="https://i.imgur.com/0tZxstM.png" group-title="Sports | AU", Fox Sports 504
-https://7pal.short.gy/fox504au
-#EXTINF:-1,tvg-id="FoxSports505.au" tvg-logo="https://i.imgur.com/pnrLdcb.png" group-title="Sports | AU", Fox Sports 505
-https://7pal.short.gy/fox505au
-#EXTINF:-1,tvg-id="FoxSports506.au" tvg-logo="https://i.imgur.com/XkOpNPe.png group-title="Sports | AU", Fox Sports 506
-https://7pal.short.gy/fox506au
-#EXTINF:-1,tvg-id="FoxSportsMore.au" tvg-logo="https://i.imgur.com/PeDP6zC.png" group-title="Sports | AU", Fox Sports 507
-https://7pal.short.gy/fox507au
 #EXTINF:-1,FIFA+ US
 https://jmp2.uk/sam-USBD12000255B.m3u8
 #EXTINF:-1,Ten Cricket
 https://edge3-moblive.yuppcdn.net/drm/smil:tencricketdrm.smil/manifest.mpd?%7CdrmScheme=clearkey&drmLicense=9872e439f21f4a299cab249c6554daa3:0cdfcfe0d0f1fbe100554ce3ef4c4665
-
-#EXTINF:-1 tvg-id="NBCSportsBoston.us" tvg-name="" tvg-logo="https://iili.io/Jp5oxpt.png" group-title="PREMIUM SPORT" ,  NBC SPORTS 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0020d88a6713159839743f655c5da7de:ba9f34226301f69a4f0f13f65a1f92ec
-https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc122ycnuy)/master.mpd
-
-#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://static.wikia.nocookie.net/youtube/images/2/22/NBC.jpg/revision/latest?cb=20230910112737", NBC Sport Peacock
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0045a118e231f1326bcdb45350b1ceaa:8c13afbfa54ea37a368b8b859021f6e3
-https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(knbc)/master.mpd
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
-
-#EXTINF:-1 tvg-id="xx" tvg-name="" group-title="tengok bola EPL" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/refs/heads/PEJAL/logo%20ejal%20tv%20baru%20149x70.png" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/280px-Premier_League_Logo.svg.png",peacocktv
-https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=333962e3e1383529867a9a0e28a5e5d1:5d3fcbed53749ee622ed0e64f31c1cbf
-
-#EXTINF:-1 tvg-id="xx" tvg-name="" group-title="tengok bola EPL" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/refs/heads/PEJAL/logo%20ejal%20tv%20baru%20149x70.png" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/280px-Premier_League_Logo.svg.png",USA
-https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd
 
 #EXTINF:-1,Euro Sport 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
