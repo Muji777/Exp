@@ -1,5 +1,22 @@
 #EXTM3U
 
+#EXTINF:-1,Star Sports 1
+https://tplay-vivek.vercel.app/play.m3u8?id=78
+#EXTINF:-1,Star Sports 2
+https://tplay-vivek.vercel.app/play.m3u8?id=235
+#EXTINF:-1,Star Sports Select 1
+https://tplay-vivek.vercel.app/play.m3u8?id=246
+#EXTINF:-1,Star Sports Select 2
+https://tplay-vivek.vercel.app/play.m3u8?id=463
+#EXTINF:-1,Star Sports 1
+https://live.dinesh29.com.np/stream/jiotvplus/starsportshd1/master.m3u8
+#EXTINF:-1,Star Sports 2
+https://live.dinesh29.com.np/stream/jiotvplus/starsportshd2/master.m3u8
+#EXTINF:-1,Star Sports Select 1
+https://live.dinesh29.com.np/stream/jiotvplus/starsportsselecthd1/master.m3u8
+#EXTINF:-1,Star Sports Select 2
+https://live.dinesh29.com.np/stream/jiotvplus/starsportsselecthd2/master.m3u8
+
 #EXTINF:-1,Euro Sport 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
