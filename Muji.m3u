@@ -45,6 +45,21 @@ https://streamer.nexyl.uk/39290a19-b8dd-43ea-b8dc-081c37790f24.m3u8
 #EXTINF:-1, BBC 4
 https://streamer.nexyl.uk/48559ccd-6400-457d-8acc-06b9e24c2ed8.m3u8
                       
+#EXTINF:-1,RTÈ One
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=575e49ee6270de247bb5f814a98a6b2b:ac3d5c349891dba83977f967402e117c
+https://live.rte.ie/live/a/channel1/channel1.isml/channel1.mpd
+
+#EXTINF:-1,RTÈ Two
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d816287e21496989eae1312925a423c5:00da00f13180e7e6cd5ce87d1c974e8d
+https://live.rte.ie/live/a/channel2/channel2.isml/channel2.mpd
+
+#EXTINF:-1,RTÈ News
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=765cd70494b06fd06494702620bbc172:a453f47fa795900309609b68737b8c60
+https://live.rte.ie/live/a/channel3/channel3.isml/channel3.mpd
+
 #EXTINF:-1,70's Music
 https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:-1,80's Music
