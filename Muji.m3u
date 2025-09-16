@@ -324,45 +324,7 @@ https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_channelnewsasia.mpd
 #EXTINF:-1 tvg-id="hgtvph2" tvg-name="HGTV (CIG)" tvg-logo="https://i.imgur.com/fx1Y2Eh.png" group-title="🇵🇭 CIGNAL INTERNATIONAL",HGTV (CIG)
 https://qp-pldt-live-grp-08-prod.akamaized.net/out/u/hgtv_hd1.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=13815d0fa026441ea7662b0c9de00bcf:2d99a55743677c3879a068dd9c92f824
-#EXTINF:-1 tvg-id="arirang2" tvg-name="ARIRANG (CIG)" tvg-logo="https://i.imgur.com/fx1Y2Eh.png" group-title="🇵🇭 CIGNAL INTERNATIONAL",ARIRANG (CIG)
-https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/arirang_sd.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=436b69f987924fcbbc06d40a69c2799a:c63d5b0d7e52335b61aeba4f6537d54d
-#EXTINF:-1 tvg-id="animalplanetph2" tvg-name="ANIMAL PLANET (CIG)" tvg-logo="https://i.imgur.com/fx1Y2Eh.png" group-title="🇵🇭 CIGNAL INTERNATIONAL",ANIMAL PLANET (CIG)
-https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/cg_animal_planet_sd.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=f3047fc13d454dacb6db4207ee79d3d3:bdbd38748f51fc26932e96c9a2020839
-#EXTINF:-1 tvg-id="trvlchannelph" tvg-name="TRVL CHANNEL" tvg-logo="https://i.imgur.com/fx1Y2Eh.png" group-title="🇵🇭 CIGNAL INTERNATIONAL",TRVL CHANNEL
-https://qp-pldt-live-grp-08-prod.akamaized.net/out/u/travel_channel_sd.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=21e2843b561c4248b8ea487986a16d33:db6bb638ccdfc1ad1a3e98d728486801
-#EXTINF:-1 tvg-id="crimeinvph2" tvg-name="CRIME INVESTIGATION (CIG)" tvg-logo="https://i.imgur.com/fx1Y2Eh.png" group-title="🇵🇭 CIGNAL INTERNATIONAL",CRIME INVESTIGATION (CIG)
-https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_crime_invest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=7f3d900a04d84492b31fe9f79ac614e3:d33ff14f50beac42969385583294b8f2
-#EXTINF:-1 tvg-id="aljazeeraph2" tvg-name="ALJAZEERA (CIG)" tvg-logo="https://i.imgur.com/fx1Y2Eh.png" group-title="🇵🇭 CIGNAL INTERNATIONAL",ALJAZEERA (CIG)
-https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_aljazeera.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=4503cf86bca3494ab95a77ed913619a0:afc9c8f627fb3fb255dee8e3b0fe1d71
-#EXTINF:-1 tvg-id="warnertvph2" tvg-name="WARNER TV (CIG)" tvg-logo="https://i.imgur.com/fx1Y2Eh.png" group-title="🇵🇭 CIGNAL INTERNATIONAL",WARNER TV (CIG)
-https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_warnertvhd.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=900c43f0e02742dd854148b7a75abbec:da315cca7f2902b4de23199718ed7e90
-#EXTINF:-1 tvg-id="cnninter2" tvg-name="CNN INTERNATIONAL (CIG)" tvg-logo="https://i.imgur.com/fx1Y2Eh.png" group-title="🇵🇭 CIGNAL INTERNATIONAL",CNN INTERNATIONAL (CIG)
-https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_cnnhd.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=389497f9f8584a57b234e27e430e04b7:3b85594c7f88604adf004e45c03511c0
-#EXTINF:-1 tvg-id="abcaustralia2" tvg-name="ABC AUSTRALIA (CIG)" tvg-logo="https://i.imgur.com/fx1Y2Eh.png" group-title="🇵🇭 CIGNAL INTERNATIONAL",ABC AUSTRALIA (CIG)
-https://qp-pldt-live-grp-10-prod.akamaized.net/out/u/dr_abc_aus.mpd
 
 
 
