@@ -1,5 +1,9 @@
 #EXTM3U
 
+#EXTINF:-1, Star Sports Select 1
+http://89.187.189.98/STARSPORTSSELECT1HD/index.m3u8
+#EXTINF:-1, Star Sports Select 2
+http://89.187.189.98/STARSPORTSSELECT2HD/index.m3u8
 #EXTINF:-1,Star Sports 1
 https://live.dinesh29.com.np/stream/jiotvplus/starsportshd1/master.m3u8
 #EXTINF:-1,Star Sports 2
@@ -32,6 +36,19 @@ https://dish.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
 https://tiger-hub.vercel.app/WillowHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1, Willow 2
 https://tiger-hub.vercel.app/WillowHD-2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,CBS Sports 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
+https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd
+
+#EXTINF:-1,CBS Sports 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=196c6ff693a0fbe313b1abd2cb1f90b9:229d958caa52b29a4dc7e5109fdde87c
+https://a122aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/vcxa7v3gnz/out/v1/3f159b59a7fa494a906778f4d2e1bb5e/cenc.mpd
+
+#EXTINF:-1,Astro Cricket
+https://proxy.mydementiacompanion.com.au/https://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default_primary.mpd?%7Cuser-agent=user-agent=user-agent%3DMozilla%2F5.0%20%28Linux%3B%20Android%2010%3B%20MI%209%20Build%2FQKQ1.190825.002%3B%20wv%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Version%2F4.0%20Chrome%2F111.0.5563.58%20Mobile%20Safari%2F537.36&drmScheme=clearkey&drmLicense=03c2e0af2f8159f9f0ce9b5dbc865f10:cd84ed136b0cc71f8ab8cd4d4f6a2e4c
 
 #EXTINF:-1,Euro Sport 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
