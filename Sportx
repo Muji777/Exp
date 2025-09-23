@@ -1,5 +1,9 @@
 #EXTM3U
 
+#EXTINF:-1, Star Sports Select 1
+http://89.187.189.98/STARSPORTSSELECT1HD/index.m3u8
+#EXTINF:-1, Star Sports Select 2
+http://89.187.189.98/STARSPORTSSELECT2HD/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG16b9ol6EwS9JRTZAsrXMBlaGS-RLTkhSqg&s",Sky Sports Premier League
 https://tiger-hub.vercel.app/SkySports-premire_League/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f8/TNT_Sports_1_%282023%29.svg/revision/latest/scale-to-width-down/284?cb=20230704071741",TNT Sports 1
@@ -14,6 +18,8 @@ https://tiger-hub.vercel.app/TNT-Sports_4/tracks-v1a1/mono.m3u8
 https://tiger-hub.vercel.app/WillowHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1, Willow 2
 https://tiger-hub.vercel.app/WillowHD-2/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Star Sports 2
+http://89.187.189.98/STARSPORTS2HD/index.m3u8
 #EXTINF:-1 tvg-id="starsportshd1" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/starsportshd1.png" group-title="Sports",Star Sports HD1
 https://live.dinesh29.com.np/stream/jiotvplus/starsportshd1/master.m3u8
 #EXTINF:-1 tvg-id="starsportshd2" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/starsportshd2.png" group-title="Sports",Star Sports HD2
@@ -31,9 +37,9 @@ https://live.dinesh29.com.np/stream/jiotvplus/colorshd/master.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8
 #EXTINF:-1, Geo Entertainment
 https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
-
-
-
+#EXTINF:-1, Movies Now
+http://89.187.189.98/MOVIESNOWHD/index.m3u8
+#EXTINF:-1, Star Movies http://89.187.189.98/STARMOVIESHD/index.m3u8
 
 
 
