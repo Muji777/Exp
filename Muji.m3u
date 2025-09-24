@@ -83,35 +83,39 @@ https://wildearth-plex.amagi.tv/master.m3u8
 #EXTINF:-1,Dubai One
 https://dminnvllta.cdn.mgmlcdn.com/dubaione/smil:dubaione.stream.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="hbo" tvg-logo="https://i.imgur.com/6uN52OW.png" group-title="Movies",HBO
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d47ebabf7a21430b83a8c4b82d9ef6b1:54c213b2b5f885f1e0290ee4131d425b
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbohd/default/index.mpd
-
-#EXTINF:-1 tvg-id="hbo-hits" tvg-logo="https://i.imgur.com/tGSLZWz.png" group-title="Movies",HBO Hits
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b04ae8017b5b4601a5a0c9060f6d5b7d:a8795f3bdb8a4778b7e888ee484cc7a1
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbohits/default1/index.mpd
-
-#EXTINF:-1 tvg-id="hbo-family" tvg-logo="https://i.imgur.com/SefoKAw.png" group-title="Movies",HBO Family
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=872910c843294319800d85f9a0940607:f79fd895b79c590708cf5e8b5c6263be
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbofam/default/index.mpd
-
-#EXTINF:-1 tvg-id="hbo-signature" tvg-logo="https://i.imgur.com/3L9QRDw.png" group-title="Movies",HBO Signature
-#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a06ca6c275744151895762e0346380f5:559da1b63eec77b5a942018f14d3f56f
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbosign/default/index.mpd
+#EXTINF:-1 tvg-id="hbosignature2" tvg-name="HBO SIGNATURE (CIG)" tvg-logo="https://i.imgur.com/fx1Y2Eh.png" group-title="🇵🇭 CONV-CIG MOVIES",HBO SIGNATURE (CIG)
+https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/cg_hbosign.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/y4q1ttt/cinemaworld-2-1.png" group-title="Converge", Cinema World
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-http://161.49.17.2:6610/001/2/ch00000090990000001158/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=872910c843294319800d85f9a0940607:f79fd895b79c590708cf5e8b5c6263be
+#EXTINF:-1 tvg-id="hbofamily" tvg-name="HBO FAMILY HD" tvg-logo="https://i.imgur.com/fx1Y2Eh.png" group-title="🇵🇭 CONV-CIG MOVIES",HBO FAMILY HD
+https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/cg_hbofam.mpd
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/337_144.png" group-title="Converge", Cinemax
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-http://161.49.17.2:6610/001/2/ch00000090990000001108/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b04ae8017b5b4601a5a0c9060f6d5b7d:a8795f3bdb8a4778b7e888ee484cc7a1
+#EXTINF:-1 tvg-id="hbohits2" tvg-name="HBO HITS (CIG)" tvg-logo="https://i.imgur.com/fx1Y2Eh.png" group-title="🇵🇭 CONV-CIG MOVIES",HBO HITS (CIG)
+https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/cg_hbohits.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d47ebabf7a21430b83a8c4b82d9ef6b1:54c213b2b5f885f1e0290ee4131d425b
+#EXTINF:-1 tvg-id="hbo2" tvg-name="HBO (CIG)" tvg-logo="https://i.imgur.com/fx1Y2Eh.png" group-title="🇵🇭 CONV-CIG MOVIES",HBO (CIG)
+https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/cg_hbohd.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b207c44332844523a3a3b0469e5652d7:fe71aea346db08f8c6fbf0592209f955
+#EXTINF:-1 tvg-id="cinemaxph2" tvg-name="CINEMAX (CIG)" tvg-logo="https://i.imgur.com/fx1Y2Eh.png" group-title="🇵🇭 CONV-CIG MOVIES",CINEMAX (CIG)
+https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/cg_cinemax.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0f853b34412b11edb8780242ac120002:a7cc625eb0c7cf5f2a334f5e05e87fab
+#EXTINF:-1 tvg-id="cigparamount" tvg-name="PARAMOUNT NETWORK" tvg-logo="https://i.imgur.com/fx1Y2Eh.png" group-title="🇵🇭 CONV-CIG MOVIES",PARAMOUNT NETWORK
+https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_paramount.mpd
+
+
+
+
+
 
 
 
