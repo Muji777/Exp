@@ -52,10 +52,10 @@ https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/lsdasbvglv/out/v1/bb
 #KODIPROP:inputstream.adaptive.license_key=5ccdccf0818d3d9ff6c26076fc1153ac:f8d7fda7e3f11a29b346a37e98f749d4
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
 
-#EXTINF:-1,Amazon Prime
+#EXTINF:-1,Peacock Tv
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d28475494eb39cef95e5175c028ea814:8ac4fc085792b7bf8b7c38246f40d9c9
-https://aba3uy3aaaaaaaamfjv2jyrjdxcj4.otte.live.cf.ww.aiv-cdn.net/sin-nitro/live/clients/dash/enc/ebgsyorlcl/out/v1/ce95d81f287040d5a3fa6d4b145be849/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=f9bc0a20c4e0aaac02b5e628e1221db7:df50622081e3c7724ec05205bded6a4f
+https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/wtlatbp1av/out/v1/966e900165c3430693b4ae20555c6a65/cenc.mpd
 
 #EXTINF:-1,Bein Sports 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
