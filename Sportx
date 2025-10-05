@@ -28,18 +28,19 @@ https://live.dinesh29.com.np/stream/jiotvplus/starsportshd2/master.m3u8
 https://live.dinesh29.com.np/stream/jiotvplus/starsportsselecthd1/master.m3u8
 #EXTINF:-1 tvg-id="starsportsselecthd2" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/starsportsselecthd2.png" group-title="Sports",Star Sports Select HD2
 https://live.dinesh29.com.np/stream/jiotvplus/starsportsselecthd2/master.m3u8
-
-#EXTINF:-1, Zee Tv
-http://app.hughag.store/api/526bde04a5/playlist.m3u8
-#EXTINF:-1, Colors Tv
+#EXTINF:-1,OSN Movies Premiere
+https://tiger-hub.vercel.app/OSN/Premiere-movies/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1,OSN Movies Action
+https://tiger-hub.vercel.app/OSN/Action-movies/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1,OSN Movies Hollywood
+https://tiger-hub.vercel.app/OSN/Hollywood-movies/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1,Colors Tv
 https://live.dinesh29.com.np/stream/jiotvplus/colorshd/master.m3u8
-#EXTINF:-1, Hum Tv
-https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8
-#EXTINF:-1, Geo Entertainment
+#EXTINF:-1,Geo Entertainment
 https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
-#EXTINF:-1, Movies Now
+#EXTINF:-1,Movies Now
 http://89.187.189.98/MOVIESNOWHD/index.m3u8
-#EXTINF:-1, Star Movies                                                                                                                                       
+#EXTINF:-1,Star Movies                                                                                                                                       
 http://89.187.189.98/STARMOVIESHD/index.m3u8
 
 
