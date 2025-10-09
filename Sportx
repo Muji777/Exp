@@ -20,14 +20,6 @@ https://tiger-hub.vercel.app/WillowHD/tracks-v1a1/mono.m3u8
 https://tiger-hub.vercel.app/WillowHD-2/tracks-v1a1/mono.m3u8
 #EXTINF:-1, Star Sports 2
 http://89.187.189.98/STARSPORTS2HD/index.m3u8
-#EXTINF:-1 tvg-id="starsportshd1" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/starsportshd1.png" group-title="Sports",Star Sports HD1
-https://live.dinesh29.com.np/stream/jiotvplus/starsportshd1/master.m3u8
-#EXTINF:-1 tvg-id="starsportshd2" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/starsportshd2.png" group-title="Sports",Star Sports HD2
-https://live.dinesh29.com.np/stream/jiotvplus/starsportshd2/master.m3u8
-#EXTINF:-1 tvg-id="starsportsselecthd1" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/starsportsselecthd1.png" group-title="Sports",Star Sports Select HD1
-https://live.dinesh29.com.np/stream/jiotvplus/starsportsselecthd1/master.m3u8
-#EXTINF:-1 tvg-id="starsportsselecthd2" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/starsportsselecthd2.png" group-title="Sports",Star Sports Select HD2
-https://live.dinesh29.com.np/stream/jiotvplus/starsportsselecthd2/master.m3u8
 #EXTINF:-1,OSN Movies Premiere
 https://tiger-hub.vercel.app/OSN/Premiere-movies/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1,OSN Movies Action
