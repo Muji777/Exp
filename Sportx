@@ -14,6 +14,55 @@ https://tiger-hub.vercel.app/TNT-Sports_4/tracks-v1a1/mono.m3u8
 https://tiger-hub.vercel.app/WillowHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Willow Cricket
 https://tiger-hub.vercel.app/WillowHD-2/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Sky Sports Main Event
+https://topstream.space/crhd/stream.php?id=skysme
+#EXTINF:-1,Sky Sports Cricket
+https://topstream.space/crhd/stream.php?id=skyscric
+#EXTINF:-1,Sky Sports Premier League
+https://topstream.space/crhd/stream.php?id=skysprem
+#EXTINF:-1,Sky Sports Football
+https://topstream.space/crhd/stream.php?id=skysfott
+#EXTINF:-1,Sky Sports Tennis
+https://topstream.space/crhd/stream.php?id=skystennis
+#EXTINF:-1,Sky Sports F1
+https://topstream.space/crhd/stream.php?id=skysfor1
+#EXTINF:-1,Sky Sports Mix
+https://topstream.space/crhd/stream.php?id=skysmixx
+#EXTINF:-1,TNT Sports 1
+https://topstream.space/crhd/stream.php?id=bbtsp1
+#EXTINF:-1,TNT Sports 2
+https://topstream.space/crhd/stream.php?id=bbtsp2
+#EXTINF:-1,TNT Sports 3
+https://topstream.space/crhd/stream.php?id=bbtsp3
+#EXTINF:-1,TNT Sports 4
+https://topstream.space/crhd/stream.php?id=bbtespn
+#EXTINF:-1,La Liga Tv
+https://topstream.space/crhd/stream.php?id=laligauk
+#EXTINF:-1,Star Sports 1
+https://topstream.space/crhd/stream.php?id=star1in
+#EXTINF:-1,Willow USA
+https://topstream.space/crhd/stream.php?id=willowusa
+#EXTINF:-1,Willow Extra
+https://topstream.space/crhd/stream.php?id=willowextra
+#EXTINF:-1,Premier Sports 1
+https://topstream.space/crhd/stream.php?id=premieruk
+#EXTINF:-1,Premier Sports 2
+https://topstream.space/crhd/stream.php?id=hdchnl2
+#EXTINF:-1,Sony Ten 1
+https://topstream.space/crhd/stream.php?id=ten1hd
+#EXTINF:-1,TSN 1
+https://tiger-hub.vercel.app/SPORT-ZONE/TSN-1/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1,TSN 2
+https://tiger-hub.vercel.app/SPORT-ZONE/TSN-2/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1,TSN 3
+https://tiger-hub.vercel.app/SPORT-ZONE/TSN-3/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1,TSN 4
+https://tiger-hub.vercel.app/SPORT-ZONE/TSN-4/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1,TSN 5
+https://tiger-hub.vercel.app/SPORT-ZONE/TSN-5/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1,Sky Premier League NZ
+http://135.125.238.26:8080/catena-36-1149997-streamer-nz_sky_sport_8/video.m3u8?token=f54abc11fcaeb75c0368edb767264658
+
 #EXTINF:-1,OSN Movies Premiere
 https://tiger-hub.vercel.app/OSN/Premiere-movies/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1,OSN Movies Action
