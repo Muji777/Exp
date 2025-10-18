@@ -62,6 +62,8 @@ https://tiger-hub.vercel.app/SPORT-ZONE/TSN-4/tracks-v1a1/mono.ts.m3u8
 https://tiger-hub.vercel.app/SPORT-ZONE/TSN-5/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1,Sky Premier League NZ
 http://135.125.238.26:8080/catena-36-1149997-streamer-nz_sky_sport_8/video.m3u8?token=f54abc11fcaeb75c0368edb767264658
+#EXTINF:-1,Bein Sports Extra
+https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
 
 #EXTINF:-1,OSN Movies Premiere
 https://tiger-hub.vercel.app/OSN/Premiere-movies/tracks-v1a1/mono.ts.m3u8
@@ -71,8 +73,10 @@ https://tiger-hub.vercel.app/OSN/Action-movies/tracks-v1a1/mono.ts.m3u8
 https://tiger-hub.vercel.app/OSN/Hollywood-movies/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1,Geo Entertainment
 https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
-                                                                                                                 
-
+#EXTINF:-1,ARY Digital
+http://212.32.241.201:8000/play/a01q
+#EXTINF:-1,Hum Tv
+http://212.32.241.201:8000/play/a04i
 
 
  
