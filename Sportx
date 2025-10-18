@@ -105,4 +105,13 @@ https://dminnvllta.cdn.mgmlcdn.com/dubaione/smil:dubaione.stream.smil/chunklist.
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1,Wild Earth
 https://wildearth-plex.amagi.tv/master.m3u8
- 
+#EXTINF:-1,Al Jazeera
+https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/aljazeeraLive/AJE/index.m3u8
+#EXTINF:-1,BBC World News
+https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
+#EXTINF:-1,CNN
+https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-samsungin-cnnnow-samsungin/playlist.m3u8
+#EXTINF:-1,Sky News
+https://d39chvnxm26pgp.cloudfront.net/v1/master/72588bff830dec7b26d7cbbf5f3c24928aec5c03/cc-sthen6ms4vxgv-stage/WNSFO/ABR.m3u8
+#EXTINF:-1,ABC News
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
