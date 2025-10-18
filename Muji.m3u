@@ -70,6 +70,16 @@ https://live.rte.ie/live/a/channel2/channel2.isml/channel2.mpd
 #KODIPROP:inputstream.adaptive.license_key=765cd70494b06fd06494702620bbc172:a453f47fa795900309609b68737b8c60
 https://live.rte.ie/live/a/channel3/channel3.isml/channel3.mpd
 
+#EXTINF:-1,Al Jazeera
+https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/aljazeeraLive/AJE/index.m3u8
+#EXTINF:-1,BBC World News
+https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
+#EXTINF:-1,CNN
+https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-samsungin-cnnnow-samsungin/playlist.m3u8
+#EXTINF:-1,Sky News
+https://d39chvnxm26pgp.cloudfront.net/v1/master/72588bff830dec7b26d7cbbf5f3c24928aec5c03/cc-sthen6ms4vxgv-stage/WNSFO/ABR.m3u8
+#EXTINF:-1,ABC News
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:-1,70's Music
 https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:-1,80's Music
@@ -82,6 +92,24 @@ https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
 https://wildearth-plex.amagi.tv/master.m3u8
 #EXTINF:-1,Dubai One
 https://dminnvllta.cdn.mgmlcdn.com/dubaione/smil:dubaione.stream.smil/chunklist.m3u8
+#EXTINF:-1,Cinemax
+http://212.102.60.231:80/CINEMAX/index.m3u8
+#EXTINF:-1,Showtime
+http://212.102.60.231:80/SHOWTIME/index.m3u8
+#EXTINF:-1,HBO
+http://212.102.60.231:80/HBO/index.m3u8
+#EXTINF:-1,HBO 2
+http://212.102.60.231/HBO_2/index.m3u8 
+#EXTINF:-1,HBO Family
+http://212.102.60.231/HBO_FAMILY/index.m3u8
+#EXTINF:-1,Nat Geo Wild
+http://212.102.60.231:80/Nat_Geo_Wild/index.m3u8
+#EXTINF:-1,Nat Geo
+http://212.102.60.231:80/National_Geographic/index.m3u8
+#EXTINF:-1,Animal Planet
+http://212.102.60.231:80/Animal_Planet/index.m3u8
+#EXTINF:-1,HGTV
+http://212.102.60.231:80/HGTV/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d47ebabf7a21430b83a8c4b82d9ef6b1:54c213b2b5f885f1e0290ee4131d425b
