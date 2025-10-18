@@ -53,7 +53,13 @@ https://topstream.space/crhd/stream.php?id=premieruk
 #EXTINF:-1,Premier Sports 2
 https://topstream.space/crhd/stream.php?id=hdchnl2
 #EXTINF:-1,Sony Ten 1
-https://topstream.space/crhd/stream.php?id=ten1hd
+https://topsports.watch/sonyliv/stream.php?id=sony-ten-1-hd&format=.m3u8
+#EXTINF:-1,Sony Ten 2
+https://topsports.watch/sonyliv/stream.php?id=sony-ten-2-hd&format=.m3u8
+#EXTINF:-1,Sony Ten 3
+https://topsports.watch/sonyliv/stream.php?id=sony-ten-3-hd&format=.m3u8
+#EXTINF:-1,Sony Ten 4
+https://topsports.watch/sonyliv/stream.php?id=sony-ten-5-hd&format=.m3u8
 #EXTINF:-1,TSN 1
 https://tiger-hub.vercel.app/SPORT-ZONE/TSN-1/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1,TSN 2
@@ -66,7 +72,6 @@ https://tiger-hub.vercel.app/SPORT-ZONE/TSN-4/tracks-v1a1/mono.ts.m3u8
 https://tiger-hub.vercel.app/SPORT-ZONE/TSN-5/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1,Bein Sports Extra
 https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
-
 #EXTINF:-1,HBO
 http://212.102.60.231:80/HBO/index.m3u8
 #EXTINF:-1,HBO 2
