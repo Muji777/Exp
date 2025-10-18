@@ -14,6 +14,38 @@ https://tiger-hub.vercel.app/TNT-Sports_4/tracks-v1a1/mono.m3u8
 https://tiger-hub.vercel.app/WillowHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1, Willow 2
 https://tiger-hub.vercel.app/WillowHD-2/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Sky Sports Main Event
+https://topstream.space/crhd/stream.php?id=skysme
+#EXTINF:-1,Sky Sports Cricket
+https://topstream.space/crhd/stream.php?id=skyscric
+#EXTINF:-1,Sky Sports Premier League
+https://topstream.space/crhd/stream.php?id=skysprem
+#EXTINF:-1,Sky Sports Football
+https://topstream.space/crhd/stream.php?id=skysfott
+#EXTINF:-1,Sky Sports Tennis
+https://topstream.space/crhd/stream.php?id=skystennis
+#EXTINF:-1,Sky Sports F1
+https://topstream.space/crhd/stream.php?id=skysfor1
+#EXTINF:-1,Sky Sports Mix
+https://topstream.space/crhd/stream.php?id=skysmixx
+#EXTINF:-1,TNT Sports 1
+https://topstream.space/crhd/stream.php?id=bbtsp1
+#EXTINF:-1,TNT Sports 2
+https://topstream.space/crhd/stream.php?id=bbtsp2
+#EXTINF:-1,TNT Sports 3
+https://topstream.space/crhd/stream.php?id=bbtsp3
+#EXTINF:-1,TNT Sports 4
+https://topstream.space/crhd/stream.php?id=bbtespn
+#EXTINF:-1,Star Sports 1
+https://topstream.space/crhd/stream.php?id=star1in
+#EXTINF:-1,Willow USA
+https://topstream.space/crhd/stream.php?id=willowusa
+#EXTINF:-1,Willow Extra
+https://topstream.space/crhd/stream.php?id=willowextra
+#EXTINF:-1,Sony Ten 1
+https://topstream.space/crhd/stream.php?id=ten1hd
+#EXTINF:-1,Sony Ten 1
+https://mahabuburbd.netlify.app/sonyten1.m3u8
 
 #EXTINF:-1,CBS Sports
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -63,6 +95,8 @@ http://135.125.238.26:8080/catena-36-1149991-streamer-nz_sky_sport_2/video.m3u8?
 http://135.125.238.26:8080/catena-36-1149992-streamer-nz_sky_sport_3/video.m3u8?token=f54abc11fcaeb75c0368edb767264658
 #EXTINF:-1,Sky Sports 4 NZ
 http://135.125.238.26:8080/catena-36-1149993-streamer-nz_sky_sport_4/video.m3u8?token=f54abc11fcaeb75c0368edb767264658
+#EXTINF:-1,Sky Premier League NZ
+http://135.125.238.26:8080/catena-36-1149997-streamer-nz_sky_sport_8/video.m3u8?token=f54abc11fcaeb75c0368edb767264658
 
 #EXTINF:-1,Euro Sport 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
