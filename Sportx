@@ -60,11 +60,19 @@ https://tiger-hub.vercel.app/SPORT-ZONE/TSN-3/tracks-v1a1/mono.ts.m3u8
 https://tiger-hub.vercel.app/SPORT-ZONE/TSN-4/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1,TSN 5
 https://tiger-hub.vercel.app/SPORT-ZONE/TSN-5/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1,Sky Premier League NZ
-http://135.125.238.26:8080/catena-36-1149997-streamer-nz_sky_sport_8/video.m3u8?token=f54abc11fcaeb75c0368edb767264658
 #EXTINF:-1,Bein Sports Extra
 https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
 
+#EXTINF:-1,HBO
+http://212.102.60.231:80/HBO/index.m3u8
+#EXTINF:-1,HBO 2
+http://212.102.60.231/HBO_2/index.m3u8 
+#EXTINF:-1,HBO Family
+http://212.102.60.231/HBO_FAMILY/index.m3u8
+#EXTINF:-1,Showtime
+http://212.102.60.231:80/SHOWTIME/index.m3u8
+#EXTINF:-1,Cinemax
+http://212.102.60.231:80/CINEMAX/index.m3u8
 #EXTINF:-1,OSN Movies Premiere
 https://tiger-hub.vercel.app/OSN/Premiere-movies/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1,OSN Movies Action
@@ -81,8 +89,14 @@ http://212.32.241.201:8000/play/a04i
 https://d3u3pfhhvuad9k.cloudfront.net/playlist/amg00793-bbcstudios-bbcearta-lgus/playlist.m3u8
 #EXTINF:-1,BBC Lifestyle
 https://cdn4.skygo.mn/live/disk1/BBC_lifestyle/HLSv3-FTA/BBC_lifestyle.m3u8
-#EXTINF:-1,CNN
-https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1,Animal Planet
+http://212.102.60.231:80/Animal_Planet/index.m3u8
+#EXTINF:-1,HGTV
+http://212.102.60.231:80/HGTV/index.m3u8
+#EXTINF:-1,Nat Geo Wild
+http://212.102.60.231:80/Nat_Geo_Wild/index.m3u8
+#EXTINF:-1,Nat Geo
+http://212.102.60.231:80/National_Geographic/index.m3u8
 #EXTINF:-1,Discovery Asia
 https://cdn4.skygo.mn/live/disk1/Discovery_Asia/HLSv3-FTA/Discovery_Asia.m3u8
 #EXTINF:-1,Dubai One
