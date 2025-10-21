@@ -2,8 +2,24 @@
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG16b9ol6EwS9JRTZAsrXMBlaGS-RLTkhSqg&s",Sky Sports Premier League
 https://tiger-hub.vercel.app/SkySports-premire_League/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Star Sports Select
-https://tvsen6.aynaott.com/spsel1/index.m3u8
+#EXTINF:-1,Supersport Football
+https://kusnadipepenk.github.io/ntn/superprem.m3u8
+#EXTINF:-1,TNT Sports 1
+https://kusnadipepenk.github.io/campeign/tnt1.m3u8
+#EXTINF:-1,TNT Sports 2
+https://kusnadipepenk.github.io/campeign/tnt2.m3u8
+#EXTINF:-1,TNT Sports 3
+https://kusnadipepenk.github.io/campeign/tnt3.m3u8
+#EXTINF:-1,TNT Sports 4
+https://kusnadipepenk.github.io/campeign/tnt4.m3u8
+#EXTINF:-1,TNT Sports 5
+https://kusnadipepenk.github.io/campeign/tnt5.m3u8
+#EXTINF:-1,Dazn 1
+https://kusnadipepenk.github.io/ntn/daz1.m3u8
+#EXTINF:-1,Dazn 2
+https://kusnadipepenk.github.io/ntn/daz2.m3u8
+#EXTINF:-1,CBS Sports Network
+http://212.102.60.231:80/CBS_SPORTS_NETWORK/index.m3u8
 #EXTINF:-1,Sony Ten 1
 https://mahabuburbd.netlify.app/sonyten1.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f8/TNT_Sports_1_%282023%29.svg/revision/latest/scale-to-width-down/284?cb=20230704071741",TNT Sports 1
@@ -52,14 +68,6 @@ https://topstream.space/crhd/stream.php?id=willowextra
 https://topstream.space/crhd/stream.php?id=premieruk
 #EXTINF:-1,Premier Sports 2
 https://topstream.space/crhd/stream.php?id=hdchnl2
-#EXTINF:-1,Sony Ten 1
-https://topsports.watch/sonyliv/stream.php?id=sony-ten-1-hd&format=.m3u8
-#EXTINF:-1,Sony Ten 2
-https://topsports.watch/sonyliv/stream.php?id=sony-ten-2-hd&format=.m3u8
-#EXTINF:-1,Sony Ten 3
-https://topsports.watch/sonyliv/stream.php?id=sony-ten-3-hd&format=.m3u8
-#EXTINF:-1,Sony Ten 4
-https://topsports.watch/sonyliv/stream.php?id=sony-ten-5-hd&format=.m3u8
 #EXTINF:-1,TSN 1
 https://tiger-hub.vercel.app/SPORT-ZONE/TSN-1/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1,TSN 2
