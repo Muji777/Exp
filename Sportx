@@ -82,6 +82,10 @@ http://212.102.60.231:80/SHOWTIME/index.m3u8
 http://212.102.60.231:80/CINEMAX/index.m3u8
 #EXTINF:-1,Paramount Network
 https://viamotionhsi.netplus.ch/live/eds/paramount/browser-HLS8/paramount.m3u8
+#EXTINF:-1,Apple Tv+ 1
+https://tiger-hub.vercel.app/Hollywood/Apple-plus-Webseries/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1,Apple Tv+ 2
+https://tiger-hub.vercel.app/Hollywood/Apple-plus-Webseries2/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1,OSN Movies Premiere
 https://tiger-hub.vercel.app/OSN/Premiere-movies/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1,OSN Movies Action
