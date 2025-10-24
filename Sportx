@@ -2,8 +2,6 @@
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG16b9ol6EwS9JRTZAsrXMBlaGS-RLTkhSqg&s",Sky Sports Premier League
 https://tiger-hub.vercel.app/SkySports-premire_League/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Supersport Football
-https://kusnadipepenk.github.io/ntn/superprem.m3u8
 #EXTINF:-1,Sky Sports Main Event
 https://raw.githubusercontent.com/kusnadipepenk/ntn/refs/heads/master/skymain.m3u8
 #EXTINF:-1,Sky Sports Football
@@ -82,12 +80,6 @@ https://tiger-hub.vercel.app/SPORT-ZONE/TSN-5/tracks-v1a1/mono.ts.m3u8
 https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
 #EXTINF:-1,Paramount Network
 https://viamotionhsi.netplus.ch/live/eds/paramount/browser-HLS8/paramount.m3u8
-#EXTINF:-1,Sky Movies Hits
-https://raw.githubusercontent.com/kusnadipepenk/ntn/refs/heads/master/skyhit.m3u8
-#EXTINF:-1,Sky Movies Thriller
-https://raw.githubusercontent.com/kusnadipepenk/ntn/refs/heads/master/skytri.m3u8
-#EXTINF:-1,Sky Movies Family
-https://raw.githubusercontent.com/kusnadipepenk/ntn/refs/heads/master/skyfil.m3u8
 #EXTINF:-1,Apple Tv+ 1
 https://tiger-hub.vercel.app/Hollywood/Apple-plus-Webseries/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1,Apple Tv+ 2
