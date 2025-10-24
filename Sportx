@@ -18,8 +18,6 @@ https://kusnadipepenk.github.io/campeign/tnt5.m3u8
 https://kusnadipepenk.github.io/ntn/daz1.m3u8
 #EXTINF:-1,Dazn 2
 https://kusnadipepenk.github.io/ntn/daz2.m3u8
-#EXTINF:-1,CBS Sports Network
-http://212.102.60.231:80/CBS_SPORTS_NETWORK/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f8/TNT_Sports_1_%282023%29.svg/revision/latest/scale-to-width-down/284?cb=20230704071741",TNT Sports 1
 https://tiger-hub.vercel.app/TNT-Sports_1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d8/TNT_Sports_2_%282023%29.svg/revision/latest/scale-to-width-down/284?cb=20230717230828",TNT Sports 2
@@ -78,16 +76,6 @@ https://tiger-hub.vercel.app/SPORT-ZONE/TSN-4/tracks-v1a1/mono.ts.m3u8
 https://tiger-hub.vercel.app/SPORT-ZONE/TSN-5/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1,Bein Sports Extra
 https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
-#EXTINF:-1,HBO
-http://212.102.60.231:80/HBO/index.m3u8
-#EXTINF:-1,HBO 2
-http://212.102.60.231/HBO_2/index.m3u8 
-#EXTINF:-1,HBO Family
-http://212.102.60.231/HBO_FAMILY/index.m3u8
-#EXTINF:-1,Showtime
-http://212.102.60.231:80/SHOWTIME/index.m3u8
-#EXTINF:-1,Cinemax
-http://212.102.60.231:80/CINEMAX/index.m3u8
 #EXTINF:-1,Paramount Network
 https://viamotionhsi.netplus.ch/live/eds/paramount/browser-HLS8/paramount.m3u8
 #EXTINF:-1,Apple Tv+ 1
@@ -108,6 +96,10 @@ http://212.32.241.201:8000/play/a04i
 https://tiger-hub.vercel.app/Zee___tv-/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1,Zee Cinema
 https://tiger-hub.vercel.app/Zee-Cinema-__/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1,Zee Action
+https://tiger-hub.vercel.app/Zee--_action-/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1,B4U Movies
+https://tiger-hub.vercel.app/B4U-movie/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1,&Picture
 https://tiger-hub.vercel.app/&Picture/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1,Star Gold
@@ -118,14 +110,6 @@ https://tiger-hub.vercel.app/Star-gold__Select/tracks-v1a1/mono.ts.m3u8
 https://d3u3pfhhvuad9k.cloudfront.net/playlist/amg00793-bbcstudios-bbcearta-lgus/playlist.m3u8
 #EXTINF:-1,BBC Lifestyle
 https://cdn4.skygo.mn/live/disk1/BBC_lifestyle/HLSv3-FTA/BBC_lifestyle.m3u8
-#EXTINF:-1,Animal Planet
-http://212.102.60.231:80/Animal_Planet/index.m3u8
-#EXTINF:-1,HGTV
-http://212.102.60.231:80/HGTV/index.m3u8
-#EXTINF:-1,Nat Geo Wild
-http://212.102.60.231:80/Nat_Geo_Wild/index.m3u8
-#EXTINF:-1,Nat Geo
-http://212.102.60.231:80/National_Geographic/index.m3u8
 #EXTINF:-1,Discovery Asia
 https://cdn4.skygo.mn/live/disk1/Discovery_Asia/HLSv3-FTA/Discovery_Asia.m3u8
 #EXTINF:-1,Dubai One
@@ -144,8 +128,6 @@ https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-sam
 https://d39chvnxm26pgp.cloudfront.net/v1/master/72588bff830dec7b26d7cbbf5f3c24928aec5c03/cc-sthen6ms4vxgv-stage/WNSFO/ABR.m3u8
 #EXTINF:-1,ABC News
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
-#EXTINF:-1,NBC News
-http://41.205.93.154:80/MSNBC/index.m3u8
 #EXTINF:-1,TRT World
 https://tv-trtworld.medya.trt.com.tr/master.m3u8
 #EXTINF:-1,Euro News
