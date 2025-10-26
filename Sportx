@@ -34,30 +34,6 @@ https://tiger-hub.vercel.app/WillowHD/tracks-v1a1/mono.m3u8
 https://tiger-hub.vercel.app/WillowHD-2/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Sky Sports Main Event
 https://topstream.space/crhd/stream.php?id=skysme
-#EXTINF:-1,Sky Sports Cricket
-https://topstream.space/crhd/stream.php?id=skyscric
-#EXTINF:-1,Sky Sports Premier League
-https://topstream.space/crhd/stream.php?id=skysprem
-#EXTINF:-1,Sky Sports Football
-https://topstream.space/crhd/stream.php?id=skysfott
-#EXTINF:-1,Sky Sports Tennis
-https://topstream.space/crhd/stream.php?id=skystennis
-#EXTINF:-1,Sky Sports F1
-https://topstream.space/crhd/stream.php?id=skysfor1
-#EXTINF:-1,Sky Sports Mix
-https://topstream.space/crhd/stream.php?id=skysmixx
-#EXTINF:-1,TNT Sports 1
-https://topstream.space/crhd/stream.php?id=bbtsp1
-#EXTINF:-1,TNT Sports 2
-https://topstream.space/crhd/stream.php?id=bbtsp2
-#EXTINF:-1,TNT Sports 3
-https://topstream.space/crhd/stream.php?id=bbtsp3
-#EXTINF:-1,TNT Sports 4
-https://topstream.space/crhd/stream.php?id=bbtespn
-#EXTINF:-1,Willow USA
-https://topstream.space/crhd/stream.php?id=willowusa
-#EXTINF:-1,Willow Extra
-https://topstream.space/crhd/stream.php?id=willowextra
 #EXTINF:-1,Hub Sports 1
 https://tiger-hub.vercel.app/Hub_Sports-1/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1,Hub Sports 2
@@ -88,6 +64,10 @@ https://tiger-hub.vercel.app/Hollywood/Apple-plus-Webseries2/tracks-v1a1/mono.ts
 https://tiger-hub.vercel.app/OSN/Premiere-movies/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1,OSN Movies Action
 https://tiger-hub.vercel.app/OSN/Action-movies/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1,Action Hollywood
+https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
+#EXTINF:-1,My Time Movie Network
+https://mytime-tcl.amagi.tv/playlist.m3u8
 #EXTINF:-1,Geo Entertainment
 https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
 #EXTINF:-1,ARY Digital
@@ -98,10 +78,12 @@ http://212.32.241.201:8000/play/a04i
 https://tiger-hub.vercel.app/Zee___tv-/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1,Zee Cinema
 https://tiger-hub.vercel.app/Zee-Cinema-__/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1,Zee Action
-https://tiger-hub.vercel.app/Zee--_action-/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1,Bollywood HD
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
+#EXTINF:-1,Bollywood Classic
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
 #EXTINF:-1,B4U Movies
-https://tiger-hub.vercel.app/B4U-movie/tracks-v1a1/mono.ts.m3u8
+https://d3kdywbtdfbp9z.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/dff423e0-3c82-46d6-9ecb-3baa96b5694a/cd1f59d6-9b5d-43f0-bfb2-6ca9edc99f27/0.m3u8
 #EXTINF:-1,&Picture
 https://tiger-hub.vercel.app/&Picture/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1,Star Gold
