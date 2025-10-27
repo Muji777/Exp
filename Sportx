@@ -54,6 +54,9 @@ https://tiger-hub.vercel.app/SPORT-ZONE/ESPN-2/tracks-v1a1/mono.ts.m3u8
 https://tiger-hub.vercel.app/SPORT-ZONE/TSN-3/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1,Bein Sports Extra
 https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
+
+#EXTINF:-1,Cinemax
+https://kusnadipepenk.github.io/campeign/hbocinema.m3u8
 #EXTINF:-1,HBO
 https://kusnadipepenk.github.io/campeign/hbo.m3u8
 #EXTINF:-1,HBO Family
@@ -62,8 +65,7 @@ https://kusnadipepenk.github.io/campeign/hbofam.m3u8
 https://kusnadipepenk.github.io/campeign/hbihit.m3u8
 #EXTINF:-1,HBO Signature
 https://kusnadipepenk.github.io/campeign/hbosi.m3u8
-#EXTINF:-1,Cinemax
-https://kusnadipepenk.github.io/campeign/hbocinema.m3u8
+
 
 ‎‎#EXTINF:-1,ARY Digital
 http://212.32.241.201:8000/play/a01q
