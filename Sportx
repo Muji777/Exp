@@ -24,7 +24,6 @@ http://iptvcable.netlify.app/Altogether-007/SonySports2.m3u8
 http://iptvcable.netlify.app/Altogether-007/SonySports3.m3u8
 #EXTINF:-1,Sony Ten 4
 http://iptvcable.netlify.app/Altogether-007/SonySports4.m3u8
-
 #EXTINF:-1,TNT Sports 1
 https://kusnadipepenk.github.io/campeign/tnt1.m3u8
 #EXTINF:-1,TNT Sports 2
@@ -51,6 +50,9 @@ https://tiger-hub.vercel.app/TNT-Sports_4/tracks-v1a1/mono.m3u8
 https://tiger-hub.vercel.app/WillowHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Willow Cricket
 https://tiger-hub.vercel.app/WillowHD-2/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Espn 2 - La Liga
+https://tiger-hub.vercel.app/SPORT-ZONE/ESPN-2/tracks-v1a1/mono.ts.m3u8
+
 #EXTINF:-1,Hub Sports 1
 https://tiger-hub.vercel.app/Hub_Sports-1/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1,Hub Sports 2
