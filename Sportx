@@ -10,9 +10,10 @@ https://raw.githubusercontent.com/kusnadipepenk/ntn/refs/heads/master/skymain.m3
 https://raw.githubusercontent.com/kusnadipepenk/ntn/refs/heads/master/skyfut.m3u8
 #EXTINF:-1,Now Sports Premiere League
 https://7pal.short.gy/nowhkp1
-
 #EXTINF:-1,Premier Sports 1
 https://7pal.short.gy/TNTUltimate
+#EXTINF:-1,Premier Sports 2
+https://7pal.short.gy/prsport2
 #EXTINF:-1,T Sports
 http://116.204.149.16/t_sports/index.m3u8
 #EXTINF:-1,Sony Ten 1
@@ -53,7 +54,6 @@ https://tiger-hub.vercel.app/WillowHD-2/tracks-v1a1/mono.m3u8
 https://tiger-hub.vercel.app/SPORT-ZONE/ESPN-2/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1,TSN 3 - La Liga
 https://tiger-hub.vercel.app/SPORT-ZONE/TSN-3/tracks-v1a1/mono.ts.m3u8
-
 #EXTINF:-1,Bein Sports Extra
 https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
 #EXTINF:-1,HBO
@@ -72,11 +72,13 @@ https://kusnadipepenk.github.io/campeign/hbocinema.m3u8
 http://212.32.241.201:8000/play/a01q
 #EXTINF:-1,Hum Tv
 http://212.32.241.201:8000/play/a04i
+#EXTINF:-1,Geo Entertainment
+https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
 #EXTINF:-1,Zee Tv
 https://tiger-hub.vercel.app/Zee___tv-/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1,Zee Cinema HD
+#EXTINF:-1,Zee Cinema Bangladesh
 http://smart.bengaldigital.live/ZeeCinema/index.m3u8
-#EXTINF:-1,Zee Cinema
+#EXTINF:-1,Zee Cinema India
 https://tiger-hub.vercel.app/Zee-Cinema-__/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1,Bollywood HD
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
