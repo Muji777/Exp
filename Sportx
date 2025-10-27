@@ -10,14 +10,11 @@ https://raw.githubusercontent.com/kusnadipepenk/ntn/refs/heads/master/skymain.m3
 https://raw.githubusercontent.com/kusnadipepenk/ntn/refs/heads/master/skyfut.m3u8
 #EXTINF:-1,Now Sports Premiere League
 https://7pal.short.gy/nowhkp1
-#EXTINF:-1,Sky Sports Main Event
-https://7pal.short.gy/SSMEuhd
-#EXTINF:-1,Sky Sports F1
-https://7pal.short.gy/SSF1uhd
+
 #EXTINF:-1,Premier Sports 1
 https://7pal.short.gy/TNTUltimate
 #EXTINF:-1,T Sports
-http://103.151.60.204/T-Sports/tracks-v1a1/mono.m3u8
+http://116.204.149.16/t_sports/index.m3u8
 #EXTINF:-1,Sony Ten 1
 http://iptvcable.netlify.app/Altogether-007/SonySports1.m3u8
 #EXTINF:-1,Sony Ten 2
@@ -56,14 +53,7 @@ https://tiger-hub.vercel.app/WillowHD-2/tracks-v1a1/mono.m3u8
 https://tiger-hub.vercel.app/SPORT-ZONE/ESPN-2/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1,TSN 3 - La Liga
 https://tiger-hub.vercel.app/SPORT-ZONE/TSN-3/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1,Hub Sports 1
-https://tiger-hub.vercel.app/Hub_Sports-1/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1,Hub Sports 2
-https://tiger-hub.vercel.app/Hub_Sports-2/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1,Hub Sports 3
-https://tiger-hub.vercel.app/Hub_Sports-3/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1,Hub Sports 4
-https://tiger-hub.vercel.app/Hub_Sports-4/tracks-v1a1/mono.ts.m3u8
+
 #EXTINF:-1,Bein Sports Extra
 https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
 #EXTINF:-1,HBO
@@ -77,8 +67,7 @@ https://kusnadipepenk.github.io/campeign/hbosi.m3u8
 #EXTINF:-1,Cinemax
 https://kusnadipepenk.github.io/campeign/hbocinema.m3u8
 
-‎‎#EXTINF:-1,Geo Entertainment
-https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
+‎‎
 #EXTINF:-1,ARY Digital
 http://212.32.241.201:8000/play/a01q
 #EXTINF:-1,Hum Tv
