@@ -60,6 +60,12 @@ https://viamotionhsi.netplus.ch/live/eds/paramount/browser-HLS8/paramount.m3u8
 https://tiger-hub.vercel.app/Hollywood/Apple-plus-Webseries/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1,Apple Tv+ Series 2
 https://tiger-hub.vercel.app/Hollywood/Apple-plus-Webseries2/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1,OSN Movies Premiere
+https://tiger-hub.vercel.app/OSN
+#EXTINF:-1,OSN Movies Premiere
+https://tiger-hub.vercel.app/OSN/Premiere-movies/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1,OSN Movies Action
+https://tiger-hub.vercel.app/OSN/Action-movies/tracks-v1a1/mono.ts.m3u8
 ‎‎#EXTINF:-1,HBO
 ‎https://kusnadipepenk.github.io/campeign/hbo.m3u8
 ‎‎#EXTINF:-1,HBO Family
@@ -70,12 +76,6 @@ https://tiger-hub.vercel.app/Hollywood/Apple-plus-Webseries2/tracks-v1a1/mono.ts
 ‎https://kusnadipepenk.github.io/campeign/hbosi.m3u8
 ‎#EXTINF:-1,Cinemax
 ‎https://kusnadipepenk.github.io/campeign/hbocinema.m3u8
-#EXTINF:-1,OSN Movies Premiere
-https://tiger-hub.vercel.app/OSN
-#EXTINF:-1,OSN Movies Premiere
-https://tiger-hub.vercel.app/OSN/Premiere-movies/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1,OSN Movies Action
-https://tiger-hub.vercel.app/OSN/Action-movies/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1,Action Hollywood
 https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
 #EXTINF:-1,My Time Movie Network
