@@ -17,13 +17,13 @@ https://7pal.short.gy/prsport2
 #EXTINF:-1,T Sports
 http://116.204.149.16/t_sports/index.m3u8
 #EXTINF:-1,Sony Ten 1
-http://iptvcable.netlify.app/Altogether-007/SonySports1.m3u8
+http://87.255.35.150:18926
 #EXTINF:-1,Sony Ten 2
-http://iptvcable.netlify.app/Altogether-007/SonySports2.m3u8
+http://87.255.35.150:18927
 #EXTINF:-1,Sony Ten 3
-http://iptvcable.netlify.app/Altogether-007/SonySports3.m3u8
-#EXTINF:-1,Sony Ten 4
-http://iptvcable.netlify.app/Altogether-007/SonySports4.m3u8
+http://87.255.35.150:18848
+#EXTINF:-1,Sony Ten 5
+http://87.255.35.150:18818
 #EXTINF:-1,TNT Sports 1
 https://kusnadipepenk.github.io/campeign/tnt1.m3u8
 #EXTINF:-1,TNT Sports 2
@@ -67,8 +67,7 @@ https://kusnadipepenk.github.io/campeign/hbosi.m3u8
 #EXTINF:-1,Cinemax
 https://kusnadipepenk.github.io/campeign/hbocinema.m3u8
 
-‎‎
-#EXTINF:-1,ARY Digital
+‎‎#EXTINF:-1,ARY Digital
 http://212.32.241.201:8000/play/a01q
 #EXTINF:-1,Hum Tv
 http://212.32.241.201:8000/play/a04i
