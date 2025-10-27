@@ -54,10 +54,6 @@ https://tiger-hub.vercel.app/SPORT-ZONE/TSN-4/tracks-v1a1/mono.ts.m3u8
 https://tiger-hub.vercel.app/SPORT-ZONE/TSN-5/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1,Bein Sports Extra
 https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
-#EXTINF:-1,Apple Tv+ Series 1
-https://tiger-hub.vercel.app/Hollywood/Apple-plus-Webseries/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1,Apple Tv+ Series 2
-https://tiger-hub.vercel.app/Hollywood/Apple-plus-Webseries2/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1,HBO
 https://kusnadipepenk.github.io/campeign/hbo.m3u8
 #EXTINF:-1,HBO Family
@@ -70,8 +66,6 @@ https://kusnadipepenk.github.io/campeign/hbosi.m3u8
 https://kusnadipepenk.github.io/campeign/hbocinema.m3u8
 #EXTINF:-1,OSN Movies Premiere
 https://tiger-hub.vercel.app/OSN
-#EXTINF:-1,OSN Movies Premiere
-https://tiger-hub.vercel.app/OSN/Premiere-movies/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1,OSN Movies Action
 https://tiger-hub.vercel.app/OSN/Action-movies/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1,Paramount Network
