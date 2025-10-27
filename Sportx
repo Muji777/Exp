@@ -2,7 +2,7 @@
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG16b9ol6EwS9JRTZAsrXMBlaGS-RLTkhSqg&s",Sky Sports Premier League
 https://tiger-hub.vercel.app/SkySports-premire_League/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Sky Sports Cricket                                                                          https://thksmom.shop/AE_1018/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Sky Sports Cricket                                                                          
 https://thksmom.shop/AE_1018/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Sky Sports Main Event
 https://raw.githubusercontent.com/kusnadipepenk/ntn/refs/heads/master/skymain.m3u8
