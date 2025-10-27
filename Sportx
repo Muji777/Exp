@@ -68,10 +68,8 @@ https://kusnadipepenk.github.io/campeign/hbocinema.m3u8
 https://tiger-hub.vercel.app/OSN/Premiere-movies/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1,OSN Movies Action
 https://tiger-hub.vercel.app/OSN/Action-movies/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1,Paramount Network
-https://viamotionhsi.netplus.ch/live/eds/paramount/browser-HLS8/paramount.m3u8
-‎‎
-#EXTINF:-1,Geo Entertainment
+
+‎‎#EXTINF:-1,Geo Entertainment
 https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
 #EXTINF:-1,ARY Digital
 http://212.32.241.201:8000/play/a01q
