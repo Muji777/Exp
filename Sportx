@@ -8,6 +8,23 @@ https://thksmom.shop/AE_1018/tracks-v1a1/mono.m3u8
 https://raw.githubusercontent.com/kusnadipepenk/ntn/refs/heads/master/skymain.m3u8
 #EXTINF:-1,Sky Sports Football
 https://raw.githubusercontent.com/kusnadipepenk/ntn/refs/heads/master/skyfut.m3u8
+#EXTINF:-1,Now Sports Premiere League
+https://7pal.short.gy/nowhkp1
+#EXTINF:-1,Premier Sports 1
+https://7pal.short.gy/prsport1
+#EXTINF:-1,Premier Sports 2
+https://7pal.short.gy/prsport2
+#EXTINF:-1,T Sports
+http://103.151.60.204/T-Sports/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Sony Ten 1
+http://iptvcable.netlify.app/Altogether-007/SonySports1.m3u8
+#EXTINF:-1,Sony Ten 2
+http://iptvcable.netlify.app/Altogether-007/SonySports2.m3u8
+#EXTINF:-1,Sony Ten 3
+http://iptvcable.netlify.app/Altogether-007/SonySports3.m3u8
+#EXTINF:-1,Sony Ten 4
+http://iptvcable.netlify.app/Altogether-007/SonySports4.m3u8
+
 #EXTINF:-1,TNT Sports 1
 https://kusnadipepenk.github.io/campeign/tnt1.m3u8
 #EXTINF:-1,TNT Sports 2
