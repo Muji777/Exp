@@ -20,8 +20,6 @@ http://116.204.149.16/t_sports/index.m3u8
 http://87.255.35.150:18926
 #EXTINF:-1,Sony Ten 2
 http://87.255.35.150:18927
-#EXTINF:-1,Sony Ten 3
-http://87.255.35.150:18848
 #EXTINF:-1,Sony Ten 5
 http://87.255.35.150:18818
 #EXTINF:-1,TNT Sports 1
@@ -66,6 +64,7 @@ https://kusnadipepenk.github.io/campeign/hbihit.m3u8
 https://kusnadipepenk.github.io/campeign/hbosi.m3u8
 #EXTINF:-1,Cinemax
 https://kusnadipepenk.github.io/campeign/hbocinema.m3u8
+
 
 ‎‎#EXTINF:-1,ARY Digital
 http://212.32.241.201:8000/play/a01q
