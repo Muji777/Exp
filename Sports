@@ -15,30 +15,17 @@ https://tiger-hub.vercel.app/WillowHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1, Willow 2
 https://tiger-hub.vercel.app/WillowHD-2/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1,Premier Sports 1
+https://7pal.short.gy/TNTUltimate
+#EXTINF:-1,Premier Sports 2
+https://7pal.short.gy/prsport2
+#EXTINF:-1,Now Premier League
+https://7pal.short.gy/nowhkp1
+
 #EXTINF:-1,CBS Sports
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd
-
-#EXTINF:-1,TNT Sports 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5deb190b1dac28e46c0bdada7668b7de:ddd2b372702e42b0d2708a70b91dec8d
-https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/clients/dash/enc/kav10mdj91/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
-
-#EXTINF:-1,TNT Sports 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0d9efa8287a52a2497a281f7a9012211:e4f832d372943014fe5c30928a90e547
-https://a205aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/irplqtcjlv/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
-
-#EXTINF:-1,TNT Sports 3
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=08efc7fb107981608f7b64db5ea62469:3a6844bc9f0d9d9fd962639d7e4eb76a
-https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
-
-#EXTINF:-1,TNT Sports 4
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5ccdccf0818d3d9ff6c26076fc1153ac:f8d7fda7e3f11a29b346a37e98f749d4
-https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
 
 #EXTINF:-1,Bein Sports 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -65,6 +52,8 @@ http://135.125.238.26:8080/catena-36-1149992-streamer-nz_sky_sport_3/video.m3u8?
 http://135.125.238.26:8080/catena-36-1149993-streamer-nz_sky_sport_4/video.m3u8?token=f54abc11fcaeb75c0368edb767264658
 #EXTINF:-1,Sky Premier League NZ
 http://135.125.238.26:8080/catena-36-1149997-streamer-nz_sky_sport_8/video.m3u8?token=f54abc11fcaeb75c0368edb767264658
+#EXTINF:-1,Sony Ten 1
+http://thksmom.shop/SPTEN1HD/index.m3u8?token=8e0f0a830f068e0fd76e02a51301092c&fbclid=IwdGRjcANtW85jbGNrA21bwWV4dG4DYWVtAjExAAEe-yfvYLNoLxobMBxhzscQIhaLbsUdff8VG171HwoU8bGdGj5U1neGXfKlVSo_aem__lb54IGQxwbIDx6K8uSWGQ
 
 #EXTINF:-1,Euro Sport 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
