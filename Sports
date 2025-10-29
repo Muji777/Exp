@@ -22,9 +22,6 @@ https://7pal.short.gy/prsport2
 #EXTINF:-1,Now Premier League
 https://7pal.short.gy/nowhkp1
 
-
-
-
 #EXTINF:-1,CBS Sports
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
@@ -44,19 +41,6 @@ https://aba5sdmaaaaaaaamdwujas5g6mg4r.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
 https://aba5sdmaaaaaaaamhq2w5oosrf5ae.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
-
-#EXTINF:-1,Sky Sports 1 NZ
-http://135.125.238.26:8080/catena-36-1149990-streamer-nz_sky_sport_1/video.m3u8?token=f54abc11fcaeb75c0368edb767264658
-#EXTINF:-1,Sky Sports 2 NZ
-http://135.125.238.26:8080/catena-36-1149991-streamer-nz_sky_sport_2/video.m3u8?token=f54abc11fcaeb75c0368edb767264658
-#EXTINF:-1,Sky Sports 3 NZ
-http://135.125.238.26:8080/catena-36-1149992-streamer-nz_sky_sport_3/video.m3u8?token=f54abc11fcaeb75c0368edb767264658
-#EXTINF:-1,Sky Sports 4 NZ
-http://135.125.238.26:8080/catena-36-1149993-streamer-nz_sky_sport_4/video.m3u8?token=f54abc11fcaeb75c0368edb767264658
-#EXTINF:-1,Sky Premier League NZ
-http://135.125.238.26:8080/catena-36-1149997-streamer-nz_sky_sport_8/video.m3u8?token=f54abc11fcaeb75c0368edb767264658
-#EXTINF:-1,Sony Ten 1
-http://thksmom.shop/SPTEN1HD/index.m3u8?token=8e0f0a830f068e0fd76e02a51301092c&fbclid=IwdGRjcANtW85jbGNrA21bwWV4dG4DYWVtAjExAAEe-yfvYLNoLxobMBxhzscQIhaLbsUdff8VG171HwoU8bGdGj5U1neGXfKlVSo_aem__lb54IGQxwbIDx6K8uSWGQ
 
 #EXTINF:-1,Euro Sport 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
