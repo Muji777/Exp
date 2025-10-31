@@ -92,29 +92,7 @@ https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
 https://wildearth-plex.amagi.tv/master.m3u8
 #EXTINF:-1,Dubai One
 https://dminnvllta.cdn.mgmlcdn.com/dubaione/smil:dubaione.stream.smil/chunklist.m3u8
-#EXTINF:-1,Cinemax
-http://212.102.60.231:80/CINEMAX/index.m3u8
-#EXTINF:-1,Showtime
-http://212.102.60.231:80/SHOWTIME/index.m3u8
-#EXTINF:-1,HBO
-http://212.102.60.231:80/HBO/index.m3u8
-#EXTINF:-1,HBO 2
-http://212.102.60.231/HBO_2/index.m3u8 
-#EXTINF:-1,HBO Family
-http://212.102.60.231/HBO_FAMILY/index.m3u8
-#EXTINF:-1,Nat Geo Wild
-http://212.102.60.231:80/Nat_Geo_Wild/index.m3u8
-#EXTINF:-1,Nat Geo
-http://212.102.60.231:80/National_Geographic/index.m3u8
-#EXTINF:-1,Animal Planet
-http://212.102.60.231:80/Animal_Planet/index.m3u8
-#EXTINF:-1,HGTV
-http://212.102.60.231:80/HGTV/index.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=d47ebabf7a21430b83a8c4b82d9ef6b1:54c213b2b5f885f1e0290ee4131d425b
-#EXTINF:-1 tvg-id="hbo2" tvg-name="HBO (CIG)" tvg-logo="https://i.imgur.com/fx1Y2Eh.png" group-title="🇵🇭 CONV-CIG MOVIES",HBO
-https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/cg_hbohd.mpd
 
 
 
