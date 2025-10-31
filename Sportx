@@ -58,7 +58,7 @@ https://topstream.space/daddy/stream.php?id=284&srv=1&format=.m3u8
 https://d1nj4u39ja4cn0.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/FLS-MuxIP-CricketGold/418.m3u8
 #EXTINF:-1,Eurosport 1
 http://178.23.88.55/Eurosport_1/index.m3u8
-#EXTINF:-1, Eurosport 2
+#EXTINF:-1,Eurosport 2
 http://178.23.88.55/Eurosport_2/index.m3u8
 #EXTINF:-1,Bein Sports Extra
 https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
@@ -75,8 +75,6 @@ http://143.244.60.30/HBO_2/index.m3u8
 http://143.244.60.30/CINEMAX/index.m3u8
 #EXTINF:-1,CINEMAX EAST
 http://143.244.60.30/CINEMAX_EAST/index.m3u8
-#EXTINF:-1,CINEMAX WEST
-http://143.244.60.30/CINEMAX_WEST/index.m3u8
 #EXTINF:-1,SHOWTIME
 http://143.244.60.30/SHOWTIME/index.m3u8
 #EXTINF:-1,SHOWTIME 2
