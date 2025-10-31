@@ -24,8 +24,6 @@ https://viamotionhsi.netplus.ch/live/eds/aljazeera/browser-dash/aljazeera.mpd
 https://viamotionhsi.netplus.ch/live/eds/cnn/browser-dash/cnn.mpd
 #EXTINF:-1, Sky News
 https://viamotionhsi.netplus.ch/live/eds/skynews/browser-dash/skynews.mpd
-#EXTINF:-1, ITV 1
-https://viamotionhsi.netplus.ch/live/eds/itv1/browser-dash/itv1.mpd
 #EXTINF:-1, ITV 2
 https://viamotionhsi.netplus.ch/live/eds/itv2/browser-dash/itv2.mpd
 #EXTINF:-1, ITV 3
