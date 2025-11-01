@@ -4,6 +4,8 @@
 https://tiger-hub.vercel.app/SkySports-premire_League/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Star Sports Select 1
 https://tiger-hub.vercel.app/Starsports_Select-1/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Sky Sports Cricket
+https://tiger-hub.vercel.app/Sky-Cricket/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Sky Sports Cricket                                                                          
 https://thksmom.shop/AE_1018/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Sky Sports Cricket
@@ -11,29 +13,11 @@ http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/9258/index.m3u8
 #EXTINF:-1,Sky Sports Main Event
 https://raw.githubusercontent.com/kusnadipepenk/ntn/refs/heads/master/skymain.m3u8
 #EXTINF:-1,Sky Sports Football
-https://raw.githubusercontent.com/kusnadipepenk/ntn/refs/heads/master/skyfut.m3u8
+https://tiger-hub.vercel.app/SkySports-Football/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Sky Sports Mix
 https://topstream.space/daddy/stream.php?id=449&srv=1&format=.m3u8
 #EXTINF:-1,Sky Sports News
 https://topstream.space/daddy/stream.php?id=366&srv=1&format=.m3u8
-#EXTINF:-1,La Liga
-https://topstream.space/daddy/stream.php?id=415&srv=1&format=.m3u8
-#EXTINF:-1,Premier Sports 1
-https://topstream.space/daddy/stream.php?id=451&srv=1&format=.m3u8
-#EXTINF:-1,TNT Sports 1
-https://kusnadipepenk.github.io/campeign/tnt1.m3u8
-#EXTINF:-1,TNT Sports 2
-https://kusnadipepenk.github.io/campeign/tnt2.m3u8
-#EXTINF:-1,TNT Sports 3
-https://kusnadipepenk.github.io/campeign/tnt3.m3u8
-#EXTINF:-1,TNT Sports 4
-https://kusnadipepenk.github.io/campeign/tnt4.m3u8
-#EXTINF:-1,TNT Sports 5
-https://kusnadipepenk.github.io/campeign/tnt5.m3u8
-#EXTINF:-1,Dazn 1                                                                        
-https://kusnadipepenk.github.io/ntn/daz1.m3u8
-#EXTINF:-1,Dazn 2
-https://kusnadipepenk.github.io/ntn/daz2.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f8/TNT_Sports_1_%282023%29.svg/revision/latest/scale-to-width-down/284?cb=20230704071741",TNT Sports 1
 https://tiger-hub.vercel.app/TNT-Sports_1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d8/TNT_Sports_2_%282023%29.svg/revision/latest/scale-to-width-down/284?cb=20230717230828",TNT Sports 2
@@ -68,10 +52,6 @@ https://tiger-hub.vercel.app/SkySports-2_NZ/tracks-v1a1/mono.m3u8
 https://tiger-hub.vercel.app/PTV-Sports/tracks-v1a1/mono.m3u8
 #EXTINF:-1,SOHL Sports
 http://cors.tundracast.com:2000/https://wo.cma.footballii.ir/hls2/solh.m3u8
-#EXTINF:-1,Astro Cricket
-https://topstream.space/daddy/stream.php?id=370&srv=1&format=.m3u8
-#EXTINF:-1,Fox Cricket
-https://topstream.space/daddy/stream.php?id=369&srv=1&format=.m3u8
 #EXTINF:-1,Starz Cricket
 https://topstream.space/daddy/stream.php?id=284&srv=1&format=.m3u8
 #EXTINF:-1,Cricket Gold
@@ -95,14 +75,6 @@ http://143.244.60.30/CINEMAX_EAST/index.m3u8
 http://143.244.60.30/SHOWTIME/index.m3u8
 #EXTINF:-1,SHOWTIME 2
 http://143.244.60.30/SHOWTIME_2/index.m3u8
-#EXTINF:-1,Cinemax
-https://kusnadipepenk.github.io/campeign/hbocinema.m3u8
-#EXTINF:-1,HBO
-https://kusnadipepenk.github.io/campeign/hbo.m3u8
-#EXTINF:-1,HBO Hits
-https://kusnadipepenk.github.io/campeign/hbihit.m3u8
-#EXTINF:-1,HBO Signature
-https://kusnadipepenk.github.io/campeign/hbosi.m3u8
 
 ‎‎#EXTINF:-1,ARY Digital
 http://212.32.241.201:8000/play/a01q
@@ -142,8 +114,6 @@ https://d3u3pfhhvuad9k.cloudfront.net/playlist/amg00793-bbcstudios-bbcearta-lgus
 https://cdn4.skygo.mn/live/disk1/BBC_lifestyle/HLSv3-FTA/BBC_lifestyle.m3u8
 #EXTINF:-1,Discovery Asia
 https://cdn4.skygo.mn/live/disk1/Discovery_Asia/HLSv3-FTA/Discovery_Asia.m3u8
-#EXTINF:-1,More4
-https://viamotionhsi.netplus.ch/live/eds/more4/browser-HLS8/more4.m3u8
 #EXTINF:-1,Dubai One
 https://dminnvllta.cdn.mgmlcdn.com/dubaione/smil:dubaione.stream.smil/chunklist.m3u8
 #EXTINF:-1,Travel XP
@@ -162,8 +132,6 @@ https://d39chvnxm26pgp.cloudfront.net/v1/master/72588bff830dec7b26d7cbbf5f3c2492
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:-1,TRT World
 https://tv-trtworld.medya.trt.com.tr/master.m3u8
-#EXTINF:-1,Euro News
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/euronews/euronews-en.m3u8
 #EXTINF:-1,Channel News Asia
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 
