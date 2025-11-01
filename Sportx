@@ -4,12 +4,12 @@
 https://tiger-hub.vercel.app/SkySports-premire_League/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Star Sports Select 1
 https://tiger-hub.vercel.app/Starsports_Select-1/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Sky Sports Cricket
-https://tiger-hub.vercel.app/Sky-Cricket/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Sky Sports Cricket                                                                          
 https://thksmom.shop/AE_1018/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Sky Sports Cricket
 http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/9258/index.m3u8
+EXTINF:-1,Sky Sports Cricket
+https://tiger-hub.vercel.app/Sky-Cricket/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Sky Sports Main Event
 https://raw.githubusercontent.com/kusnadipepenk/ntn/refs/heads/master/skymain.m3u8
 #EXTINF:-1,Sky Sports Football
@@ -34,8 +34,6 @@ https://tiger-hub.vercel.app/Premier_Sports-2/tracks-v1a1/mono.m3u8
 https://iptvcable.netlify.app/Altogether-007/SonySports1.m3u8
 #EXTINF:-1,Sony Sports 2
 https://iptvcable.netlify.app/Altogether-007/SonySports2.m3u8
-#EXTINF:-1,Sony Sports 5
-https://iptvcable.netlify.app/Altogether-007/SonySports5.m3u8
 #EXTINF:-1,T Sports
 https://iptvcable.netlify.app/Altogether-007/Tsports.m3u8
 #EXTINF:-1,Fox Cricket
