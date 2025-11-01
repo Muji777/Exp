@@ -20,8 +20,6 @@ https://topstream.space/daddy/stream.php?id=366&srv=1&format=.m3u8
 https://topstream.space/daddy/stream.php?id=415&srv=1&format=.m3u8
 #EXTINF:-1,Premier Sports 1
 https://topstream.space/daddy/stream.php?id=451&srv=1&format=.m3u8
-#EXTINF:-1,T Sports
-https://iptvcable.netlify.app/Altogether-007/Tsports.m3u8
 #EXTINF:-1,TNT Sports 1
 https://kusnadipepenk.github.io/campeign/tnt1.m3u8
 #EXTINF:-1,TNT Sports 2
@@ -54,7 +52,8 @@ https://iptvcable.netlify.app/Altogether-007/SonySports1.m3u8
 https://iptvcable.netlify.app/Altogether-007/SonySports2.m3u8
 #EXTINF:-1,Sony Sports 5
 https://iptvcable.netlify.app/Altogether-007/SonySports5.m3u8
-
+#EXTINF:-1,T Sports
+https://iptvcable.netlify.app/Altogether-007/Tsports.m3u8
 #EXTINF:-1,Fox Cricket
 http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/19146/index.m3u8
 #EXTINF:-1,Astro Cricket
