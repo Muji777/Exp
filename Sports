@@ -12,30 +12,10 @@ https://tiger-hub.vercel.app/TNT-Sports_3/tracks-v1a1/mono.m3u8
 https://tiger-hub.vercel.app/TNT-Sports_4/tracks-v1a1/mono.m3u8
 #EXTINF:-1, Willow Cricket 1
 https://tiger-hub.vercel.app/WillowHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1, Willow 2
+#EXTINF:-1, Willow Cricket 2
 https://tiger-hub.vercel.app/WillowHD-2/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Willow Cricket
-https://lchdvideo.live/willowcricket.m3u8
-#EXTINF:-1,Sky Sports 1 NZ
-https://lchdvideo.live/sky1nz.m3u8
-#EXTINF:-1,Sky Sports 2 NZ
-https://lchdvideo.live/sky2nz.m3u8
-#EXTINF:-1,Sky Sports 3 NZ
-https://lchdvideo.live/sky3nz.m3u8
-#EXTINF:-1,Sky Sports 4 NZ
-https://lchdvideo.live/sky4nz.m3u8
-#EXTINF:-1,Sky Sports 5 NZ
-https://lchdvideo.live/sky5nz.m3u8
-#EXTINF:-1,Sky Sports 6 NZ
-https://lchdvideo.live/sky6nz.m3u8
-#EXTINF:-1,Sky Sports 7 NZ
-https://lchdvideo.live/sky7nz.m3u8
-#EXTINF:-1,Sky Sports 8 NZ
-https://lchdvideo.live/sky8nz.m3u8
 #EXTINF:-1,Astro Cricket
 https://smart.bengaldigital.live/AstroCricket/index.m3u8
-#EXTINF:-1,Sony Ten 2
-https://cdn.bdixtv24.vip/SonyTen2HD/index.m3u8
 #EXTINF:-1,SOHL Sports
 https://wo.cma.footballii.ir/hls2/solh.m3u8
 #EXTINF:-1,Starz Cricket
