@@ -36,11 +36,13 @@ https://iptvcable.netlify.app/Altogether-007/SonySports1.m3u8
 https://iptvcable.netlify.app/Altogether-007/SonySports2.m3u8
 #EXTINF:-1,T Sports
 https://iptvcable.netlify.app/Altogether-007/Tsports.m3u8
+#EXTINF:-1,Astro Cricket
+https://smart.bengaldigital.live/AstroCricket/index.m3u8
 #EXTINF:-1,Fox Cricket
 http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/19146/index.m3u8
-#EXTINF:-1,Astro Cricket
+#EXTINF:-1,Willow Cricket 1
 https://tiger-hub.vercel.app/WillowHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Willow Cricket
+#EXTINF:-1,Willow Cricket 2
 https://tiger-hub.vercel.app/WillowHD-2/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Sky Sports 1 NZ
 https://tiger-hub.vercel.app/SkySports-1_NZ/tracks-v1a1/mono.m3u8
@@ -51,9 +53,13 @@ https://tiger-hub.vercel.app/PTV-Sports/tracks-v1a1/mono.m3u8
 #EXTINF:-1,A Sports-Pakistan
 http://thksmom.shop/AF_S_CR/index.m3u8?token=b11840a686e30e9bd86ba70d80e1d65d
 #EXTINF:-1,SOHL Sports
-http://cors.tundracast.com:2000/https://wo.cma.footballii.ir/hls2/solh.m3u8
+https://wo.cma.footballii.ir/hls2/solh.m3u8
+#EXTINF:-1,Starz Cricket
+https://nfsnew.newkso.ru/nfs/premium284/mono.m3u8
 #EXTINF:-1,Starz Cricket
 https://topstream.space/daddy/stream.php?id=284&srv=1&format=.m3u8
+#EXTINF:-1,USA Network
+https://topstream.space/daddy/stream.php?id=343&srv=1&format=.m3u8
 #EXTINF:-1,Cricket Gold
 https://d1nj4u39ja4cn0.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/FLS-MuxIP-CricketGold/418.m3u8
 #EXTINF:-1,Bein Sports Extra
@@ -75,8 +81,16 @@ http://143.244.60.30/CINEMAX_EAST/index.m3u8
 http://143.244.60.30/SHOWTIME/index.m3u8
 #EXTINF:-1,SHOWTIME 2
 http://143.244.60.30/SHOWTIME_2/index.m3u8
-
-‎‎#EXTINF:-1,ARY Digital
+#EXTINF:-1,Crave 1
+https://fl7.moveonjoy.com/CRAVE_1/index.m3u8
+#EXTINF:-1,Crave 2
+https://fl7.moveonjoy.com/CRAVE_2/index.m3u8
+#EXTINF:-1,Crave 3
+https://fl7.moveonjoy.com/CRAVE_3/index.m3u8
+#EXTINF:-1,Crave 4
+https://fl7.moveonjoy.com/CRAVE_4/index.m3u8
+‎‎
+#EXTINF:-1,ARY Digital
 http://212.32.241.201:8000/play/a01q
 #EXTINF:-1,Hum Tv
 http://212.32.241.201:8000/play/a04i
