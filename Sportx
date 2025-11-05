@@ -4,16 +4,20 @@
 https://tiger-hub.vercel.app/SkySports-premire_League/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Star Sports Select 1
 https://tiger-hub.vercel.app/Starsports_Select-1/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Astro Football
+https://smart.bengaldigital.live/AstroFootball/index.m3u8
 #EXTINF:-1,Sky Sports Cricket                                                                          
 https://thksmom.shop/AE_1018/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Sky Sports Cricket
-http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/9258/index.m3u8
 EXTINF:-1,Sky Sports Cricket
 https://tiger-hub.vercel.app/Sky-Cricket/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Star Sports 1
+https://tiger-hub.vercel.app/Star_Sports-1/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Sky Sports Main Event
 https://raw.githubusercontent.com/kusnadipepenk/ntn/refs/heads/master/skymain.m3u8
 #EXTINF:-1,Sky Sports Football
 https://tiger-hub.vercel.app/SkySports-Football/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Sky Sports+
+http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/9248/index.m3u8
 #EXTINF:-1,Sky Sports Mix
 https://topstream.space/daddy/stream.php?id=449&srv=1&format=.m3u8
 #EXTINF:-1,Sky Sports News
@@ -30,6 +34,10 @@ https://tiger-hub.vercel.app/TNT-Sports_4/tracks-v1a1/mono.m3u8
 https://tiger-hub.vercel.app/Premier_Sports-1/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Premier Sports 2
 https://tiger-hub.vercel.app/Premier_Sports-2/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Eurosport 1
+https://raw.githubusercontent.com/schumijo/iptv/main/playlists/lequipe/eurosport1.m3u8
+#EXTINF:-1,Eurosport 2
+https://raw.githubusercontent.com/schumijo/iptv/main/playlists/lequipe/eurosport2.m3u8
 #EXTINF:-1,Sony Sports 1
 https://iptvcable.netlify.app/Altogether-007/SonySports1.m3u8
 #EXTINF:-1,Sony Sports 2
@@ -50,10 +58,6 @@ https://tiger-hub.vercel.app/SkySports-1_NZ/tracks-v1a1/mono.m3u8
 https://tiger-hub.vercel.app/SkySports-2_NZ/tracks-v1a1/mono.m3u8
 #EXTINF:-1,PTV Sports-Pakistan
 https://tiger-hub.vercel.app/PTV-Sports/tracks-v1a1/mono.m3u8
-#EXTINF:-1,A Sports-Pakistan
-http://thksmom.shop/AF_S_CR/index.m3u8?token=b11840a686e30e9bd86ba70d80e1d65d
-#EXTINF:-1,SOHL Sports
-https://wo.cma.footballii.ir/hls2/solh.m3u8
 #EXTINF:-1,Starz Cricket
 https://nfsnew.newkso.ru/nfs/premium284/mono.m3u8
 #EXTINF:-1,Cricket Gold
