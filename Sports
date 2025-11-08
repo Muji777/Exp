@@ -16,10 +16,20 @@ https://tiger-hub.vercel.app/WillowHD/tracks-v1a1/mono.m3u8
 https://tiger-hub.vercel.app/WillowHD-2/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Astro Cricket
 https://smart.bengaldigital.live/AstroCricket/index.m3u8
-#EXTINF:-1,SOHL Sports
-https://wo.cma.footballii.ir/hls2/solh.m3u8
 #EXTINF:-1,Starz Cricket
 https://nfsnew.newkso.ru/nfs/premium284/mono.m3u8
+#EXTINF:-1,Sky Sports Football
+https://raw.githubusercontent.com/kusnadipepenk/ntn/refs/heads/master/skyfut.m3u8
+#EXTINF:-1,La Liga Tv
+https://tiger-hub.vercel.app/LaLiga_TV/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Sky Sports Cricket
+https://tiger-hub.vercel.app/Sky-Cricket/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Sky Sports Football
+https://tiger-hub.vercel.app/SkySports-Football/tracks-v1a1/mono.m3u8
+#EXTINF:-1,NBC Sports
+http://143.244.60.30/NBC_SPORTS_NETWORK/index.m3u8
+#EXTINF:-1,USA Network
+http://143.244.60.30/USA_NETWORK/index.m3u8
 #EXTINF:-1,Premier Sports 1
 https://7pal.short.gy/TNTUltimate
 #EXTINF:-1,Premier Sports 2
