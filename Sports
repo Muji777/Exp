@@ -28,6 +28,10 @@ https://tiger-hub.vercel.app/Sky-Cricket/tracks-v1a1/mono.m3u8
 https://tiger-hub.vercel.app/SkySports-Football/tracks-v1a1/mono.m3u8
 #EXTINF:-1,NBC Sports
 http://143.244.60.30/NBC_SPORTS_NETWORK/index.m3u8
+#EXTINF:-1,NBC 
+http://143.244.60.30/NBC/index.m3u8
+#EXTINF:-1,CBS Sports
+http://143.244.60.30/CBS_SPORTS_NETWORK/index.m3u8
 #EXTINF:-1,USA Network
 http://143.244.60.30/USA_NETWORK/index.m3u8
 #EXTINF:-1,Premier Sports 1
