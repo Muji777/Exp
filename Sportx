@@ -1,5 +1,6 @@
 #EXTM3U
-#EXTM3U url-tvg="http://epg.one/epg.xml"
+#EXTM3U url-                                                                                                 
+tvg="https://epg.one/epg.xml"
 
 #EXTINF:-1,Sky Sports Action
 http://6zirt9yx.otttv.pw/iptv/HEGN4VXXQQSYCA/9155/index.m3u8
