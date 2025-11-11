@@ -29,6 +29,14 @@ https://l.lioncdn.net/TNT-Sports-2/index.m3u8
 https://l.lioncdn.net/TNT-Sports-3/index.m3u8
 #EXTINF:-1,TNT Sports 4
 https://l.lioncdn.net/TNT-Sports-4/index.m3u8
+#EXTINF:-1,NBC Sports
+http://143.244.60.30/NBC_SPORTS_NETWORK/index.m3u8
+#EXTINF:-1,NBC 
+http://143.244.60.30/NBC/index.m3u8
+#EXTINF:-1,CBS Sports
+http://143.244.60.30/CBS_SPORTS_NETWORK/index.m3u8
+#EXTINF:-1,USA Network
+http://143.244.60.30/USA_NETWORK/index.m3u8
 #EXTINF:-1,Astro Football
 https://smart.bengaldigital.live/AstroFootball/index.m3u8
 #EXTINF:-1,Sky Sports Cricket                                                                          
