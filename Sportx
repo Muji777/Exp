@@ -1,6 +1,34 @@
 #EXTM3U
-
-
+#EXTINF:-1,Sky Sports Action
+http://6zirt9yx.otttv.pw/iptv/HEGN4VXXQQSYCA/9155/index.m3u8
+#EXTINF:-1,Sky Sports Cricket
+http://6zirt9yx.otttv.pw/iptv/HEGN4VXXQQSYCA/9258/index.m3u8
+#EXTINF:-1,Sky Sports F1
+http://6zirt9yx.otttv.pw/iptv/HEGN4VXXQQSYCA/9283/index.m3u8
+#EXTINF:-1,Sky Sports Football
+http://6zirt9yx.otttv.pw/iptv/HEGN4VXXQQSYCA/9289/index.m3u8
+#EXTINF:-1,Sky Sports Main Event
+http://6zirt9yx.otttv.pw/iptv/HEGN4VXXQQSYCA/9308/index.m3u8
+#EXTINF:-1,Sky Sports News
+http://6zirt9yx.otttv.pw/iptv/HEGN4VXXQQSYCA/9314/index.m3u8
+#EXTINF:-1,Sky Sports Premier League
+http://6zirt9yx.otttv.pw/iptv/HEGN4VXXQQSYCA/9334/index.m3u8
+#EXTINF:-1,Sky Sports Tennis
+http://6zirt9yx.otttv.pw/iptv/HEGN4VXXQQSYCA/6546/index.m3u8
+#EXTINF:-1,Sky Sports+
+http://6zirt9yx.otttv.pw/iptv/HEGN4VXXQQSYCA/9248/index.m3u8
+#EXTINF:-1,Premier Sports 1
+http://6zirt9yx.otttv.pw/iptv/HEGN4VXXQQSYCA/2160/index.m3u8
+#EXTINF:-1,Premier Sports 2
+http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/2069/index.m3u8
+#EXTINF:-1,TNT Sports 1
+https://l.lioncdn.net/TNT-Sports-1/index.m3u8
+#EXTINF:-1,TNT Sports 2
+https://l.lioncdn.net/TNT-Sports-2/index.m3u8
+#EXTINF:-1,TNT Sports 3
+https://l.lioncdn.net/TNT-Sports-3/index.m3u8
+#EXTINF:-1,TNT Sports 4
+https://l.lioncdn.net/TNT-Sports-4/index.m3u8
 #EXTINF:-1,Astro Football
 https://smart.bengaldigital.live/AstroFootball/index.m3u8
 #EXTINF:-1,Sky Sports Cricket                                                                          
