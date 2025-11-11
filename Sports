@@ -1,5 +1,6 @@
 #EXTM3U
-#EXTM3U url-tvg="http://epg.one/epg.xml"
+#EXTM3U url-
+tvg="https://epg.one/epg.xml"
 
 #EXTINF:-1,Sky Sports Cricket
 https://l.lioncdn.net/Sky-Sports-Cricket/index.m3u8
