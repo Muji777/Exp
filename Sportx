@@ -1,57 +1,16 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG16b9ol6EwS9JRTZAsrXMBlaGS-RLTkhSqg&s",Sky Sports Premier League
-https://tiger-hub.vercel.app/SkySports-premire_League/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1,Astro Football
 https://smart.bengaldigital.live/AstroFootball/index.m3u8
 #EXTINF:-1,Sky Sports Cricket                                                                          
 https://thksmom.shop/AE_1018/tracks-v1a1/mono.m3u8
-EXTINF:-1,Sky Sports Cricket
-https://tiger-hub.vercel.app/Sky-Cricket/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Sky Sports Main Event
-https://raw.githubusercontent.com/kusnadipepenk/ntn/refs/heads/master/skymain.m3u8
-#EXTINF:-1,Sky Sports Football
-https://tiger-hub.vercel.app/SkySports-Football/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Sky Sports+
-http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/9248/index.m3u8
-#EXTINF:-1,Sky Sports Mix
-https://topstream.space/daddy/stream.php?id=449&srv=1&format=.m3u8
-#EXTINF:-1,Sky Sports News
-https://topstream.space/daddy/stream.php?id=366&srv=1&format=.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f8/TNT_Sports_1_%282023%29.svg/revision/latest/scale-to-width-down/284?cb=20230704071741",TNT Sports 1
-https://tiger-hub.vercel.app/TNT-Sports_1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d8/TNT_Sports_2_%282023%29.svg/revision/latest/scale-to-width-down/284?cb=20230717230828",TNT Sports 2
-https://tiger-hub.vercel.app/TNT-Sports_2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6d/TNT_Sports_3_%282023%29.svg/revision/latest/scale-to-width-down/300?cb=20230717230836",TNT Sports 3
-https://tiger-hub.vercel.app/TNT-Sports_3/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/TNT_Sports_4_%282023%29.svg/revision/latest/scale-to-width-down/284?cb=20230704072048",TNT Sports 4
-https://tiger-hub.vercel.app/TNT-Sports_4/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Premier Sports 1
-https://tiger-hub.vercel.app/Premier_Sports-1/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Premier Sports 2
-https://tiger-hub.vercel.app/Premier_Sports-2/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Sony Sports 1
-https://iptvcable.netlify.app/Altogether-007/SonySports1.m3u8
-#EXTINF:-1,Sony Sports 2
-https://iptvcable.netlify.app/Altogether-007/SonySports2.m3u8
 #EXTINF:-1,T Sports
 https://iptvcable.netlify.app/Altogether-007/Tsports.m3u8
 #EXTINF:-1,Astro Cricket
 https://smart.bengaldigital.live/AstroCricket/index.m3u8
 #EXTINF:-1,Fox Cricket
 http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/19146/index.m3u8
-#EXTINF:-1,Willow Cricket 1
-https://tiger-hub.vercel.app/WillowHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Willow Cricket 2
-https://tiger-hub.vercel.app/WillowHD-2/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Sky Sports 1 NZ
-https://tiger-hub.vercel.app/SkySports-1_NZ/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Sky Sports 2 NZ
-https://tiger-hub.vercel.app/SkySports-2_NZ/tracks-v1a1/mono.m3u8
-#EXTINF:-1,PTV Sports-Pakistan
-https://tiger-hub.vercel.app/PTV-Sports/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Starz Cricket
-https://nfsnew.newkso.ru/nfs/premium284/mono.m3u8
 #EXTINF:-1,Cricket Gold
 https://d1nj4u39ja4cn0.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/FLS-MuxIP-CricketGold/418.m3u8
 #EXTINF:-1,Bein Sports Extra
