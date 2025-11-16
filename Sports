@@ -239,6 +239,34 @@ https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_spotvhd/default/index.m
 #KODIPROP:inputstream.adaptive.license_key=7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_spotv2hd/default/index.mpd
 
+#EXTINF:-1 group-title="POLSAT SPORT POLAND" tvg-logo="https://iptvboss.xyz/logos/Poland/PolsatSportPremium1.pl.png" tvg-id="Polsat Sport Premium 1.pl",Polsat Sport Premium 1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8eb4a9586edf4b0cade4b5725fd55209:54caa4e2142cf691af9bb6028545afc6
+http://cdn-s-lb2.pluscdn.pl/ch/1459449/266/dash/edb3b20d/live.mpd
+#EXTINF:-1 group-title="POLSAT SPORT POLAND" tvg-logo="https://iptvboss.xyz/logos/Poland/PolsatSportPremium2.pl.png" tvg-id="Polsat Sport Premium 2.pl",Polsat Sport Premium 2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key= 6a20b49be4db4f328e4bb48853124109:f32c1c3c983354bcafb0f2ccb8a59835
+http://cdn-s-lb2.pluscdn.pl/ch/1459450/267/dash/c0858178/live.mpd
+#EXTINF:-1 group-title="POLSAT SPORT POLAND" tvg-logo="https://iptvboss.xyz/logos/Poland/PolsatSport1.pl.png" tvg-id="Polsat Sport 1.pl", Polsat Sport 1
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=590abbe92e6e470a9e355d58ec910709:0af2b5f2450474207f6761adc9dc635e
+https://lb2-e1-90.pluscdn.pl/ch/1456452/129/dash/ffe2048f/live.mpd
+#EXTINF:-1 group-title="POLSAT SPORT POLAND" tvg-logo="https://iptvboss.xyz/logos/Poland/PolsatSport2.pl.png" tvg-id="Polsat Sport 2.pl", Polsat Sport 2
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3201accccbe9455cbc28dcd4bcdf1509:f4d9a50f98ea833d2e5120d83bd59a23
+https://cdn-s-lb2.pluscdn.pl/ch/1455745/96/dash/3880d03f/live.mpd
+#EXTINF:-1 group-title="POLSAT SPORT POLAND" tvg-logo="https://iptvboss.xyz/logos/Poland/PolsatSport3.pl.png" tvg-id="Polsat Sport 3.pl", Polsat Sport 3
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=03ddf71c8dae4e8d8b171fb81ecfe609:fc80cf8969cf1b3c2c061eadb94e1330
+https://cdn-s-lb2.pluscdn.pl/ch/1455832/117/dash/790ff37c/live.mpd
+
 #EXTINF:-1,GoSport 1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f48a8131e05f4d6e84de19f086c781a6:fd28f2f966a906f4d4dcfd72ae90094e
