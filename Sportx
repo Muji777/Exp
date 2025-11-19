@@ -44,6 +44,8 @@ http://143.244.60.30/USA_NETWORK/index.m3u8
 https://thksmom.shop/AE_1018/tracks-v1a1/mono.m3u8
 #EXTINF:-1,T Sports
 https://iptvcable.netlify.app/Altogether-007/Tsports.m3u8
+#EXTINF:-1,Astro Cricket
+http://103.240.44.26/Astro-Cricket/index.fmp4.m3u8
 #EXTINF:-1,Cricket Gold
 https://d1nj4u39ja4cn0.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/FLS-MuxIP-CricketGold/418.m3u8
 #EXTINF:-1,Bein Sports Extra
@@ -65,7 +67,8 @@ http://143.244.60.30/CINEMAX_EAST/index.m3u8
 http://143.244.60.30/SHOWTIME/index.m3u8
 #EXTINF:-1,SHOWTIME 2
 http://143.244.60.30/SHOWTIME_2/index.m3u8
-
+#EXTINF:-1,Warner Tv
+https://cdn4.skygo.mn/live/disk1/Warner/HLSv3-FTA/Warner.m3u8
 ‎‎#EXTINF:-1,ARY Digital
 http://212.32.241.201:8000/play/a01q
 #EXTINF:-1,Hum Tv
