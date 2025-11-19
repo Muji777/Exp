@@ -44,8 +44,6 @@ http://143.244.60.30/USA_NETWORK/index.m3u8
 https://thksmom.shop/AE_1018/tracks-v1a1/mono.m3u8
 #EXTINF:-1,T Sports
 https://iptvcable.netlify.app/Altogether-007/Tsports.m3u8
-#EXTINF:-1,Fox Cricket
-http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/19146/index.m3u8
 #EXTINF:-1,Cricket Gold
 https://d1nj4u39ja4cn0.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/FLS-MuxIP-CricketGold/418.m3u8
 #EXTINF:-1,Bein Sports Extra
@@ -74,16 +72,8 @@ http://212.32.241.201:8000/play/a01q
 http://212.32.241.201:8000/play/a04i
 #EXTINF:-1,Geo Entertainment
 https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
-#EXTINF:-1,Zee Tv
-https://tiger-hub.vercel.app/Zee___tv-/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1,Zee Cinema Bangladesh
 http://smart.bengaldigital.live/ZeeCinema/index.m3u8
-#EXTINF:-1,Zee Cinema India
-https://tiger-hub.vercel.app/Zee-Cinema-__/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1,Zee Action
-https://tiger-hub.vercel.app/Zee--_action-/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1,Colors Cineplex
-https://tiger-hub.vercel.app/Colors-Cineplex/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1,MBC Bollywood
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8
 #EXTINF:-1,Shemaroo Bollywood
@@ -94,12 +84,6 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
 #EXTINF:-1,B4U Movies
 https://cdnb4u.wiseplayout.com/B4U_Movies/master.m3u8
-#EXTINF:-1,&Picture
-https://tiger-hub.vercel.app/&Picture/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1,Star Gold
-https://tiger-hub.vercel.app/Star-Gold/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1,Star Gold Select
-https://tiger-hub.vercel.app/Star-gold__Select/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1,BBC Earth
 https://d3u3pfhhvuad9k.cloudfront.net/playlist/amg00793-bbcstudios-bbcearta-lgus/playlist.m3u8
 #EXTINF:-1,BBC Lifestyle
