@@ -46,6 +46,8 @@ https://thksmom.shop/AE_1018/tracks-v1a1/mono.m3u8
 https://iptvcable.netlify.app/Altogether-007/Tsports.m3u8
 #EXTINF:-1,Astro Cricket
 http://103.240.44.26/Astro-Cricket/index.fmp4.m3u8
+#EXTINF:-1,Sandbrix Sports
+https://ams.sandbrix.live/LiveApp/streams/NKAv2V2BTnEuVJdS170390248731.m3u8
 #EXTINF:-1,Cricket Gold
 https://d1nj4u39ja4cn0.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/FLS-MuxIP-CricketGold/418.m3u8
 #EXTINF:-1,Bein Sports Extra
