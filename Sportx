@@ -40,14 +40,10 @@ http://143.244.60.30/NBC/index.m3u8
 http://143.244.60.30/CBS_SPORTS_NETWORK/index.m3u8
 #EXTINF:-1,USA Network
 http://143.244.60.30/USA_NETWORK/index.m3u8
-#EXTINF:-1,Astro Football
-https://smart.bengaldigital.live/AstroFootball/index.m3u8
 #EXTINF:-1,Sky Sports Cricket                                                                          
 https://thksmom.shop/AE_1018/tracks-v1a1/mono.m3u8
 #EXTINF:-1,T Sports
 https://iptvcable.netlify.app/Altogether-007/Tsports.m3u8
-#EXTINF:-1,Astro Cricket
-https://smart.bengaldigital.live/AstroCricket/index.m3u8
 #EXTINF:-1,Fox Cricket
 http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/19146/index.m3u8
 #EXTINF:-1,Cricket Gold
