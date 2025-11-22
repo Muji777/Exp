@@ -1,26 +1,26 @@
 #EXTM3U
 #EXTINF:-1,SKY SPORTS FOOTBALL
-http://178.33.239.54:8080/500a/index.m3u8
+
 #EXTINF:-1,SKY SPORTS NEWS
-http://178.33.239.54:8080/501a/index.m3u8
+
 #EXTINF:-1,SKY SPORT MAIN EVENT
-http://178.33.239.54:8080/502a/index.m3u8
+
 #EXTINF:-1,SKY SPORT CRICKET
-http://178.33.239.54:8080/503a/index.m3u8
+
 #EXTINF:-1,SKY SPORT ACTION
-http://178.33.239.54:8080/504a/index.m3u8
+
 #EXTINF:-1,SKY SPORT PREMIER LEAGUE
-http://178.33.239.54:8080/506a/index.m3u8
+
 #EXTINF:-1,SKY SPORTS MIX HD
-http://178.33.239.54:8080/507a/index.m3u8
+
 #EXTINF:-1,Sky SPORTS F1
-http://178.33.239.54:8080/508a/index.m3u8
+
 #EXTINF:-1,TNT Sports 1
-http://178.33.239.54:8080/509a/index.m3u8
+
 #EXTINF:-1,TNT Sports  2
-http://178.33.239.54:8080/510a/index.m3u8
+
 #EXTINF:-1,TNT Sports 3
-http://178.33.239.54:8080/511a/index.m3u8
+
 #EXTINF:-1,TNT Sports 4
 http://ozaesnna.megatv.fun/iptv/5YA663LHTL5YTN/19054/index.m3u8
 #EXTINF:-1,Premier Sports 1
