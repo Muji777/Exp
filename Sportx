@@ -40,6 +40,14 @@ http://143.244.60.30/CBS_SPORTS_NETWORK/index.m3u8
 http://143.244.60.30/USA_NETWORK/index.m3u8
 #EXTINF:-1,Sky Sports Cricket                                                                          
 https://thksmom.shop/AE_1018/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Sony Ten 1
+http://51.15.7.9:2905/ten1/index.m3u8
+#EXTINF:-1,Sony Ten 2
+http://51.15.7.9:2905/ten2/index.m3u8
+#EXTINF:-1,Sony Ten 3
+http://51.15.7.9:2905/ten3/index.m3u8
+#EXTINF:-1,Sony Ten 5
+http://51.15.7.9:2905/ten5/index.m3u8
 #EXTINF:-1,T Sports
 https://iptvcable.netlify.app/Altogether-007/Tsports.m3u8
 #EXTINF:-1,Astro Cricket
@@ -75,6 +83,14 @@ http://212.32.241.201:8000/play/a01q
 http://212.32.241.201:8000/play/a04i
 #EXTINF:-1,Geo Entertainment
 https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
+#EXTINF:-1,Zee Tv
+http://51.15.7.9:2905/zee/index.m3u8
+#EXTINF:-1,Star Movies
+http://51.15.7.9:2905/starmovies/index.m3u8 
+#EXTINF:-1,Star Gold
+http://51.15.7.9:2905/stargold/index.m3u8
+#EXTINF:-1,Star Gold 2
+http://51.15.7.9:2905/stargold2/index.m3u8
 #EXTINF:-1,MBC Bollywood
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8
 #EXTINF:-1,Shemaroo Bollywood
