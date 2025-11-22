@@ -26,6 +26,14 @@ http://178.33.239.54:8080/510a/index.m3u8
 http://178.33.239.54:8080/511a/index.m3u8
 #EXTINF:-1,TNT Sports 4
 http://ozaesnna.megatv.fun/iptv/5YA663LHTL5YTN/19054/index.m3u8
+#EXTINF:-1,Sony Ten 1
+http://51.15.7.9:2905/ten1/index.m3u8
+#EXTINF:-1,Sony Ten 2
+http://51.15.7.9:2905/ten2/index.m3u8
+#EXTINF:-1,Sony Ten 3
+http://51.15.7.9:2905/ten3/index.m3u8
+#EXTINF:-1,Sony Ten 5
+http://51.15.7.9:2905/ten5/index.m3u8
 #EXTINF:-1,Bein Sports France 1
 http://178.33.239.54:8080/512a/index.m3u8
 #EXTINF:-1,Bein Sports France 2
