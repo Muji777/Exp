@@ -1,26 +1,24 @@
 #EXTM3U
 #EXTINF:-1,SKY SPORTS FOOTBALL
-
+http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/9289/index.m3u8
 #EXTINF:-1,SKY SPORTS NEWS
-
+http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/9314/index.m3u8
 #EXTINF:-1,SKY SPORT MAIN EVENT
-
+http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/9308/index.m3u8
 #EXTINF:-1,SKY SPORT CRICKET
-
+http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/9258/index.m3u8
 #EXTINF:-1,SKY SPORT ACTION
-
+http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/9155/index.m3u8
 #EXTINF:-1,SKY SPORT PREMIER LEAGUE
-
-#EXTINF:-1,SKY SPORTS MIX HD
-
+http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/7335/index.m3u8
 #EXTINF:-1,Sky SPORTS F1
-
+http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/9283/index.m3u8
 #EXTINF:-1,TNT Sports 1
-
+http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/2505/index.m3u8
 #EXTINF:-1,TNT Sports  2
-
+http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/2506/index.m3u8
 #EXTINF:-1,TNT Sports 3
-
+http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/6564/index.m3u8
 #EXTINF:-1,TNT Sports 4
 http://ozaesnna.megatv.fun/iptv/5YA663LHTL5YTN/19054/index.m3u8
 #EXTINF:-1,Premier Sports 1
@@ -35,14 +33,6 @@ http://143.244.60.30/CBS_SPORTS_NETWORK/index.m3u8
 http://143.244.60.30/USA_NETWORK/index.m3u8
 #EXTINF:-1,Sky Sports Cricket                                                                          
 https://thksmom.shop/AE_1018/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Sony Ten 1
-http://51.15.7.9:2905/ten1/index.m3u8
-#EXTINF:-1,Sony Ten 2
-http://51.15.7.9:2905/ten2/index.m3u8
-#EXTINF:-1,Sony Ten 3
-http://51.15.7.9:2905/ten3/index.m3u8
-#EXTINF:-1,Sony Ten 5
-http://51.15.7.9:2905/ten5/index.m3u8
 #EXTINF:-1,T Sports
 https://iptvcable.netlify.app/Altogether-007/Tsports.m3u8
 #EXTINF:-1,Astro Cricket
@@ -78,14 +68,6 @@ http://212.32.241.201:8000/play/a01q
 http://212.32.241.201:8000/play/a04i
 #EXTINF:-1,Geo Entertainment
 https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
-#EXTINF:-1,Zee Tv
-http://51.15.7.9:2905/zee/index.m3u8
-#EXTINF:-1,Star Movies
-http://51.15.7.9:2905/starmovies/index.m3u8 
-#EXTINF:-1,Star Gold
-http://51.15.7.9:2905/stargold/index.m3u8
-#EXTINF:-1,Star Gold 2
-http://51.15.7.9:2905/stargold2/index.m3u8
 #EXTINF:-1,MBC Bollywood
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8
 #EXTINF:-1,Shemaroo Bollywood
