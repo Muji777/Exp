@@ -2,42 +2,30 @@
 #EXTM3U url-
 tvg="http://epg.one/epg.xml"
 
-#EXTINF:-1,SKY SPORTS FOOTBALL
-http://178.33.239.54:8080/500a/index.m3u8
-#EXTINF:-1,SKY SPORTS NEWS
-http://178.33.239.54:8080/501a/index.m3u8
-#EXTINF:-1,SKY SPORT MAIN EVENT
-http://178.33.239.54:8080/502a/index.m3u8
-#EXTINF:-1,SKY SPORT CRICKET
-http://178.33.239.54:8080/503a/index.m3u8
-#EXTINF:-1,SKY SPORT ACTION
-http://178.33.239.54:8080/504a/index.m3u8
-#EXTINF:-1,SKY SPORT PREMIER LEAGUE
-http://178.33.239.54:8080/506a/index.m3u8
-#EXTINF:-1,SKY SPORTS MIX HD
-http://178.33.239.54:8080/507a/index.m3u8
-#EXTINF:-1,Sky SPORTS F1
-http://178.33.239.54:8080/508a/index.m3u8
-#EXTINF:-1,TNT Sports 1
-http://178.33.239.54:8080/509a/index.m3u8
-#EXTINF:-1,TNT Sports  2
-http://178.33.239.54:8080/510a/index.m3u8
-#EXTINF:-1,TNT Sports 3
-http://178.33.239.54:8080/511a/index.m3u8
+#EXTINF:-1,Sky Sports Action
+http://6zirt9yx.otttv.pw/iptv/HEGN4VXXQQSYCA/9155/index.m3u8
+#EXTINF:-1,Sky Sports Cricket
+http://6zirt9yx.otttv.pw/iptv/HEGN4VXXQQSYCA/9258/index.m3u8
+#EXTINF:-1,Sky Sports F1
+http://6zirt9yx.otttv.pw/iptv/HEGN4VXXQQSYCA/9283/index.m3u8
+#EXTINF:-1,Sky Sports Football
+http://6zirt9yx.otttv.pw/iptv/HEGN4VXXQQSYCA/9289/index.m3u8
+#EXTINF:-1,Sky Sports Main Event
+http://6zirt9yx.otttv.pw/iptv/HEGN4VXXQQSYCA/9308/index.m3u8
+#EXTINF:-1,Sky Sports News
+http://6zirt9yx.otttv.pw/iptv/HEGN4VXXQQSYCA/9314/index.m3u8
+#EXTINF:-1,Sky Sports Premier League
+http://6zirt9yx.otttv.pw/iptv/HEGN4VXXQQSYCA/9334/index.m3u8
+#EXTINF:-1,Sky Sports Tennis
+http://6zirt9yx.otttv.pw/iptv/HEGN4VXXQQSYCA/6546/index.m3u8
+#EXTINF:-1,Sky Sports+
+http://6zirt9yx.otttv.pw/iptv/HEGN4VXXQQSYCA/9248/index.m3u8
+#EXTINF:-1,Premier Sports 1
+http://6zirt9yx.otttv.pw/iptv/HEGN4VXXQQSYCA/2160/index.m3u8
+#EXTINF:-1,Premier Sports 2
+http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/2069/index.m3u8
 #EXTINF:-1,TNT Sports 4
 http://ozaesnna.megatv.fun/iptv/5YA663LHTL5YTN/19054/index.m3u8
-#EXTINF:-1,Sony Ten 1
-http://51.15.7.9:2905/ten1/index.m3u8
-#EXTINF:-1,Sony Ten 2
-http://51.15.7.9:2905/ten2/index.m3u8
-#EXTINF:-1,Sony Ten 3
-http://51.15.7.9:2905/ten3/index.m3u8
-#EXTINF:-1,Sony Ten 5
-http://51.15.7.9:2905/ten5/index.m3u8
-#EXTINF:-1,Bein Sports France 1
-http://178.33.239.54:8080/512a/index.m3u8
-#EXTINF:-1,Bein Sports France 2
-http://178.33.239.54:8080/513a/index.m3u8
 #EXTINF:-1,NBC 
 http://143.244.60.30/NBC/index.m3u8
 #EXTINF:-1,CBS Sports
@@ -219,26 +207,6 @@ https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561802/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=657707bbd1e240e08bd6969df27fef7c:364e00581c1432f4175e4a2e8e0cd57e
 https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561705/index.mpd
-
-#EXTINF:-1 tvg-id="premier-sports" tvg-logo="https://i.imgur.com/GTfUEnU.png" group-title="Sports",Premier Sports
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b8b595299fdf41c1a3481fddeb0b55e4:cd2b4ad0eb286239a4a022e6ca5fd007
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_ps_hd1/default/index.mpd
-
-#EXTINF:-1 tvg-id="premier-sports-2" tvg-logo="https://i.imgur.com/OWVR172.png" group-title="Sports",Premier Sports 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=59454adb530b4e0784eae62735f9d850:61100d0b8c4dd13e4eb8b4851ba192cc
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/premiersports2hd/default/index.mpd
-
-#EXTINF:-1 tvg-id="spotv-hd" tvg-logo="https://i.imgur.com/QExPfsT.png" group-title="Sports",SpoTV HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ec7ee27d83764e4b845c48cca31c8eef:9c0e4191203fccb0fde34ee29999129e
-https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_spotvhd/default/index.mpd
-
-#EXTINF:-1 tvg-id="spotv-2-hd" tvg-logo="https://i.imgur.com/7mY1Zxg.png" group-title="Sports",SpoTV 2 HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed
-https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_spotv2hd/default/index.mpd
 
 #EXTINF:-1,HBO Boxing
 #KODIPROP:inputstream.adaptive.license_type=clearkey
