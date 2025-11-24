@@ -6,6 +6,8 @@ https://cdn4.skygo.mn/live/disk1/Discovery_Asia/HLSv3-FTA/Discovery_Asia.m3u8
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1,Discovery Asia
 https://cdn08jtedge.indihometv.com/dassdvr/194/discoveryasia/manifest.mpd
+#EXTINF:-1,Animal Planet
+http://45.144.165.187:8080/playid168/12345/85
 #EXTINF:-1,HGTV
 http://143.244.60.30/HGTV/index.m3u8
 #EXTINF:-1,CNN
