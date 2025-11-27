@@ -25,9 +25,23 @@ http://6zirt9yx.otttv.pw/iptv/HEGN4VXXQQSYCA/2160/index.m3u8
 #EXTINF:-1,Premier Sports 2
 http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/2069/index.m3u8
 
+#EXTINF:-1,Champions League 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2f3bcff111c1c3f137647f9c750e2319:788d2a574dfa5d8f707a19c3af541edd
+https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/btkae0burh/out/v1/596cc8bb57d34d21beaaadcb4c38668d/cenc.mpd
+#EXTINF:-1,Champions League 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=49275c8047b5a99da9742d09ea94a48c:30d11f429200e5309d76069e252088f0
+https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/w5twml3eh4/out/v1/37d71a58fd5f4b118137310e2b445a40/cenc.mpd
+#EXTINF:-1,Champions League 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a24eb56d414b6fe93b30411b1d5627a6:74ab241fb45dc5ee42bb4770a15546e4
+https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/qbxc8dsej7/out/v1/0329f36501f248feb10fd65175bf6182/cenc.mpd?
+#EXTINF:-1,Champions League 4
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=120d0d02a54bdbffbad81c0a795bc611:f78519ea1ef8214b009e1c09f5f46451
+https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/wddmw57rrf/out/v1/92a3abc86def40adbc5cb2318d1934a6/cenc.mpd
 
-#EXTINF:-1,CBS Sports 1
-https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/btkae0burh/out/v1/596cc8bb57d34d21beaaadcb4c38668d/cenc.mpd?|drmScheme=clearkey&drmLicense=2f3bcff111c1c3f137647f9c750e2319:788d2a574dfa5d8f707a19c3af541edd
 #EXTINF:-1,TNT Sports 4
 http://ozaesnna.megatv.fun/iptv/5YA663LHTL5YTN/19054/index.m3u8
 #EXTINF:-1,NBC 
