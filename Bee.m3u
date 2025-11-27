@@ -1,6 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/a-c-c_-network_-raycom_-logo.png",ACC Network
-https://l.lioncdn.net/ACC-Network/index.m3u8?fastoken=|Referer=https://new-player.lioncdn.net/
+
 #EXTINF:-1 tvg-logo="https://center.urlix.co/storage/images/MUfPvwYCKrhk35p5BQ4qRBktD9iBALX4dMOqFV8q.jpg",BBC FOUR
 https://l.lioncdn.net/BBC-FOUR/index.m3u8?fastoken=|Referer=https://new-player.lioncdn.net/
 #EXTINF:-1 tvg-logo="https://center.urlix.co/storage/images/uN6eIk65I2im0d4ojxIloksV9wyxbVshhM8Num6J.jpg",BBC News
@@ -13,10 +12,6 @@ https://l.lioncdn.net/BBC-Red-Button/index.m3u8?fastoken=|Referer=https://new-pl
 https://l.lioncdn.net/BBC-Three/index.m3u8?fastoken=|Referer=https://new-player.lioncdn.net/
 #EXTINF:-1 tvg-logo="https://center.urlix.co/storage/images/o8L1QWPS4sWAdPbaDiGKqqu5BspdchEK3l1834EQ.png",BBC Two
 https://l.lioncdn.net/BBC-2/index.m3u8?fastoken=|Referer=https://new-player.lioncdn.net/
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/nlt-ev-a9qj-h-qa-hh-x1-n-mx-yg-iyriul-rmt-qz-b-a-jcxg9-p.png",BEIN SPORTS USA
-https://l.lioncdn.net/Bein-Sports-USA/index.m3u8?fastoken=|Referer=https://new-player.lioncdn.net/
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/nlt-ev-a9qj-h-qa-hh-x1-n-mx-yg-iyriul-rmt-qz-b-a-jcxg9-p.png",BEIN SPORTS USA
-https://l.lioncdn.net/BEIN-SPORT-USA-BU/index.m3u8?fastoken=|Referer=https://new-player.lioncdn.net/
 #EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/be-i-n_-s-p-o-r-t-s1_-e-n-g-l-i-s-h_-digital_-mono.png",Bein Sports English 1
 https://l.lioncdn.net/Bein-Sports-English-1/index.m3u8?fastoken=|Referer=https://new-player.lioncdn.net/
 #EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/v-hu-vg-g-s-gu-t-yy-i2usg-k8-bh-y-ov-fo-pv9n-g65z-dm-txo3.png",Bein Sports English 2
@@ -25,48 +20,16 @@ https://l.lioncdn.net/Bein-Sports-English-2/index.m3u8?fastoken=|Referer=https:/
 https://l.lioncdn.net/Bein-Sports-English-3/index.m3u8?fastoken=|Referer=https://new-player.lioncdn.net/
 #EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/a4df4ef049b119253c9833bea8ed6515.jpg",CBS Sports Network
 https://l.lioncdn.net/CBS-Sports-Network/index.m3u8?fastoken=|Referer=https://new-player.lioncdn.net/
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/t-tgl-m-ns6-d-r6bcw3qf-il-l8a-rg-k-l-ll-dmc-p-v5h7-s-wg-d.png",CNBC
-https://l.lioncdn.net/CNBC/index.m3u8?fastoken=|Referer=https://new-player.lioncdn.net/
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/f-i-gsl2-n77-dpt-h-wdy-q-c-f-odhz-gf-x-a-h-sje4z3-q-a0-qn-o.png",Cartoon Network
-https://l.lioncdn.net/UK-Cartoon-Network/index.m3u8?fastoken=|Referer=https://new-player.lioncdn.net/
 #EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/waj-k6-w-wwz-x-np7-h573-ir-p-sj-x-ewjdwmvri-bfz-aimc1.png",Cinemax West
 https://l.lioncdn.net/Cinemax-West/index.m3u8?fastoken=|Referer=https://new-player.lioncdn.net/
 #EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/9r-j-w92-g-j-imn-a2vfqm6v-k-er0-n-o9-k-l8-b-phk-a4cv-cbq.png",DAZN
 https://l.lioncdn.net/DAZN-TV/index.m3u8?fastoken=|Referer=https://new-player.lioncdn.net/
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/euzl-x-u-j-t8dx9s-puq8-hh5-g-m-rlmzu-sek-cn1ra-g-g-my2.png",Discovery Channel
-https://l.lioncdn.net/Discovery-Channel/index.m3u8?fastoken=|Referer=https://new-player.lioncdn.net/
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/152-b-g-b-ja-rg9je-jt-nw8-xm7-en-g-uayb-i-u-x-mjc5od5d5.png",Discovery Life
-https://l.lioncdn.net/Discovery-Life/index.m3u8?fastoken=|Referer=https://new-player.lioncdn.net/
 #EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/xs7-c-u-j2d-j-h-r-i6s-zgr7-dyp-n-s-a-mn-z7-kpq-hf6y-wwvx-i.png",ESPN
 https://l.lioncdn.net/ESPN/index.m3u8?fastoken=|Referer=https://new-player.lioncdn.net/
 #EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/512px--e-s-p-n2_logo.svg.png",ESPN 2
 https://l.lioncdn.net/ESPN-2/index.m3u8?fastoken=|Referer=https://new-player.lioncdn.net/
-#EXTINF:-1 tvg-logo="https://center.urlix.co/storage/images/8lPFlMIg4VQSlx0OGlDRH5OM5qMomtsfwzQiyeLo.png",ESPN Deportes
-https://l.lioncdn.net/ESPN-Deportes/index.m3u8?fastoken=|Referer=https://new-player.lioncdn.net/
-#EXTINF:-1 tvg-logo="https://center.urlix.co/storage/images/8lPFlMIg4VQSlx0OGlDRH5OM5qMomtsfwzQiyeLo.png",ESPN Deportes
-https://l.lioncdn.net/ESPN-Deportes-BU/index.m3u8?fastoken=|Referer=https://new-player.lioncdn.net/
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/2-g-ojo-g33-ls-wv-cf3-j-a-h-z-ojpp3y4-q4-fuj-c-p-r-oi-r-m4o.png",ESPN News
-https://l.lioncdn.net/ESPN-News/index.m3u8?fastoken=|Referer=https://new-player.lioncdn.net/
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/t9vr-m9-p-v1p-y-wh-rm-v-d-tj-dxo-d-af-xb3-zz67-f-dn-pane-y.png",ESPN U
-https://l.lioncdn.net/ESPN-U/index.m3u8?fastoken=|Referer=https://new-player.lioncdn.net/
 #EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/8e-oj-t6-c-f3arb-q-seorft-m-fem-cy4ww-w-azm-ta0sempl.png",Eurosport 2
 https://l.lioncdn.net/Eurosport-2/index.m3u8?fastoken=|Referer=https://new-player.lioncdn.net/
-#EXTINF:-1 tvg-logo="https://center.urlix.co/storage/images/WwxRNu3hV1UHfo1EYkbbUyqPrTbiwOfAhztbwrff.jpg",FOX DEPORTES
-https://l.lioncdn.net/FOX-DEPORTES/index.m3u8?fastoken=|Referer=https://new-player.lioncdn.net/
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/768px--fox_-news_-channel_logo.svg.png",FOX NEWS
-https://l.lioncdn.net/FOX-NEWS/index.m3u8?fastoken=|Referer=https://new-player.lioncdn.net/
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/x-c1-yl3tu1-ga-wl-e-o3b-w-aiye3e127-l5yarb-ot2-ezxe.png",Fight Network
-https://l.lioncdn.net/Fight-Network/index.m3u8?fastoken=|Referer=https://new-player.lioncdn.net/
-#EXTINF:-1 tvg-logo="https://center.urlix.co/storage/images/QThyDK3aE2AEGNXcjaaFUHeFgNy3X5izleCb6QT4.png",Fox Soccer Plus
-https://l.lioncdn.net/Fox-Soccer-Plus/index.m3u8?fastoken=|Referer=https://new-player.lioncdn.net/
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/y7-y-yvh-ej8piz6c2-ium-vye-z-q77au-v4-p-do-h-s-nen-d-qr.png",Fox Sports 1
-https://l.lioncdn.net/Fox-Sports-1/index.m3u8?fastoken=|Referer=https://new-player.lioncdn.net/
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/6-ff-p-flc-r8kqe-k-o-n6-x-v0-cjr-mfei5gtm-e3-wj-x7e-vk-a.png",Fox Sports 2
-https://l.lioncdn.net/Fox-Sports-2/index.m3u8?fastoken=|Referer=https://new-player.lioncdn.net/
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/r-a5-e-z-f-zrrvis-h-c-m5l-b-r-y-f7yu8h5-x04qu-ka-b047-a-v.png",Golf Channel
-https://l.lioncdn.net/Golf-Channel/index.m3u8?fastoken=|Referer=https://new-player.lioncdn.net/
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/f-r-yjt-u-b-a-hk-q-tvi-dbq-n5q-n7-a-a-rd0gxv-f-ks-l-j6-yml-s.png",Great Movies
-https://l.lioncdn.net/UK-Great-Movies/index.m3u8?fastoken=|Referer=https://new-player.lioncdn.net/
 #EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/r-d9d247-s1-q-wg-g-lcg-c-g-ps2r-s-t6024f-l-ak-eld-h-e-m-tn.png",HBO 1
 https://l.lioncdn.net/HBO/index.m3u8?fastoken=|Referer=https://new-player.lioncdn.net/
 #EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/5-tj1j-wtmcg-o-zj-egka-yk-s-x-p-puqfj03x0w-ka-b-rwcy-o.png",HBO 2
@@ -81,32 +44,10 @@ https://l.lioncdn.net/ITV-3/index.m3u8?fastoken=|Referer=https://new-player.lion
 https://l.lioncdn.net/ITV-4/index.m3u8?fastoken=|Referer=https://new-player.lioncdn.net/
 #EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/g-e46rp-x-a-j-o-cxma-gth2-ovp5sf-az-g4p-eq-v-vlyost-q-l.png",LALIGA TV HD
 https://l.lioncdn.net/La-Liga-TV/index.m3u8?fastoken=|Referer=https://new-player.lioncdn.net/
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/g-e46rp-x-a-j-o-cxma-gth2-ovp5sf-az-g4p-eq-v-vlyost-q-l.png",LALIGA TV HD
-https://l.lioncdn.net/LA-LIGA-TV-BU/index.m3u8?fastoken=|Referer=https://new-player.lioncdn.net/
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/microsoft-teams-image_(13).png",LFC TV
-https://l.lioncdn.net/LFC-TV/index.m3u8?fastoken=|Referer=https://new-player.lioncdn.net/
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/1200px--m-l-b-network-logo.svg.png",MLB Network
-https://l.lioncdn.net/MLB-Network/index.m3u8?fastoken=|Referer=https://new-player.lioncdn.net/
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/nd9b-n-us-b-m0lw-zka-ilkgas-bu-v-b4-y-b-fcug6-va-j-c-y-i-g.png",MUTV
-https://l.lioncdn.net/MUTV/index.m3u8?fastoken=|Referer=https://new-player.lioncdn.net/
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/1200px--n-b-a_-t-v.svg.png",NBA TV
-https://l.lioncdn.net/NBA_TV_Live_TV/index.m3u8?fastoken=|Referer=https://new-player.lioncdn.net/
-#EXTINF:-1 tvg-logo="https://center.urlix.co/storage/images/PEoLnkz4lbWBN4A79dA6p1nOi15uD1VE8CN2mqT4.svg",NBC UNIVERSO
-https://l.lioncdn.net/NBC-UNIVERSO/index.m3u8?fastoken=|Referer=https://new-player.lioncdn.net/
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/m-g3-iq91-ukrb-cn24-w-zuxpr-j-mm-b9tv-m7-hb-b3-v9-gw95.svg",NFL Network
-https://l.lioncdn.net/NFL-Network/index.m3u8?fastoken=|Referer=https://new-player.lioncdn.net/
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/iwzyqv-vw-j0c-du-w3-mr-mb3cg82e-e-mr-m-b-v-y-e-nw-hw-fmh.png",NFL REDZONE
-https://l.lioncdn.net/NFL-REDZONE/index.m3u8?fastoken=|Referer=https://new-player.lioncdn.net/
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/8z795-gbo1duqut1-f32-ga-ip-b-a8-urzp90c-g-u-dm-r-c2-o.svg",NHL Network
-https://l.lioncdn.net/NHL-Network/index.m3u8?fastoken=|Referer=https://new-player.lioncdn.net/
 #EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/s-p4-kxd-v-lp-hl9-y-t-fb-e-wz-m0-n8k-kkgg-h-pkccaqcc-bdu.png",Premier Sports 1
 https://l.lioncdn.net/Premier-Sports-1/index.m3u8?fastoken=|Referer=https://new-player.lioncdn.net/
 #EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/1-gbngsz7-d-l-xy3x6-m-sk5xw-fj3-h-v42-r-e-cr-p1h4-dlyn.png",Premier Sports 2
 https://l.lioncdn.net/Premier-Sports-2/index.m3u8?fastoken=|Referer=https://new-player.lioncdn.net/
-#EXTINF:-1 tvg-logo="https://center.urlix.co/storage/images/Hvg8f5rQIhHrfUN9zPsktEzu928QoTjhk2NpAqPK.png",Racing TV
-https://l.lioncdn.net/Racing-TV/index.m3u8?fastoken=|Referer=https://new-player.lioncdn.net/
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/l-gy5-lwm-a-tg-hek2-f-hb8l-ff-km-z-l-i8-ww-z-pf-iuw3ts-jd.png",SKY SPORTS ARENA
-https://l.lioncdn.net/Sky-Sports-Arena/index.m3u8?fastoken=|Referer=https://new-player.lioncdn.net/
 #EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/o-k37-cj0-vvsn-xq1-p-hph-x-s-a-nw4-awo-e-qai-m-b-is-u-l-ntx.png",SKY SPORTS CRICKET
 https://l.lioncdn.net/Sky-Sports-Cricket/index.m3u8?fastoken=|Referer=https://new-player.lioncdn.net/
 #EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/i-u-rj7vj-y-h5-u-b-chr2-s-bdjm-qp-o8-a-k-obc-c94kh-fv-r-kk.png",SKY SPORTS F1
@@ -139,10 +80,6 @@ https://l.lioncdn.net/Sky-Cinema-Animation/index.m3u8?fastoken=|Referer=https://
 https://l.lioncdn.net/UK-Sky-Cinema-Comedy/index.m3u8?fastoken=|Referer=https://new-player.lioncdn.net/
 #EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/2560px--sky_-cinema_-family_-_-logo_2021.svg.png",Sky Cinema Family
 https://l.lioncdn.net/UK-Sky-Cinema-Family/index.m3u8?fastoken=|Referer=https://new-player.lioncdn.net/
-#EXTINF:-1 tvg-logo="https://center.urlix.co/storage/images/qKD6k49tpqHg3gkThoSR7J8nmXaOYeD0QYuM5J37.jpg",Sky Sports Darts
-https://l.lioncdn.net/Sky_Sports_Darts/index.m3u8?fastoken=|Referer=https://new-player.lioncdn.net/
-#EXTINF:-1 tvg-logo="https://center.urlix.co/storage/images/qKD6k49tpqHg3gkThoSR7J8nmXaOYeD0QYuM5J37.jpg",Sky Sports Darts
-https://l.lioncdn.net/Sky_Sports_Darts_BU/index.m3u8?fastoken=|Referer=https://new-player.lioncdn.net/
 #EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/k-ww-c-i-q-eb-f-xu-e-xi-fkjo56ya-oi-g-hm-j8-d-dz-cezx8279.png",Sky Sports Tennis
 https://l.lioncdn.net/Sky-Sports-Tennis/index.m3u8?fastoken=|Referer=https://new-player.lioncdn.net/
 #EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/94bbab25-acbc-4e62-9468-39038ac16f92-tc_og.png",TENNIS CHANNEL
@@ -163,15 +100,11 @@ https://l.lioncdn.net/TNT-Sports-3-BU/index.m3u8?fastoken=|Referer=https://new-p
 https://l.lioncdn.net/TNT-Sports-4/index.m3u8?fastoken=|Referer=https://new-player.lioncdn.net/
 #EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/lj-ogkw86c-j-n-i-wrvumds70-l5z7xa-d9-s-q-kg-gg-s-xy-qh.png",TNT SPORTS 4
 https://l.lioncdn.net/TNT-Sports-4-BU/index.m3u8?fastoken=|Referer=https://new-player.lioncdn.net/
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/c7-mg-r-w1l-p-k-cm-sc-rd-w-b-dhs-n90-b-uc-qozpi3-v-dwtmz-a.png",Virgin 1
-https://l.lioncdn.net/UK-Virgin-1/index.m3u8?fastoken=|Referer=https://new-player.lioncdn.net/
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/z-n1gy-tr71-xm1uia7-m8-jv-e-t0ygm-ql47v-h4-d5wu-t91.png",Virgin 3
-https://l.lioncdn.net/UK-Virgin-3/index.m3u8?fastoken=|Referer=https://new-player.lioncdn.net/
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/c-l33-tbx4-bvcvs8s-p-zfvwzd-nk-r-b-vncgag-w-jy-x-k-ol-t.png",WWE
-https://l.lioncdn.net/WWE/index.m3u8?fastoken=|Referer=https://new-player.lioncdn.net/
 #EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/to0if-g-f-pzs3i-my1-d-spsrs3-sv-wn-k-h-m-sya-fz6b-meh4.png",Willow Cricket
 https://l.lioncdn.net/Willow-Cricket/index.m3u8?fastoken=|Referer=https://new-player.lioncdn.net/
 #EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/k9-cbp-r-zcaom-r-jayck5v-qr-m-o-n-zqop9v1-e-s-u-z-g-kk3b.png",Willow Extra
 https://l.lioncdn.net/Willow-Extra/index.m3u8?fastoken=|Referer=https://new-player.lioncdn.net/
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/ui-yy7ozk-m-unr-o33oc-izqx-el5-ewy-kg-v2vo-p-no-i-e-b-b.svg",World Fishing Network
-https://l.lioncdn.net/World-Fishing-Network/index.m3u8?fastoken=|Referer=https://new-player.lioncdn.net/
+
+
+
+
