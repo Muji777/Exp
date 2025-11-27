@@ -24,6 +24,10 @@ http://6zirt9yx.otttv.pw/iptv/HEGN4VXXQQSYCA/9248/index.m3u8
 http://6zirt9yx.otttv.pw/iptv/HEGN4VXXQQSYCA/2160/index.m3u8
 #EXTINF:-1,Premier Sports 2
 http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/2069/index.m3u8
+
+
+#EXTINF:-1,CBS Sports 1
+https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/btkae0burh/out/v1/596cc8bb57d34d21beaaadcb4c38668d/cenc.mpd?|drmScheme=clearkey&drmLicense=2f3bcff111c1c3f137647f9c750e2319:788d2a574dfa5d8f707a19c3af541edd
 #EXTINF:-1,TNT Sports 4
 http://ozaesnna.megatv.fun/iptv/5YA663LHTL5YTN/19054/index.m3u8
 #EXTINF:-1,NBC 
