@@ -28,6 +28,8 @@ https://l.lioncdn.net/DAZN-TV/index.m3u8?fastoken=|Referer=https://new-player.li
 https://l.lioncdn.net/ESPN/index.m3u8?fastoken=|Referer=https://new-player.lioncdn.net/
 #EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/512px--e-s-p-n2_logo.svg.png",ESPN 2
 https://l.lioncdn.net/ESPN-2/index.m3u8?fastoken=|Referer=https://new-player.lioncdn.net/
+#EXTINF:-1,Eurosport 1
+https://l.lioncdn.net/Eurosport-1/index.m3u8?fastoken=|Referer=https://new-player.lioncdn.net/
 #EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/8e-oj-t6-c-f3arb-q-seorft-m-fem-cy4ww-w-azm-ta0sempl.png",Eurosport 2
 https://l.lioncdn.net/Eurosport-2/index.m3u8?fastoken=|Referer=https://new-player.lioncdn.net/
 #EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/r-d9d247-s1-q-wg-g-lcg-c-g-ps2r-s-t6024f-l-ak-eld-h-e-m-tn.png",HBO 1
@@ -56,6 +58,8 @@ https://l.lioncdn.net/Sky-Sports-F1/index.m3u8?fastoken=|Referer=https://new-pla
 https://l.lioncdn.net/Sky-Sports-Football/index.m3u8?fastoken=|Referer=https://new-player.lioncdn.net/
 #EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/k-v-dh-zp-i-qa-alh-lgx1-jpu-y-y-q-m-t-c4-o7-fi7-rc-fcqz-uup.png",SKY SPORTS FOOTBALL
 https://l.lioncdn.net/Sky-Sports-Football-BU/index.m3u8?fastoken=|Referer=https://new-player.lioncdn.net/
+#EXTINF:-1,Sky Sports Action
+https://l.lioncdn.net/Sky-Sports-Action/index.m3u8?fastoken=|Referer=https://new-player.lioncdn.net/
 #EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/n-o-wzh-xjqvb-qs-txqgd3s-u-n-ft-u-s-a7-x-s-p-hfh4da1tgy.png",SKY SPORTS GOLF
 https://l.lioncdn.net/Sky-Sports-Golf/index.m3u8?fastoken=|Referer=https://new-player.lioncdn.net/
 #EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/8-a1o6-z1-vb-a-dve-w2-xa-c-kb9-odz-hewz-yl0-w-p-c-l-hcr7p.png",SKY SPORTS MAIN EVENT
