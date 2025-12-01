@@ -1,58 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/g-e46rp-x-a-j-o-cxma-gth2-ovp5sf-az-g4p-eq-v-vlyost-q-l.png",LALIGA TV HD
-https://l.lioncdn.net/La-Liga-TV/index.m3u8?fastoken=|Referer=https://new-player.lioncdn.net/
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/s-p4-kxd-v-lp-hl9-y-t-fb-e-wz-m0-n8k-kkgg-h-pkccaqcc-bdu.png",Premier Sports 1
-https://l.lioncdn.net/Premier-Sports-1/index.m3u8?fastoken=|Referer=https://new-player.lioncdn.net/
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/1-gbngsz7-d-l-xy3x6-m-sk5xw-fj3-h-v42-r-e-cr-p1h4-dlyn.png",Premier Sports 2
-https://l.lioncdn.net/Premier-Sports-2/index.m3u8?fastoken=|Referer=https://new-player.lioncdn.net/
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/o-k37-cj0-vvsn-xq1-p-hph-x-s-a-nw4-awo-e-qai-m-b-is-u-l-ntx.png",SKY SPORTS CRICKET
-https://l.lioncdn.net/Sky-Sports-Cricket/index.m3u8?fastoken=|Referer=https://new-player.lioncdn.net/
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/i-u-rj7vj-y-h5-u-b-chr2-s-bdjm-qp-o8-a-k-obc-c94kh-fv-r-kk.png",SKY SPORTS F1
-https://l.lioncdn.net/Sky-Sports-F1/index.m3u8?fastoken=|Referer=https://new-player.lioncdn.net/
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/k-v-dh-zp-i-qa-alh-lgx1-jpu-y-y-q-m-t-c4-o7-fi7-rc-fcqz-uup.png",SKY SPORTS FOOTBALL
-https://l.lioncdn.net/Sky-Sports-Football/index.m3u8?fastoken=|Referer=https://new-player.lioncdn.net/
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/k-v-dh-zp-i-qa-alh-lgx1-jpu-y-y-q-m-t-c4-o7-fi7-rc-fcqz-uup.png",SKY SPORTS FOOTBALL
-https://l.lioncdn.net/Sky-Sports-Football-BU/index.m3u8?fastoken=|Referer=https://new-player.lioncdn.net/
-#EXTINF:-1,Sky Sports Action
-https://l.lioncdn.net/Sky-Sports-Action/index.m3u8?fastoken=|Referer=https://new-player.lioncdn.net/
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/n-o-wzh-xjqvb-qs-txqgd3s-u-n-ft-u-s-a7-x-s-p-hfh4da1tgy.png",SKY SPORTS GOLF
-https://l.lioncdn.net/Sky-Sports-Golf/index.m3u8?fastoken=|Referer=https://new-player.lioncdn.net/
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/8-a1o6-z1-vb-a-dve-w2-xa-c-kb9-odz-hewz-yl0-w-p-c-l-hcr7p.png",SKY SPORTS MAIN EVENT
-https://l.lioncdn.net/Sky-Sports-Main-Event/index.m3u8?fastoken=|Referer=https://new-player.lioncdn.net/
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/8-a1o6-z1-vb-a-dve-w2-xa-c-kb9-odz-hewz-yl0-w-p-c-l-hcr7p.png",SKY SPORTS MAIN EVENT
-https://l.lioncdn.net/Sky-Sports-Main-Event-BU/index.m3u8?fastoken=|Referer=https://new-player.lioncdn.net/
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/la-fw-h-oy-u5-i1-f-x1-i-s-d-v-s-bxs-a-so-n85-sjiw8-ql-igz-w-f.png",SKY SPORTS MIX
-https://l.lioncdn.net/Sky-Sports-Mix/index.m3u8?fastoken=|Referer=https://new-player.lioncdn.net/
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/a-g7y-pm-t-wijfcn-w9u00x1-v-wr-x-pgbgdsi-b1ixvdx-p-m.png",SKY SPORTS NEWS
-https://l.lioncdn.net/Sky-Sports-News/index.m3u8?fastoken=|Referer=https://new-player.lioncdn.net/
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/9e-er-o-p5-u-cxgq-vhw-xrj8-c0-j-er6h-p-u6-d-ee-uc-yo-p761.svg",SKY SPORTS PREMIER LEAGUE
-https://l.lioncdn.net/Sky-Sports-Premier-League/index.m3u8?fastoken=|Referer=https://new-player.lioncdn.net/
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/9e-er-o-p5-u-cxgq-vhw-xrj8-c0-j-er6h-p-u6-d-ee-uc-yo-p761.svg",SKY SPORTS PREMIER LEAGUE
-https://l.lioncdn.net/Sky-Sports-Premier-League-BU/index.m3u8?fastoken=|Referer=https://new-player.lioncdn.net/
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/k-ww-c-i-q-eb-f-xu-e-xi-fkjo56ya-oi-g-hm-j8-d-dz-cezx8279.png",Sky Sports Tennis
-https://l.lioncdn.net/Sky-Sports-Tennis/index.m3u8?fastoken=|Referer=https://new-player.lioncdn.net/
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/94bbab25-acbc-4e62-9468-39038ac16f92-tc_og.png",TENNIS CHANNEL
-https://l.lioncdn.net/Tennis-Channel/index.m3u8?fastoken=|Referer=https://new-player.lioncdn.net/
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/vo-nnv-vm-da3-o-hqr-d-tqs-l-h-v-bq-bai-v-t-hc-i-l09-z3-t-rs-z.png",TNT SPORTS 1
-https://l.lioncdn.net/TNT-Sports-1/index.m3u8?fastoken=|Referer=https://new-player.lioncdn.net/
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/vo-nnv-vm-da3-o-hqr-d-tqs-l-h-v-bq-bai-v-t-hc-i-l09-z3-t-rs-z.png",TNT SPORTS 1
-https://l.lioncdn.net/TNT-Sports-1-BU/index.m3u8?fastoken=|Referer=https://new-player.lioncdn.net/
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/s1-n-k-n3-b-sj-q-mam9-f-xn-w-g-rfo-q-o-ngb-pqypaz-ub5tj11.png",TNT SPORTS 2
-https://l.lioncdn.net/TNT-Sports-2/index.m3u8?fastoken=|Referer=https://new-player.lioncdn.net/
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/s1-n-k-n3-b-sj-q-mam9-f-xn-w-g-rfo-q-o-ngb-pqypaz-ub5tj11.png",TNT SPORTS 2
-https://l.lioncdn.net/TNT-Sports-2-BU/index.m3u8?fastoken=|Referer=https://new-player.lioncdn.net/
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/a-i-r-x-l3-u2ut-d2-zn-foo9-k-u-h-a-duh-a-s-w-e-f-p-p-qrdm-v-v-x-c.png",TNT SPORTS 3
-https://l.lioncdn.net/TNT-Sports-3/index.m3u8?fastoken=|Referer=https://new-player.lioncdn.net/
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/a-i-r-x-l3-u2ut-d2-zn-foo9-k-u-h-a-duh-a-s-w-e-f-p-p-qrdm-v-v-x-c.png",TNT SPORTS 3
-https://l.lioncdn.net/TNT-Sports-3-BU/index.m3u8?fastoken=|Referer=https://new-player.lioncdn.net/
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/lj-ogkw86c-j-n-i-wrvumds70-l5z7xa-d9-s-q-kg-gg-s-xy-qh.png",TNT SPORTS 4
-https://l.lioncdn.net/TNT-Sports-4/index.m3u8?fastoken=|Referer=https://new-player.lioncdn.net/
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/lj-ogkw86c-j-n-i-wrvumds70-l5z7xa-d9-s-q-kg-gg-s-xy-qh.png",TNT SPORTS 4
-https://l.lioncdn.net/TNT-Sports-4-BU/index.m3u8?fastoken=|Referer=https://new-player.lioncdn.net/
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/to0if-g-f-pzs3i-my1-d-spsrs3-sv-wn-k-h-m-sya-fz6b-meh4.png",Willow Cricket
-https://l.lioncdn.net/Willow-Cricket/index.m3u8?fastoken=|Referer=https://new-player.lioncdn.net/
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/k9-cbp-r-zcaom-r-jayck5v-qr-m-o-n-zqop9v1-e-s-u-z-g-kk3b.png",Willow Extra
-https://l.lioncdn.net/Willow-Extra/index.m3u8
+
 #EXTINF:-1,Sky Sports Cricket                                                                          
 https://thksmom.shop/AE_1018/tracks-v1a1/mono.m3u8
 #EXTINF:-1,T Sports
