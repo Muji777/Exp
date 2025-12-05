@@ -58,10 +58,6 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000119/1024.m3u8
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000121/1024.m3u8
 #EXTINF:-1,HBO 2
 https://streamer1.nexgen.bz/HBO2/index.m3u8
-#EXTINF:-1,Cinemax
-https://streamer1.nexgen.bz/CINEMAX/index.m3u8
-#EXTINF:-1,Zee Tv
-https://streamer1.nexgen.bz/ZEE/index.m3u8
 #EXTINF:-1,Studio Universal
 https://streamer1.nexgen.bz/STUDIO_UNIVERSAL/index.m3u8
 #EXTINF:-1,HBO 1
@@ -80,6 +76,14 @@ http://143.244.60.30/SHOWTIME_2/index.m3u8
 https://cdn4.skygo.mn/live/disk1/Warner/HLSv3-FTA/Warner.m3u8
 ‎‎#EXTINF:-1,Geo Entertainment
 https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
+#EXTINF:-1,Sony Max
+https://streamer2.nexgen.bz/SONYMAX/index.m3u8
+#EXTINF:-1,Sony Tv
+https://streamer2.nexgen.bz/SONY/index.m3u8
+#EXTINF:-1,Zee Tv
+https://streamer2.nexgen.bz/ZEE/index.m3u8
+#EXTINF:-1,Zee Cinema
+https://streamer2.nexgen.bz/ZEECINEMA/index.m3u8
 #EXTINF:-1,MBC Bollywood
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8
 #EXTINF:-1,Shemaroo Bollywood
