@@ -2,52 +2,10 @@
 #EXTM3U url-
 tvg="http://epg.one/epg.xml"
 
-#EXTINF:-1,Sky Sports Action
-http://6zirt9yx.otttv.pw/iptv/HEGN4VXXQQSYCA/9155/index.m3u8
-#EXTINF:-1,Sky Sports Cricket
-http://6zirt9yx.otttv.pw/iptv/HEGN4VXXQQSYCA/9258/index.m3u8
-#EXTINF:-1,Sky Sports F1
-http://6zirt9yx.otttv.pw/iptv/HEGN4VXXQQSYCA/9283/index.m3u8
-#EXTINF:-1,Sky Sports Football
-http://6zirt9yx.otttv.pw/iptv/HEGN4VXXQQSYCA/9289/index.m3u8
-#EXTINF:-1,Sky Sports Main Event
-http://6zirt9yx.otttv.pw/iptv/HEGN4VXXQQSYCA/9308/index.m3u8
-#EXTINF:-1,Sky Sports News
-http://6zirt9yx.otttv.pw/iptv/HEGN4VXXQQSYCA/9314/index.m3u8
-#EXTINF:-1,Sky Sports Premier League
-http://6zirt9yx.otttv.pw/iptv/HEGN4VXXQQSYCA/9334/index.m3u8
-#EXTINF:-1,Sky Sports Tennis
-http://6zirt9yx.otttv.pw/iptv/HEGN4VXXQQSYCA/6546/index.m3u8
-#EXTINF:-1,Sky Sports+
-http://6zirt9yx.otttv.pw/iptv/HEGN4VXXQQSYCA/9248/index.m3u8
 #EXTINF:-1,Premier Sports 1
 http://6zirt9yx.otttv.pw/iptv/HEGN4VXXQQSYCA/2160/index.m3u8
 #EXTINF:-1,Premier Sports 2
 http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/2069/index.m3u8
-
-#EXTINF:-1,Champions League 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2f3bcff111c1c3f137647f9c750e2319:788d2a574dfa5d8f707a19c3af541edd
-https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/btkae0burh/out/v1/596cc8bb57d34d21beaaadcb4c38668d/cenc.mpd
-#EXTINF:-1,Champions League 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=49275c8047b5a99da9742d09ea94a48c:30d11f429200e5309d76069e252088f0
-https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/w5twml3eh4/out/v1/37d71a58fd5f4b118137310e2b445a40/cenc.mpd
-#EXTINF:-1,Champions League 3
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a24eb56d414b6fe93b30411b1d5627a6:74ab241fb45dc5ee42bb4770a15546e4
-https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/qbxc8dsej7/out/v1/0329f36501f248feb10fd65175bf6182/cenc.mpd?
-#EXTINF:-1,Champions League 4
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=120d0d02a54bdbffbad81c0a795bc611:f78519ea1ef8214b009e1c09f5f46451
-https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/wddmw57rrf/out/v1/92a3abc86def40adbc5cb2318d1934a6/cenc.mpd
-
-#EXTINF:-1,NBC 
-http://143.244.60.30/NBC/index.m3u8
-#EXTINF:-1,CBS Sports
-http://143.244.60.30/CBS_SPORTS_NETWORK/index.m3u8
-#EXTINF:-1,USA Network
-http://143.244.60.30/USA_NETWORK/index.m3u8
 #EXTINF:-1,Sky Sports 1 NZ
 https://7pal.short.gy/skyspt1nz
 #EXTINF:-1,Sky Sports 2 NZ
@@ -64,8 +22,6 @@ https://7pal.short.gy/skyspt6nz
 https://7pal.short.gy/skyspt7nz
 #EXTINF:-1,Sky Sports 8 NZ
 https://7pal.short.gy/skyspt8nz
-#EXTINF:-1,Fox Cricket
-https://foxenglish.pages.dev/playlist.m3u8
 #EXTINF:-1,Premier Sports 1
 https://7pal.short.gy/TNTUltimate
 #EXTINF:-1,Premier Sports 2
@@ -228,21 +184,6 @@ https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561705/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a4b2fe10c9d62d32220e8ea2dceda6f9:e6e1173c892f7fbd60a37a76a78935cb
 https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/cmtyd9kpfe/out/v1/813bba04214e4f4dab57f0129365635a/cenc.mpd
-
-#EXTINF:-1,Bein Sports Xtra
-https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
-#EXTINF:-1,Tennis Channel
-https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
-
-#EXTINF:-1,Fan Code
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2
-https://a166aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
-
-#EXTINF:-1,Sky Sports Premier League GR
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ca4316630f56d6f33e9ff73b7ad211d1:72c54e5646055f444e99bc1123919e89
-https://abe4mdzaaaaaaaampzanwc57oxzti.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/9o6jmlyjpm/out/v1/ad80a9bfecc6438f82f2af41c58d7fb8/cenc.mpd
 
 
 
