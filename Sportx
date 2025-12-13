@@ -1,5 +1,7 @@
 #EXTM3U
 
+
+
 #EXTINF:-1,Sky Sports Football
 http://178.33.239.54:8080/500/index.m3u8
 #EXTINF:-1,Sky Sports Cricket
@@ -8,7 +10,7 @@ http://178.33.239.54:8080/503/index.m3u8
 http://178.33.239.54:8080/504/index.m3u8
 #EXTINF:-1,Sky Sports Premier League
 http://178.33.239.54:8080/506/index.m3u8
-#EXTINF:-1,Sky Sports Action
+#EXTINF:-1,Sky Sports Mix
 http://178.33.239.54:8080/507/index.m3u8
 #EXTINF:-1,Sky Sports F1
 http://178.33.239.54:8080/508/index.m3u8
