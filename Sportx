@@ -1,7 +1,5 @@
 #EXTM3U
 
-
-
 #EXTINF:-1,Sky Sports Football
 http://178.33.239.54:8080/500/index.m3u8
 #EXTINF:-1,Sky Sports Cricket
