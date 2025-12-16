@@ -83,3 +83,23 @@ https://MH-BKS400-06.starhubgo.com:443/bpk-token/2ac@itfv5ap4wu4dm214tg0h5lk5bw0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=75d04c230de440ec8efb0a45335522ab:c36eefb1f70a14919253cf68c9b442e4
 https://bks03.starhubgo.com:443/bpk-token/2aa@2efdjrkzumef0oe4y3cpqkgscvhjziku2ejlghba/bpk-tv/HubPremier11/output/manifest.mpd?bkm-query
+#EXTINF:-1 tvg-id="BeinSports1HD" tvg-logo="https://www.sportspro.com/wp-content/uploads/2023/03/bein-edit-2.png" group-title="HUB BEINSPORTS",BEIN SPORTS 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4c4b013320654277a19df8f14b80b6c5:4751e8a9d798c2a1e1c581f179771f48
+https://mh-bks400-03.starhubgo.com:443/bpk-token/2ac@wt1swxriol04gnkehsr04xfnp122wu3nwtsqzgba/bpk-tv/BeINSportsHD/output/manifest.mpd?bkm-query
+#EXTINF:-1 tvg-id="BeinSports2HD" tvg-logo="https://www.sportspro.com/wp-content/uploads/2023/03/bein-edit-2.png" group-title="HUB BEINSPORTS",BEIN SPORTS 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9e9a4d58a8bb48019ec1589df652dd2b:8b1ba8fdf2c1a141322cd18564973bd4
+https://MH-BKS400-08.starhubgo.com:443/bpk-token/2ac@jaepwrqlq2zgcflyjscezi4mdbcaztnejc3sveba/bpk-tv/beINSportsHD2/output/manifest.mpd?bkm-query
+#EXTINF:-1 tvg-id="BeinSports3HD" tvg-logo="https://www.sportspro.com/wp-content/uploads/2023/03/bein-edit-2.png" group-title="HUB BEINSPORTS",BEIN SPORTS 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f8b328f4b7bd4ac5966f8a7d434536b7:9354e572eaedf7b9481cbe30776ae781
+https://MH-BKS400-06.starhubgo.com:443/bpk-token/2ac@jiho1lmh3ynpravizupejo2wxyc0r14cjmdeaeaa/bpk-tv/beINSports3NEW/output/manifest.mpd?bkm-query
+#EXTINF:-1 tvg-id="BeinSports4HD" tvg-logo="https://www.sportspro.com/wp-content/uploads/2023/03/bein-edit-2.png" group-title="HUB BEINSPORTS",BEIN SPORTS 4
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b6addeb1135a4279b917e35c26d5b0f5:7f5599f34b2a49e23f98045a5a0f512a
+https://MH-BKS400-04.starhubgo.com:443/bpk-token/2ac@23k0tyv1ljpcxrxotawocvuhr1pxs4eo232dtiba/bpk-tv/beINSports4/output/manifest.mpd?bkm-query
+#EXTINF:-1 tvg-id="BeinSports5HD" tvg-logo="https://www.sportspro.com/wp-content/uploads/2023/03/bein-edit-2.png" group-title="HUB BEINSPORTS",BEIN SPORTS 5
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7f8252e59f9b439cb89cb8628ced2443:4faba8fd3d200f9825dc29ca98d97e33
+https://bks06.starhubgo.com:443/bpk-token/2aa@dnlk55n5nj35xwzj1wvqdwu45ti1s05pd3pcqjca/bpk-tv/beINSports5/output/manifest.mpd?bkm-query
