@@ -18,12 +18,6 @@ http://178.33.239.54:8080/509/index.m3u8
 http://178.33.239.54:8080/510/index.m3u8
 #EXTINF:-1,TNT Sports 3
 http://178.33.239.54:8080/511/index.m3u8
-#EXTINF:-1,Bein Sports 1
-https://m.xigzo.store/live/api/683620.m3u8
-#EXTINF:-1,Bein Sports 2
-https://m.xigzo.store/live/api/683623.m3u8
-#EXTINF:-1,Bein Sports 3
-https://m.xigzo.store/live/api/683626.m3u8
 #EXTINF:-1,T20 Cricket
 http://cors.tundracast.com:2000/https://tgn.bozztv.com/eshgtv-dvrfl05/gin-ariana/index.m3u8
 #EXTINF:-1,Sky Sports Premier League
@@ -60,8 +54,6 @@ https://thksmom.shop/AE_1018/tracks-v1a1/mono.m3u8
 https://iptvcable.netlify.app/Altogether-007/Tsports.m3u8
 #EXTINF:-1,Sandbrix Sports
 https://ams.sandbrix.live/LiveApp/streams/NKAv2V2BTnEuVJdS170390248731.m3u8
-#EXTINF:-1,Soccer Channel
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000144/1024.m3u8
 #EXTINF:-1,SpoTv Sports 1
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000160/1024.m3u8
 #EXTINF:-1,SpoTv Sports 2
