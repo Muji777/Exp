@@ -1,0 +1,54 @@
+#EXTM3U
+
+#EXTINF:-1  tvg-name="Sky Sports Action FHD" tvg-id="SkySp.ActionHD.uk" tvg-logo="https://i.ibb.co/VqtQrDq/sky-action.png" group-title="Sky Sports" radio="false",Sky Sports Action
+https://zamlb.tgaadi.workers.dev/1775.ts
+#EXTINF:-1  tvg-name="Sky Sports Cricket FHD" tvg-id="SkySpCricket.HD.uk" tvg-logo="https://i.ibb.co/JyPnwvB/sky-cricket.png" group-title="Sky Sports" radio="false",Sky Sports Cricket
+https://zamlb.tgaadi.workers.dev/1779.ts
+#EXTINF:-1  tvg-name="Sky Sports F1 FHD" tvg-id="SkySp.F1.HD.uk" tvg-logo="https://i.ibb.co/h26bK2Q/sky-f1.png" group-title="Sky Sports" radio="false",Sky Sports F1
+https://zamlb.tgaadi.workers.dev/1783.ts
+#EXTINF:-1  tvg-name="Sky Sports Football FHD" tvg-id="SkySp.Fball.HD.uk" tvg-logo="https://i.ibb.co/WcCrBqx/sky-football.png" group-title="Sky Sports" radio="false",Sky Sports Football
+https://zamlb.tgaadi.workers.dev/103979.ts
+#EXTINF:-1  tvg-name="Sky Sports Golf FHD" tvg-id="SkySp.Golf.HD.uk" tvg-logo="https://i.ibb.co/QvhY4tX/sky-golf.png" group-title="Sky Sports" radio="false",Sky Sports Golf
+https://zamlb.tgaadi.workers.dev/1785.ts
+#EXTINF:-1  tvg-name="Sky Sports Main Event FHD" tvg-id="SkySpMainEvHD.uk" tvg-logo="https://i.ibb.co/CwMZcpP/sky-main-event.png" group-title="Sky Sports" radio="false",Sky Sports Main Event
+https://zamlb.tgaadi.workers.dev/1771.ts
+#EXTINF:-1  tvg-name="Sky Sports Mix FHD" tvg-id="SkySp.Mix.HD.uk" tvg-logo="https://i.ibb.co/7kYj5gc/sky-mix.png" group-title="Sky Sports" radio="false",Sky Sports Mix
+https://zamlb.tgaadi.workers.dev/1789.ts
+#EXTINF:-1  tvg-name="Sky Sports F1 FHD" tvg-id="SkySp.News.HD.uk" tvg-logo="https://i.ibb.co/7WMDvDP/sky-news.png" group-title="Sky Sports" radio="false",Sky Sports News
+https://zamlb.tgaadi.workers.dev/1787.ts
+#EXTINF:-1  tvg-name="Sky Sports Premier League FHD" tvg-id="SkySp.PL.HD.uk" tvg-logo="https://i.ibb.co/rcSRMh9/sky-sports-pl.png" group-title="Sky Sports" radio="false",Sky Sports Premier League
+https://zamlb.tgaadi.workers.dev/1773.ts
+#EXTINF:-1  tvg-name="Sky Sports Racing FHD" tvg-id="SkySp.Racing.HD.uk" tvg-logo="https://i.ibb.co/Hnp1hBz/sky-racing.png" group-title="Sky Sports" radio="false",Sky Sports Racing
+https://zamlb.tgaadi.workers.dev/3102.ts
+#EXTINF:-1  tvg-name="Sky Sports Tennis FHD" tvg-id="SkySp.Tennis.HD.uk" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/ZNUDU1r.png" group-title="Sky Sports" radio="false",Sky Sports Tennis
+https://zamlb.tgaadi.workers.dev/120929.ts
+#EXTINF:-1  tvg-name="Sky Sports+ FHD" tvg-id="SkySp+HD.uk" tvg-logo="https://i.ibb.co/ccNV9ppd/Sky-Sportsplus.png" group-title="Sky Sports" radio="false",Sky Sports+
+https://zamlb.tgaadi.workers.dev/1777.ts
+#EXTINF:-1 tvg-id="" group-title="Cricket" tvg-logo="http://image.5gtv.online/logo/sports/willow.png", Willow Cricket 
+https://zamlb.tgaadi.workers.dev/96988.ts
+#EXTINF:-1 tvg-id="" group-title="Cricket" tvg-logo="http://image.5gtv.online/logo/sports/willowxtra.png", Willow 2
+https://zamlb.tgaadi.workers.dev/15578.ts
+#EXTINF:-1,Hub Sports 1
+https://zamlb.tgaadi.workers.dev/107194.ts 
+#EXTINF:-1,Hub Sports 2
+https://zamlb.tgaadi.workers.dev/107195.ts
+#EXTINF:-1,Hub Sports 3
+https://zamlb.tgaadi.workers.dev/107196.ts
+#EXTINF:-1 tvg-id="" group-title="Cricket" tvg-logo="https://onlinetvplayer.com/images/logos/nzlrexxz.png", Hub Sports 4
+https://zamlb.tgaadi.workers.dev/107197.ts
+#EXTINF:-1 tvg-id="" group-title="Cricket" tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/PTV-Sports.png",PTV Sports
+https://zamlb.tgaadi.workers.dev/82612.ts
+#EXTINF:-1 tvg-id="FoxCricket.au" tvg-name="Fox Sports 501 FHD" tvg-logo="http://image.5gtv.online/logo/sports/fox/fox_501.png" group-title="Fox Sports",Fox Sports 501
+https://zamlb.tgaadi.workers.dev/98539.ts
+#EXTINF:-1 tvg-id="FoxLeague.au" tvg-name="Fox Sports 502 FHD" tvg-logo="http://image.5gtv.online/logo/sports/fox/fox_502.png" group-title="Fox Sports",Fox Sports 502
+https://zamlb.tgaadi.workers.dev/16222.ts
+#EXTINF:-1 tvg-id="FoxSports503.au" tvg-name="Fox Sports 503 FHD" tvg-logo="http://image.5gtv.online/logo/sports/fox/fox_503.png" group-title="Fox Sports",Fox Sports 503
+https://zamlb.tgaadi.workers.dev/16223.ts
+#EXTINF:-1 tvg-id="FoxFooty.au" tvg-name="Fox Sports 504 FHD" tvg-logo="http://image.5gtv.online/logo/sports/fox/fox_504.png" group-title="Fox Sports",Fox Sports 504
+https://zamlb.tgaadi.workers.dev/16224.ts
+#EXTINF:-1 tvg-id="FoxSports505.au" tvg-name="Fox Sports 505 FHD" tvg-logo="http://image.5gtv.online/logo/sports/fox/fox_505.png" group-title="Fox Sports",Fox Sports 505
+https://zamlb.tgaadi.workers.dev/16225.ts
+#EXTINF:-1 tvg-id="FoxSports506.au" tvg-name="Fox Sports 506 FHD" tvg-logo="http://image.5gtv.online/logo/sports/fox/fox_506.png" group-title="Fox Sports",Fox Sports 506
+https://zamlb.tgaadi.workers.dev/98537.ts
+#EXTINF:-1 tvg-id="FoxSportsMore.au" tvg-name="Fox Sports 507 FHD" tvg-logo="http://image.5gtv.online/logo/sports/fox/fox_507.png" group-title="Fox Sports",Fox Sports 507
+https://zamlb.tgaadi.workers.dev/98538.ts
