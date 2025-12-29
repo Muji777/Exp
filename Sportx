@@ -60,10 +60,6 @@ https://thksmom.shop/AE_1018/tracks-v1a1/mono.m3u8
 https://iptvcable.netlify.app/Altogether-007/Tsports.m3u8
 #EXTINF:-1,Sandbrix Sports
 https://ams.sandbrix.live/LiveApp/streams/NKAv2V2BTnEuVJdS170390248731.m3u8
-#EXTINF:-1,SpoTv Sports 1
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000160/1024.m3u8
-#EXTINF:-1,SpoTv Sports 2
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000138/1024.m3u8
 #EXTINF:-1,Cricket Gold
 https://d1nj4u39ja4cn0.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/FLS-MuxIP-CricketGold/418.m3u8
 #EXTINF:-1,Bein Sports Extra
@@ -72,10 +68,12 @@ https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
 https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
 #EXTINF:-1,DAZN Ringside
 https://aegis-cloudfront-1.tubi.video/bfad29e2-5bee-44f3-8256-127324e8b106/playlist.m3u8
-#EXTINF:-1,AXN
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000119/1024.m3u8
-#EXTINF:-1,Studio Universal
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000121/1024.m3u8
+#EXTINF:-1,HBO 1
+http://185.18.56.26:8888/hbo1/index.m3u8
+#EXTINF:-1,HBO 2
+http://185.18.56.26:8888/hbo2/index.m3u8
+#EXTINF:-1,HBO 3
+http://185.18.56.26:8888/hbo3/index.m3u8
 #EXTINF:-1,HBO 2
 https://streamer1.nexgen.bz/HBO2/index.m3u8
 #EXTINF:-1,Studio Universal
