@@ -1,19 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1,NBC
-https://streamer1.nexgen.bz/NBC/index.m3u8
-#EXTINF:-1,USA Network
-https://streamer1.nexgen.bz/USA/index.m3u8
-#EXTINF:-1,Astro Sports 1
-http://live.catvod.com/live.php?id=Assp1
-#EXTINF:-1,Astro Sports 2
-http://live.catvod.com/live.php?id=Assp2
-#EXTINF:-1,Astro Sports 3
-http://live.catvod.com/live.php?id=go_assp3
-#EXTINF:-1,Astro Sports Cricket
-http://live.catvod.com/live.php?id=Acricket
-#EXTINF:-1,Astro Sports Plus
-http://live.catvod.com/live.php?id=go_sportsplus
 #EXTINF:-1,Sky Sports Cricket                                                                          
 https://thksmom.shop/AE_1018/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Sky Sports Football
@@ -70,12 +56,8 @@ http://6zirt9yx.otttv.pw/iptv/HEGN4VXXQQSYCA/2160/index.m3u8
 http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/2069/index.m3u8
 #EXTINF:-1,Willow Cricket
 http://6zirt9yx.otttv.pw/iptv/HEGN4VXXQQSYCA/31131/index.m3u8
-#EXTINF:-1,Sky Sports Cricket                                                                          
-https://thksmom.shop/AE_1018/tracks-v1a1/mono.m3u8
-#EXTINF:-1,T Sports
+                                                                                                
 https://iptvcable.netlify.app/Altogether-007/Tsports.m3u8
-#EXTINF:-1,Sandbrix Sports
-https://ams.sandbrix.live/LiveApp/streams/NKAv2V2BTnEuVJdS170390248731.m3u8
 #EXTINF:-1,Cricket Gold
 https://d1nj4u39ja4cn0.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/FLS-MuxIP-CricketGold/418.m3u8
 #EXTINF:-1,Bein Sports Extra
