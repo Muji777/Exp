@@ -56,7 +56,7 @@ http://6zirt9yx.otttv.pw/iptv/HEGN4VXXQQSYCA/2160/index.m3u8
 http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/2069/index.m3u8
 #EXTINF:-1,Willow Cricket
 http://6zirt9yx.otttv.pw/iptv/HEGN4VXXQQSYCA/31131/index.m3u8
-                                                                                                
+#EXTINF:-1,T Sports                                                                                        
 https://iptvcable.netlify.app/Altogether-007/Tsports.m3u8
 #EXTINF:-1,Cricket Gold
 https://d1nj4u39ja4cn0.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/FLS-MuxIP-CricketGold/418.m3u8
@@ -72,10 +72,6 @@ http://185.18.56.26:8888/hbo1/index.m3u8
 http://185.18.56.26:8888/hbo2/index.m3u8
 #EXTINF:-1,HBO 3
 http://185.18.56.26:8888/hbo3/index.m3u8
-#EXTINF:-1,HBO 2
-https://streamer1.nexgen.bz/HBO2/index.m3u8
-#EXTINF:-1,Studio Universal
-https://streamer1.nexgen.bz/STUDIO_UNIVERSAL/index.m3u8
 #EXTINF:-1,HBO 1
 http://143.244.60.30/HBO/index.m3u8
 #EXTINF:-1,HBO 2
@@ -92,14 +88,6 @@ http://143.244.60.30/SHOWTIME_2/index.m3u8
 https://cdn4.skygo.mn/live/disk1/Warner/HLSv3-FTA/Warner.m3u8
 ‎‎#EXTINF:-1,Geo Entertainment
 https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
-#EXTINF:-1,Sony Max
-https://streamer2.nexgen.bz/SONYMAX/index.m3u8
-#EXTINF:-1,Sony Tv
-https://streamer2.nexgen.bz/SONY/index.m3u8
-#EXTINF:-1,Zee Tv
-https://streamer2.nexgen.bz/ZEE/index.m3u8
-#EXTINF:-1,Zee Cinema
-https://streamer2.nexgen.bz/ZEECINEMA/index.m3u8
 #EXTINF:-1,MBC Bollywood
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8
 #EXTINF:-1,Shemaroo Bollywood
@@ -110,10 +98,6 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
 #EXTINF:-1,B4U Movies
 https://cdnb4u.wiseplayout.com/B4U_Movies/master.m3u8
-#EXTINF:-1,HGTV
-https://streamer1.nexgen.bz/HGTV/index.m3u8
-#EXTINF:-1,BBC Earth
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000116/1024.m3u8
 #EXTINF:-1,BBC Earth
 https://d3u3pfhhvuad9k.cloudfront.net/playlist/amg00793-bbcstudios-bbcearta-lgus/playlist.m3u8
 #EXTINF:-1,BBC Lifestyle
