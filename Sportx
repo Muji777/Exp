@@ -1,7 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1,Sky Sports Cricket                                                                          
-https://thksmom.shop/AE_1018/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Sky Sport Premier League
 http://c737ba5d.edemist.com/iptv/CF9WU32X7AZ3KM/5042/index.m3u8
 #EXTINF:-1,Sky Sport Premier League
@@ -10,6 +8,8 @@ http://c737ba5d.edemist.com/iptv/CF9WU32X7AZ3KM/7335/index.m3u8
 http://c737ba5d.edemist.com/iptv/CF9WU32X7AZ3KM/9258/index.m3u8
 #EXTINF:-1,Sky Sport Cricket
 http://c737ba5d.edemist.com/iptv/CF9WU32X7AZ3KM/7343/index.m3u8
+#EXTINF:-1,Sky Sports Cricket                                                                          
+https://thksmom.shop/AE_1018/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Sky Sport Main Event
 http://c737ba5d.edemist.com/iptv/CF9WU32X7AZ3KM/9308/index.m3u8
 #EXTINF:-1,Sky Sport Main Event
@@ -28,6 +28,10 @@ http://c737ba5d.edemist.com/iptv/CF9WU32X7AZ3KM/19054/index.m3u8
 http://6zirt9yx.otttv.pw/iptv/HEGN4VXXQQSYCA/2160/index.m3u8
 #EXTINF:-1,Premier Sports 2
 http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/2069/index.m3u8
+#EXTINF:-1,Fox Cricket
+http://c737ba5d.edemist.com/iptv/CF9WU32X7AZ3KM/19146/index.m3u8
+#EXTINF:-1,Willow Cricket
+http://badacbe6.tvclub.xyz/iptv/98F739YL28D899/31131/index.m3u8
 #EXTINF:-1,Willow Cricket
 http://6zirt9yx.otttv.pw/iptv/HEGN4VXXQQSYCA/31131/index.m3u8
 #EXTINF:-1,T Sports                                                                                        
