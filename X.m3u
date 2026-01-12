@@ -1,0 +1,707 @@
+#EXTM3U url-tvg="https://epg.iill.top/epg.xml.gz"
+#EXTINF:-1,#EXTINF:-1 tvg-name="MTV" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Al-Qur'an Al-Kareem TV.png" group-title="印尼🇮🇩",Al-Qur'an Al-Kareem TV
+http://96.44.160.246:9999/smt.php?id=AlQuran&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="8tv" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/8TV.png" group-title="马来西亚🇲🇾",8TV
+http://96.44.160.246:9999/smt.php?id=TV8&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="abcnewslive" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/ABCNEWS.png" group-title="新闻📰",ABC News Live
+http://96.44.160.246:9999/smt.php?id=abcnews_glo&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="antv" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/ANTV.png" group-title="印尼🇮🇩",ANTV
+http://96.44.160.246:9999/smt.php?id=Antv&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="arirang" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/ARIRANG.png" group-title="台湾🇹🇼",ARIRANG
+http://96.44.160.246:9999/smt.php?id=arirang_twn&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="astroarena2" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/ASTRO Arena 2.png" group-title="体育🇲🇾",ASTRO Arena 2
+http://96.44.160.246:9999/smt.php?id=Arena2&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="astroarenabola" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/ASTRO Arena bola.png" group-title="体育🇲🇾",ASTRO Arena bola
+http://96.44.160.246:9999/smt.php?id=Bolaarena1&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="astroarenabola2" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/ASTRO Arena bola 2.png" group-title="体育🇲🇾",ASTRO Arena bola 2
+http://96.44.160.246:9999/smt.php?id=Bolaarena2&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="astrobadminton" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/ASTRO Badminton.png" group-title="体育🇲🇾",ASTRO Badminton
+http://96.44.160.246:9999/smt.php?id=go_badminton1&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="astrobadminton2" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/ASTRO Badminton 2.png" group-title="体育🇲🇾",ASTRO Badminton 2
+http://96.44.160.246:9999/smt.php?id=go_badminton2&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="astrocricket" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/ASTRO Cricket.png" group-title="体育🇲🇾",ASTRO Cricket
+http://96.44.160.246:9999/smt.php?id=Acricket&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="astrocricket" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/ASTRO Cricket(Backup).png" group-title="体育🇲🇾",ASTRO Cricket(Backup)
+http://96.44.160.246:9999/smt.php?id=tiankongcricket&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="astrofootball" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/ASTRO Football.png" group-title="体育🇲🇾",ASTRO Football
+http://96.44.160.246:9999/smt.php?id=go_assp4&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="astrogolf" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/ASTRO Golf.png" group-title="体育🇲🇾",ASTRO Golf
+http://96.44.160.246:9999/smt.php?id=Agolf&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="astrograndstand" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/ASTRO Grandstand.png" group-title="体育🇲🇾",ASTRO Grandstand
+http://96.44.160.246:9999/smt.php?id=go_assp3&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="astropremierleague" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/ASTRO Premier League.png" group-title="体育🇲🇾",ASTRO Premier League
+http://96.44.160.246:9999/smt.php?id=go_assp1&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="astropremierleague2" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/ASTRO Premier League 2.png" group-title="体育🇲🇾",ASTRO Premier League 2
+http://96.44.160.246:9999/smt.php?id=go_assp2&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="astropremierleague" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/ASTRO Premier League(Backup).png" group-title="体育🇲🇾",ASTRO Premier League(Backup)
+http://96.44.160.246:9999/smt.php?id=go_assp1x&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="astrosportsplus" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/ASTRO Sports Plus.png" group-title="体育🇲🇾",ASTRO Sports Plus
+http://96.44.160.246:9999/smt.php?id=go_sportsplus&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="hanacarakatv" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/ATV.png" group-title="印尼🇮🇩",ATV
+http://96.44.160.246:9999/smt.php?id=Lifestyle&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="axn" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/AXN.png" group-title="台湾🇹🇼",AXN
+http://96.44.160.246:9999/smt.php?id=axn_twn&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="axn" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/AXN.png" group-title="电影🎬",AXN
+http://96.44.160.246:9999/smt.php?id=Axn&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="adithyatv" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Adithya TV.png" group-title="印度🇮🇳",Adithya TV
+http://96.44.160.246:9999/smt.php?id=Adithya&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="aljazeera" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/ALJAZEERA.png" group-title="新闻📰",Al Jazeera
+http://96.44.160.246:9999/smt.php?id=aljazeera_twn&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-id="All the K-pop" tvg-name="all the k-pop" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/smt-logo/refs/heads/main/All the K-pop.png" group-title="韩国🇰🇷",All the K-pop
+http://96.44.160.246:9999/smt.php?id=allthekpop_korea&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="ntv" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Amarin TV HD (Channel 34) Thailand.png" group-title="泰国🇹🇭",Amarin TV HD (Channel 34) Thailand
+http://96.44.160.246:9999/smt.php?id=amarin_pat&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="animalplanet(hd)" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/666-/main/ANIMALPLANET.png" group-title="纪录📚",Animal Planet
+http://96.44.160.246:9999/smt.php?id=animalplanet_twn&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="animalplanet(hd)" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/666-/main/ANIMALPLANET.png" group-title="纪录📚",Animal Planet
+http://96.44.160.246:9999/smt.php?id=AnimalPlanet&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="animax" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/CCTV4K-LOGO/main/ANIMAX.png" group-title="电影🎬",Animax
+http://96.44.160.246:9999/smt.php?id=Animax&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="aniplushd" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Aniplus.png" group-title="儿童👶",Aniplus
+http://96.44.160.246:9999/smt.php?id=KidsTV&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-id="Apps TV" tvg-name="apps tv" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/smt-logo/refs/heads/main/Apps TV.png" group-title="韩国🇰🇷",Apps TV
+http://96.44.160.246:9999/smt.php?id=appongoogle_korea&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-id="ARIRANGTV" tvg-name="arirangtv" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/smt-logo/refs/heads/main/Arirang TV.png" group-title="韩国🇰🇷",Arirang TV
+http://96.44.160.246:9999/smt.php?id=arirang_twn&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="asianfoodnetworkhd" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/ASIANFOODNETWORK亚洲美食.png" group-title="纪录📚",Asian Food Network HD
+http://96.44.160.246:9999/smt.php?id=Foodnetwork&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="astrocitra" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Astro Citra.png" group-title="马来西亚🇲🇾",Astro Citra
+http://96.44.160.246:9999/smt.php?id=AAcitra&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="astrocitra" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Astro Citra.png" group-title="马来西亚🇲🇾",Astro Citra
+http://96.44.160.246:9999/smt.php?id=AAcitra1&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="astroprima" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Astro Prima.png" group-title="马来西亚🇲🇾",Astro Prima
+http://96.44.160.246:9999/smt.php?id=Prima-0&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="astroprima" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Astro Prima.png" group-title="马来西亚🇲🇾",Astro Prima
+http://96.44.160.246:9999/smt.php?id=AAprima1&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="astroprima" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Astro Prima.png" group-title="马来西亚🇲🇾",Astro Prima
+http://96.44.160.246:9999/smt.php?id=AAprima&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="astroria" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Astro Ria.png" group-title="马来西亚🇲🇾",Astro Ria
+http://96.44.160.246:9999/smt.php?id=Ria-0&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="astroria" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Astro Ria.png" group-title="马来西亚🇲🇾",Astro Ria
+http://96.44.160.246:9999/smt.php?id=Ria_backup&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="bbcearth" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/BBCEARTH.png" group-title="纪录📚",BBC Earth 1
+http://96.44.160.246:9999/smt.php?id=bbcearth_twn&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="bbclifestyle" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/666-/refs/heads/main/BBCLIFESTYLE.png" group-title="纪录📚",BBC Lifestyle
+http://96.44.160.246:9999/smt.php?id=bbclifestyle_twn&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-id="BBC One S East HD" tvg-name="one" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/BBC-One.png" group-title="英国🇬🇧",BBC One
+http://96.44.160.246:9999/smt.php?id=bbc1_antik&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-id="BBC Two HD" tvg-name="bbctwowalhd" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/BBC-Two.png" group-title="英国🇬🇧",BBC Two
+http://96.44.160.246:9999/smt.php?id=bbc2_antik&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="bbcworldnews" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/BBCWORLDNEWS.png" group-title="英国🇬🇧",BBC World News
+http://96.44.160.246:9999/smt.php?id=bbcworldnews_antik&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="bbcworldnews" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/BBCWORLDNEWS.png" group-title="新闻📰",BBC World News 1
+http://96.44.160.246:9999/smt.php?id=bbcnews_twn&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="bbcworldnews" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/BBCWORLDNEWS.png" group-title="新闻📰",BBC World News 2
+http://96.44.160.246:9999/smt.php?id=Bbcnews&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="btv" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/BBTV Channel 7 HD Thailand.png" group-title="泰国🇹🇭",BBTV Channel 7 HD Thailand
+http://96.44.160.246:9999/smt.php?id=ch7_pat&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-id="BS Fuji" tvg-name="bs fuji" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/smt-logo/refs/heads/main/BS Fuji.png" group-title="日本🇯🇵",BS Fuji
+http://96.44.160.246:9999/smt.php?id=bsfuji_japan&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-id="BS Japan" tvg-name="bs japan" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/smt-logo/refs/heads/main/BS Japan.png" group-title="日本🇯🇵",BS Japan
+http://96.44.160.246:9999/smt.php?id=bs181_japan&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-id="BS-TBS" tvg-name="bs-tbs" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/smt-logo/refs/heads/main/BS-TBS.png" group-title="日本🇯🇵",BS-TBS
+http://96.44.160.246:9999/smt.php?id=bstbs_japan&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="beritasatu" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/BeritaSatu.png" group-title="印尼🇮🇩",BeritaSatu
+http://96.44.160.246:9999/smt.php?id=BeritaSatu_eko&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="bloomberg" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/666-/main/BLOOMBERG.png" group-title="新闻📰",Bloomberg
+http://96.44.160.246:9999/smt.php?id=bloomberg_twn&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="arena" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Bola Arena.png" group-title="体育🇲🇾",Bola Arena
+http://96.44.160.246:9999/smt.php?id=Arena&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="cbbchd" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/CBBCHD.png" group-title="英国🇬🇧",CBBC
+http://96.44.160.246:9999/smt.php?id=cbbc_antik&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-id="CBS" tvg-name="cbs" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/smt-logo/refs/heads/main/CBS.png" group-title="韩国🇰🇷",CBS
+http://96.44.160.246:9999/smt.php?id=cbs_korea&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="cbssportsnetworkhd" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CBSSPORTSNETWORK.png" group-title="新闻📰",CBS Sports Network HD
+http://96.44.160.246:9999/smt.php?id=cbshd_glo&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/666-/main/CBSN.png" group-title="新闻📰",CBSN
+http://96.44.160.246:9999/smt.php?id=cbsn_glo&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="cctv1" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png" group-title="央视🇨🇳",CCTV1
+http://96.44.160.246:9999/smt.php?id=cctv1&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="cctv10" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV10.png" group-title="央视🇨🇳",CCTV10
+http://96.44.160.246:9999/smt.php?id=cctv10hd&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="cctv11" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV11.png" group-title="央视🇨🇳",CCTV11
+http://96.44.160.246:9999/smt.php?id=cctv11&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="cctv12" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV12.png" group-title="央视🇨🇳",CCTV12
+http://96.44.160.246:9999/smt.php?id=cctv12&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="cctv13" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV13.png" group-title="央视🇨🇳",CCTV13
+http://96.44.160.246:9999/smt.php?id=cctv13&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="cctv14" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV14.png" group-title="央视🇨🇳",CCTV14
+http://96.44.160.246:9999/smt.php?id=cctv14&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="cctv15" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV15.png" group-title="央视🇨🇳",CCTV15
+http://96.44.160.246:9999/smt.php?id=cctv15&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="cctv16" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV16.png" group-title="央视🇨🇳",CCTV16
+http://96.44.160.246:9999/smt.php?id=cctv16&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="cctv17" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV17.png" group-title="央视🇨🇳",CCTV17
+http://96.44.160.246:9999/smt.php?id=cctv17&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="cctv2" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV2.png" group-title="央视🇨🇳",CCTV2
+http://96.44.160.246:9999/smt.php?id=cctv2&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="cctv3" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV3.png" group-title="央视🇨🇳",CCTV3
+http://96.44.160.246:9999/smt.php?id=cctv3&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="cctv4" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV4.png" group-title="央视🇨🇳",CCTV4
+http://96.44.160.246:9999/smt.php?id=Cctv4&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="cctv5" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV5.png" group-title="央视🇨🇳",CCTV5
+http://96.44.160.246:9999/smt.php?id=cctv5&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="cctv5+" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV5+.png" group-title="央视🇨🇳",CCTV5+
+http://96.44.160.246:9999/smt.php?id=cctv5plus&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="cctv6" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV6.png" group-title="央视🇨🇳",CCTV6
+http://96.44.160.246:9999/smt.php?id=cctv6&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="cctv7" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV7.png" group-title="央视🇨🇳",CCTV7
+http://96.44.160.246:9999/smt.php?id=cctv7&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="cctv8" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV8.png" group-title="央视🇨🇳",CCTV8
+http://96.44.160.246:9999/smt.php?id=cctv8hd&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="cctv9" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV9.png" group-title="央视🇨🇳",CCTV9
+http://96.44.160.246:9999/smt.php?id=cctv9hd&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-id="CGNTV" tvg-name="cgntv" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/smt-logo/refs/heads/main/CGNTV.png" group-title="韩国🇰🇷",CGNTV
+http://96.44.160.246:9999/smt.php?id=cgntv_korea&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="cgtn" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CGTN.png" group-title="卫视🇨🇳",CGTN
+http://96.44.160.246:9999/smt.php?id=CGTN&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="crimeinvestigation" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/CRIMEINVESTIGATION.png" group-title="纪录📚",CI (Crime Investigation)
+http://96.44.160.246:9999/smt.php?id=ci_twn&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="cinemax" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CINEMAX.png" group-title="台湾🇹🇼",CINEMAX
+http://96.44.160.246:9999/smt.php?id=cinemax_twn&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="cna" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CNA.png" group-title="新闻📰",CNA
+http://96.44.160.246:9999/smt.php?id=cna&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="cna" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/CNA.png" group-title="新加坡🇸🇬",CNA
+http://96.44.160.246:9999/smt.php?id=cna_twn&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="cnbc" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/666-/main/CNBC.png" group-title="新闻📰",CNBC
+http://96.44.160.246:9999/smt.php?id=cnbc_twn&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="cnninternational" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CNN.png" group-title="新闻📰",CNN International 1
+http://96.44.160.246:9999/smt.php?id=Cnn&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="cnninternational" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CNN.png" group-title="新闻📰",CNN International 2
+http://96.44.160.246:9999/smt.php?id=cnn_twn&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="cn卡通频道" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/CN卡通频道.png" group-title="儿童👶",CN卡通频道
+http://96.44.160.246:9999/smt.php?id=momo1_twn&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="cartoonnetwork" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Cartoon Network.png" group-title="儿童👶",Cartoon Network
+http://96.44.160.246:9999/smt.php?id=Cn&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="channel 3 hd thailand" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Channel 3 HD Thailand.png" group-title="泰国🇹🇭",Channel 3 HD Thailand
+http://96.44.160.246:9999/smt.php?id=ch3_pat&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="channel4+1" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Channel 4 +1.png" group-title="英国🇬🇧",Channel 4 +1
+http://96.44.160.246:9999/smt.php?id=channel4_antik&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="channel5" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Channel 5.png" group-title="新加坡🇸🇬",Channel 5
+http://96.44.160.246:9999/smt.php?id=Channel5HD&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="channel8" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Channel 8.png" group-title="新加坡🇸🇬",Channel 8
+http://96.44.160.246:9999/smt.php?id=Channel8HD&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="channel8" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Channel 8 Thailand.png" group-title="泰国🇹🇭",Channel 8 Thailand
+http://96.44.160.246:9999/smt.php?id=ch8_pat&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-id="CHANNELNEWSASIA" tvg-name="channelnewsasia" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/smt-logo/refs/heads/main/Channel NewsAsia (Japan).png" group-title="日本🇯🇵",Channel NewsAsia (Japan)
+http://96.44.160.246:9999/smt.php?id=cna_japan&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="channelu" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Channel U.png" group-title="新加坡🇸🇬",Channel U
+http://96.44.160.246:9999/smt.php?id=ChannelU&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="cinemax" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CINEMAX.png" group-title="电影🎬",Cinemax
+http://96.44.160.246:9999/smt.php?id=Cinemax&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="citradrama(hd)" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Citra Drama.png" group-title="印尼🇮🇩",Citra Drama
+http://96.44.160.246:9999/smt.php?id=TawafTV&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="colorstamil" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Colors Tamil.png" group-title="印度🇮🇳",Colors Tamil
+http://96.44.160.246:9999/smt.php?id=Colorstam&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="one" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/DAAI TV Indonesia.png" group-title="印尼🇮🇩",DAAI TV Indonesia
+http://96.44.160.246:9999/smt.php?id=DaaiTV&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="dw" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/CCTV4K-LOGO/main/DW.png" group-title="新闻📰",DW
+http://96.44.160.246:9999/smt.php?id=dw_twn&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="discovery" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/666-/main/DISCOVERY.png" group-title="纪录📚",Discovery
+http://96.44.160.246:9999/smt.php?id=discoveryhd_twn&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="discoveryasia" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/DISCOVERYASIA.png" group-title="纪录📚",Discovery Asia
+http://96.44.160.246:9999/smt.php?id=discoverytwn_twn&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="dreamworks" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/DREAMWORKS.png" group-title="电影🎬",DreamWorks
+http://96.44.160.246:9999/smt.php?id=Dreamworks&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="duniaanak" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Dunia anak.png" group-title="儿童👶",Dunia anak
+http://96.44.160.246:9999/smt.php?id=Cbeebies&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-id="EBS Kids" tvg-name="ebs kids" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/smt-logo/refs/heads/main/EBS Kids.png" group-title="韩国🇰🇷",EBS Kids
+http://96.44.160.246:9999/smt.php?id=ebskids_korea&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-id="EBSPLUS2" tvg-name="ebsplus2" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/smt-logo/refs/heads/main/EBS Plus 2.png" group-title="韩国🇰🇷",EBS Plus 2
+http://96.44.160.246:9999/smt.php?id=ebsplus2_korea&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-id="EBS1" tvg-name="ebs1" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/smt-logo/refs/heads/main/EBS1.png" group-title="韩国🇰🇷",EBS1
+http://96.44.160.246:9999/smt.php?id=ebs1_korea&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-id="EBS2" tvg-name="ebs2" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/smt-logo/refs/heads/main/EBS2.png" group-title="韩国🇰🇷",EBS2
+http://96.44.160.246:9999/smt.php?id=ebs2_korea&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="ewtncatholic" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/EWTN Catholic TV.png" group-title="印尼🇮🇩",EWTN Catholic TV
+http://96.44.160.246:9999/smt.php?id=Ewtn&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/EYE戏剧.png" group-title="台湾🇹🇼",EYE戏剧台
+http://96.44.160.246:9999/smt.php?id=eyetvxiju_twn&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/EYE旅游.png" group-title="台湾🇹🇼",EYE旅游台
+http://96.44.160.246:9999/smt.php?id=eyetvtravel_twn&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="entertainment" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Entertainment TV.png" group-title="印尼🇮🇩",Entertainment TV
+http://96.44.160.246:9999/smt.php?id=Entertain&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="euronews" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/666-/main/EURONEWS.png" group-title="英国🇬🇧",Euronews
+http://96.44.160.246:9999/smt.php?id=euronews_antik&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="fashiontvhd" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/666-/main/FASHIONTV.png" group-title="纪录📚",Fashion TV
+http://96.44.160.246:9999/smt.php?id=fashiontv_twn&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="fightsports" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Fight Sports.png" group-title="体育🇲🇾",Fight Sports
+http://96.44.160.246:9999/smt.php?id=Fs&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="foxnews" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/FOXNEWS.png" group-title="新闻📰",Fox News
+http://96.44.160.246:9999/smt.php?id=foxnews_twn&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="france24" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/FRANCE24.png" group-title="新闻📰",France 24
+http://96.44.160.246:9999/smt.php?id=france24_twn&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="freesports" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/FreeSports.png" group-title="英国🇬🇧",FreeSports
+http://96.44.160.246:9999/smt.php?id=freesports_antik&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="gmm 25 thailand" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/GMM 25 Thailand.png" group-title="泰国🇹🇭",GMM 25 Thailand
+http://96.44.160.246:9999/smt.php?id=gmmchannel_pat&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="gtv" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/GTV.png" group-title="印尼🇮🇩",GTV
+http://96.44.160.246:9999/smt.php?id=Gtv&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="hbo" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/HBO.png" group-title="台湾🇹🇼",HBO
+http://96.44.160.246:9999/smt.php?id=hbohd_twn&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="hbo" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/HBO.png" group-title="电影🎬",HBO
+http://96.44.160.246:9999/smt.php?id=Hbo&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="hbofamily" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/HBOFAMILY.png" group-title="电影🎬",HBO Family
+http://96.44.160.246:9999/smt.php?id=Hbofamily&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="hbohits" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/HBOHITS.png" group-title="电影🎬",HBO Hits
+http://96.44.160.246:9999/smt.php?id=Hbohitshd&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="hbosignature" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/666-/main/HBOSIGNATURE.png" group-title="电影🎬",HBO Signature
+http://96.44.160.246:9999/smt.php?id=Hbosignature&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="hgtv" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/HGTV.png" group-title="纪录📚",HGTV
+http://96.44.160.246:9999/smt.php?id=HGTV&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="hits" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/HITS.png" group-title="台湾🇹🇼",HITS
+http://96.44.160.246:9999/smt.php?id=hbohit_twn&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="horee" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/HOREE.png" group-title="儿童👶",HOREE
+http://96.44.160.246:9999/smt.php?id=Babytv&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="hoy tv" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/CCTV4K-LOGO/main/HOYTV.png" group-title="香港🇭🇰",HOYTV
+http://96.44.160.246:9999/smt.php?id=hoycaijing_twn&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="history" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/HISTORY.png" group-title="纪录📚",History
+http://96.44.160.246:9999/smt.php?id=History&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="hits" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/HITS.png" group-title="电影🎬",Hits
+http://96.44.160.246:9999/smt.php?id=Hits&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="hitsmovieshd新加坡" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Hits Movie.png" group-title="电影🎬",Hits Movie
+http://96.44.160.246:9999/smt.php?id=Hitsmovie&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-id="ITV1 HD" tvg-name="tv1" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/ITV-1.png" group-title="英国🇬🇧",ITV 1
+http://96.44.160.246:9999/smt.php?id=itv1_antik&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-id="ITV1 HD" tvg-name="tv2" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/ITV-1.png" group-title="英国🇬🇧",ITV 2
+http://96.44.160.246:9999/smt.php?id=itv2_antik&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="indosiar" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Indosiar.png" group-title="印尼🇮🇩",Indosiar
+http://96.44.160.246:9999/smt.php?id=Indosiar&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-id="J the Kpop" tvg-name="j the kpop" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/smt-logo/refs/heads/main/J the Kpop.png" group-title="韩国🇰🇷",J the Kpop
+http://96.44.160.246:9999/smt.php?id=jthekpop_korea&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-id="JETTV" tvg-name="jettv" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/smt-logo/refs/heads/main/JET TV.png" group-title="日本🇯🇵",JET TV
+http://96.44.160.246:9999/smt.php?id=jettv_japan&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="jtv" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/JTV.png" group-title="印尼🇮🇩",JTV
+http://96.44.160.246:9999/smt.php?id=JTV_eko&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="jaktv" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Jak TV.png" group-title="印尼🇮🇩",Jak TV
+http://96.44.160.246:9999/smt.php?id=JakTV&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-id="KBSWORLD" tvg-name="kbsworld" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/smt-logo/refs/heads/main/KBS World 24.png" group-title="韩国🇰🇷",KBS World 24
+http://96.44.160.246:9999/smt.php?id=kbsworld24_korea&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="klt靖天国际台hd" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/靖天国际.png" group-title="台湾🇹🇼",KLT靖天国际台HD
+http://96.44.160.246:9999/smt.php?id=jingtianintl_twn&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="kplus" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/KPLUS.png" group-title="电影🎬",KPLUS
+http://96.44.160.246:9999/smt.php?id=Kplus&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="kompastv" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Kompas TV.png" group-title="印尼🇮🇩",Kompas TV
+http://96.44.160.246:9999/smt.php?id=Kompass&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="lovenarure" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/LoveNarure.png" group-title="纪录📚",LoveNarure
+http://96.44.160.246:9999/smt.php?id=Natgeowild&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="mcot hd (channel 30) thailand" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/MCOT HD (Channel 30) Thailand.png" group-title="泰国🇹🇭",MCOT HD (Channel 30) Thailand
+http://96.44.160.246:9999/smt.php?id=mcot_pat&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="mnctv" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/MNCTV.png" group-title="印尼🇮🇩",MNCTV
+http://96.44.160.246:9999/smt.php?id=Mnctv&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="moonbug" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/MOONBUG.png" group-title="儿童👶",MOONBUG
+http://96.44.160.246:9999/smt.php?id=MiaoMi&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="mtatv" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/MTATV.png" group-title="印尼🇮🇩",MTATV
+http://96.44.160.246:9999/smt.php?id=MuslimTV&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="mtvlive音乐频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/MTVLIVE.png" group-title="台湾🇹🇼",MTVLIVE
+http://96.44.160.246:9999/smt.php?id=mtvhd_twn&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="metrotv" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Metro TV.png" group-title="印尼🇮🇩",Metro TV
+http://96.44.160.246:9999/smt.php?id=metrotv_eko&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="cna" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Mewatch CNA.png" group-title="新加坡🇸🇬",Mewatch CNA
+http://96.44.160.246:9999/smt.php?id=Mewatch_cna&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="channel5" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Mewatch Channel 5.png" group-title="新加坡🇸🇬",Mewatch Channel 5
+http://96.44.160.246:9999/smt.php?id=Mewatch_ch5&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="channel8" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Mewatch Channel 8.png" group-title="新加坡🇸🇬",Mewatch Channel 8
+http://96.44.160.246:9999/smt.php?id=Mewatch_ch8&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="channelu" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Mewatch Channel U.png" group-title="新加坡🇸🇬",Mewatch Channel U
+http://96.44.160.246:9999/smt.php?id=Mewatch_chU&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="suria" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Mewatch Suria.png" group-title="新加坡🇸🇬",Mewatch Suria
+http://96.44.160.246:9999/smt.php?id=Mewatch_Suria&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="vasantham" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Mewatch Vasantham.png" group-title="新加坡🇸🇬",Mewatch Vasantham
+http://96.44.160.246:9999/smt.php?id=Mewatch_Vasantham&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="mono 29 thailand" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Mono 29 Thailand.png" group-title="泰国🇹🇭",Mono 29 Thailand
+http://96.44.160.246:9999/smt.php?id=mono_pat&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="more4" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/MORE4.png" group-title="英国🇬🇧",More4
+http://96.44.160.246:9999/smt.php?id=more4_antik&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="moviesnow" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/moviesnow.png" group-title="电影🎬",Movies Now
+http://96.44.160.246:9999/smt.php?id=moviesnow_raj&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="one" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Musik Indonesia.png" group-title="印尼🇮🇩",Musik Indonesia
+http://96.44.160.246:9999/smt.php?id=MusicTV&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="nbatv" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/NBA TV.png" group-title="体育🇲🇾",NBA TV
+http://96.44.160.246:9999/smt.php?id=Nba&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="nbt2hd (national broadcasting services of thailand)" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/NBT2HD (National Broadcasting Services of Thailand).png" group-title="泰国🇹🇭",NBT2HD (National Broadcasting Services of Thailand)
+http://96.44.160.246:9999/smt.php?id=nbt_pat&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="net." tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/NET..png" group-title="印尼🇮🇩",NET.
+http://96.44.160.246:9999/smt.php?id=NetTV&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-id="NHK" tvg-name="nhk" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/smt-logo/refs/heads/main/NHK BS Premium.png" group-title="日本🇯🇵",NHK BS Premium
+http://96.44.160.246:9999/smt.php?id=nhkpremium_japan&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-id="KBS1" tvg-name="kbs1" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/smt-logo/refs/heads/main/NHK BS1.png" group-title="日本🇯🇵",NHK BS1
+http://96.44.160.246:9999/smt.php?id=nhkbs1_japan&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-id="NHK" tvg-name="nhk" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/smt-logo/refs/heads/main/NHK Educational TV.png" group-title="日本🇯🇵",NHK Educational TV
+http://96.44.160.246:9999/smt.php?id=nhke_japan&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-id="ERA" tvg-name="era" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/smt-logo/refs/heads/main/NHK General TV.png" group-title="日本🇯🇵",NHK General TV
+http://96.44.160.246:9999/smt.php?id=nhkg_japan&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-id="NHK" tvg-name="nhk" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/smt-logo/refs/heads/main/NHK Osaka.png" group-title="日本🇯🇵",NHK Osaka
+http://96.44.160.246:9999/smt.php?id=nhkosaka_japan&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="nhkworld" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NHKWORLD.png" group-title="新闻📰",NHK World
+http://96.44.160.246:9999/smt.php?id=nhkworld_japan&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-id="NHKWORLDJAPAN" tvg-name="nhkworldjapan" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/smt-logo/refs/heads/main/NHK World-Japan.png" group-title="日本🇯🇵",NHK World-Japan
+http://96.44.160.246:9999/smt.php?id=nhkworld_japan&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="ntv7" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/NTV7.png" group-title="马来西亚🇲🇾",NTV7
+http://96.44.160.246:9999/smt.php?id=NTV7&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="iontv" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Nation TV (Channel 22) Thailand.png" group-title="泰国🇹🇭",Nation TV (Channel 22) Thailand
+http://96.44.160.246:9999/smt.php?id=nation_pat&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="nationalgeographic" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NATIONALGEOGRAPHIC.png" group-title="纪录📚",National Geographic
+http://96.44.160.246:9999/smt.php?id=Natgeo&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="nationalgeographichd" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/666-/main/National Geographic HD.png" group-title="纪录📚",National Geographic HD
+http://96.44.160.246:9999/smt.php?id=natgeohd_twn&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="nationalgeographic" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NATIONALGEOGRAPHICWILD.png" group-title="纪录📚",National Geographic Wild
+http://96.44.160.246:9999/smt.php?id=natgeowild_twn&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="news18tamilnadu" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/News18 Tamil Nadu.png" group-title="印度🇮🇳",News18 Tamil Nadu
+http://96.44.160.246:9999/smt.php?id=news18tamil_raj&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="w" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/News18 Thailand.png" group-title="泰国🇹🇭",News18 Thailand
+http://96.44.160.246:9999/smt.php?id=new_pat&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="nickjr." tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Nick Jr..png" group-title="儿童👶",Nick Jr.
+http://96.44.160.246:9999/smt.php?id=Nickjr&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="nickelodeon" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Nickelodeon.png" group-title="儿童👶",Nickelodeon
+http://96.44.160.246:9999/smt.php?id=Nickelodeon&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="one" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/ONE.png" group-title="电影🎬",ONE
+http://96.44.160.246:9999/smt.php?id=One&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="one" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/One 31 Thailand.png" group-title="泰国🇹🇭",One 31 Thailand
+http://96.44.160.246:9999/smt.php?id=gmmone_pat&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="pptv hd (channel 36) thailand" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/PPTV HD (Channel 36) Thailand.png" group-title="泰国🇹🇭",PPTV HD (Channel 36) Thailand
+http://96.44.160.246:9999/smt.php?id=pptv_pat&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="premiersports" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/PREMIER SPORTS.png" group-title="体育🇲🇾",PREMIER SPORTS
+http://96.44.160.246:9999/smt.php?id=Rugbypasstv&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="w" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Paramountnetwork.png" group-title="电影🎬",Paramountnetwork
+http://96.44.160.246:9999/smt.php?id=Paramountnetwork&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="pick" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Pick.png" group-title="英国🇬🇧",Pick
+http://96.44.160.246:9999/smt.php?id=picktv_antik&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="rcti" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/RCTI.png" group-title="印尼🇮🇩",RCTI
+http://96.44.160.246:9999/smt.php?id=Rcti&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="rthk31" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/RTHK31.png" group-title="香港🇭🇰",RTHK31
+http://96.44.160.246:9999/smt.php?id=rhk31_twn&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="rthk32" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/RTHK32.png" group-title="香港🇭🇰",RTHK32
+http://96.44.160.246:9999/smt.php?id=rhk32_twn&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="rtm sports" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/RTM Sports.png" group-title="体育🇲🇾",RTM Sports
+http://96.44.160.246:9999/smt.php?id=Rtmsport&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="brtvinternational" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/RTV.png" group-title="印尼🇮🇩",RTV
+http://96.44.160.246:9999/smt.php?id=Rtv&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="rockaction" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/CCTV4K-LOGO/main/ROCKACTION.png" group-title="电影🎬",Rock Action
+http://96.44.160.246:9999/smt.php?id=Rockaction&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="rockentertainment" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/ROCKENTERTAINMENT.png" group-title="电影🎬",Rock Entertainment
+http://96.44.160.246:9999/smt.php?id=Rockentertain&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="my" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Royal Thai Army TV 5 HD Thailand.png" group-title="泰国🇹🇭",Royal Thai Army TV 5 HD Thailand
+http://96.44.160.246:9999/smt.php?id=ch5_pat&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-id="SBSPLUS" tvg-name="sbsplus" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/smt-logo/refs/heads/main/SBS Plus.png" group-title="韩国🇰🇷",SBS Plus
+http://96.44.160.246:9999/smt.php?id=sbsplus_korea&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="sctv" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/SCTV.png" group-title="印尼🇮🇩",SCTV
+http://96.44.160.246:9999/smt.php?id=SCTV&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="spotv" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/SPOTV.png" group-title="体育🇲🇾",SPOTV
+http://96.44.160.246:9999/smt.php?id=go_spotv&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="spotv2" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/SPOTV 2.png" group-title="体育🇲🇾",SPOTV 2
+http://96.44.160.246:9999/smt.php?id=go_spotv2&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="skynews" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/666-/main/SKYNEWS.png" group-title="新闻📰",Sky News
+http://96.44.160.246:9999/smt.php?id=skynews_twn&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="skyspf1" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/SkySp F1.png" group-title="体育🇲🇾",SkySp F1
+http://96.44.160.246:9999/smt.php?id=tiankongf1&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="skyspmixhd" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/SkySp Mix HD.png" group-title="体育🇲🇾",SkySp Mix HD
+http://96.44.160.246:9999/smt.php?id=tiankongmix&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="skyspnewshd" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/SkySp News HD.png" group-title="体育🇲🇾",SkySp News HD
+http://96.44.160.246:9999/smt.php?id=tiankongnews&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="skyspmainevhd" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/SkySpMainEv.png" group-title="体育🇲🇾",SkySpMainEv
+http://96.44.160.246:9999/smt.php?id=tiankongmain&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-id="Skysp EPL" tvg-name="skysp epl" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/CCTV4K-LOGO/main/Sky Sports Premier League.png" group-title="体育🇲🇾",Skysports EPL
+http://96.44.160.246:9999/smt.php?id=tiankongepl&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="sony ten 1" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Sony Ten 1.png" group-title="体育🇲🇾",Sony Ten 1
+http://96.44.160.246:9999/smt.php?id=ten1_raj&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="sony ten 2" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Sony Ten 2.png" group-title="体育🇲🇾",Sony Ten 2
+http://96.44.160.246:9999/smt.php?id=ten2_raj&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="sony ten 3" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Sony Ten 3.png" group-title="体育🇲🇾",Sony Ten 3
+http://96.44.160.246:9999/smt.php?id=ten3_raj&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="starmovies" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/STARMOVIES.png" group-title="电影🎬",Star Movies
+http://96.44.160.246:9999/smt.php?id=starmovies_raj&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="starvijay" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Star Vijay.png" group-title="印度🇮🇳",Star Vijay
+http://96.44.160.246:9999/smt.php?id=Starvijay&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="sunlife" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Sun Life.png" group-title="印度🇮🇳",Sun Life
+http://96.44.160.246:9999/smt.php?id=Sunlife&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="sunmusic" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Sun Music.png" group-title="印度🇮🇳",Sun Music
+http://96.44.160.246:9999/smt.php?id=Sunmusic&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="suntv" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Sun TV.png" group-title="印度🇮🇳",Sun TV
+http://96.44.160.246:9999/smt.php?id=Suntv&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="supersports" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/SuperSports 1.png" group-title="体育🇲🇾",SuperSports 1
+http://96.44.160.246:9999/smt.php?id=Assp1&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="supersports" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/SuperSports 2.png" group-title="体育🇲🇾",SuperSports 2
+http://96.44.160.246:9999/smt.php?id=Assp2&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="supersports" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/SuperSports 3.png" group-title="体育🇲🇾",SuperSports 3
+http://96.44.160.246:9999/smt.php?id=Assp3&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="supersports" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/SuperSports 4.png" group-title="体育🇲🇾",SuperSports 4
+http://96.44.160.246:9999/smt.php?id=Assp4&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="suria" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Suria.png" group-title="新加坡🇸🇬",Suria
+http://96.44.160.246:9999/smt.php?id=Suria&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="tlc" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TLC.png" group-title="纪录📚",TLC
+http://96.44.160.246:9999/smt.php?id=Tlc&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="tlc旅游生活频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TLC旅游生活.png" group-title="台湾🇹🇼",TLC旅游生活频道
+http://96.44.160.246:9999/smt.php?id=tlc_twn&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="tnn 24 thailand" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/TNN 24 Thailand.png" group-title="泰国🇹🇭",TNN 24 Thailand
+http://96.44.160.246:9999/smt.php?id=tnn24_pat&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="tntsports1hd" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/TNT Sports 1 HD.png" group-title="体育🇲🇾",TNT Sports 1 HD
+http://96.44.160.246:9999/smt.php?id=6fac0aaead&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="tntsports2hd" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/TNT Sports 2 HD.png" group-title="体育🇲🇾",TNT Sports 2 HD
+http://96.44.160.246:9999/smt.php?id=d9a76a79cc&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="tntsports3hd" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/TNT Sports 3 HD.png" group-title="体育🇲🇾",TNT Sports 3 HD
+http://96.44.160.246:9999/smt.php?id=5fea4d73db&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="tntsports4hd" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/TNT Sports 4 HD.png" group-title="体育🇲🇾",TNT Sports 4 HD
+http://96.44.160.246:9999/smt.php?id=tntsport4&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-id="TOKYO MX" tvg-name="tokyo mx" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/smt-logo/refs/heads/main/TOKYO MX.png" group-title="日本🇯🇵",TOKYO MX
+http://96.44.160.246:9999/smt.php?id=tokyomx_japan&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="tptv (parliament tv thailand)" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/TPTV (Parliament TV Thailand).png" group-title="泰国🇹🇭",TPTV (Parliament TV Thailand)
+http://96.44.160.246:9999/smt.php?id=tptv_pat&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="tvalhijrah" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/TV Alhijrah.png" group-title="马来西亚🇲🇾",TV Alhijrah
+http://96.44.160.246:9999/smt.php?id=Alhijrah&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="tvalhijrah" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/TV Alhijrah.png" group-title="马来西亚🇲🇾",TV Alhijrah
+http://96.44.160.246:9999/smt.php?id=Alhijrah_backup&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-id="TV Asahi" tvg-name="tv asahi" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/smt-logo/refs/heads/main/TV Asahi.png" group-title="日本🇯🇵",TV Asahi
+http://96.44.160.246:9999/smt.php?id=asahitv_japan&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="tv muhammadiyah" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/TV Muhammadiyah.png" group-title="印尼🇮🇩",TV Muhammadiyah
+http://96.44.160.246:9999/smt.php?id=TVMU_eko&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-id="TV Tokyo" tvg-name="tv tokyo" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/smt-logo/refs/heads/main/TV Tokyo.png" group-title="日本🇯🇵",TV Tokyo
+http://96.44.160.246:9999/smt.php?id=tokyotv_japan&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="tv1" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/TV1.png" group-title="马来西亚🇲🇾",TV1
+http://96.44.160.246:9999/smt.php?id=TV1&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="tv1" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/TV1.png" group-title="马来西亚🇲🇾",TV1
+http://96.44.160.246:9999/smt.php?id=TV1_backup&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="tv2" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/TV2.png" group-title="马来西亚🇲🇾",TV2
+http://96.44.160.246:9999/smt.php?id=TV2&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="tv3" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/TV3.png" group-title="马来西亚🇲🇾",TV3
+http://96.44.160.246:9999/smt.php?id=TV3&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="tv3" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/TV3.png" group-title="马来西亚🇲🇾",TV3
+http://96.44.160.246:9999/smt.php?id=TV3_mega&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="tv9" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/TV9.png" group-title="马来西亚🇲🇾",TV9
+http://96.44.160.246:9999/smt.php?id=TV9&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="tvbplus" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TVBPLUS.png" group-title="香港🇭🇰",TVBPLUS
+http://96.44.160.246:9999/smt.php?id=j2_twn&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="tvbs" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/CCTV4K-LOGO/main/TVBS.png" group-title="台湾🇹🇼",TVBS
+http://96.44.160.246:9999/smt.php?id=tvbs&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="tvbs新闻台" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/CCTV4K-LOGO/main/TVBS新闻台.png" group-title="台湾🇹🇼",TVBS新闻台
+http://96.44.160.246:9999/smt.php?id=tvbs_n&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="tvbs欢乐台" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/CCTV4K-LOGO/main/TVBS欢乐台.png" group-title="台湾🇹🇼",TVBS欢乐台
+http://96.44.160.246:9999/smt.php?id=tvbshuanle_twn&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="tvnmovieshd" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/666-/main/TVNMOVIESHD.png" group-title="电影🎬",TVN Movies HD
+http://96.44.160.246:9999/smt.php?id=Tvnmovie&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="tvri" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/TVRI.png" group-title="印尼🇮🇩",TVRI
+http://96.44.160.246:9999/smt.php?id=TVRI&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="thai pbs hd thailand" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Thai PBS HD Thailand.png" group-title="泰国🇹🇭",Thai PBS HD Thailand
+http://96.44.160.246:9999/smt.php?id=tpbs_pat&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="w" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Thai TV Global Network (TGN).png" group-title="泰国🇹🇭",Thai TV Global Network (TGN)
+http://96.44.160.246:9999/smt.php?id=thaithai_pat&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="thairath tv hd (channel 32) thailand" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Thairath TV HD (Channel 32) Thailand.png" group-title="泰国🇹🇭",Thairath TV HD (Channel 32) Thailand
+http://96.44.160.246:9999/smt.php?id=thairath_pat&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="thrill" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/CCTV4K-LOGO/main/THRILL.png" group-title="电影🎬",Thrill
+http://96.44.160.246:9999/smt.php?id=Thrill&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="transtv" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Trans TV.png" group-title="印尼🇮🇩",Trans TV
+http://96.44.160.246:9999/smt.php?id=Transtv&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="trans7" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Trans7.png" group-title="印尼🇮🇩",Trans7
+http://96.44.160.246:9999/smt.php?id=Trans7_eko&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="viutv" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/VIUTV.png" group-title="香港🇭🇰",VIUTV
+http://96.44.160.246:9999/smt.php?id=viu1_twn&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="viutvsix" tvg-logo="https://epg.iill.top/logo/ViuTVsix.png" group-title="香港🇭🇰",VIUTV six
+http://96.44.160.246:9999/smt.php?id=viusix_twn&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="vasantham" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Vasantham.png" group-title="新加坡🇸🇬",Vasantham
+http://96.44.160.246:9999/smt.php?id=Vasantham&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="visionprime" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Vision Prime.png" group-title="印尼🇮🇩",Vision Prime
+http://96.44.160.246:9999/smt.php?id=VisionPrime&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="wsport" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/W Sport.png" group-title="体育🇲🇾",W Sport
+http://96.44.160.246:9999/smt.php?id=go_assp5&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="wwenetwork" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/WWE Network.png" group-title="体育🇲🇾",WWE Network
+http://96.44.160.246:9999/smt.php?id=Wwe&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="warnertv" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/WARNERTV.png" group-title="电影🎬",Warner TV
+http://96.44.160.246:9999/smt.php?id=WarnerTV&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="w" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Workpoint TV (Channel 23) Thailand.png" group-title="泰国🇹🇭",Workpoint TV (Channel 23) Thailand
+http://96.44.160.246:9999/smt.php?id=workpoint_pat&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-id="YTN" tvg-name="ytn" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/smt-logo/refs/heads/main/YTN.png" group-title="韩国🇰🇷",YTN
+http://96.44.160.246:9999/smt.php?id=ytn_korea&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-id="YTN DMB" tvg-name="ytn dmb" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/smt-logo/refs/heads/main/YTN DMB.png" group-title="韩国🇰🇷",YTN DMB
+http://96.44.160.246:9999/smt.php?id=ytndmb_korea&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-id="YTN Korean" tvg-name="ytn korean" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/smt-logo/refs/heads/main/YTN Korean.png" group-title="韩国🇰🇷",YTN Korean
+http://96.44.160.246:9999/smt.php?id=ytnkorean_korea&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-id="CI" tvg-name="ci" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/smt-logo/refs/heads/main/YTN Science.png" group-title="韩国🇰🇷",YTN Science
+http://96.44.160.246:9999/smt.php?id=ytnscience_korea&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-id="Yonhap News TV" tvg-name="yonhap news tv" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/smt-logo/refs/heads/main/Yonhap News TV.png" group-title="韩国🇰🇷",Yonhap News TV
+http://96.44.160.246:9999/smt.php?id=yonhapnews_korea&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="zeebusiness" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Zee Business.png" group-title="印度🇮🇳",Zee Business
+http://96.44.160.246:9999/smt.php?id=Zeebusiness&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="zeetamil" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/Zee Tamil.png" group-title="印度🇮🇳",Zee Tamil
+http://96.44.160.246:9999/smt.php?id=Zeetamil&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="beinsports1" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/beIN Sports 1.png" group-title="体育🇲🇾",beIN Sports 1
+http://96.44.160.246:9999/smt.php?id=Astrobein1&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="beinsports2" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/beIN Sports 2.png" group-title="体育🇲🇾",beIN Sports 2
+http://96.44.160.246:9999/smt.php?id=Astrobein2&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="beinsports3" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/beIN Sports 3.png" group-title="体育🇲🇾",beIN Sports 3
+http://96.44.160.246:9999/smt.php?id=Astrobein3&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="inews" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/iNews TV.png" group-title="印尼🇮🇩",iNews TV
+http://96.44.160.246:9999/smt.php?id=Inewstv&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="tvone" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/tvOne.png" group-title="印尼🇮🇩",tvOne
+http://96.44.160.246:9999/smt.php?id=Tvone&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/东南卫视.png" group-title="卫视🇨🇳",东南卫视
+http://96.44.160.246:9999/smt.php?id=fujian&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/东方卫视.png" group-title="卫视🇨🇳",东方卫视
+http://96.44.160.246:9999/smt.php?id=dongfangweishi_twn&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="东森戏剧台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/东森戏剧.png" group-title="台湾🇹🇼",东森戏剧台
+http://96.44.160.246:9999/smt.php?id=ettvdrama&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="东森新闻台" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/CCTV4K-LOGO/main/东森新闻台.png" group-title="台湾🇹🇼",东森新闻台
+http://96.44.160.246:9999/smt.php?id=ettvnews&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="东森洋片台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/东森洋片.png" group-title="台湾🇹🇼",东森洋片台
+http://96.44.160.246:9999/smt.php?id=ettvwestern&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="东森电影台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/东森电影.png" group-title="台湾🇹🇼",东森电影台
+http://96.44.160.246:9999/smt.php?id=ettvmovie&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="东森综合台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/东森综合.png" group-title="台湾🇹🇼",东森综合台
+http://96.44.160.246:9999/smt.php?id=ettvzhonghe&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="东森财经新闻台" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/CCTV4K-LOGO/main/东森财经新闻台.png" group-title="台湾🇹🇼",东森财经新闻台
+http://96.44.160.246:9999/smt.php?id=ettvcaijing_twn&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="东森超视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/东森超视.png" group-title="台湾🇹🇼",东森超视
+http://96.44.160.246:9999/smt.php?id=ettvsuper&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="中天亚洲精采台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/中天亚洲.png" group-title="台湾🇹🇼",中天亚洲精采台
+http://96.44.160.246:9999/smt.php?id=ctiasia_twn&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="中天娱乐台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/中天娱乐.png" group-title="台湾🇹🇼",中天娱乐台
+http://96.44.160.246:9999/smt.php?id=ctient&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="中天新闻台" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/CCTV4K-LOGO/main/中天新闻台.png" group-title="台湾🇹🇼",中天新闻台
+http://96.44.160.246:9999/smt.php?id=ctinews&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="中天综合台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/中天综合.png" group-title="台湾🇹🇼",中天综合台
+http://96.44.160.246:9999/smt.php?id=ctizhonghe&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="中视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/中视.png" group-title="台湾🇹🇼",中视
+http://96.44.160.246:9999/smt.php?id=zhongshihd_twn&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="中视新闻" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/中视新闻.png" group-title="台湾🇹🇼",中视新闻
+http://96.44.160.246:9999/smt.php?id=zhongshinews_twn&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="亚洲旅游台" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/CCTV4K-LOGO/main/亚洲旅游台.png" group-title="台湾🇹🇼",亚洲旅游台
+http://96.44.160.246:9999/smt.php?id=asiatravel_twn&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="亚洲美食频道" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/亚洲美食频道.png" group-title="台湾🇹🇼",亚洲美食频道
+http://96.44.160.246:9999/smt.php?id=afc_twn&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="八大娱乐台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/八大娱乐.png" group-title="台湾🇹🇼",八大娱乐台
+http://96.44.160.246:9999/smt.php?id=badaentertain&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="八大戏剧台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/八大戏剧.png" group-title="台湾🇹🇼",八大戏剧台
+http://96.44.160.246:9999/smt.php?id=badadrama&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="八大第一台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/八大第一.png" group-title="台湾🇹🇼",八大第一台
+http://96.44.160.246:9999/smt.php?id=badafirst&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="八大综合台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/八大综合.png" group-title="台湾🇹🇼",八大综合台
+http://96.44.160.246:9999/smt.php?id=badazhonghe&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="公视儿少台hd" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/公视.png" group-title="台湾🇹🇼",公视儿少台
+http://96.44.160.246:9999/smt.php?id=ctv_taiwan&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="公视台语台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/公视台语.png" group-title="台湾🇹🇼",公视台语台
+http://96.44.160.246:9999/smt.php?id=ctv2_twn&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="凤凰卫视中文台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/凤凰中文.png" group-title="香港🇭🇰",凤凰中文
+http://96.44.160.246:9999/smt.php?id=phoenixtv_hd&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="凤凰卫视资讯台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/凤凰资讯.png" group-title="香港🇭🇰",凤凰资讯
+http://96.44.160.246:9999/smt.php?id=phoenixinfo_hd&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="凤凰卫视香港台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/凤凰香港.png" group-title="香港🇭🇰",凤凰香港
+http://96.44.160.246:9999/smt.php?id=hkphoenix_twn&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京卫视.png" group-title="卫视🇨🇳",北京卫视
+http://96.44.160.246:9999/smt.php?id=beijing&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/华艺综合.png" group-title="台湾🇹🇼",华艺综合
+http://96.44.160.246:9999/smt.php?id=weishichinese_twn&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="华视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/华视.png" group-title="台湾🇹🇼",华视
+http://96.44.160.246:9999/smt.php?id=ctshd_twn&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="博斯无限台" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/CCTV4K-LOGO/main/博斯无限台.png" group-title="台湾🇹🇼",博斯无限台
+http://96.44.160.246:9999/smt.php?id=bosiunlimited_twn&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="博斯网球台" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/CCTV4K-LOGO/main/博斯网球台.png" group-title="台湾🇹🇼",博斯网球台
+http://96.44.160.246:9999/smt.php?id=bositennis_twn&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="博斯运动一台" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/CCTV4K-LOGO/main/博斯运动一台.png" group-title="台湾🇹🇼",博斯运动一台
+http://96.44.160.246:9999/smt.php?id=bosisport1_twn&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="博斯运动二台" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/CCTV4K-LOGO/main/博斯运动二台.png" group-title="台湾🇹🇼",博斯运动二台
+http://96.44.160.246:9999/smt.php?id=bosisport2_twn&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="博斯高球一台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/博斯高球.png" group-title="台湾🇹🇼",博斯高球一台
+http://96.44.160.246:9999/smt.php?id=bosigolf1_twn&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="博斯高球二台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/博斯高球二.png" group-title="台湾🇹🇼",博斯高球二台
+http://96.44.160.246:9999/smt.php?id=bosigolf2_twn&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/卫视电影.png" group-title="台湾🇹🇼",卫视电影台
+http://96.44.160.246:9999/smt.php?id=weishimovie_twn&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="卫视电影台" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/main/卫视电影台.png" group-title="电影🎬",卫视电影台
+http://96.44.160.246:9999/smt.php?id=Weishimovie&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="台视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/台视.png" group-title="台湾🇹🇼",台视
+http://96.44.160.246:9999/smt.php?id=ttv_taiwan&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="台视新闻台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/台视新闻.png" group-title="台湾🇹🇼",台视新闻
+http://96.44.160.246:9999/smt.php?id=ttvnews_twn&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="台视综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/台视综合.png" group-title="台湾🇹🇼",台视综合
+http://96.44.160.246:9999/smt.php?id=ttvzhonghe&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/四川卫视.png" group-title="卫视🇨🇳",四川卫视
+http://96.44.160.246:9999/smt.php?id=sichuan_twn&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/大湾区卫视.png" group-title="卫视🇨🇳",大湾区卫视
+http://96.44.160.246:9999/smt.php?id=nanfang_twn&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="大爱二台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/大爱二.png" group-title="台湾🇹🇼",大爱二台
+http://96.44.160.246:9999/smt.php?id=daai2_twn&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="大爱电视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/大爱电视.png" group-title="台湾🇹🇼",大爱电视
+http://96.44.160.246:9999/smt.php?id=daai_twn&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="天映印度尼西亚" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/天映.png" group-title="电影🎬",天映印度尼西亚
+http://96.44.160.246:9999/smt.php?id=Celestialindo&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="天映经典" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/天映经典.png" group-title="电影🎬",天映经典
+http://96.44.160.246:9999/smt.php?id=Celestial2&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="天映马来西亚" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/天映.png" group-title="电影🎬",天映马来西亚
+http://96.44.160.246:9999/smt.php?id=Celestial&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="好消息2台" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/CCTV4K-LOGO/main/好消息2台.png" group-title="台湾🇹🇼",好消息2台
+http://96.44.160.246:9999/smt.php?id=good2_twn&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="好莱坞电影台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/好莱坞电影.png" group-title="台湾🇹🇼",好莱坞电影台
+http://96.44.160.246:9999/smt.php?id=hollywoodmovies_twn&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="年代新闻" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/年代新闻.png" group-title="台湾🇹🇼",年代新闻台
+http://96.44.160.246:9999/smt.php?id=niandainews_twn&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广东卫视.png" group-title="卫视🇨🇳",广东卫视
+http://96.44.160.246:9999/smt.php?id=guangdongweishi_twn&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广西卫视.png" group-title="卫视🇨🇳",广西卫视
+http://96.44.160.246:9999/smt.php?id=guangxi&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="无线新闻" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/无线新闻.png" group-title="香港🇭🇰",无线新闻
+http://96.44.160.246:9999/smt.php?id=inews_twn&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="明珠台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/明珠.png" group-title="香港🇭🇰",明珠台
+http://96.44.160.246:9999/smt.php?id=pearl_twn&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="民视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/民视.png" group-title="台湾🇹🇼",民视
+http://96.44.160.246:9999/smt.php?id=ftvhd_taiwan&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="民视台湾台" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/CCTV4K-LOGO/main/民视台湾台.png" group-title="台湾🇹🇼",民视台湾台
+http://96.44.160.246:9999/smt.php?id=ftvtaiwan_twn&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="民视新闻台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/民视新闻.png" group-title="台湾🇹🇼",民视新闻台
+http://96.44.160.246:9999/smt.php?id=ftvnew_taiwan&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/江苏卫视.png" group-title="卫视🇨🇳",江苏卫视
+http://96.44.160.246:9999/smt.php?id=jiangsu_twn&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/浙江卫视.png" group-title="卫视🇨🇳",浙江卫视
+http://96.44.160.246:9999/smt.php?id=zhejiang_twn&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/深圳卫视.png" group-title="卫视🇨🇳",深圳卫视
+http://96.44.160.246:9999/smt.php?id=shenzhen&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湖北卫视.png" group-title="卫视🇨🇳",湖北卫视
+http://96.44.160.246:9999/smt.php?id=hubei&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湖南卫视.png" group-title="卫视🇨🇳",湖南卫视
+http://96.44.160.246:9999/smt.php?id=hunan_twn&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="爱尔达体育1台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/爱尔达体育1.png" group-title="台湾🇹🇼",爱尔达体育1台
+http://96.44.160.246:9999/smt.php?id=eltasport_twn&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="爱尔达体育2台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/爱尔达体育2.png" group-title="台湾🇹🇼",爱尔达体育2台
+http://96.44.160.246:9999/smt.php?id=eltasport2_twn&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="爱尔达体育3台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/爱尔达体育3.png" group-title="台湾🇹🇼",爱尔达体育3台
+http://96.44.160.246:9999/smt.php?id=eltasport3_twn&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="爱尔达影剧台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/爱尔达影剧.png" group-title="台湾🇹🇼",爱尔达影剧台
+http://96.44.160.246:9999/smt.php?id=eltayingju_twn&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="爱尔达综合台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/爱尔达综合.png" group-title="台湾🇹🇼",爱尔达综合台
+http://96.44.160.246:9999/smt.php?id=eltazonghe_twn&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/珠江.png" group-title="卫视🇨🇳",珠江台
+http://96.44.160.246:9999/smt.php?id=zhujiang&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="纬来体育台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/纬来体育.png" group-title="台湾🇹🇼",纬来体育台
+http://96.44.160.246:9999/smt.php?id=videolandsport&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="纬来日本台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/纬来日本.png" group-title="台湾🇹🇼",纬来日本台
+http://96.44.160.246:9999/smt.php?id=videolandjapan&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="纬来电影台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/纬来电影.png" group-title="台湾🇹🇼",纬来电影台
+http://96.44.160.246:9999/smt.php?id=videolandmovie&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="纬来精彩台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/纬来精彩.png" group-title="台湾🇹🇼",纬来精彩台
+http://96.44.160.246:9999/smt.php?id=videolandspecial_twn&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="纬来综合台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/纬来综合.png" group-title="台湾🇹🇼",纬来综合台
+http://96.44.160.246:9999/smt.php?id=videolandzonghe&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="纬来育乐台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/纬来育乐.png" group-title="台湾🇹🇼",纬来育乐台
+http://96.44.160.246:9999/smt.php?id=videolandyule&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="美亚电影台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/美亚电影.png" group-title="台湾🇹🇼",美亚电影
+http://96.44.160.246:9999/smt.php?id=meiyamovie_twn&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="美食星球hd" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/美食星球.png" group-title="台湾🇹🇼",美食星球HD
+http://96.44.160.246:9999/smt.php?id=foodplanet_twn&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/翡翠.png" group-title="香港🇭🇰",翡翠台
+http://96.44.160.246:9999/smt.php?id=jade_twn&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/翡翠.png" group-title="香港🇭🇰",翡翠台
+http://96.44.160.246:9999/smt.php?id=Jade_xue&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="靖天卡通台" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/CCTV4K-LOGO/main/靖天卡通台.png" group-title="台湾🇹🇼",靖天卡通台
+http://96.44.160.246:9999/smt.php?id=jingtiancartoon_twn&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="非凡新闻台" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/CCTV4K-LOGO/main/非凡新闻台.png" group-title="台湾🇹🇼",非凡新闻台
+http://96.44.160.246:9999/smt.php?id=feifannews_twn&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="龙华偶像" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/龙华偶像.png" group-title="台湾🇹🇼",龙华偶像
+http://96.44.160.246:9999/smt.php?id=lunghuaidol_twn&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="龙华戏剧" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/龙华戏剧.png" group-title="台湾🇹🇼",龙华戏剧
+http://96.44.160.246:9999/smt.php?id=lunghuaxiju_twn&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="龙华洋片台" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/CCTV4K-LOGO/main/龙华洋片台.png" group-title="台湾🇹🇼",龙华洋片台
+http://96.44.160.246:9999/smt.php?id=lunghuawestern_twn&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="龙华电影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/龙华电影.png" group-title="台湾🇹🇼",龙华电影
+http://96.44.160.246:9999/smt.php?id=xingwei_movie&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="龙华经典台" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/CCTV4K-LOGO/main/龙华经典台.png" group-title="台湾🇹🇼",龙华经典台
+http://96.44.160.246:9999/smt.php?id=lunghuajingdian_twn&h=96.44.160.246&p=5123
+#EXTINF:-1 tvg-name="龙祥时代" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/龙祥时代.png" group-title="台湾🇹🇼",龙祥时代
+http://96.44.160.246:9999/smt.php?id=lungxiangtime_twn&h=96.44.160.246&p=5123
