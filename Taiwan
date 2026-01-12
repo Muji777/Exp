@@ -16,7 +16,8 @@ http://96.44.160.246:9999/smt.php?id=Discoveryasia
 http://96.44.160.246:9999/smt.php?id=cbshd_glo
 #EXTINF:-1,Bein Sports 1
 http://96.44.160.246:9999/smt.php?id=Astrobein1
-#EXTINF:-1,Bein Sports 2 http://96.44.160.246:9999/smt.php?id=Astrobein2
+#EXTINF:-1,Bein Sports 2
+http://96.44.160.246:9999/smt.php?id=Astrobein2
 #EXTINF:-1,Bein Sports 3
 http://96.44.160.246:9999/smt.php?id=Astrobein3
 #EXTINF:-1,Astro Sports 1
