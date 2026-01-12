@@ -20,11 +20,19 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/AnimalPlanetHD/mediampd/AnimalPla
 https://atemecdnbalancer-voe.sysln.id/live/eds/HGTVHD/mediampd/HGTVHD.mpd
 
 #EXTINF:-1,Animal Planet
-https://tchaikovsky.af-stream.com:991/s/af21wbei/animal-planet-hd/video.m3u8
+http://96.44.160.246:9999/smt.php?id=AnimalPlanet
+#EXTINF:-1,NatGeo Wild
+http://96.44.160.246:9999/smt.php?id=Natgeowild
+#EXTINF:-1,BBC Earth
+http://96.44.160.246:9999/smt.php?id=bbcearth_twn
+#EXTINF:-1,BBC Lifestyle
+http://96.44.160.246:9999/smt.php?id=bbclifestyle_twn&h=96.44.160.246&p=5123
 #EXTINF:-1,HGTV
-https://tchaikovsky.af-stream.com:991/s/af21wbei/hgtv-hd/video.m3u8
-#EXTINF:-1,Natgeo Wild
-https://tchaikovsky.af-stream.com:991/s/af21wbei/nat-geo-wild-hd/video.m3u8
+http://96.44.160.246:9999/smt.php?id=HGTV
+#EXTINF:-1,Discovery Asia
+http://96.44.160.246:9999/smt.php?id=Discoveryasia
+#EXTINF:-1,CBS
+http://96.44.160.246:9999/smt.php?id=cbshd_glo
 #EXTINF:-1,Discovery Asia
 https://cdn4.skygo.mn/live/disk1/Discovery_Asia/HLSv3-FTA/Discovery_Asia.m3u8
 #EXTINF:-1,Travel XP
