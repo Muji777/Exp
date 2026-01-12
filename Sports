@@ -1,5 +1,41 @@
 #EXTM3U
 
+#EXTINF:-1,Bein Sports 1
+http://96.44.160.246:9999/smt.php?id=Astrobein1
+#EXTINF:-1,Bein Sports 2
+http://96.44.160.246:9999/smt.php?id=Astrobein2
+#EXTINF:-1,Bein Sports 3
+http://96.44.160.246:9999/smt.php?id=Astrobein3
+#EXTINF:-1,Astro Sports 1
+http://96.44.160.246:9999/smt.php?id=Assp1
+#EXTINF:-1,Astro Sports 2
+http://96.44.160.246:9999/smt.php?id=Assp2
+#EXTINF:-1,Astro Sports 3
+http://96.44.160.246:9999/smt.php?id=go_assp3
+#EXTINF:-1,Astro Sports 4
+http://96.44.160.246:9999/smt.php?id=go_assp4
+#EXTINF:-1,Astro Sports 5
+http://96.44.160.246:9999/smt.php?id=go_assp5
+#EXTINF:-1,Astro Sports Plus
+http://96.44.160.246:9999/smt.php?id=go_sportsplus
+#EXTINF:-1,Dazn 1
+http://96.44.160.246:9999/smt.php?id=dazn1_twn
+#EXTINF:-1,Dazn 2
+http://96.44.160.246:9999/smt.php?id=dazn2
+#EXTINF:-1,Sky Sports Cricket
+http://96.44.160.246:9999/smt.php?id=tiankongcricket
+#EXTINF:-1,Sky Sports Premier League
+http://96.44.160.246:9999/smt.php?id=tiankongepl
+#EXTINF:-1,Sky Sports Main Event
+http://96.44.160.246:9999/smt.php?id=tiankongmain
+#EXTINF:-1,TNT Sports 1
+http://96.44.160.246:9999/smt.php?id=tntsport1
+#EXTINF:-1,TNT Sports 2
+http://96.44.160.246:9999/smt.php?id=tntsport2
+#EXTINF:-1,TNT Sports 3
+http://96.44.160.246:9999/smt.php?id=tntsport3
+#EXTINF:-1,TNT Sports 4
+http://96.44.160.246:9999/smt.php?id=tntsport4
 #EXTINF:-1,Fox Sports 1
 https://7pal.short.gy/fox501au
 #EXTINF:-1,Fox Sports 2
