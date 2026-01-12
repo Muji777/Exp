@@ -6,22 +6,24 @@ http://96.44.160.246:9999/smt.php?id=Astrobein1
 http://96.44.160.246:9999/smt.php?id=Astrobein2
 #EXTINF:-1,Bein Sports 3
 http://96.44.160.246:9999/smt.php?id=Astrobein3
-#EXTINF:-1,Astro Sports 1
+#EXTINF:-1,Astro Premier League 1
 http://96.44.160.246:9999/smt.php?id=Assp1
-#EXTINF:-1,Astro Sports 2
+#EXTINF:-1,Astro Premier League 2
 http://96.44.160.246:9999/smt.php?id=Assp2
-#EXTINF:-1,Astro Sports 3
+#EXTINF:-1,Astro Grandstand
 http://96.44.160.246:9999/smt.php?id=go_assp3
-#EXTINF:-1,Astro Sports 4
+#EXTINF:-1,Astro Football
 http://96.44.160.246:9999/smt.php?id=go_assp4
-#EXTINF:-1,Astro Sports 5
+#EXTINF:-1,W Sport
 http://96.44.160.246:9999/smt.php?id=go_assp5
+#EXTINF:-1,Astro Cricket
+http://96.44.160.246:9999/smt.php?id=Acricket&h=96.44.160.246&p=5123
 #EXTINF:-1,Astro Sports Plus
 http://96.44.160.246:9999/smt.php?id=go_sportsplus
 #EXTINF:-1,Dazn 1
 http://96.44.160.246:9999/smt.php?id=dazn1_twn
 #EXTINF:-1,Dazn 2
-http://96.44.160.246:9999/smt.php?id=dazn2
+http://96.44.160.246:9999/smt.php?id=dazn2_twn
 #EXTINF:-1,Sky Sports Cricket
 http://96.44.160.246:9999/smt.php?id=tiankongcricket
 #EXTINF:-1,Sky Sports Premier League
