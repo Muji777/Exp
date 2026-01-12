@@ -1,38 +1,4 @@
-#EXTM3U url-tvg="https://epg.iill.top/epg.xml.gz"
-#EXTINF:-1 tvg-id="TV8" tvg-name="8tv" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/687347e5883d7_sDFu.jpg" group-title="马来西亚",8TV
-http://96.44.160.246:9999/smt.php?id=TV8&h=96.44.160.246&p=5123
-#EXTINF:-1 tvg-id="abcnews_glo" tvg-name="abc news" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5cb8817d7cecf_EBE0.jpg" group-title="新闻频道",ABC News
-http://96.44.160.246:9999/smt.php?id=abcnews_glo&h=96.44.160.246&p=5123
-#EXTINF:-1 tvg-id="AEC" tvg-name="aec" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/597200ac0df0a_0S0G.png" group-title="马来西亚",AEC
-http://96.44.160.246:9999/smt.php?id=AEC&h=96.44.160.246&p=5123
-#EXTINF:-1 tvg-id="vtn_antv" tvg-name="antv" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/65919d7fb6b1d_23g3.jpeg" group-title="越南",ANTV
-http://96.44.160.246:9999/smt.php?id=vtn_antv&h=96.44.160.246&p=5123
-#EXTINF:-1 tvg-id="Aodhd" tvg-name="aod" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/63e5c4febde6b_bXAg.jpg" group-title="马来西亚",AOD
-http://96.44.160.246:9999/smt.php?id=Aodhd&h=96.44.160.246&p=5123
-#EXTINF:-1 tvg-id="axn_twn" tvg-name="axn taiwan" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a214f430ba32_4W5w.png" group-title="台湾",AXN Taiwan
-http://96.44.160.246:9999/smt.php?id=axn_twn&h=96.44.160.246&p=5123
-#EXTINF:-1 tvg-id="axn_twn" tvg-name="axn taiwan" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a214f430ba32_4W5w.png" group-title="电影频道",AXN Taiwan
-http://96.44.160.246:9999/smt.php?id=axn_twn&h=96.44.160.246&p=5123
-#EXTINF:-1 tvg-id="Adithya" tvg-name="adithya" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/63ca446205444_H53Z.jpg" group-title="印度",Adithya
-http://96.44.160.246:9999/smt.php?id=Adithya&h=96.44.160.246&p=5123
-#EXTINF:-1 tvg-id="Alhijrah" tvg-name="al-hijrah" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a0fd8679ed60_ECrF.png" group-title="马来西亚",Al-Hijrah
-http://96.44.160.246:9999/smt.php?id=Alhijrah&h=96.44.160.246&p=5123
-#EXTINF:-1 tvg-id="aljazeera_twn" tvg-name="al-jazeera" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a7fb7da12fc3_kWXh.png" group-title="新闻频道",Al-Jazeera
-http://96.44.160.246:9999/smt.php?id=aljazeera_twn&h=96.44.160.246&p=5123
-#EXTINF:-1 tvg-id="aljazeera_twn" tvg-name="al-jazeera" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a7fb7da12fc3_kWXh.png" group-title="英国",Al-Jazeera
-http://96.44.160.246:9999/smt.php?id=aljazeera_twn&h=96.44.160.246&p=5123
-#EXTINF:-1 tvg-id="Alkareem" tvg-name="alquran alkareem" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/609a5bb2666d3_MUwh.png" group-title="印度尼西亚",AlQuran AlKareem
-http://96.44.160.246:9999/smt.php?id=Alkareem&h=96.44.160.246&p=5123
-#EXTINF:-1 tvg-id="Aljazeera" tvg-name="al_jazeera" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/68cbcf0e86fdd_I4D4.png" group-title="马来西亚",Al_Jazeera
-http://96.44.160.246:9999/smt.php?id=Aljazeera&h=96.44.160.246&p=5123
-#EXTINF:-1 tvg-id="Aljazeera" tvg-name="al_jazeera" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/68cbcf0e86fdd_I4D4.png" group-title="新闻频道",Al_Jazeera
-http://96.44.160.246:9999/smt.php?id=Aljazeera&h=96.44.160.246&p=5123
-#EXTINF:-1 tvg-id="allthekpop_korea" tvg-name="all the kpop" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/607ac4bbaa0df_8s7B.png" group-title="韩国",All the Kpop
-http://96.44.160.246:9999/smt.php?id=allthekpop_korea&h=96.44.160.246&p=5123
-#EXTINF:-1 tvg-id="amarin_pat" tvg-name="amarin" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5faa6bff61073_5wWR.jpg" group-title="泰国",Amarin
-http://96.44.160.246:9999/smt.php?id=amarin_pat&h=96.44.160.246&p=5123
-#EXTINF:-1 tvg-id="Antv" tvg-name="antv" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5f0075b5b7925_d3YY.png" group-title="印度尼西亚",AnTV
-http://96.44.160.246:9999/smt.php?id=Antv&h=96.44.160.246&p=5123
+
 #EXTINF:-1 tvg-id="AnimalPlanet" tvg-name="animal planet (eng)" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5ecf924651f26_c7eN.png" group-title="马来西亚",Animal Planet (Eng)
 http://96.44.160.246:9999/smt.php?id=AnimalPlanet&h=96.44.160.246&p=5123
 #EXTINF:-1 tvg-id="AnimalPlanet" tvg-name="animal planet (eng)" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5ecf924651f26_c7eN.png" group-title="纪录频道",Animal Planet (Eng)
@@ -43,49 +9,7 @@ http://96.44.160.246:9999/smt.php?id=AnimalPlanet&h=96.44.160.246&p=5123
 http://96.44.160.246:9999/smt.php?id=AnimalPlanet&h=96.44.160.246&p=5123
 #EXTINF:-1 tvg-id="AnimalPlanet" tvg-name="animal_planet" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a07e0b6e4e25_1t87.png" group-title="纪录频道",Animal_Planet
 http://96.44.160.246:9999/smt.php?id=AnimalPlanet&h=96.44.160.246&p=5123
-#EXTINF:-1 tvg-id="Animax" tvg-name="animax" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/607d59b103887_nVWq.png" group-title="印度尼西亚",Animax
-http://96.44.160.246:9999/smt.php?id=Animax&h=96.44.160.246&p=5123
-#EXTINF:-1 tvg-id="Animax" tvg-name="animax" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/607d59b103887_nVWq.png" group-title="儿童频道",Animax
-http://96.44.160.246:9999/smt.php?id=Animax&h=96.44.160.246&p=5123
-#EXTINF:-1 tvg-id="Animax" tvg-name="animax" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/607d59b103887_nVWq.png" group-title="电影频道",Animax
-http://96.44.160.246:9999/smt.php?id=Animax&h=96.44.160.246&p=5123
-#EXTINF:-1 tvg-id="appongoogle_korea" tvg-name="apps tv" tvg-logo="http://tpshen.com:16310/images/default/Default_channel_logo.png" group-title="韩国",Apps TV
-http://96.44.160.246:9999/smt.php?id=appongoogle_korea&h=96.44.160.246&p=5123
-#EXTINF:-1 tvg-id="Arena" tvg-name="arena" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/68b3dbdc7d39e_Vd9U.png" group-title="马来西亚",Arena
-http://96.44.160.246:9999/smt.php?id=Arena&h=96.44.160.246&p=5123
-#EXTINF:-1 tvg-id="Arena" tvg-name="arena" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/68b3dbdc7d39e_Vd9U.png" group-title="体育频道",Arena
-http://96.44.160.246:9999/smt.php?id=Arena&h=96.44.160.246&p=5123
-#EXTINF:-1 tvg-id="Arena2" tvg-name="arena 2" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/68b3dbe7b03f2_4JBX.png" group-title="马来西亚",Arena 2
-http://96.44.160.246:9999/smt.php?id=Arena2&h=96.44.160.246&p=5123
-#EXTINF:-1 tvg-id="Arena2" tvg-name="arena 2" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/68b3dbe7b03f2_4JBX.png" group-title="体育频道",Arena 2
-http://96.44.160.246:9999/smt.php?id=Arena2&h=96.44.160.246&p=5123
-#EXTINF:-1 tvg-id="Bolaarena1" tvg-name="arena bola 1" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/68b3dc0869b0a_z66A.png" group-title="马来西亚",Arena Bola 1
-http://96.44.160.246:9999/smt.php?id=Bolaarena1&h=96.44.160.246&p=5123
-#EXTINF:-1 tvg-id="Bolaarena1" tvg-name="arena bola 1" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/68b3dc0869b0a_z66A.png" group-title="体育频道",Arena Bola 1
-http://96.44.160.246:9999/smt.php?id=Bolaarena1&h=96.44.160.246&p=5123
-#EXTINF:-1 tvg-id="Bolaarena2" tvg-name="arena bola 2" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/68b3dc1dca270_C70Y.png" group-title="马来西亚",Arena Bola 2
-http://96.44.160.246:9999/smt.php?id=Bolaarena2&h=96.44.160.246&p=5123
-#EXTINF:-1 tvg-id="Bolaarena2" tvg-name="arena bola 2" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/68b3dc1dca270_C70Y.png" group-title="体育频道",Arena Bola 2
-http://96.44.160.246:9999/smt.php?id=Bolaarena2&h=96.44.160.246&p=5123
-#EXTINF:-1 tvg-id="arirang_twn" tvg-name="arirang hd" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/607ac5f370fd2_Gyr3.png" group-title="韩国",Arirang HD
-http://96.44.160.246:9999/smt.php?id=arirang_twn&h=96.44.160.246&p=5123
-#EXTINF:-1 tvg-id="Afc" tvg-name="asia food network" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6915b1b5d62a3_A6Zw.png" group-title="马来西亚",Asia Food Network
-http://96.44.160.246:9999/smt.php?id=Afc&h=96.44.160.246&p=5123
-#EXTINF:-1 tvg-id="Afc" tvg-name="asia food network" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6915b1b5d62a3_A6Zw.png" group-title="台湾",Asia Food Network
-http://96.44.160.246:9999/smt.php?id=Afc&h=96.44.160.246&p=5123
-#EXTINF:-1 tvg-id="Afc" tvg-name="asia food network" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6915b1b5d62a3_A6Zw.png" group-title="纪录频道",Asia Food Network
-http://96.44.160.246:9999/smt.php?id=Afc&h=96.44.160.246&p=5123
-#EXTINF:-1 tvg-id="asiatravel_twn" tvg-name="asia travel" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a07e202a1f2a_rv0X.png" group-title="纪录频道",Asia Travel
-http://96.44.160.246:9999/smt.php?id=asiatravel_twn&h=96.44.160.246&p=5123
-#EXTINF:-1 tvg-id="asianet_raj" tvg-name="asianet" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5b051cd3be76c_NCN2.jpg" group-title="印度",Asianet
-http://96.44.160.246:9999/smt.php?id=asianet_raj&h=96.44.160.246&p=5123
-#EXTINF:-1 tvg-id="asianetnews_raj" tvg-name="asianet news" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5d89a68425e4f_5YMH.png" group-title="印度",Asianet News
-http://96.44.160.246:9999/smt.php?id=asianetnews_raj&h=96.44.160.246&p=5123
-#EXTINF:-1 tvg-id="go_badminton1" tvg-name="astro badminton" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6873536f40b50_nnOO.png" group-title="马来西亚",Astro Badminton
-http://96.44.160.246:9999/smt.php?id=go_badminton1&h=96.44.160.246&p=5123
-#EXTINF:-1 tvg-id="go_badminton1" tvg-name="astro badminton" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6873536f40b50_nnOO.png" group-title="体育频道",Astro Badminton
-http://96.44.160.246:9999/smt.php?id=go_badminton1&h=96.44.160.246&p=5123
-#EXTINF:-1 tvg-id="go_badminton2" tvg-name="astro badminton 2" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6873537eda97e_44L1.webp" group-title="马来西亚",Astro Badminton 2
+-name="astro badminton 2" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6873537eda97e_44L1.webp" group-title="马来西亚",Astro Badminton 2
 http://96.44.160.246:9999/smt.php?id=go_badminton2&h=96.44.160.246&p=5123
 #EXTINF:-1 tvg-id="go_badminton2" tvg-name="astro badminton 2" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6873537eda97e_44L1.webp" group-title="体育频道",Astro Badminton 2
 http://96.44.160.246:9999/smt.php?id=go_badminton2&h=96.44.160.246&p=5123
