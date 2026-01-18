@@ -1,39 +1,34 @@
 #EXTM3U
 
-#EXTINF:-1,Bein Sports 1
-http://96.44.160.246:9999/smt.php?id=Astrobein1
-#EXTINF:-1,Bein Sports 2
-http://96.44.160.246:9999/smt.php?id=Astrobein2
-#EXTINF:-1,Bein Sports 3
-http://96.44.160.246:9999/smt.php?id=Astrobein3
-#EXTINF:-1,Astro Premier League 1
-http://96.44.160.246:9999/smt.php?id=Assp1
-#EXTINF:-1,Astro Premier League 2
-http://96.44.160.246:9999/smt.php?id=Assp2
-#EXTINF:-1,Astro Grandstand
-http://96.44.160.246:9999/smt.php?id=Assp3
-#EXTINF:-1,Astro Football
-http://96.44.160.246:9999/smt.php?id=go_assp4
-#EXTINF:-1,W Sport
-http://96.44.160.246:9999/smt.php?id=go_assp5
-#EXTINF:-1,Astro Cricket
-http://96.44.160.246:9999/smt.php?id=Acricket
-#EXTINF:-1,Astro Sports Plus
-http://96.44.160.246:9999/smt.php?id=go_sportsplus
-#EXTINF:-1,Sky Sports Cricket
-http://96.44.160.246:9999/smt.php?id=tiankongcricket
-#EXTINF:-1,Sky Sports Premier League
-http://96.44.160.246:9999/smt.php?id=tiankongepl
-#EXTINF:-1,Sky Sports Main Event
-http://96.44.160.246:9999/smt.php?id=tiankongmain
-#EXTINF:-1,TNT Sports 1
-http://96.44.160.246:9999/smt.php?id=tntsport1
-#EXTINF:-1,TNT Sports 2
-http://96.44.160.246:9999/smt.php?id=tntsport2
-#EXTINF:-1,TNT Sports 3
-http://96.44.160.246:9999/smt.php?id=tntsport3
-#EXTINF:-1,TNT Sports 4
-http://96.44.160.246:9999/smt.php?id=tntsport4
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=79f4028730acca9ab8b00f26158ddb10:91febe843c08c7cc523efd827292e40e
+#EXTINF:-1 tvg-id="AstroFootball" ch-number="814" ch-number="814" tvg-logo="" group-title="Sports", Astro Football
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://ast.livecricketsl.live/proxy/sg.php/https://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default_ott.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"yLiGFCAF1+UGfIcXd36qxA", "kid":"gTUrxH7BF3syHuZawb5/EA" } ], "type":"temporary" }
+#EXTINF:-1 group-title="Sports" tvg-id="AstroSportsPlus" ch-number="817" tvg-logo="", Astro Sports Plus
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 Build/RTM5.220609.199; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
+https://ast.livecricketsl.live/proxy/sg.php/https://linearjitp-playback.astro.com.my/dash-wv/dashiso/5171/default_ott.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Fo8/rfxzC6PfyTL3xDDifQ", "kid":"W+Zqb4jv7j1uMPcqnFjjEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="810.astro" ch-number="813" tvg-logo="" group-title="Sports", Astro Grandstand 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
+https://ast.livecricketsl.live/proxy/sg.php/https://linearjitp-playback.astro.com.my/dash-wv/linear/2701/default_ott.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Bld//MSTW6JK/0xMndaEbQ", "kid":"m/61BoclYX261jOEc9ptEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="PremierSports" tvg-name="Premier Sports HD" group-title="AstroGO | SPORTS" group-logo="https://telegra.ph/file/ed0787b99b8153874c7e1.png" tvg-logo="https://iili.io/1mkKts.png",Premier Sports 
+https://ast.livecricketsl.live/proxy/sg.php/https://linearjitp-playback.astro.com.my/dash-wv/linear/2601/default_ott.mpd
+
 #EXTINF:-1,Fox Sports 1
 https://7pal.short.gy/fox501au
 #EXTINF:-1,Fox Sports 2
