@@ -10,6 +10,10 @@ http://c737ba5d.edemist.com/iptv/CF9WU32X7AZ3KM/9258/index.m3u8
 http://c737ba5d.edemist.com/iptv/CF9WU32X7AZ3KM/7343/index.m3u8
 #EXTINF:-1,Sky Sports Cricket                                                                          
 https://thksmom.shop/AE_1018/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Astro Cricket
+https://cdn-live-tv.ru/api/v1/channels/us-astro-cricket/index.m3u8
+
+
 #EXTINF:-1,Sky Sport Main Event
 http://c737ba5d.edemist.com/iptv/CF9WU32X7AZ3KM/9308/index.m3u8
 #EXTINF:-1,Sky Sport Main Event
