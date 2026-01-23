@@ -1,9 +1,13 @@
 #EXTM3U
 
-#EXTINF:-1,Astro Football
-https://cdn-live-tv.ru/api/v1/channels/us-astro-football/index.m3u8
+#EXTINF:-1,NBC
+http://143.244.60.30/NBC/index.m3u8
+#EXTINF:-1,USA NETWORK
+http://qe7abbli.megatv.fun/iptv/LBHN7YM3AWPMFD8DNH6SD3GR/1101/index.m3u8
 #EXTINF:-1,Astro Grandstand
 https://cdn-live-tv.ru/api/v1/channels/us-astro-grandstand/index.m3u8
+#EXTINF:-1,Astro Football
+https://cdn-live-tv.ru/api/v1/channels/us-astro-football/index.m3u8
 #EXTINF:-1,Sky Sport Cricket
 http://c737ba5d.edemist.com/iptv/CF9WU32X7AZ3KM/7343/index.m3u8
 #EXTINF:-1,Sky Sport Cricket                                                                          
