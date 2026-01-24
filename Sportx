@@ -1,4 +1,7 @@
 #EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTVLCOPT:http-user-agent=NSPlayer/12.00.9651.000
 
 #EXTINF:-1,Supersport Premier League
 http://qatarsky.live:8080/live/8292002872/99559955/69872.m3u8
