@@ -19,29 +19,9 @@ http://qatarsky.live:8080/live/8292002872/99559955/96871.m3u8
 #EXTINF:-1,Star Sports Select 2
 http://qatarsky.live:8080/live/8292002872/99559955/96872.m3u8
 #EXTINF:-1,NBC
-http://qatarsky.live:8080/live/8292002872/99559955/222438.m3u8
-#EXTINF:-1,USA Network
-http://qatarsky.live:8080/live/8292002872/99559955/74181.m3u8
-#EXTINF:-1,NBC
 http://143.244.60.30/NBC/index.m3u8
-#EXTINF:-1,USA NETWORK
-http://qe7abbli.megatv.fun/iptv/LBHN7YM3AWPMFD8DNH6SD3GR/1101/index.m3u8
-#EXTINF:-1,Astro Grandstand
-https://cdn-live-tv.ru/api/v1/channels/us-astro-grandstand/index.m3u8
-#EXTINF:-1,Astro Football
-https://cdn-live-tv.ru/api/v1/channels/us-astro-football/index.m3u8
-#EXTINF:-1,Sky Sport Cricket
-http://c737ba5d.edemist.com/iptv/CF9WU32X7AZ3KM/7343/index.m3u8
 #EXTINF:-1,Sky Sport Cricket                                                                          
 https://thksmom.shop/AE_1018/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Astro Cricket
-https://cdn-live-tv.ru/api/v1/channels/us-astro-cricket/index.m3u8
-#EXTINF:-1,Fox Cricket
-http://c737ba5d.edemist.com/iptv/CF9WU32X7AZ3KM/19146/index.m3u8
-#EXTINF:-1,Willow Cricket
-http://badacbe6.tvclub.xyz/iptv/98F739YL28D899/31131/index.m3u8
-#EXTINF:-1,Willow Cricket
-http://6zirt9yx.otttv.pw/iptv/HEGN4VXXQQSYCA/31131/index.m3u8
 #EXTINF:-1,Sky Sports Football
 http://178.33.239.54:8080/500a/index.m3u8
 #EXTINF:-1,Sky Sports News
