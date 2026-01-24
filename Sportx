@@ -22,6 +22,10 @@ http://qatarsky.live:8080/live/8292002872/99559955/96872.m3u8
 http://143.244.60.30/NBC/index.m3u8
 #EXTINF:-1,Sky Sport Cricket                                                                          
 https://thksmom.shop/AE_1018/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Astro Cricket
+http://qatarsky.live:8080/live/8292002872/99559955/103210.m3u8
+#EXTINF:-1,Fox Cricket
+http://qatarsky.live:8080/live/8292002872/99559955/97630.m3u8
 #EXTINF:-1,Sky Sports Football
 http://178.33.239.54:8080/500a/index.m3u8
 #EXTINF:-1,Sky Sports News
