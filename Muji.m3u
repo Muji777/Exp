@@ -31,19 +31,12 @@ https://dtv.vingt.qzz.io/dtv/8813/master.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://dtv-wv.b-cdn.net/channel?ccid=8815
 https://dtv.vingt.qzz.io/dtv/8815/master.m3u8
 
-#EXTINF:-1,NBC
+#EXTINF:-1,HGTV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.license_type=widevine
 #KODIPROP:inputstream.adaptive.license_key=https://dtv-wv.b-cdn.net/channel?ccid=8244
 https://dtv.vingt.qzz.io/dtv/8244/master.m3u8
-
-#EXTINF:-1,HGTV
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://dtv-wv.b-cdn.net/channel?ccid=8815
-https://dtv.vingt.qzz.io/dtv/8815/master.m3u8
 
 #EXTINF:-1,NatGeo Wild
 #KODIPROP:inputstreamaddon=inputstream.adaptive
