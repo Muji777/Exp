@@ -1,4 +1,7 @@
 #EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTVLCOPT:http-user-agent=NSPlayer/12.00.9651.000
 
 #EXTINF:-1,Fox Sports 1
 https://7pal.short.gy/fox501au
