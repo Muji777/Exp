@@ -3,6 +3,13 @@
 #EXT-X-MEDIA-SEQUENCE:0
 #EXTVLCOPT:http-user-agent=NSPlayer/12.00.9651.000
 
+#EXTINF:-1 tvg-logo="https://dtv.vingt.qzz.io/logo/ba49e669-31ec-499c-9ede-3c766016226e" group-title="DIRECTV" group-logo="https://i.imgur.com/WwiDAm4.png",ABC News Live
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://dtv-wv.b-cdn.net/channel?ccid=1001501
+https://dtv.vingt.qzz.io/dtv/1001501/master.m3u8
+
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=27c8a08eabcd4bbc88eda3690cbf6aaf:bb078e32f6df14ca97bff5b8aee8caf5
