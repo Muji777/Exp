@@ -74,7 +74,7 @@ https://dtv.vingt.qzz.io/dtv/3291/master.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.license_type=widevine
 #KODIPROP:inputstream.adaptive.license_key=https://dtv-wv.b-cdn.net/channel?ccid=100392
-https://dtv.vingt.qzz.io/dtv/100392/master.m3u8
+https://dtv.vingt.qzz.io/dtv/1003292/master.m3u8
 
 #EXTINF:-1,Willow Sports HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
