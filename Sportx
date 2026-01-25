@@ -17,6 +17,30 @@ https://dtv.vingt.qzz.io/dtv/8815/master.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://dtv-wv.b-cdn.net/channel?ccid=8273
 https://dtv.vingt.qzz.io/dtv/8273/master.m3u8
 
+#EXTINF:-1,Sky Sport Cricket                                                                          
+https://thksmom.shop/AE_1018/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Willow Sports 1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://dtv-wv.b-cdn.net/channel?ccid=3291
+https://dtv.vingt.qzz.io/dtv/3291/master.m3u8
+
+#EXTINF:-1,Willow Sports 2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://dtv-wv.b-cdn.net/channel?ccid=100392
+https://dtv.vingt.qzz.io/dtv/1003292/master.m3u
+
+#EXTINF:-1,Willow Sports HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://dtv-wv.b-cdn.net/channel?ccid=1001610
+https://dtv.vingt.qzz.io/dtv/1001610/master.m3u8
+
 #EXTINF:-1,Supersport Premier League
 http://qatarsky.live:8080/live/8292002872/99559955/69872.m3u8
 #EXTINF:-1,Supersport Premier League
@@ -34,9 +58,7 @@ http://qatarsky.live:8080/live/8292002872/99559955/293553.m3u8
 http://qatarsky.live:8080/live/8292002872/99559955/292835.m3u8
 #EXTINF:-1,Sky Sports Cricket
 http://qatarsky.live:8080/live/8292002872/99559955/70130.m3u8
-#EXTINF:-1,Sky Sport Cricket                                                                          
-https://thksmom.shop/AE_1018/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Astro Cricket
+                                                            #EXTINF:-1,Astro Cricket
 http://qatarsky.live:8080/live/8292002872/99559955/292836.m3u8
 #EXTINF:-1,Fox Cricket
 http://qatarsky.live:8080/live/8292002872/99559955/279020.m3u8
