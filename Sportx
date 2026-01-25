@@ -16,10 +16,10 @@ http://qatarsky.live:8080/live/8292002872/99559955/292835.m3u8
 http://qatarsky.live:8080/live/8292002872/99559955/107684.m3u8
 #EXTINF:-1,Hub Sports Premier League
 http://qatarsky.live:8080/live/8292002872/99559955/293553.m3u8
-#EXTINF:-1,Sky Sports Cricket
-http://qatarsky.live:8080/live/8292002872/99559955/70130.m3u8
 #EXTINF:-1,Supersport Cricket
 http://qatarsky.live:8080/live/8292002872/99559955/292835.m3u8
+#EXTINF:-1,Sky Sports Cricket
+http://qatarsky.live:8080/live/8292002872/99559955/70130.m3u8
 #EXTINF:-1,Sky Sport Cricket                                                                          
 https://thksmom.shop/AE_1018/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Astro Cricket
@@ -28,9 +28,7 @@ http://qatarsky.live:8080/live/8292002872/99559955/292836.m3u8
 http://qatarsky.live:8080/live/8292002872/99559955/279020.m3u8
 #EXTINF:-1,Sky Sports News
 http://qatarsky.live:8080/live/8292002872/99559955/83875.m3u8
-                                                                            #EXTINF:-1,Cricket Gold
-https://d1nj4u39ja4cn0.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/FLS-MuxIP-CricketGold/418.m3u8
-#EXTINF:-1,TNT Sports 1
+                                                                          #EXTINF:-1,TNT Sports 1
 http://qatarsky.live:8080/live/8292002872/99559955/83837.m3u8
 #EXTINF:-1,TNT Sports 2
 http://qatarsky.live:8080/live/8292002872/99559955/83841.m3u8
