@@ -1,6 +1,13 @@
 #EXTM3U
 #EXTVLCOPT:http-user-agent=NSPlayer/12.00.9651.000
 
+#EXTINF:-1 tvg-id="" channel-number="112" group-title="",Hub Premier 11 HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e2a1e56e9f1e4f1d8fc4b129a4c6162c:a7e50888cdc875f51f23607c3c9a012e
+https://ucdn.starhubgo.com/bpk-tv/HubPremier11HD/output/manifest.mpd
+
 #EXTINF:-1,Fox Sports 1
 https://7pal.short.gy/fox501au
 #EXTINF:-1,Fox Sports 2
