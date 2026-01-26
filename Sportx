@@ -1,6 +1,4 @@
 #EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-MEDIA-SEQUENCE:0
 #EXTVLCOPT:http-user-agent=NSPlayer/12.00.9651.000
 
 #EXTINF:-1,USA Network
@@ -17,7 +15,8 @@ https://dtv.vingt.qzz.io/dtv/8273/master.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://dtv-wv.b-cdn.net/channel?ccid=3291
 https://dtv.vingt.qzz.io/dtv/3291/master.m3u8
 
-#EXTINF:-1,Willow Sports 2 #KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTINF:-1,Willow Sports 2 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.license_type=widevine
 #KODIPROP:inputstream.adaptive.license_key=https://dtv-wv.b-cdn.net/channel?ccid=1003292
@@ -61,19 +60,22 @@ http://185.18.56.26:8888/hbo2/index.m3u8
 #EXTINF:-1,HBO 3
 http://185.18.56.26:8888/hbo3/index.m3u8
 
-#EXTINF:-1,HBO East #KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTINF:-1,HBO East
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.license_type=widevine
 #KODIPROP:inputstream.adaptive.license_key=https://dtv-wv.b-cdn.net/channel?ccid=1967
 https://dtv.vingt.qzz.io/dtv/1967/master.m3u8
 
-#EXTINF:-1,HBO West #KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTINF:-1,HBO West
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.license_type=widevine
 #KODIPROP:inputstream.adaptive.license_key=https://dtv-wv.b-cdn.net/channel?ccid=8219
 https://dtv.vingt.qzz.io/dtv/8219/master.m3u8
 
-#EXTINF:-1,HBO Movies #KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTINF:-1,HBO Movies
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.license_type=widevine
 #KODIPROP:inputstream.adaptive.license_key=https://dtv-wv.b-cdn.net/channel?ccid=3779
