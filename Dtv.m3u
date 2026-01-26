@@ -1,6 +1,4 @@
 #EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-MEDIA-SEQUENCE:0
 #EXTVLCOPT:http-user-agent=NSPlayer/12.00.9651.000
 
 #EXTINF:-1 tvg-logo="https://dtv.vingt.qzz.io/logo/0ceb396e-86d0-417f-99a2-5de1f3366743" group-title="DIRECTV",20/20
