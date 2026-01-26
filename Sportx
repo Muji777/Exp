@@ -55,6 +55,24 @@ http://185.18.56.26:8888/hbo2/index.m3u8
 #EXTINF:-1,HBO 3
 http://185.18.56.26:8888/hbo3/index.m3u8
 
+#EXTINF:-1,HBO East #KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://dtv-wv.b-cdn.net/channel?ccid=1967
+https://dtv.vingt.qzz.io/dtv/1967/master.m3u8
+
+#EXTINF:-1,HBO West #KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://dtv-wv.b-cdn.net/channel?ccid=8219
+https://dtv.vingt.qzz.io/dtv/8219/master.m3u8
+
+#EXTINF:-1,HBO Movies #KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://dtv-wv.b-cdn.net/channel?ccid=3779
+https://dtv.vingt.qzz.io/dtv/3779/master.m3u8
+
 #EXTINF:-1,Cinemax Action
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
