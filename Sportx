@@ -1,6 +1,9 @@
 #EXTM3U
 #EXTVLCOPT:http-user-agent=NSPlayer/12.00.9651.000
 
+#EXTINF:63 group-title="StarHub" tvg-id="starhub/hubpremier24k" tvg-logo="" provider="StarHub" provider-logo="" provider-type="iptv",Hub Premier 2 4K
+http://de.mitalive.com:2095/stream/starhub/hubpremier24k/master.m3u8?u=test&p=252e9d2963cd2ce281c30dadd2c53c1ba4a547602f835a33a98739d6e23c78cb
+
 #EXTINF:-1,USA Network
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
