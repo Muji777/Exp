@@ -1,6 +1,4 @@
 #EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-MEDIA-SEQUENCE:0
 #EXTVLCOPT:http-user-agent=NSPlayer/12.00.9651.000
 
 #EXTINF:-1,Animal Planet US
