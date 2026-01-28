@@ -92,9 +92,6 @@ https://dtv.vingt.qzz.io/dtv/8219/master.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://dtv-wv.b-cdn.net/channel?ccid=3779
 https://dtv.vingt.qzz.io/dtv/3779/master.m3u8
 
-
-
-
 #EXTINF:-1,Cinemax
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
@@ -109,6 +106,13 @@ https://dtv.vingt.qzz.io/dtv/3340/master.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://dtv-wv.b-cdn.net/channel?ccid=8267
 https://dtv.vingt.qzz.io/dtv/8267/master.m3u8
 
+#EXTINF:-1,Cinemax East
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://dtv-wv.b-cdn.net/channel?ccid=8214
+https://dtv.vingt.qzz.io/dtv/8214/master.m3u8
+
 #EXTINF:-1,Cinemax Hits
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
@@ -122,13 +126,6 @@ https://dtv.vingt.qzz.io/dtv/4066/master.m3u8
 #KODIPROP:inputstream.adaptive.license_type=widevine
 #KODIPROP:inputstream.adaptive.license_key=https://dtv-wv.b-cdn.net/channel?ccid=4067
 https://dtv.vingt.qzz.io/dtv/4067/master.m3u8
-
-#EXTINF:-1,Cinemax East
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://dtv-wv.b-cdn.net/channel?ccid=8214
-https://dtv.vingt.qzz.io/dtv/8214/master.m3u8
 
 #EXTINF:-1,CINEMAX
 http://143.244.60.30/CINEMAX/index.m3u8
