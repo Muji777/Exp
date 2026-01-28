@@ -43,10 +43,10 @@ https://dtv.vingt.qzz.io/dtv/1001610/master.m3u8
 https://15.tvtm.one/ch2444/index.m3u8?token=rimar88.v2_qaxS7g_qv5ZokMriWetWyr03Xnn4ONOSaY-oYHkdUEiuRbpbWH-RVi6y1P-JTqx2h3Skq4i4tsf2
 #EXTINF:-1,Sky Sports Cricket
 http://178.33.239.54:8080/503a/index.m3u8
-#EXTINF:-1,Sky Sports Main Event
-http://6zirt9yx.otttv.pw/iptv/HEGN4VXXQQSYCA/7337/index.m3u8
 #EXTINF:-1,Sky Sports Cricket
 http://6zirt9yx.otttv.pw/iptv/HEGN4VXXQQSYCA/9258/index.m3u8
+#EXTINF:-1,Sky Sports Main Event
+http://6zirt9yx.otttv.pw/iptv/HEGN4VXXQQSYCA/7337/index.m3u8
 #EXTINF:-1,Sky Sports News
 http://6zirt9yx.otttv.pw/iptv/HEGN4VXXQQSYCA/9314/index.m3u8
 #EXTINF:-1,TNT Sport 1 
