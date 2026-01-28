@@ -7,7 +7,6 @@ http://178.33.239.54:8080/506b/index.m3u8
 https://15.tvtm.one/ch1554/index.m3u8?token=rimar88.v2_cEfDxjQZmrgzDkC1jStFPsm7RaGGs2-omAoSDnOh88ErCnDLUwbcDuZ0mBsqtEGnePrDrjLYaVm-
 #EXTINF:-1,Sky Sports Premier League
 http://6zirt9yx.otttv.pw/iptv/HEGN4VXXQQSYCA/9334/index.m3u8
-
 #EXTINF:63 group-title="StarHub" tvg-id="starhub/hubpremier24k" tvg-logo="" provider="StarHub" provider-logo="" provider-type="iptv",Hub Premier 2 4K
 http://de.mitalive.com:2095/stream/starhub/hubpremier24k/master.m3u8?u=test&p=252e9d2963cd2ce281c30dadd2c53c1ba4a547602f835a33a98739d6e23c78cb
 
@@ -61,7 +60,7 @@ http://qe7abbli.megatv.fun/iptv/LBHN7YM3AWPMFD8DNH6SD3GR/2506/index.m3u8
 http://qe7abbli.megatv.fun/iptv/LBHN7YM3AWPMFD8DNH6SD3GR/6564/index.m3u8
 #EXTINF:-1,TNT Sport 4
 http://75be7132.rostelekom.xyz/iptv/R3A7B6MZZFDCUL/19054/index.m3u8
-                                                                  #EXTINF:-1,FIFA+ TV
+#EXTINF:-1,FIFA+ TV
 https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
 #EXTINF:-1,DAZN Ringside
 https://aegis-cloudfront-1.tubi.video/bfad29e2-5bee-44f3-8256-127324e8b106/playlist.m3u8
