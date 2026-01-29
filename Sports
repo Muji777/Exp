@@ -2,52 +2,16 @@
 #EXTVLCOPT:http-user-agent=NSPlayer/12.00.9651.000
 
 
-#EXTINF:-1,Bein Sports 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
+
 
 #EXTINF:63 group-title="StarHub" tvg-id="starhub/hubpremier24k" tvg-logo="" provider="StarHub" provider-logo="" provider-type="iptv",[StarHub] Hub Premier 2 4K
 http://de.mitalive.com:2095/stream/starhub/hubpremier24k/master.m3u8?u=test&p=252e9d2963cd2ce281c30dadd2c53c1ba4a547602f835a33a98739d6e23c78cb
 
-#EXTINF:-1,Fox Sports 1
-https://7pal.short.gy/fox501au
-#EXTINF:-1,Fox Sports 2
-https://7pal.short.gy/fox502au
-#EXTINF:-1,Fox Sports 3
-https://7pal.short.gy/fox503au
-#EXTINF:-1,Fox Sports 4
-https://7pal.short.gy/fox504au
-#EXTINF:-1,Fox Sports 5
-https://7pal.short.gy/fox505au
-#EXTINF:-1,Fox Sports 6
-https://7pal.short.gy/fox506au
-#EXTINF:-1,Fox Sports 7
-https://7pal.short.gy/fox507au
-#EXTINF:-1,Sky Sports 1
-https://7pal.short.gy/skyspt1nz
-#EXTINF:-1,Sky Sports 2
-https://7pal.short.gy/skyspt2nz
-#EXTINF:-1,Sky Sports 3
-https://7pal.short.gy/skyspt3nz
-#EXTINF:-1,Sky Sports 4
-https://7pal.short.gy/skyspt4nz
-#EXTINF:-1,Sky Sports 5
-https://7pal.short.gy/skyspt5nz
-#EXTINF:-1,Sky Sports 6
-https://7pal.short.gy/skyspt6nz
-#EXTINF:-1,Sky Sports 7
-https://7pal.short.gy/skyspt7nz
-#EXTINF:-1,Sky Sports 8
-https://7pal.short.gy/skyspt8nz
 #EXTINF:-1,Premier Sports 1
 http://6zirt9yx.otttv.pw/iptv/HEGN4VXXQQSYCA/2160/index.m3u8
 #EXTINF:-1,Premier Sports 2
 http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/2069/index.m3u8
-#EXTINF:-1,Premier Sports 1
-https://7pal.short.gy/TNTUltimate
-#EXTINF:-1,Premier Sports 2
-https://7pal.short.gy/prsport2
+
 
 #EXTINF:-1 tvg-id=""TNT 1"" tvg-logo="https://i.ibb.co.com/7dNPfNGB/Tntsports1.png" group-title="SPORTS",TNT SPORTS 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
