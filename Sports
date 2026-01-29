@@ -1,6 +1,12 @@
 #EXTM3U
 #EXTVLCOPT:http-user-agent=NSPlayer/12.00.9651.000
 
+
+#EXTINF:-1,Bein Sports 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
+
 #EXTINF:63 group-title="StarHub" tvg-id="starhub/hubpremier24k" tvg-logo="" provider="StarHub" provider-logo="" provider-type="iptv",[StarHub] Hub Premier 2 4K
 http://de.mitalive.com:2095/stream/starhub/hubpremier24k/master.m3u8?u=test&p=252e9d2963cd2ce281c30dadd2c53c1ba4a547602f835a33a98739d6e23c78cb
 
