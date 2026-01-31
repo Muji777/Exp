@@ -1,20 +1,6 @@
 #EXTM3U
 #EXTVLCOPT:http-user-agent=NSPlayer/12.00.9651.000
 
-#EXTINF:-1,Sky Sports Premier League
-http://178.33.239.54:8080/506b/index.m3u8
-#EXTINF:-1,Sky Sports Premier League
-http://6zirt9yx.otttv.pw/iptv/HEGN4VXXQQSYCA/9334/index.m3u8
-
-#EXTINF:-1,Astro Premier League 1
-https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Astpl.m3u8
-#EXTINF:-1,Astro Premier League 2
-https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Astpl2.m3u8
-#EXTINF:-1,Astro Football
-https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Astpl3.m3u8
-#EXTINF:-1,Astro Sports Plus
-https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Astpl4.m3u8
-
 #EXTINF:-1,NBC
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
@@ -28,6 +14,19 @@ https://dtv.vingt.qzz.io/dtv/8815/master.m3u8
 #KODIPROP:inputstream.adaptive.license_type=widevine
 #KODIPROP:inputstream.adaptive.license_key=https://dtv-wv.b-cdn.net/channel?ccid=8273
 https://dtv.vingt.qzz.io/dtv/8273/master.m3u8
+
+#EXTINF:-1,Sky Sports Premier League
+http://178.33.239.54:8080/506b/index.m3u8
+#EXTINF:-1,Sky Sports Premier League
+http://6zirt9yx.otttv.pw/iptv/HEGN4VXXQQSYCA/9334/index.m3u8
+#EXTINF:-1,Astro Premier League 1
+https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Astpl.m3u8
+#EXTINF:-1,Astro Premier League 2
+https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Astpl2.m3u8
+#EXTINF:-1,Astro Football
+https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Astpl3.m3u8
+#EXTINF:-1,Astro Sports Plus
+https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Astpl4.m3u8
 
 #EXTINF:-1,Willow Cricket 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
