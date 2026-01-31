@@ -1,5 +1,6 @@
 #EXTM3U
 #EXTVLCOPT:http-user-agent=NSPlayer/12.00.9651.000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 
 #EXTINF:-1,NBC
 #KODIPROP:inputstreamaddon=inputstream.adaptive
