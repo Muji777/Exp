@@ -1,5 +1,4 @@
 #EXTM3U
-#EXTVLCOPT:http-user-agent=NSPlayer/12.00.9651.000
 
 #EXTINF:-1,Fubo Sports 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
