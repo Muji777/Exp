@@ -1,5 +1,4 @@
 #EXTM3U
-#EXTVLCOPT:http-user-agent=NSPlayer/12.00.9651.000
 
 #EXTINF:-1,Animal Planet US
 #KODIPROP:inputstreamaddon=inputstream.adaptive
