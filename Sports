@@ -1,5 +1,4 @@
 #EXTM3U
-#EXTVLCOPT:http-user-agent=NSPlayer/12.00.9651.000           
 
 #EXTINF:-1 tvg-id=""TNT 1"" tvg-logo="https://i.ibb.co.com/7dNPfNGB/Tntsports1.png" group-title="SPORTS",TNT SPORTS 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
