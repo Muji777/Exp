@@ -1,17 +1,5 @@
 #EXTM3U
-#EXTVLCOPT:http-user-agent=NSPlayer/12.00.9651.000
-
-
-
-
-#EXTINF:63 group-title="StarHub" tvg-id="starhub/hubpremier24k" tvg-logo="" provider="StarHub" provider-logo="" provider-type="iptv",[StarHub] Hub Premier 2 4K
-http://de.mitalive.com:2095/stream/starhub/hubpremier24k/master.m3u8?u=test&p=252e9d2963cd2ce281c30dadd2c53c1ba4a547602f835a33a98739d6e23c78cb
-
-#EXTINF:-1,Premier Sports 1
-http://6zirt9yx.otttv.pw/iptv/HEGN4VXXQQSYCA/2160/index.m3u8
-#EXTINF:-1,Premier Sports 2
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/2069/index.m3u8
-
+#EXTVLCOPT:http-user-agent=NSPlayer/12.00.9651.000           
 
 #EXTINF:-1 tvg-id=""TNT 1"" tvg-logo="https://i.ibb.co.com/7dNPfNGB/Tntsports1.png" group-title="SPORTS",TNT SPORTS 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
