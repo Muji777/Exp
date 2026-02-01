@@ -20,14 +20,6 @@ https://dtv.vingt.qzz.io/dtv/8273/master.m3u8
 http://178.33.239.54:8080/506b/index.m3u8
 #EXTINF:-1,Sky Sports Premier League
 http://6zirt9yx.otttv.pw/iptv/HEGN4VXXQQSYCA/9334/index.m3u8
-#EXTINF:-1,Astro Premier League 1
-https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Astpl.m3u8
-#EXTINF:-1,Astro Premier League 2
-https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Astpl2.m3u8
-#EXTINF:-1,Astro Football
-https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Astpl3.m3u8
-#EXTINF:-1,Astro Sports Plus
-https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Astpl4.m3u8
 #EXTINF:-1,TNT Sport 1 
 http://qe7abbli.megatv.fun/iptv/LBHN7YM3AWPMFD8DNH6SD3GR/6566/index.m3u8
 #EXTINF:-1,TNT Sport 2
