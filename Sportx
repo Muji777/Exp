@@ -2,6 +2,33 @@
 
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
 
+#EXTINF:-1,Arena Premium 1
+http://169.150.223.25/ArenaPremium1HD/index.m3u8
+#EXTINF:-1,Arena Premium 2
+http://169.150.223.25/ArenaPremium2HD/index.m3u8
+#EXTINF:-1,Arena Premium 3
+http://169.150.223.25/ArenaPremium3HD/index.m3u8
+#EXTINF:-1,Arena Sports 1
+http://169.150.223.25/ArenaSport1HD/index.m3u8
+#EXTINF:-1,Arena Sports 2
+http://169.150.223.25/ArenaSport2HD/index.m3u8
+#EXTINF:-1,Arena Sports 3
+http://169.150.223.25/ArenaSport3HD/index.m3u8
+#EXTINF:-1,Arena Sports 4
+http://169.150.223.25/ArenaSport4HD/index.m3u8
+#EXTINF:-1,Arena Sports 5
+http://169.150.223.25/ArenaSport5HD/index.m3u8
+#EXTINF:-1,Arena Sports 6
+http://169.150.223.25/ArenaSport6HD/index.m3u8
+#EXTINF:-1,Arena Sports 7
+http://169.150.223.25/ArenaSport7HD/index.m3u8
+#EXTINF:-1,Arena Sports 8
+http://169.150.223.25/ArenaSport8HD/index.m3u8
+#EXTINF:-1,Arena Sports 9
+http://169.150.223.25/ArenaSport9HD/index.m3u8
+#EXTINF:-1,Arena Sports 10
+http://169.150.223.25/ArenaSport10HD/index.m3u8
+
 #EXTINF:-1,NBC
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
@@ -15,19 +42,6 @@ https://dtv.vingt.qzz.io/dtv/8815/master.m3u8
 #KODIPROP:inputstream.adaptive.license_type=widevine
 #KODIPROP:inputstream.adaptive.license_key=https://dtv-wv.b-cdn.net/channel?ccid=8273
 https://dtv.vingt.qzz.io/dtv/8273/master.m3u8
-
-#EXTINF:-1,Sky Sports Premier League
-http://178.33.239.54:8080/506b/index.m3u8
-#EXTINF:-1,Sky Sports Premier League
-http://6zirt9yx.otttv.pw/iptv/HEGN4VXXQQSYCA/9334/index.m3u8
-#EXTINF:-1,TNT Sport 1 
-http://qe7abbli.megatv.fun/iptv/LBHN7YM3AWPMFD8DNH6SD3GR/6566/index.m3u8
-#EXTINF:-1,TNT Sport 2
-http://qe7abbli.megatv.fun/iptv/LBHN7YM3AWPMFD8DNH6SD3GR/2506/index.m3u8
-#EXTINF:-1,TNT Sport 3
-http://qe7abbli.megatv.fun/iptv/LBHN7YM3AWPMFD8DNH6SD3GR/6564/index.m3u8
-#EXTINF:-1,TNT Sport 4
-http://75be7132.rostelekom.xyz/iptv/R3A7B6MZZFDCUL/19054/index.m3u8
 
 #EXTINF:-1,Willow Cricket 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -50,17 +64,11 @@ https://dtv.vingt.qzz.io/dtv/1003292/master.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://dtv-wv.b-cdn.net/channel?ccid=1001610
 https://dtv.vingt.qzz.io/dtv/1001610/master.m3u8
 
-#EXTINF:-1,Sky Sports Cricket
-http://178.33.239.54:8080/503a/index.m3u8
-#EXTINF:-1,Sky Sports Cricket
-http://6zirt9yx.otttv.pw/iptv/HEGN4VXXQQSYCA/9258/index.m3u8
-#EXTINF:-1,Sky Sport Cricket                                                                          
+#EXTINF:-1,Sky Sports Cricket                                                                          
 https://thksmom.shop/AE_1018/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Fox Sports Cricket
 http://75be7132.rostelekom.xyz/iptv/R3A7B6MZZFDCUL/19146/index.m3u8
 http://6zirt9yx.otttv.pw/iptv/HEGN4VXXQQSYCA/7337/index.m3u8
-#EXTINF:-1,Sky Sports News
-http://6zirt9yx.otttv.pw/iptv/HEGN4VXXQQSYCA/9314/index.m3u8
 #EXTINF:-1,FIFA+ TV
 https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
 #EXTINF:-1,DAZN Ringside
