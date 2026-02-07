@@ -20,12 +20,6 @@ https://dtv.vingt.qzz.io/dtv/8273/master.m3u8
 http://178.33.239.54:8080/506b/index.m3u8
 #EXTINF:-1,Sky Sports Premier League
 http://6zirt9yx.otttv.pw/iptv/HEGN4VXXQQSYCA/9334/index.m3u8
-#EXTINF:-1,Astro Premier League 1
-https://live.catvod.com/live.php?id=Assp1
-#EXTINF:-1,Astro Premier League 2
-https://live.catvod.com/live.php?id=go_assp2
-#EXTINF:-1,Astro Grandstand
-https://live.catvod.com/live.php?id=go_assp3
 #EXTINF:-1,TNT Sport 1 
 http://qe7abbli.megatv.fun/iptv/LBHN7YM3AWPMFD8DNH6SD3GR/6566/index.m3u8
 #EXTINF:-1,TNT Sport 2
@@ -64,9 +58,6 @@ http://6zirt9yx.otttv.pw/iptv/HEGN4VXXQQSYCA/9258/index.m3u8
 https://thksmom.shop/AE_1018/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Fox Sports Cricket
 http://75be7132.rostelekom.xyz/iptv/R3A7B6MZZFDCUL/19146/index.m3u8
-#EXTINF:-1,Astro Cricket
-https://live.catvod.com/live.php?id=Acricket
-#EXTINF:-1,Sky Sports Main Event
 http://6zirt9yx.otttv.pw/iptv/HEGN4VXXQQSYCA/7337/index.m3u8
 #EXTINF:-1,Sky Sports News
 http://6zirt9yx.otttv.pw/iptv/HEGN4VXXQQSYCA/9314/index.m3u8
@@ -147,10 +138,6 @@ http://143.244.60.30/SHOWTIME/index.m3u8
 http://143.244.60.30/SHOWTIME_2/index.m3u8
 #EXTINF:-1,Warner Tv
 https://cdn4.skygo.mn/live/disk1/Warner/HLSv3-FTA/Warner.m3u8
-#EXTINF:-1,Zee Cinema
-https://live.catvod.com/live.php?id=Zeecinemahd
-#EXTINF:-1,Zee Tv
-https://live.catvod.com/live.php?id=Zeetvhd
 ‎‎#EXTINF:-1,MBC Bollywood
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8
 #EXTINF:-1,Shemaroo Bollywood
