@@ -28,48 +28,6 @@ http://169.150.223.25/ArenaSport8HD/index.m3u8
 http://169.150.223.25/ArenaSport9HD/index.m3u8
 #EXTINF:-1,Arena Sports 10
 http://169.150.223.25/ArenaSport10HD/index.m3u8
-#EXTINF:-1,BeIN Sports 4K
-https://firinmakinesi.lol/static/bs11.m3u8
-#EXTINF:-1,BeIN Sports 1
-https://firinmakinesi.lol/static/bs1.m3u8
-#EXTINF:-1,BeIN Sports UHD 2
-https://firinmakinesi.lol/static/bs2.m3u8
-#EXTINF:-1,BeIN Sports UHD 3
-https://firinmakinesi.lol/static/bs3.m3u8
-#EXTINF:-1,BeIN Sports UHD 4
-https://firinmakinesi.lol/static/bs4.m3u8
-#EXTINF:-1,BeIN Sports UHD 5
-https://firinmakinesi.lol/static/bs5.m3u8
-#EXTINF:-1,S SPORT HD 1
-https://firinmakinesi.lol/static/ss11.m3u8
-#EXTINF:-1,S SPORT HD 2
-https://firinmakinesi.lol/static/ss2.m3u8
-#EXTINF:-1,S SPORT+ PLUS HD
-https://firinmakinesi.lol/static/pl1.m3u8
-#EXTINF:-1,S SPORT+ PLUS HD 2
-https://firinmakinesi.lol/static/pl2.m3u8
-#EXTINF:-1,S SPORT+ PLUS HD 3
-https://firinmakinesi.lol/static/pl3.m3u8
-#EXTINF:-1,S SPORT+ PLUS HD 4
-https://firinmakinesi.lol/static/pl4.m3u8
-#EXTINF:-1,S SPORT+ PLUS HD 5
-https://firinmakinesi.lol/static/pl5.m3u8
-#EXTINF:-1,S SPORT+ PLUS HD 6
-https://firinmakinesi.lol/static/pl6.m3u8
-#EXTINF:-1,TABİİ SPOR HD
-https://firinmakinesi.lol/static/tabi.m3u8
-#EXTINF:-1,TABİİ SPOR 1 HD
-https://firinmakinesi.lol/static/tabi1.m3u8
-#EXTINF:-1,TABİİ SPOR HD 2
-https://firinmakinesi.lol/static/tabi2.m3u8
-#EXTINF:-1,TABİİ SPOR HD 3
-https://firinmakinesi.lol/static/tabi3.m3u8
-#EXTINF:-1,TABİİ SPOR HD 4
-https://firinmakinesi.lol/static/tabi4.m3u8
-#EXTINF:-1,TABİİ SPOR HD 5
-https://firinmakinesi.lol/static/tabi5.m3u8
-#EXTINF:-1,TABİİ SPOR HD 6
-https://firinmakinesi.lol/static/tabi6.m3u8
 
 #EXTINF:-1,NBC
 #KODIPROP:inputstreamaddon=inputstream.adaptive
