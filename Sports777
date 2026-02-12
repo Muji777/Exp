@@ -24,13 +24,9 @@ https://ast.livecricketsl.live/proxy/sg.php/https://linearjitp-playback.astro.co
 #KODIPROP:inputstream.adaptive.license_key=03c2e0af2f8159f9f0ce9b5dbc865f10:cd84ed136b0cc71f8ab8cd4d4f6a2e4c
 https://ast.livecricketsl.live/proxy/sg.php/https://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default_ott.mpd
 
-
-
-
-
+#EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/vidio/premier-league-tv.jpg" group-title="SPORTS", PREMIER LEAGUE TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
-#EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/vidio/premier-league-tv.jpg" group-title="SPORTS", PREMIER LEAGUE TV 🇺🇸
 https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
 
 #EXTINF:-1 tvg-id=""TNT 1"" tvg-logo="https://i.ibb.co.com/7dNPfNGB/Tntsports1.png" group-title="SPORTS",TNT SPORTS 1
