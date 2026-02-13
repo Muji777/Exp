@@ -28,6 +28,14 @@ http://169.150.223.25/ArenaSport8HD/index.m3u8
 http://169.150.223.25/ArenaSport9HD/index.m3u8
 #EXTINF:-1,Arena Sports 10
 http://169.150.223.25/ArenaSport10HD/index.m3u8
+#EXTINF:-1,TNT Sports 1
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HBX28K5SXCR6EH/6566/index.m3u8
+#EXTINF:-1,TNT Sports 2
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HBX28K5SXCR6EH/2506/index.m3u8
+#EXTINF:-1,TNT Sports 3
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HBX28K5SXCR6EH/6564/index.m3u8
+#EXTINF:-1,TNT Sports 4
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HBX28K5SXCR6EH/19054/index.m3u8
 
 #EXTINF:-1,NBC
 #KODIPROP:inputstreamaddon=inputstream.adaptive
