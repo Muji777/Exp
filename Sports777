@@ -1,5 +1,12 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="CM+" tvg-name="CM+" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/zh_tw/color/ch538_160_115" group-title="", CM+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=777f4218621d33fba184913d2ef08c99:1825d60a6c2cb14653b43eb42f441ea2,1f51f70553e037cc99a69c662d99b606:cfc954bf5e07a873bb815201984f86f7
+https://channel.singtelcast.com/out/v1/empcg-singtel-cast3-prdiz-channel-group-default/empc-singtel-cast3-prdiz-channel-6571/empcoe-singtel-cast3-prdiz-channel-6571-dash/index-dash.mpd
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/543_144.png" group-title="WORLD SPORTS",ASTRO GRANDSTAND
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
