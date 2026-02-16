@@ -81,7 +81,7 @@ https://dtv.vingt.qzz.io/dtv/1001610/master.m3u8
 
 #EXTINF:-1,Sky Sports Cricket                                                                          
 https://thksmom.shop/AE_1018/tracks-v1a1/mono.m3u8
-EXTINF:-1,Sky Sports Cricket                                                                          
+#EXTINF:-1,Sky Sports Cricket                                                                          
 https://tigerhub-bd.vercel.app/Sports-zone/Skysports-Cricket/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1,Fox Sports Cricket
 http://75be7132.rostelekom.xyz/iptv/R3A7B6MZZFDCUL/19146/index.m3u8
