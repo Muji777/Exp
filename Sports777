@@ -1,5 +1,24 @@
 #EXTM3U
 
+#EXTINF:-1,Sky Sports Premier League NZ
+https://tigerhub-bd.vercel.app/Sports-zone/SkySportsNZ-Premire_League/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1,Sky Sports 1 NZ
+https://tigerhub-bd.vercel.app/Sports-zone/SkySportsNZ-1/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1,Sky Sports 2 NZ
+https://tigerhub-bd.vercel.app/Sports-zone/SkySportsNZ-2/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1,Sky Sports 3 NZ
+https://tigerhub-bd.vercel.app/Sports-zone/SkySportsNZ-3/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1,Sky Sports 4 NZ
+https://tigerhub-bd.vercel.app/Sports-zone/SkySportsNZ-4/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1,Sky Sports 5 NZ
+https://tigerhub-bd.vercel.app/Sports-zone/SkySportsNZ-5/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1,Sky Sports 6 NZ
+https://tigerhub-bd.vercel.app/Sports-zone/SkySportsNZ-6/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1,Sky Sports 7 NZ
+https://tigerhub-bd.vercel.app/Sports-zone/SkySportsNZ-7/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1,Sky Sports 9 NZ
+https://tigerhub-bd.vercel.app/Sports-zone/SkySportsNZ-9/tracks-v1a1/mono.ts.m3u8
+
 #EXTINF:-1,Willow Cricket
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
