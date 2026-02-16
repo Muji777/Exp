@@ -146,7 +146,7 @@ https://dtv.vingt.qzz.io/dtv/4066/master.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://dtv-wv.b-cdn.net/channel?ccid=4067
 https://dtv.vingt.qzz.io/dtv/4067/master.m3u8
 #EXTINF:-1,Sony Entertainment
-http://217.20.112.199/sethd/index.m3u8
+https://tigerhub-bd.vercel.app/SONY/Entertainment/tracks-v1a1/mono.ts.m3u8
 ‎‎#EXTINF:-1,MBC Bollywood
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8
 #EXTINF:-1,Shemaroo Bollywood
