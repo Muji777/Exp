@@ -28,6 +28,25 @@ http://169.150.223.25/ArenaSport8HD/index.m3u8
 http://169.150.223.25/ArenaSport9HD/index.m3u8
 #EXTINF:-1,Arena Sports 10
 http://169.150.223.25/ArenaSport10HD/index.m3u8
+#EXTINF:-1,Sky sports 1 NZ
+https://cdn-live-tv.ru/api/v1/channels/nz-sky-sport-1/playlist.m3u8
+#EXTINF:-1,Sky sports 2 NZ
+Sky sports 2
+https://cdn-live-tv.ru/api/v1/channels/nz-sky-sport-2/playlist.m3u8
+#EXTINF:-1,Sky sports 3 NZ
+https://cdn-live-tv.ru/api/v1/channels/nz-sky-sport-3/playlist.m3u8
+#EXTINF:-1,Sky sports 4 NZ
+https://cdn-live-tv.ru/api/v1/channels/nz-sky-sport-4/playlist.m3u8
+#EXTINF:-1,Sky sports 5 NZ
+https://cdn-live-tv.ru/api/v1/channels/nz-sky-sport-5/playlist.m3u8
+#EXTINF:-1,Sky sports 6 NZ
+https://cdn-live-tv.ru/api/v1/channels/nz-sky-sport-6/playlist.m3u8
+#EXTINF:-1,Sky sports 7 NZ
+https://cdn-live-tv.ru/api/v1/channels/nz-sky-sport-7/playlist.m3u8
+#EXTINF:-1,Sky sports 8 NZ
+https://cdn-live-tv.ru/api/v1/channels/nz-sky-sport-8/playlist.m3u8
+#EXTINF:-1,Sky sports 9 NZ
+https://cdn-live-tv.ru/api/v1/channels/nz-sky-sport-9/playlist.m3u8
 #EXTINF:-1,TNT Sports 1
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HBX28K5SXCR6EH/6566/index.m3u8
 #EXTINF:-1,TNT Sports 2
@@ -60,6 +79,7 @@ https://dtv.vingt.qzz.io/dtv/1001610/master.m3u8
 
 #EXTINF:-1,Sky Sports Cricket                                                                          
 https://thksmom.shop/AE_1018/tracks-v1a1/mono.m3u8
+http://i0ckghar.otttv.pw/iptv/HYVPB352KPFADRC2A2KTW8XK/7343/index.m3u8
 #EXTINF:-1,Fox Sports Cricket
 http://75be7132.rostelekom.xyz/iptv/R3A7B6MZZFDCUL/19146/index.m3u8
 EXTINF:-1,FIFA+ TV
@@ -127,6 +147,8 @@ https://dtv.vingt.qzz.io/dtv/4067/master.m3u8
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8
 #EXTINF:-1,Shemaroo Bollywood
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
+#EXTINF:-1,Bollywood HD
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/d3227daf-ea13-48c9-95a4-1619862d136e/0.m3u8
 #EXTINF:-1,B4U Movies
 https://cdnb4u.wiseplayout.com/B4U_Movies/master.m3u8
 #EXTINF:-1,BBC Earth
