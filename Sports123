@@ -28,6 +28,8 @@ http://169.150.223.25/ArenaSport8HD/index.m3u8
 http://169.150.223.25/ArenaSport9HD/index.m3u8
 #EXTINF:-1,Arena Sports 10
 http://169.150.223.25/ArenaSport10HD/index.m3u8
+EXTINF:-1,Now Sports Premier League
+http://hls.168.us.kg/u/630/master.m3u8
 #EXTINF:-1,Sky sports 1 NZ
 https://cdn-live-tv.ru/api/v1/channels/nz-sky-sport-1/playlist.m3u8
 #EXTINF:-1,Sky sports 2 NZ
@@ -43,7 +45,7 @@ https://cdn-live-tv.ru/api/v1/channels/nz-sky-sport-5/playlist.m3u8
 https://cdn-live-tv.ru/api/v1/channels/nz-sky-sport-6/playlist.m3u8
 #EXTINF:-1,Sky sports 7 NZ
 https://cdn-live-tv.ru/api/v1/channels/nz-sky-sport-7/playlist.m3u8
-#EXTINF:-1,Sky sports 8 NZ
+#EXTINF:-1,Sky sports 8 NZ Premier League
 https://cdn-live-tv.ru/api/v1/channels/nz-sky-sport-8/playlist.m3u8
 #EXTINF:-1,Sky sports 9 NZ
 https://cdn-live-tv.ru/api/v1/channels/nz-sky-sport-9/playlist.m3u8
@@ -79,7 +81,8 @@ https://dtv.vingt.qzz.io/dtv/1001610/master.m3u8
 
 #EXTINF:-1,Sky Sports Cricket                                                                          
 https://thksmom.shop/AE_1018/tracks-v1a1/mono.m3u8
-http://i0ckghar.otttv.pw/iptv/HYVPB352KPFADRC2A2KTW8XK/7343/index.m3u8
+EXTINF:-1,Sky Sports Cricket                                                                          
+https://tigerhub-bd.vercel.app/Sports-zone/Skysports-Cricket/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1,Fox Sports Cricket
 http://75be7132.rostelekom.xyz/iptv/R3A7B6MZZFDCUL/19146/index.m3u8
 EXTINF:-1,FIFA+ TV
