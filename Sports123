@@ -28,7 +28,7 @@ http://169.150.223.25/ArenaSport8HD/index.m3u8
 http://169.150.223.25/ArenaSport9HD/index.m3u8
 #EXTINF:-1,Arena Sports 10
 http://169.150.223.25/ArenaSport10HD/index.m3u8
-EXTINF:-1,Now Sports Premier League
+#EXTINF:-1,Now Sports Premier League
 http://hls.168.us.kg/u/630/master.m3u8
 #EXTINF:-1,Sky sports 1 NZ
 https://cdn-live-tv.ru/api/v1/channels/nz-sky-sport-1/playlist.m3u8
