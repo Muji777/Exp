@@ -1,7 +1,5 @@
 #EXTM3U
 
-#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
-
 #EXTINF:-1,Arena Premium 1
 http://169.150.223.25/ArenaPremium1HD/index.m3u8
 #EXTINF:-1,Arena Premium 2
@@ -62,12 +60,7 @@ https://dtv.vingt.qzz.io/dtv/8273/master.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://dtv-wv.b-cdn.net/channel?ccid=1001610
 https://dtv.vingt.qzz.io/dtv/1001610/master.m3u8
 
-#EXTINF:-1,Sky Sports Cricket                                                                          
-https://tigerhub-bd.vercel.app/Sports-zone/Skysports-Cricket/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1,Sky Sports Cricket                                                                          
-http://ab0ff03c.ucomist.net/ipt/X8VN8HHW6T9BGEXA3RQMUVMR/7343/index.m3u8
-#EXTINF:-1,Sky Sports Cricket                                                                          
-https://thksmom.shop/AE_1018/tracks-v1a1/mono.m3u8
+                                                                                                                                                                                        
 #EXTINF:-1,Fox Sports Cricket
 http://75be7132.rostelekom.xyz/iptv/R3A7B6MZZFDCUL/19146/index.m3u8
 EXTINF:-1,FIFA+ TV
