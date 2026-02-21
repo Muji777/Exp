@@ -24,17 +24,19 @@ https://netskrt.live.pv-cdn.net/OTTB/iad-nitro/live/clients/dash/enc/5sxuux529k/
 https://netskrt.live.pv-cdn.net/OTTB/iad-nitro/live/clients/dash/enc/pnu10tp36z/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/pnu10tp36z/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
 
+#EXTINF:-1,Willow Cricket
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=46a38bd4e012e9551104fd55b9387bed:7cf8ceabed7e10c301a279d57f3a5230
+https://otte.live.fly.ww.aiv-cdn.net/sin-nitro/live/clients/dash/enc/6wxislsgjs/out/v1/29743e19d5b1491891f9153738a98d24/cenc.mpd
+
 #EXTINF:-1 tvg-id="Bein 1 Asia" group-title="Unifi TV" tvg-logo="", Bein 1 Asia
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d48b6088253c443eb94d27cb7828f707:e9776141f9e949273a072b0e035070ab
 https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(Bein1)/master.mpd
-
-#EXTINF:-1,Willow Cricket
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=46a38bd4e012e9551104fd55b9387bed:7cf8ceabed7e10c301a279d57f3a5230
-https://otte.live.fly.ww.aiv-cdn.net/sin-nitro/live/clients/dash/enc/6wxislsgjs/out/v1/29743e19d5b1491891f9153738a98d24/cenc.mpd
 
 #EXTINF:-1 tvg-id="Bein 2 Asia" group-title="Unifi TV" tvg-logo="", Bein 2 Asia
 #KODIPROP:inputstreamaddon=inputstream.adaptive
