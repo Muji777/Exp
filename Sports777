@@ -12,6 +12,12 @@ https://netskrt.live.pv-cdn.net/OTTB/iad-nitro/live/clients/dash/enc/cllekigzzn/
 https://netskrt.live.pv-cdn.net/OTTB/iad-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
 
+#EXTINF:-1,TNT Sports 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1d96ab366bbe6451edf7407b58e2fa16:0116201f4a63ac5bf5787d2c610c41a7
+https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/5sxuux529k/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
+https://netskrt.live.pv-cdn.net/OTTB/iad-nitro/live/clients/dash/enc/5sxuux529k/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
+
 #EXTINF:-1,Sky Sports Premier League NZ
 https://tigerhub-bd.vercel.app/Sports-zone/SkySportsNZ-Premire_League/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1,Sky Sports 1 NZ
