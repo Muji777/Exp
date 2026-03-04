@@ -1,18 +1,15 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="海外" group-title="英超,阿斯顿维拉 vs 切尔西,2026-03-04 11:30:00",海外
-https://pullkgq721.qmuiw.com/live/hd-en-1-4343283.m3u8?auth_key=1772650808-0-0-c2eeb5eab7141ae1e063d58c364c5c46
-#EXTINF:-1 tvg-id="" tvg-name="海外" group-title="英超,布莱顿 vs 阿森纳,2026-03-04 11:30:00",海外
-https://pullkgq721.qmuiw.com/live/hd-en-1-4343285.m3u8?auth_key=1772650690-0-0-7fb7a36e26f5d643377d2dba27438b49
-#EXTINF:-1 tvg-id="" tvg-name="海外" group-title="英超,富勒姆 vs 西汉姆联,2026-03-04 11:30:00",海外
-https://pullkgq721.qmuiw.com/live/hd-en-1-4343288.m3u8?auth_key=1772650811-0-0-b10cb3ad730aa53453502122a1812997
-#EXTINF:-1 tvg-id="" tvg-name="海外" group-title="英超,曼城 vs 诺丁汉森林,2026-03-04 11:30:00",海外
-https://pullkgq721.qmuiw.com/live/hd-en-1-4343292.m3u8?auth_key=1772650813-0-0-eb1f5eda361a2c95363803501f67c391
-#EXTINF:-1 tvg-id="" tvg-name="海外" group-title="德甲,汉堡 vs 勒沃库森,2026-03-04 11:30:00",海外
-https://pullkgq721.qmuiw.com/live/hd-en-1-4347503.m3u8?auth_key=1772650815-0-0-1b8178daaa3e6ae44aacb13a60043332
-#EXTINF:-1 tvg-id="" tvg-name="海外" group-title="英超,纽卡斯尔联 vs 曼联,2026-03-04 12:15:00",海外
-https://pullkgq721.qmuiw.com/live/hd-en-1-4343294.m3u8?auth_key=1772650816-0-0-cbc6523117342e0956fd64df3048ba89
-
+#EXTINF:-1,Astro Premier League 1
+http://107.175.220.4:11799/go_assp1/playlist.m3u8
+#EXTINF:-1,Astro Premier League 2
+http://107.175.220.4:11799/go_assp2/playlist.m3u8
+#EXTINF:-1,Astro Premier League 3
+http://107.175.220.4:11799/go_assp3/playlist.m3u8
+#EXTINF:-1,Astro Football
+http://107.175.220.4:11799/go_assp4/playlist.m3u8
+#EXTINF:-1,Astro Sports Plus
+http://107.175.220.4:11799/go_sportsplus/playlist.m3u8
 #EXTINF:-1,Hub Premier 1
 https://hls.iill.top/api/Hub-Premier-1/index.m3u8
 #EXTINF:-1,Hub Premier 2
@@ -29,10 +26,6 @@ https://hls.iill.top/api/Hub-Premier-6/index.m3u8
 https://hls.iill.top/api/Hub-Premier-7/index.m3u8
 #EXTINF:-1,Hub Premier 8
 https://hls.iill.top/api/Hub-Premier-2/index.m3u8
-#EXTINF:-1,SPS Sports 1
-https://cdn4.skygo.mn/live/disk1/SPSPrime/HLSv3-FTA/SPSPrime.m3u8
-#EXTINF:-1,SPS Sports 2
-https://cdn4.skygo.mn/live/disk1/SPSPlay/HLSv3-FTA/SPSPlay.m3u8
 #EXTINF:-1,Setanta Sports 1
 https://stream8.cinerama.uz/1263/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Setanta Sports 2                                         
