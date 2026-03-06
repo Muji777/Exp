@@ -10,6 +10,8 @@ http://107.175.220.4:11799/go_assp3/playlist.m3u8
 http://107.175.220.4:11799/go_assp4/playlist.m3u8
 #EXTINF:-1,Astro Sports Plus
 http://107.175.220.4:11799/go_sportsplus/playlist.m3u8
+#EXTINF:-1,Astro Cricket
+http://107.175.220.4:11799/Acricket/playlist.m3u8
 #EXTINF:-1,Sky Sports Premier League 
 https://hls.iill.top/api/Sky-Sports-EPL/index.m3u8
 #EXTINF:-1,Sky Sports Cricket
