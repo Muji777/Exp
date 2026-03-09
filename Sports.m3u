@@ -39,6 +39,14 @@ https://stream8.cinerama.uz/1264/tracks-v1a1/mono.m3u8
 http://cdntv.online/low/9mlxywika2/1021.m3u8
 #EXTINF:-1,Setanta Sport 2 🇷🇺
 http://cdntv.online/low/9mlxywika2/1022.m3u8
+#EXTINF:-1,SPS Sports 1
+https://cdn4.skygo.mn/live/disk1/SPSPrime/HLSv3-FTA/SPSPrime.m3u8
+#EXTINF:-1,SPS Sports 2
+https://cdn4.skygo.mn/live/disk1/SPSPlay/HLSv3-FTA/SPSPlay.m3u8
+#EXTINF:-1,SPS Sports 3
+https://cdn4.skygo.mn/live/disk1/SPSNational/HLSv3-FTA/SPSNational.m3u8
+#EXTINF:-1,SPS Sports 4
+https://cdn4.skygo.mn/live/disk1/SPSPlus/HLSv3-FTA/SPSPlus.m3u8
 #EXTINF:-1,Sky Sports Cricket
 https://thksmom.shop/AE_1018/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Willow Cricket
