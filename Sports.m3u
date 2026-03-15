@@ -4,12 +4,6 @@
 https://tv.iill.top/api/Sky-Sports-EPL/index.m3u8
 #EXTINF:-1,Sky Sports Cricket
 https://tv.iill.top/api/Sky-Sports-Cricket/index.m3u8
-#EXTINF:-1,Now Sports PL 1
-https://eventcdn02-nowe.akamaized.net/hls/CH621/index.m3u8
-#EXTINF:-1,Now Sports PL 2
-https://eventcdn02-nowe.akamaized.net/hls/CH622/index.m3u8
-#EXTINF:-1,Now Sports PL 3
-https://eventcdn02-nowe.akamaized.net/hls/CH623/index.m3u8
 #EXTINF:-1,Hub Premier 1
 https://hls.iill.top/api/Hub-Premier-1/index.m3u8
 #EXTINF:-1,Hub Premier 2
