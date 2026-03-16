@@ -6,7 +6,8 @@ https://estreams.tv.nej.cz/dash/CH_ANIMAL_PLANET_HD.ism/playlist.mpd
 https://estreams.tv.nej.cz/dash/CH_HGTV_HD.ism/playlist.mpd
 
 #EXTINF:-1,DISCOVERY ASIA
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=27c8a08eabcd4bbc88eda3690cbf6aaf:bb078e32f6df14ca97bff5b8aee8caf5
 https://atemeshield1-voe.sysln.id/live/eds/DiscoveryAsiaHD/mediampd/DiscoveryAsiaHD.mpd
 
