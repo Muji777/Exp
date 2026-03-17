@@ -1,0 +1,105 @@
+#EXTM3U
+#EXTINF:-1,TNT Sports 1
+https://hls.iill.top/api/TNT-Sports-1/index.m3u8
+#EXTINF:-1,TNT Sports 2
+https://hls.iill.top/api/TNT-Sports-2/index.m3u8
+#EXTINF:-1,TNT Sports 3
+https://hls.iill.top/api/TNT-Sports-3/index.m3u8
+#EXTINF:-1,TNT Sports 4
+https://hls.iill.top/api/TNT-Sports-4/index.m3u8
+#EXTINF:-1,Fubo Sports 1
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
+#EXTINF:-1,Fubo Sports 2
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uiffe4jhf0/out/v1/3534efafca8c4815adbb4d2e9a1fe003/cenc.mpd
+#EXTINF:-1 group-title="NITRO",Premiere Sports 1
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd
+#EXTINF:-1 group-title="NITRO",Premiere Sports 2
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd
+#EXTINF:-1 tvg-id="PremierSportsRugby" group-title="NITRO",Premier Sports Rugby
+https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/fapyi0fj1o/out/v1/6fe7ef7bb5de4033a2b202d9ca62151a/cenc.mpd
+#EXTINF:-1 tvg-id="Bein 1 Asia" group-title="Unifi TV",Bein 1 Asia
+https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(Bein1)/master.mpd
+#EXTINF:-1 tvg-id="Bein 2 Asia" group-title="Unifi TV",Bein 2 Asia
+https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(Bein2)/master.mpd
+#EXTINF:-1 tvg-id="Bein 3 Asia" group-title="Unifi TV",Bein 3 Asia
+https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(Bein3)/master.mpd
+#EXTINF:-1 tvg-logo="https://setantasports.com/wp-content/uploads/2025/03/logoyosat.png" group-title="WORLD SPORTS",Setanta Sports
+https://v4-pan-m3-cdn-02.live.cdn.cgates.lt/live/dash/561002/index.mpd
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtFnTFCfQV-xQdy8miUJ2-dhgvSrripDVGXQ&s" group-title="WORLD SPORTS",Setanta Sports 2
+https://v4-kun-nk16-cdn-01.live.cdn.cgates.lt/live/dash/561504/index.mpd
+#EXTINF:-1 tvg-id="Fancode1" tvg-name="fancode 1" group-title="WORLD SPORTS",Fancode 1
+https://a204aivottepl-a.akamaihd.net/sin-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
+#EXTINF:-1,Sky Sports Premier League
+https://tv.iill.top/api/Sky-Sports-EPL/index.m3u8
+#EXTINF:-1,Sky Sports Cricket
+https://tv.iill.top/api/Sky-Sports-Cricket/index.m3u8
+#EXTINF:-1,Hub Premier 1
+https://hls.iill.top/api/Hub-Premier-1/index.m3u8
+#EXTINF:-1,Hub Premier 2
+https://hls.iill.top/api/Hub-Premier-2/index.m3u8
+#EXTINF:-1,Hub Premier 3
+https://hls.iill.top/api/Hub-Premier-3/index.m3u8
+#EXTINF:-1,Hub Premier 4
+https://hls.iill.top/api/Hub-Premier-4/index.m3u8
+#EXTINF:-1,Hub Premier 5
+https://hls.iill.top/api/Hub-Premier-5/index.m3u8
+#EXTINF:-1,Hub Premier 6
+https://hls.iill.top/api/Hub-Premier-6/index.m3u8
+#EXTINF:-1,Hub Premier 7
+https://hls.iill.top/api/Hub-Premier-7/index.m3u8
+#EXTINF:-1,Hub Premier 8
+https://hls.iill.top/api/Hub-Premier-2/index.m3u8
+#EXTINF:-1,Setanta Sports 1
+https://stream8.cinerama.uz/1263/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Setanta Sports 2
+https://stream8.cinerama.uz/1264/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Setanta Sport 1 🇷🇺
+http://cdntv.online/low/9mlxywika2/1021.m3u8
+#EXTINF:-1,Setanta Sport 2 🇷🇺
+http://cdntv.online/low/9mlxywika2/1022.m3u8
+#EXTINF:-1,Sky Sports Cricket
+https://thksmom.shop/AE_1018/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Willow Cricket
+http://nkhwvlfz.ottclub.xyz/iptv/MHG766HMYBABXR/31131/index.m3u8
+#EXTINF:-1,Premier Sports 1
+http://nkhwvlfz.ottclub.xyz/iptv/MHG766HMYBABXR/6555/index.m3u8
+#EXTINF:-1,Premier Sports 2
+http://nkhwvlfz.ottclub.xyz/iptv/MHG766HMYBABXR/2069/index.m3u8
+#EXTINF:-1,Sky Sports Premier League
+http://nkhwvlfz.ottclub.xyz/iptv/MHG766HMYBABXR/7335/index.m3u8
+#EXTINF:-1,Sky Sports Cricket
+http://nkhwvlfz.ottclub.xyz/iptv/MHG766HMYBABXR/7343/index.m3u8
+#EXTINF:-1,TNT Sports 1
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HBX28K5SXCR6EH/6566/index.m3u8
+#EXTINF:-1,TNT Sports 2
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HBX28K5SXCR6EH/2506/index.m3u8
+#EXTINF:-1,TNT Sports 3
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HBX28K5SXCR6EH/6564/index.m3u8
+#EXTINF:-1,TNT Sports 4
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HBX28K5SXCR6EH/19054/index.m3u8
+#EXTINF:-1,Fox Sports Cricket
+http://75be7132.rostelekom.xyz/iptv/R3A7B6MZZFDCUL/19146/index.m3u8
+#EXTINF:-1 tvg-id="Fancode2" tvg-name="fancode 2" group-title="WORLD SPORTS",Fancode 2
+https://otte.live.fly.ww.aiv-cdn.net/sin-nitro/live/clients/dash-sd/enc/v8g0dlo4z8/out/v1/946019f85dc64ae99ff9ce64a9727a62/cenc-sd.mpd
+#EXTINF:-1 tvg-id="Fancode3" tvg-name="fancode 3" group-title="WORLD SPORTS",Fancode 3
+https://a166aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
+#EXTINF:-1,DAZN 1
+https://ac-003.live.p7s1video.net/63f8995e/t_003/dazn-fast-hd/cenc-default.mpd
+#EXTINF:-1,Bein Sports 1
+https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd
+#EXTINF:-1,Bein Sports 2
+https://aba5sdmaaaaaaaamdwujas5g6mg4r.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
+#EXTINF:-1,Bein Sports 3
+https://aba5sdmaaaaaaaamhq2w5oosrf5ae.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
+#EXTINF:-1,Euro Sport 1
+https://dash2.antik.sk/stream/nvidia_eurosport1/playlist_cenc.mpd
+#EXTINF:-1,Euro Sport 2
+https://dash2.antik.sk/stream/nvidia_eurosport2/playlist_cenc.mpd
+#EXTINF:-1 tvg-id="Eurosport 1.cz" tvg-logo="https://www.antik.sk/assets/img/channels/723410b6d48888070012c0691a65afef.svg" group-title="ANTIK",Eurosport 1
+https://dash2.antik.sk/stream/nvidia_eurosport1/playlist_cenc.mpd
+#EXTINF:-1 tvg-id="Eurosport 2.cz" tvg-logo="https://www.antik.sk/assets/img/channels/53556522790a0b05d647d7d5c27eed51.svg" group-title="ANTIK",Eurosport 2
+https://dash2.antik.sk/stream/nvidia_eurosport2/playlist_cenc.mpd
+#EXTINF:-1,Euro Sport 1
+https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561802/index.mpd
+#EXTINF:-1,Euro Sport 2
+https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561705/index.mpd
