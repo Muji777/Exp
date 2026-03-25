@@ -1,5 +1,12 @@
 #EXTM3U
 
+#EXTINF:-1,Natgeo Wild
+http://84.17.50.102/natgeowild/index.m3u8
+#EXTINF:-1,HGTV
+http://84.17.50.102/hgtv/index.m3u8
+#EXTINF:-1,CBS
+http://84.17.50.102/CBS/index.m3u8
+
 #EXTINF:-1,Animal Planet Europe
 https://estreams.tv.nej.cz/dash/CH_ANIMAL_PLANET_HD.ism/playlist.mpd
 #EXTINF:-1,HGTV Europe
