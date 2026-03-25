@@ -1,5 +1,9 @@
 #EXTM3U
 
+#EXTINF:-1,NBC
+http://84.17.50.102/nbc/index.m3u8
+#EXTINF:-1,USA Network
+http://84.17.50.102/usa/index.m3u8
 #EXTINF:-1,Sky Sports Premier League
 https://tv.iill.top/api/Sky-Sports-EPL/index.m3u8
 #EXTINF:-1,Sky Sports Cricket
