@@ -4,10 +4,6 @@
 http://84.17.50.102/nbc/index.m3u8
 #EXTINF:-1,USA Network
 http://84.17.50.102/usa/index.m3u8
-#EXTINF:-1,Sky Sports Premier League
-https://tv.iill.top/api/Sky-Sports-EPL/index.m3u8
-#EXTINF:-1,Sky Sports Cricket
-https://tv.iill.top/api/Sky-Sports-Cricket/index.m3u8
 #EXTINF:-1,Hub Premier 1
 https://hls.iill.top/api/Hub-Premier-1/index.m3u8
 #EXTINF:-1,Hub Premier 2
