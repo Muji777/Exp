@@ -4,6 +4,10 @@
 http://84.17.50.102/nbc/index.m3u8
 #EXTINF:-1,USA Network
 http://84.17.50.102/usa/index.m3u8
+#EXTINF:-1,Star Sports Select 1
+https://mflixott.com/tv/plusbox/live/StarSportsSelect1/index.m3u8
+#EXTINF:-1,Star Sports Select 2
+https://mflixott.com/tv/plusbox/live/StarSportsSelect2/index.m3u8
 #EXTINF:-1,Hub Premier 1
 https://hls.iill.top/api/Hub-Premier-1/index.m3u8
 #EXTINF:-1,Hub Premier 2
@@ -30,6 +34,10 @@ http://cdntv.online/low/9mlxywika2/1021.m3u8
 http://cdntv.online/low/9mlxywika2/1022.m3u8
 #EXTINF:-1,Sky Sports Cricket
 https://thksmom.shop/AE_1018/tracks-v1a1/mono.m3u8
+#EXTINF:-1,T Sports
+https://mflixott.com/tv/plusbox/live/TSports/index.m3u8
+#EXTINF:-1,Willow Cricket
+http://xui.mainserver.cc/play/oCkZyqACmAE6FvzKu_186PEFGOk9LoJ4xGfS1beyo7s/.m3u8
 #EXTINF:-1,Willow Cricket
 http://nkhwvlfz.ottclub.xyz/iptv/MHG766HMYBABXR/31131/index.m3u8
 #EXTINF:-1,Premier Sports 1
