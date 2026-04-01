@@ -1,5 +1,65 @@
 #EXTM3U
 
+#EXTINF:-1,功夫台
+http://185.44.67.64:53874/proxy/74a1f88bb26edd96.m3u8
+#EXTINF:-1,TVB星河頻道
+http://185.44.67.64:53874/proxy/eec374cc1e8d1626.m3u8
+#EXTINF:-1,RTHK 33
+http://185.44.67.64:53874/proxy/0fdfa04b92f5c594.m3u8
+#EXTINF:-1,Hbo
+http://185.44.67.64:53874/proxy/8344047d8a5bf00d.m3u8
+#EXTINF:-1,翡翠台
+http://185.44.67.64:53874/proxy/35440298248eb34e.m3u8
+#EXTINF:-1,纬来电影台
+http://185.44.67.64:53874/proxy/a7de9e9ba71250e9.m3u8
+#EXTINF:-1,纬来体育台
+http://185.44.67.64:53874/proxy/61c0ab7561e12ec3.m3u8
+#EXTINF:-1,龙详时代
+http://185.44.67.64:53874/proxy/915b23f85984ae41.m3u8
+#EXTINF:-1,美亚电影
+http://185.44.67.64:53874/proxy/c10efe20c00cbe2a.m3u8
+#EXTINF:-1,年代新闻
+http://185.44.67.64:53874/proxy/bc7685dc95fd47bd.m3u8
+#EXTINF:-1,天映频道
+http://185.44.67.64:53874/proxy/ef4e3e8fbf45f178.m3u8
+#EXTINF:-1,东森电影
+http://185.44.67.64:53874/proxy/ff77d549ea9b89db.m3u8
+#EXTINF:-1,东森洋片
+http://185.44.67.64:53874/proxy/f9cf8471c7491eb9.m3u8
+#EXTINF:-1,HBO Family
+http://185.44.67.64:53874/proxy/0a0caa8e311af1bf.m3u8
+#EXTINF:-1,AXN
+http://185.44.67.64:53874/proxy/24add3f950a39908.m3u8
+#EXTINF:-1,功夫台
+http://185.44.67.64:53874/proxy/74a1f88bb26edd96.m3u8
+#EXTINF:-1,TVB星河頻道
+http://185.44.67.64:53874/proxy/eec374cc1e8d1626.m3u8
+#EXTINF:-1,RTHK 33
+http://185.44.67.64:53874/proxy/0fdfa04b92f5c594.m3u8
+#EXTINF:-1,Hbo
+http://185.44.67.64:53874/proxy/8344047d8a5bf00d.m3u8
+#EXTINF:-1,翡翠台
+http://185.44.67.64:53874/proxy/35440298248eb34e.m3u8
+#EXTINF:-1,纬来电影台
+http://185.44.67.64:53874/proxy/a7de9e9ba71250e9.m3u8
+#EXTINF:-1,纬来体育台
+http://185.44.67.64:53874/proxy/61c0ab7561e12ec3.m3u8
+#EXTINF:-1,龙详时代
+http://185.44.67.64:53874/proxy/915b23f85984ae41.m3u8
+#EXTINF:-1,美亚电影
+http://185.44.67.64:53874/proxy/c10efe20c00cbe2a.m3u8
+#EXTINF:-1,年代新闻
+http://185.44.67.64:53874/proxy/bc7685dc95fd47bd.m3u8
+#EXTINF:-1,天映频道
+http://185.44.67.64:53874/proxy/ef4e3e8fbf45f178.m3u8
+#EXTINF:-1,东森电影
+http://185.44.67.64:53874/proxy/ff77d549ea9b89db.m3u8
+#EXTINF:-1,东森洋片
+http://185.44.67.64:53874/proxy/f9cf8471c7491eb9.m3u8
+#EXTINF:-1,HBO Family
+http://185.44.67.64:53874/proxy/0a0caa8e311af1bf.m3u8
+#EXTINF:-1,AXN
+http://185.44.67.64:53874/proxy/24add3f950a39908.m3u8
 #EXTINF:-1,Natgeo Wild
 http://84.17.50.102/natgeowild/index.m3u8
 #EXTINF:-1,HGTV
