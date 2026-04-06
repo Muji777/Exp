@@ -16,10 +16,6 @@ http://188.225.31.197/bpk-tv/000004498/tve/index.m3u8
 http://188.225.31.197/bpk-tv/000004499/tve/index.m3u8
 #EXTINF:-1,Setanta Sports 
 http://188.225.31.197/bpk-tv/000002649/tve/index.m3u8
-#EXTINF:-1,Setanta Sports 1
-https://stream8.cinerama.uz/1263/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Setanta Sports 2
-https://stream8.cinerama.uz/1264/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Bein Sports Asia 1
 https://wahyu1ptv.pages.dev/AstroBein1.m3u8
 #EXTINF:-1,Bein Sports Asia 2
