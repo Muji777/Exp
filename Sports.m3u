@@ -16,7 +16,20 @@ http://188.225.31.197/bpk-tv/000004498/tve/index.m3u8
 http://188.225.31.197/bpk-tv/000004499/tve/index.m3u8
 #EXTINF:-1,Setanta Sports 
 http://188.225.31.197/bpk-tv/000002649/tve/index.m3u8
-
+#EXTINF:-1,Setanta Sports 1
+https://stream8.cinerama.uz/1263/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Setanta Sports 2
+https://stream8.cinerama.uz/1264/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Bein Sports Asia 1
+https://wahyu1ptv.pages.dev/AstroBein1.m3u8
+#EXTINF:-1,Bein Sports Asia 2
+https://wahyu1ptv.pages.dev/AstroBein2.m3u8
+#EXTINF:-1,Bein Sports Asia 3
+https://wahyu1ptv.pages.dev/AstroBein3.m3u8
+#EXTINF:-1,Setanta Sport 1 
+http://cdntv.online/low/9mlxywika2/1021.m3u8
+#EXTINF:-1,Setanta Sport 2 
+http://cdntv.online/low/9mlxywika2/1022.m3u8
 #EXTINF:-1,Hub Premier 1
 https://hls.iill.top/api/Hub-Premier-1/index.m3u8
 #EXTINF:-1,Hub Premier 2
@@ -33,20 +46,6 @@ https://hls.iill.top/api/Hub-Premier-6/index.m3u8
 https://hls.iill.top/api/Hub-Premier-7/index.m3u8
 #EXTINF:-1,Hub Premier 8
 https://hls.iill.top/api/Hub-Premier-2/index.m3u8
-#EXTINF:-1,Setanta Sports 1
-https://stream8.cinerama.uz/1263/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Setanta Sports 2
-https://stream8.cinerama.uz/1264/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Bein Sports Asia 1
-https://wahyu1ptv.pages.dev/AstroBein1.m3u8
-#EXTINF:-1,Bein Sports Asia 2
-https://wahyu1ptv.pages.dev/AstroBein2.m3u8
-#EXTINF:-1,Bein Sports Asia 3
-https://wahyu1ptv.pages.dev/AstroBein3.m3u8
-#EXTINF:-1,Setanta Sport 1 🇷🇺
-http://cdntv.online/low/9mlxywika2/1021.m3u8
-#EXTINF:-1,Setanta Sport 2 🇷🇺
-http://cdntv.online/low/9mlxywika2/1022.m3u8
 #EXTINF:-1,Willow Cricket
 http://xui.mainserver.cc/play/oCkZyqACmAE6FvzKu_186PEFGOk9LoJ4xGfS1beyo7s/.m3u8
 #EXTINF:-1,Willow Cricket
