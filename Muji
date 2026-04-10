@@ -1,5 +1,35 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://iili.io/d9mgkpn.png" group-title="WORLD TV",More4
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=000000000000000000000000006d340a:efee11d60dd6a2afb6865fc141e1c4a0
+https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(m4)/manifest.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="WORLD TV",Channel 4
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0000000000000000000000000063340a:5ce85f1aa5771900b952f0ba58857d7a
+https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(c4)/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ffa7c3ca6020428c919e13b817b7e31b:adf163c6c1729e6f77668d4e49f32352
+#EXTINF:-1 tvg-id="NationalGeographicWest.us" tvg-logo="https://mimipipi22.github.io/logo/png/natgeowild.png" group-title="KNOWLEDGE", NATGEO WILD 🇺🇸
+https://v4-pan-m3-cdn-02.live.cdn.cgates.lt/live/dash/561201/index.mpd
+https://at-live-3.tentcdn.eu/bpk-tv/Nat_Geo_People_HD/default/index.mpd
+
+#EXTINF:-1 tvg-id="bbclifestyle" group-title="VN 🇻🇳" tvg-logo="https://freem3u.xyz/static/images/global/bbc-lifestyle.png",BBC Lifestyle
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=58b949986ed13294bc01b0f330abc527:23e8c5f2fe202906ac2d6554d9527299
+https://s7770.cdn.mytvnet.vn/pkg20/live_dzones/bbclifestyle.smil/manifest.mpd
+
+#EXTINF:-1 tvg-id="discoveryasia" group-title="VN 🇻🇳" tvg-logo="https://freem3u.xyz/static/images/global/discovery-asia.png",Discovery Asia
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=934907b134be3963a6263a453846924c:788e2835fb98568aed2f47bbdc091515
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dscasia.smil/manifest.mpd
+
 #EXTINF:-1,Natgeo Wild
 http://84.17.50.102/natgeowild/index.m3u8
 #EXTINF:-1,HGTV
