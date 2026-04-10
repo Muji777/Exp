@@ -26,6 +26,10 @@ https://wahyu1ptv.pages.dev/AstroBein3.m3u8
 http://cdntv.online/low/9mlxywika2/1021.m3u8
 #EXTINF:-1,Setanta Sport 2 
 http://cdntv.online/low/9mlxywika2/1022.m3u8
+#EXTINF:-1,CCTV Soccer
+http://69.30.245.50/live/cctv5.m3u8
+#EXTINF:-1,CCTV Soccer 2
+http://74.91.26.218:82/live/cctv5p.m3u8
 #EXTINF:-1,Hub Premier 1
 https://hls.iill.top/api/Hub-Premier-1/index.m3u8
 #EXTINF:-1,Hub Premier 2
@@ -64,6 +68,14 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HBX28K5SXCR6EH/19054/ind
 http://75be7132.rostelekom.xyz/iptv/R3A7B6MZZFDCUL/19146/index.m3u8
 #EXTINF:-1,DAZN Ringside
 https://aegis-cloudfront-1.tubi.video/bfad29e2-5bee-44f3-8256-127324e8b106/playlist.m3u8
+#EXTINF:-1,AXN
+http://103.58.160.157:8278/720-AXN/playlist.m3u8
+#EXTINF:-1,HBO
+http://103.58.160.157:8278/720-HBO/playlist.m3u8
+#EXTINF:-1,HBO HITS
+http://103.58.160.157:8278/720-HBOHITS/playlist.m3u8
+#EXTINF:-1,Cinemax
+http://103.58.160.157:8278/720-CINEMAX/playlist.m3u8
 #EXTINF:-1,MBC Bollywood
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8
 #EXTINF:-1,Shemaroo Bollywood
