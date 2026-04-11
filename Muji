@@ -31,26 +31,6 @@ https://estreams.tv.nej.cz/dash/CH_ANIMAL_PLANET_HD.ism/playlist.mpd
 #EXTINF:-1,HGTV Europe
 https://estreams.tv.nej.cz/dash/CH_HGTV_HD.ism/playlist.mpd
 
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=27c8a08eabcd4bbc88eda3690cbf6aaf:bb078e32f6df14ca97bff5b8aee8caf5
-#EXTINF:-1 tvg-id="Discovery.Asia.id" tvg-name="Discovery Asia.id" tvg-logo="https://mimipipi22.github.io/logo/knowledge/discoveryasia.jpg" group-title="KNOWLEDGE",DISCOVERY ASIA
-https://atemeshield1-voe.sysln.id/live/eds/DiscoveryAsiaHD/mediampd/DiscoveryAsiaHD.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"VRzFvmggpbRNCZ3HrOF38A","kid":"FDxTelM7TlOnE3cDvJLA8g"}],"type":"temporary"}
-#EXTINF:-1 tvg-id="513.unifi" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/B7EBC0E2-E56A-431D-B9CF-D1105908CAD3/0-16x9.png?width=530" group-title="Unifi TV", HGTV
-https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(HGTV)/master.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"EuiqrP8Pwr14AFilxog6HA","kid":"JhDGW/J3QOKfnMQdw1SXgQ"}],"type":"temporary"}
-#EXTINF:-1 tvg-id="512.unifi" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/7449833A-0595-4CB6-A762-FA16B2C6604C/0-16x9.png?width=530" group-title="Unifi TV", BBCLife
-https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(BBCLife)/master.mpd
-
 #EXTINF:-1,Discovery Asia
 https://cdn4.skygo.mn/live/disk1/Discovery_Asia/HLSv3-FTA/Discovery_Asia.m3u8
 #EXTINF:-1,Travel XP
@@ -63,12 +43,6 @@ https://viamotionhsi.netplus.ch/live/eds/more4/browser-dash/more4.mpd
 https://viamotionhsi.netplus.ch/live/eds/channel4/browser-dash/channel4.mpd
 #EXTINF:-1,Channel 5
 https://viamotionhsi.netplus.ch/live/eds/channel5/browser-dash/channel5.mpd
-#EXTINF:-1,HBO
-http://185.44.67.64:53874/proxy/8344047d8a5bf00d.m3u8
-#EXTINF:-1,HBO Family
-http://185.44.67.64:53874/proxy/0a0caa8e311af1bf.m3u8
-#EXTINF:-1,AXN
-http://185.44.67.64:53874/proxy/24add3f950a39908.m3u8
 #EXTINF:-1,Paramount
 https://viamotionhsi.netplus.ch/live/eds/paramount/browser-dash/paramount.mpd
 #EXTINF:-1,Food Network
