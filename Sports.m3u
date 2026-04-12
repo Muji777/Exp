@@ -44,12 +44,6 @@ http://znty.dyndns.org:5010/hls/eleven3.m3u8
 http://znty.dyndns.org:5010/hls/eleven4.m3u8
 #EXTINF:-1,DAZN 5
 http://znty.dyndns.org:5010/hls/eleven5.m3u8
-#EXTINF:-1,Setanta Sports 1
-http://188.225.31.197/bpk-tv/000004498/tve/index.m3u8
-#EXTINF:-1,Setanta Sports 2
-http://188.225.31.197/bpk-tv/000004499/tve/index.m3u8
-#EXTINF:-1,Setanta Sports 
-http://188.225.31.197/bpk-tv/000002649/tve/index.m3u8
 #EXTINF:-1,Bein Sports Asia 1
 https://wahyu1ptv.pages.dev/AstroBein1.m3u8
 #EXTINF:-1,Bein Sports Asia 2
