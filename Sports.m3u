@@ -40,16 +40,6 @@ https://100.free-iptvchannel.workers.dev/sky_sport_cricked_hd/index.m3u8
 http://nkhwvlfz.ottclub.xyz/iptv/MHG766HMYBABXR/31131/index.m3u8
 #EXTINF:-1,Fox Cricket
 http://nkhwvlfz.ottclub.xyz/iptv/MHG766HMYBABXR/19146/index.m3u8
-#EXTINF:-1,DAZN 1
-http://znty.dyndns.org:5010/hls/eleven1.m3u8
-#EXTINF:-1,DAZN 2
-http://znty.dyndns.org:5010/hls/eleven2.m3u8
-#EXTINF:-1,DAZN 3
-http://znty.dyndns.org:5010/hls/eleven3.m3u8
-#EXTINF:-1,DAZN 4
-http://znty.dyndns.org:5010/hls/eleven4.m3u8
-#EXTINF:-1,DAZN 5
-http://znty.dyndns.org:5010/hls/eleven5.m3u8
 #EXTINF:-1,Bein Sports Asia 1
 https://wahyu1ptv.pages.dev/AstroBein1.m3u8
 #EXTINF:-1,Bein Sports Asia 2
@@ -60,6 +50,10 @@ https://wahyu1ptv.pages.dev/AstroBein3.m3u8
 http://cdntv.online/low/9mlxywika2/1021.m3u8
 #EXTINF:-1,Setanta Sport 2 
 http://cdntv.online/low/9mlxywika2/1022.m3u8
+#EXTINF:-1,Setanta Sports 1
+https://100.free-iptvchannel.workers.dev/setanta_sports_1_hd/index.m3u8
+#EXTINF:-1,Setanta Sports 2
+https://100.free-iptvchannel.workers.dev/setanta_sports_2_hd/index.m3u8
 #EXTINF:-1,Premier Sports 1
 http://nkhwvlfz.ottclub.xyz/iptv/MHG766HMYBABXR/6555/index.m3u8
 #EXTINF:-1,Premier Sports 2
