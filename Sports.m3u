@@ -33,9 +33,9 @@ https://hls.iill.top/api/Hub-Sports-1/index.m3u8
 #EXTINF:-1,Hub Sports 2
 https://hls.iill.top/api/Hub-Sports-2/index.m3u8
 #EXTINF:-1,Sky Sports Cricket
-https://v.iill.top/api/Sky-Sports-Cricket/index.m3u8
-#EXTINF:-1,Sky Sports Cricket
 https://100.free-iptvchannel.workers.dev/sky_sport_cricked_hd/index.m3u8
+#EXTINF:-1,Sky Sports Cricket
+https://v.iill.top/api/Sky-Sports-Cricket/index.m3u8
 #EXTINF:-1,Willow Cricket
 http://nkhwvlfz.ottclub.xyz/iptv/MHG766HMYBABXR/31131/index.m3u8
 #EXTINF:-1,Fox Cricket
