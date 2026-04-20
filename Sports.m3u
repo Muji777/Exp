@@ -17,9 +17,9 @@ https://hls.iill.top/api/Hub-Premier-7/index.m3u8
 #EXTINF:-1,Hub Premier 8
 https://hls.iill.top/api/Hub-Premier-2/index.m3u8
 #EXTINF:-1,Sky Sports Premier League
-https://v.iill.top/api/Sky-Sports-EPL/index.m3u8
-#EXTINF:-1,Sky Sports Premiere League
 https://100.free-iptvchannel.workers.dev/sky_sport_premier_league_hd/index.m3u8
+#EXTINF:-1,Sky Sports Premier League
+https://v.iill.top/api/Sky-Sports-EPL/index.m3u8
 #EXTINF:-1,TNT Sports 1 
 https://hls.iill.top/api/TNT-Sports-1/index.m3u8
 #EXTINF:-1,TNT Sports 2
