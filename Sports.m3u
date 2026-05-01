@@ -26,6 +26,8 @@ https://cdn-1.ttvb.eu.org/api/TNT-Sports-2/index.m3u8
 https://cdn-1.ttvb.eu.org/api/TNT-Sports-3/index.m3u8
 #EXTINF:-1,TNT Sports 4
 https://cdn-1.ttvb.eu.org/api/TNT-Sports-4/index.m3u8
+#EXTINF:-1,Willow Cricket
+http://27.124.71.27/Willow_Extra/index.m3u8
 #EXTINF:-1,Hub Sports Cricket
 https://cdn-1.ttvb.eu.org/api/Hub-Sports-4/index.m3u8
 #EXTINF:-1,Sky Sports Cricket
