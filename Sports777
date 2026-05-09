@@ -48,6 +48,13 @@ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/m6sqanvm2m/
 #KODIPROP:inputstream.adaptive.license_key=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd
 
+
+#EXTINF:-1,Live Stream
+https://d1yi40sjj0ca0v.cloudfront.net/TVD001/index.mpd
+#EXTINF:-1,TNT Sports 3
+https://d1yi40sjj0ca0v.cloudfront.net/TVD003/index.mpd
+#EXTINF:-1,TNT Sports 4
+https://d1yi40sjj0ca0v.cloudfront.net/TVD004/index.mpd
 #EXTINF:-1,DAZN 1
 https://d1yi40sjj0ca0v.cloudfront.net/TVD232/index.mpd
 #EXTINF:-1,DAZN 2
