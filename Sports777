@@ -1,5 +1,9 @@
 #EXTM3U
 
+#EXTINF:-1,Sky Sport 1
+https://simplitv-live.mdn.ors.at/live/eds/sky_sport_1_hd/dash/sky_sport_1_hd.mpd
+d8f0663ec8283ca0aef8f12a7868afbc:ec674895f8a0021dc0ba02da95c7fab1
+
 #EXTINF:-1 xui-id="11539" tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/2tBx8pR/TNT1.png" group-title="SPORTS", TNT Sports 1 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
