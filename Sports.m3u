@@ -1,13 +1,16 @@
 #EXTM3U
 
 
+#EXTINF:-1,Sky Sports Premier League
+https://kino.zunotv.workers.dev/sky_sport_premier_league_hd/index.m3u8
+#EXTINF:-1,Sky Sports Cricket
+https://kino.zunotv.workers.dev/sky_sport_cricked_hd/index.m3u8
 #EXTINF:-1,Setanta Sports
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HBX28K5SXCR6EH/6541/index.m3u8
 #EXTINF:-1,Setanta Sports
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HBX28K5SXCR6EH/15183/index.m3u8
 #EXTINF:-1,Setanta Sports
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HBX28K5SXCR6EH/6543/index.m3u8
-
 #EXTINF:-1,Willow Cricket
 http://nkhwvlfz.ottclub.xyz/iptv/MHG766HMYBABXR/31131/index.m3u8
 #EXTINF:-1,Fox Cricket
@@ -30,7 +33,6 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HBX28K5SXCR6EH/6564/inde
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HBX28K5SXCR6EH/19054/index.m3u8
 #EXTINF:-1,DAZN Ringside
 https://aegis-cloudfront-1.tubi.video/bfad29e2-5bee-44f3-8256-127324e8b106/playlist.m3u8
-
 #EXTINF:-1,MBC Bollywood
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8
 #EXTINF:-1,Shemaroo Bollywood
