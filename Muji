@@ -1,10 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1,More4
-https://d1yi40sjj0ca0v.cloudfront.net/TVD051/index.mpd
-#EXTINF:-1,E4
-https://d1yi40sjj0ca0v.cloudfront.net/TVD013/index.mpd
-
 #EXTINF:-1 tvg-logo="https://iili.io/d9mgkpn.png" group-title="WORLD TV",More4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=000000000000000000000000006d340a:efee11d60dd6a2afb6865fc141e1c4a0
