@@ -6,11 +6,6 @@
 #KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
 
-#EXTINF:-1 group-title="测试",测试2
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=7ef7e913ce85a1131b27036069169a10:77d98ed71db7524c27875a09a975f9e6
-http://linearjitp-playback.astro.com.my/dash-wv/linear/1006/default_primary.mpd
-
 #EXTINF:-1 xui-id="11539" tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/2tBx8pR/TNT1.png" group-title="SPORTS", TNT Sports 1 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -60,20 +55,6 @@ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/m6sqanvm2m/
 #KODIPROP:inputstream.adaptive.license_key=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19
 https://a205aivottlinear-a.akamaihd.net/IAD/lhr-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd
-
-
-#EXTINF:-1,Live Stream
-https://d1yi40sjj0ca0v.cloudfront.net/TVD001/index.mpd
-#EXTINF:-1,TNT Sports 3
-https://d1yi40sjj0ca0v.cloudfront.net/TVD003/index.mpd
-#EXTINF:-1,TNT Sports 4
-https://d1yi40sjj0ca0v.cloudfront.net/TVD004/index.mpd
-#EXTINF:-1,DAZN 1
-https://d1yi40sjj0ca0v.cloudfront.net/TVD232/index.mpd
-#EXTINF:-1,DAZN 2
-https://d1yi40sjj0ca0v.cloudfront.net/TVD212/index.mpd
-#EXTINF:-1,Sky Sports Austria
-https://d1yi40sjj0ca0v.cloudfront.net/TVD233/index.mpd
 
 #EXTINF:-1, DAZN 1 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
