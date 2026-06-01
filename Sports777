@@ -1,3 +1,4 @@
+
 #EXTM3U
 
 #EXTINF:-1 group-title="Sports", Fox Cricket
@@ -5,6 +6,12 @@
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=01c9bbf8137e58378a5ead514998a7b4:fb01e61809e80e5e93a889cd31daab22
 https://dck1-fs-live.dtcdn.dazn.com/out/v1/814bffb9b389f652/d65feac5647949e6b45b2674d4715398/index.mpd
+
+#EXTINF:-1 group-title="Sports", Willow Cricket
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4c0ee5909de5872620bf9f1d2d2ef7f5:1f7ebf7dbeb6cde6e216175f90e5f161
+https://abkyrm4aaaaaaaamfyfksth3wr44v.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/wxpivt6h8l/out/v1/720d60ec6a3b4b1ab2631bbd4712d350/cenc.mpd
 
 #EXTINF:-1 group-title="Sports", Willow
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
