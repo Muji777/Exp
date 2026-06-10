@@ -1,5 +1,13 @@
 #EXTM3U
 
+#EXTINF:-1,Sky Sports Main Event
+https://cdn9859.shop/skymainevent.m3u8
+#EXTINF:-1,Sky Sports Premier League
+https://cdn9859.shop/skypl.m3u8
+#EXTINF:-1,Sky Sports Cricket
+https://cdn9859.shop/skycricket.m3u8
+#EXTINF:-1,Sky Sports F1
+https://cdn9859.shop/skyf1.m3u8
 #EXTINF:-1,Sky Sports NZ 1
 https://cdn9859.shop/skynz1.m3u8
 #EXTINF:-1,Sky Sports NZ 2
@@ -18,14 +26,18 @@ https://cdn9859.shop/skynz7.m3u8
 https://cdn9859.shop/skynz8.m3u8
 #EXTINF:-1,Sky Sports NZ 9
 https://cdn9859.shop/skynz9.m3u8
-#EXTINF:-1,Sky Sports Main Event
-https://cdn9859.shop/skymainevent.m3u8
-#EXTINF:-1,Sky Sports Premier League
-https://cdn9859.shop/skypl.m3u8
-#EXTINF:-1,Sky Sports Cricket
-https://cdn9859.shop/skycricket.m3u8
-#EXTINF:-1,Sky Sports F1
-https://cdn9859.shop/skyf1.m3u8
+#EXTINF:-1,TNT Sports 1
+https://cdn9859.shop/tntsports1.m3u8
+#EXTINF:-1,TNT Sports 2
+https://cdn9859.shop/tntsports2.m3u8
+#EXTINF:-1,TNT Sports 3
+https://cdn9859.shop/tntsports3.m3u8
+#EXTINF:-1,TNT Sports 4
+https://cdn9859.shop/tntsports4.m3u8
+#EXTINF:-1,TNT Sports 5
+https://cdn9859.shop/tntsports5.m3u8
+#EXTINF:-1,Astro Cricket
+https://cdn9859.shop/foxcricket.m3u8
 
 #EXTINF:-1,Sky Sports Cricket
 http://nkhwvlfz.ottclub.xyz/iptv/MHG766HMYBABXR/9258/index.m3u8
@@ -51,6 +63,7 @@ http://nkhwvlfz.ottclub.xyz/iptv/MHG766HMYBABXR/2506/index.m3u8
 http://nkhwvlfz.ottclub.xyz/iptv/MHG766HMYBABXR/6564/index.m3u8
 #EXTINF:-1,TNT Sports 4
 http://nkhwvlfz.ottclub.xyz/iptv/MHG766HMYBABXR/19054/index.m3u8
+
 #EXTINF:-1,DAZN Ringside
 https://aegis-cloudfront-1.tubi.video/bfad29e2-5bee-44f3-8256-127324e8b106/playlist.m3u8
 #EXTINF:-1,Cinemax
