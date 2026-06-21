@@ -6,6 +6,12 @@ https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8
 https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
 #EXTINF:-1,World Cup 2026
 http://84.17.50.102/fox/index.m3u8
+#EXTINF:-1,Premier Sports 1
+http://cdn2.djdoolky76.com/blast/220944.m3u8
+#EXTINF:-1,Premier Sports 2
+http://cdn2.djdoolky76.com/blast/220945.m3u8
+#EXTINF:-1,Premier Tennis
+http://cdn2.djdoolky76.com/blast/220960.m3u8
 #EXTINF:-1,Sky Sports Cricket
 http://nkhwvlfz.ottclub.xyz/iptv/MHG766HMYBABXR/9258/index.m3u8
 #EXTINF:-1,Willow Cricket
@@ -28,6 +34,8 @@ http://nkhwvlfz.ottclub.xyz/iptv/MHG766HMYBABXR/19054/index.m3u8
 https://aegis-cloudfront-1.tubi.video/bfad29e2-5bee-44f3-8256-127324e8b106/playlist.m3u8
 #EXTINF:-1,Cinemax
 https://cdn.19891230.eu.org/api/Cinemax/index.m3u8
+#EXTINF:-1,Studio Universal
+http://cdn2.djdoolky76.com/blast/275710.m3u8
 #EXTINF:-1,MBC Bollywood
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8
 #EXTINF:-1,Shemaroo Bollywood
