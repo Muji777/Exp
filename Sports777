@@ -1,8 +1,6 @@
 
 #EXTM3U
 
-
-
 #EXTINF:-1,TSN 1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -14,6 +12,13 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/w0rehjjrwe/
 #KODIPROP:inputstream.adaptive.license_key=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
 
+#EXTINF:0 tvg-id="Sports.Dummy.us" channelID="bbcSports" tvg-logo="https://ichef.bbci.co.uk/images/ic/1920x1080/p0ddwmk9.jpg" group-title="UK ",BBC Sports Event UHD 1
+https://ve-uhd-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_041/iptv_uhd_v1.mpd
+#EXTINF:0 tvg-id="Sports.Dummy.us" channelID="bbcSports" tvg-logo="https://ichef.bbci.co.uk/images/ic/1920x1080/p0ddwmk9.jpg" group-title="UK ",BBC Sports Event UHD 2
+https://ve-uhd-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_042/iptv_uhd_v1.mpd
+
+#EXTINF:-1,ITV
+https://stvedi.akamaized.net/out/v1/4ee4f54816e340888cbd8b99b5b3562f/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://iili.io/3DPQfQS.png" group-title="Sports", TNT Sports 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
