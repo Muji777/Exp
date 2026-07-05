@@ -28,6 +28,10 @@ http://nkhwvlfz.ottclub.xyz/iptv/MHG766HMYBABXR/6564/index.m3u8
 http://nkhwvlfz.ottclub.xyz/iptv/MHG766HMYBABXR/19054/index.m3u8
 #EXTINF:-1,DAZN Ringside
 https://aegis-cloudfront-1.tubi.video/bfad29e2-5bee-44f3-8256-127324e8b106/playlist.m3u8
+#EXTINF:-1,Star Tv
+https://webtvstream.bhtelecom.ba/star_channel.m3u8
+#EXTINF:-1,Star Movies
+https://webtvstream.bhtelecom.ba/star_movies.m3u8
 #EXTINF:-1,Hallmark Tv
 http://23.237.104.106:8080/USA_HALLMARK/index.m3u8
 #EXTINF:-1,HBO
@@ -60,3 +64,5 @@ https://d39chvnxm26pgp.cloudfront.net/v1/master/72588bff830dec7b26d7cbbf5f3c2492
 https://tv-trtworld.medya.trt.com.tr/master.m3u8
 #EXTINF:-1,Channel News Asia
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+#EXTINF:-1,ABC News Australia
+https://abc-news-dmd-streams-1.akamaized.net/out/v1/abc83881886746b0802dc3e7ca2bc792/index.m3u8
