@@ -1,25 +1,13 @@
 #EXTM3U
 
-#EXTINF:-1,BBC 1
-http://75be7132.rostelekom.xyz/iptv/R3A7B6MZZFDCUL/19176/index.m3u8
-#EXTINF:-1,BBC 2
-http://75be7132.rostelekom.xyz/iptv/R3A7B6MZZFDCUL/19177/index.m3u8
-#EXTINF:-1,ITV 1
-http://75be7132.rostelekom.xyz/iptv/R3A7B6MZZFDCUL/19185/index.m3u8
-#EXTINF:-1,ITV 2
-http://75be7132.rostelekom.xyz/iptv/R3A7B6MZZFDCUL/19186/index.m3u8
 #EXTINF:-1,World Cup 2026
 https://d1jzu95oc8fgt3.cloudfront.net:443/FOX_Sports.m3u8
 #EXTINF:-1,World Cup 2026
 https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
-#EXTINF:-1,World Cup 2026
-http://84.17.50.102/fox/index.m3u8
 #EXTINF:-1,Premier Sports 1 Asia
 http://cdn2.djdoolky76.com/blast/220944.m3u8
 #EXTINF:-1,Premier Sports 2 Asia
 http://cdn2.djdoolky76.com/blast/220945.m3u8
-#EXTINF:-1,Premier Tennis
-http://cdn2.djdoolky76.com/blast/220960.m3u8
 #EXTINF:-1,Sky Sports Cricket
 http://nkhwvlfz.ottclub.xyz/iptv/MHG766HMYBABXR/9258/index.m3u8
 #EXTINF:-1,Willow Cricket
@@ -40,6 +28,18 @@ http://nkhwvlfz.ottclub.xyz/iptv/MHG766HMYBABXR/6564/index.m3u8
 http://nkhwvlfz.ottclub.xyz/iptv/MHG766HMYBABXR/19054/index.m3u8
 #EXTINF:-1,DAZN Ringside
 https://aegis-cloudfront-1.tubi.video/bfad29e2-5bee-44f3-8256-127324e8b106/playlist.m3u8
+#EXTINF:-1,Hallmark Tv
+http://23.237.104.106:8080/USA_HALLMARK/index.m3u8
+#EXTINF:-1,HBO
+http://23.237.104.106:8080/USA_HBO/index.m3u8
+#EXTINF:-1,HBO 2
+http://23.237.104.106:8080/USA_HBO2/index.m3u8
+#EXTINF:-1,HBO Zone
+http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
+#EXTINF:-1,Starz 
+http://23.237.104.106:8080/USA_STARZ/index.m3u8
+#EXTINF:-1,Cinemax
+http://23.237.104.106:8080/USA_CINEMAX/index.m3u8
 #EXTINF:-1,MBC Bollywood
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8
 #EXTINF:-1,Shemaroo Bollywood
