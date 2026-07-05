@@ -1,0 +1,127 @@
+#EXTM3U
+
+# ── Permanent Channels ──
+#EXTINF:-1 tvg-id="bbc_one_london.uk" group-title="BBC National",BBC One (1080p HEVC)
+https://vs-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_london/hevc_iptv_mse_v0.mpd
+#EXTINF:-1 tvg-id="bbc_two_hd.uk" group-title="BBC National",BBC Two (1080p HEVC)
+https://vs-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_hd/hevc_iptv_mse_v0.mpd
+#EXTINF:-1 tvg-id="bbc_three_hd.uk" group-title="BBC National",BBC Three (1080p HEVC)
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_three_hd/hevc_iptv_mse_v0.mpd
+#EXTINF:-1 tvg-id="bbc_four_hd.uk" group-title="BBC National",BBC Four (1080p HEVC)
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_four_hd/hevc_iptv_mse_v0.mpd
+#EXTINF:-1 tvg-id="bbc_news_channel_hd.uk" group-title="BBC National",BBC News (1080p HEVC)
+https://vs-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/hevc_iptv_mse_v0.mpd
+#EXTINF:-1 tvg-id="bbc_parliament.uk" group-title="BBC National",BBC Parliament (1080p HEVC)
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_parliament/hevc_iptv_mse_v0.mpd
+#EXTINF:-1 tvg-id="cbbc_hd.uk" group-title="BBC National",CBBC (1080p HEVC)
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbbc_hd/hevc_iptv_mse_v0.mpd
+#EXTINF:-1 tvg-id="cbeebies_hd.uk" group-title="BBC National",CBeebies (1080p HEVC)
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbeebies_hd/hevc_iptv_mse_v0.mpd
+#EXTINF:-1 tvg-id="s4cpbs.uk" group-title="BBC National",S4C (1080p HEVC)
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:s4cpbs/hevc_iptv_mse_v0.mpd
+#EXTINF:-1 tvg-id="red_button_one.uk" group-title="BBC National",BBC Red Button 1 (1080p HEVC)
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:red_button_one/hevc_iptv_mse_v0.mpd
+#EXTINF:-1 tvg-id="bbc_alba.uk" group-title="BBC Nations",BBC Alba (1080p HEVC)
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_alba/hevc_iptv_mse_v0.mpd
+#EXTINF:-1 tvg-id="bbc_scotland_hd.uk" group-title="BBC Nations",BBC Scotland (1080p HEVC)
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_scotland_hd/hevc_iptv_mse_v0.mpd
+#EXTINF:-1 tvg-id="bbc_one_scotland_hd.uk" group-title="BBC Nations",BBC One Scotland (1080p HEVC)
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_scotland_hd/hevc_iptv_mse_v0.mpd
+#EXTINF:-1 tvg-id="bbc_one_wales_hd.uk" group-title="BBC Nations",BBC One Wales (1080p HEVC)
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_wales_hd/hevc_iptv_mse_v0.mpd
+#EXTINF:-1 tvg-id="bbc_one_northern_ireland_hd.uk" group-title="BBC Nations",BBC One NI (1080p HEVC)
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_northern_ireland_hd/hevc_iptv_mse_v0.mpd
+
+#EXTINF:-1 tvg-id="bbc_two_wales_digital.uk" group-title="BBC Nations",BBC Two Wales (1080p HEVC)
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_wales_digital/hevc_iptv_mse_v0.mpd
+#EXTINF:-1 tvg-id="bbc_two_northern_ireland_hd.uk" group-title="BBC Nations",BBC Two NI (1080p HEVC)
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_northern_ireland_hd/hevc_iptv_mse_v0.mpd
+
+#EXTINF:-1 tvg-id="bbc_one_channel_islands.uk" group-title="BBC Regions",BBC One Channel Islands (1080p HEVC)
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_channel_islands/hevc_iptv_mse_v0.mpd
+#EXTINF:-1 tvg-id="bbc_one_east.uk" group-title="BBC Regions",BBC One East (1080p HEVC)
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_east/hevc_iptv_mse_v0.mpd
+#EXTINF:-1 tvg-id="bbc_one_east_midlands.uk" group-title="BBC Regions",BBC One East Midlands (1080p HEVC)
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_east_midlands/hevc_iptv_mse_v0.mpd
+#EXTINF:-1 tvg-id="bbc_one_north_east.uk" group-title="BBC Regions",BBC One North East (1080p HEVC)
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_north_east/hevc_iptv_mse_v0.mpd
+#EXTINF:-1 tvg-id="bbc_one_north_west.uk" group-title="BBC Regions",BBC One North West (1080p HEVC)
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_north_west/hevc_iptv_mse_v0.mpd
+
+#EXTINF:-1 tvg-id="bbc_one_south.uk" group-title="BBC Regions",BBC One South (1080p HEVC)
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_south/hevc_iptv_mse_v0.mpd
+#EXTINF:-1 tvg-id="bbc_one_south_east.uk" group-title="BBC Regions",BBC One South East (1080p HEVC)
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_south_east/hevc_iptv_mse_v0.mpd
+#EXTINF:-1 tvg-id="bbc_one_south_west.uk" group-title="BBC Regions",BBC One South West (1080p HEVC)
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_south_west/hevc_iptv_mse_v0.mpd
+#EXTINF:-1 tvg-id="bbc_one_west.uk" group-title="BBC Regions",BBC One West (1080p HEVC)
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_west/hevc_iptv_mse_v0.mpd
+#EXTINF:-1 tvg-id="bbc_one_west_midlands.uk" group-title="BBC Regions",BBC One West Midlands (1080p HEVC)
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_west_midlands/hevc_iptv_mse_v0.mpd
+#EXTINF:-1 tvg-id="bbc_one_yorks.uk" group-title="BBC Regions",BBC One Yorkshire (1080p HEVC)
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_yorks/hevc_iptv_mse_v0.mpd
+#EXTINF:-1 tvg-id="bbc_one_east_yorkshire.uk" group-title="BBC Regions",BBC One East Yorkshire (1080p HEVC)
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_east_yorkshire/hevc_iptv_mse_v0.mpd
+
+#EXTINF:-1 tvg-id="bbc_arabic_tv.uk" group-title="BBC World",BBC Arabic (1080p HEVC)
+https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/hevc_iptv_mse_v0.mpd
+#EXTINF:-1 tvg-id="bbc_persian_tv.uk" group-title="BBC World",BBC Persian (1080p HEVC)
+https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_persian_tv/hevc_iptv_mse_v0.mpd
+
+# ── Pop-up / Event Streams ──
+#EXTINF:-1 tvg-id="uk_bbc_stream_001.uk" group-title="BBC Pop-up",BBC Event - UK Stream 001 (1080p HEVC)
+https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_001/hevc_iptv_mse_v0.mpd
+#EXTINF:-1 tvg-id="uk_bbc_stream_002.uk" group-title="BBC Pop-up",BBC Event - UK Stream 002 (1080p HEVC)
+https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_002/hevc_iptv_mse_v0.mpd
+#EXTINF:-1 tvg-id="uk_bbc_stream_003.uk" group-title="BBC Pop-up",BBC Event - UK Stream 003 (1080p HEVC)
+https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_003/hevc_iptv_mse_v0.mpd
+#EXTINF:-1 tvg-id="uk_bbc_stream_004.uk" group-title="BBC Pop-up",BBC Event - UK Stream 004 (1080p HEVC)
+https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_004/hevc_iptv_mse_v0.mpd
+#EXTINF:-1 tvg-id="uk_bbc_stream_005.uk" group-title="BBC Pop-up",BBC Event - UK Stream 005 (1080p HEVC)
+https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_005/hevc_iptv_mse_v0.mpd
+#EXTINF:-1 tvg-id="uk_bbc_stream_006.uk" group-title="BBC Pop-up",BBC Event - UK Stream 006 (1080p HEVC)
+https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_006/hevc_iptv_mse_v0.mpd
+#EXTINF:-1 tvg-id="uk_bbc_stream_007.uk" group-title="BBC Pop-up",BBC Event - UK Stream 007 (1080p HEVC)
+https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_007/hevc_iptv_mse_v0.mpd
+#EXTINF:-1 tvg-id="uk_bbc_stream_008.uk" group-title="BBC Pop-up",BBC Event - UK Stream 008 (1080p HEVC)
+https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_008/hevc_iptv_mse_v0.mpd
+#EXTINF:-1 tvg-id="uk_bbc_stream_009.uk" group-title="BBC Pop-up",BBC Event - UK Stream 009 (1080p HEVC)
+https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_009/hevc_iptv_mse_v0.mpd
+#EXTINF:-1 tvg-id="uk_bbc_stream_010.uk" group-title="BBC Pop-up",BBC Event - UK Stream 010 (1080p HEVC)
+https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_010/hevc_iptv_mse_v0.mpd
+#EXTINF:-1 tvg-id="uk_bbc_stream_011.uk" group-title="BBC Pop-up",BBC Event - UK Stream 011 (1080p HEVC)
+https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_011/hevc_iptv_mse_v0.mpd
+#EXTINF:-1 tvg-id="uk_bbc_stream_012.uk" group-title="BBC Pop-up",BBC Event - UK Stream 012 (1080p HEVC)
+https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_012/hevc_iptv_mse_v0.mpd
+#EXTINF:-1 tvg-id="uk_bbc_stream_013.uk" group-title="BBC Pop-up",BBC Event - UK Stream 013 (1080p HEVC)
+https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_013/hevc_iptv_mse_v0.mpd
+#EXTINF:-1 tvg-id="uk_bbc_stream_014.uk" group-title="BBC Pop-up",BBC Event - UK Stream 014 (1080p HEVC)
+https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_014/hevc_iptv_mse_v0.mpd
+#EXTINF:-1 tvg-id="uk_bbc_stream_015.uk" group-title="BBC Pop-up",BBC Event - UK Stream 015 (1080p HEVC)
+https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_015/hevc_iptv_mse_v0.mpd
+#EXTINF:-1 tvg-id="uk_bbc_stream_016.uk" group-title="BBC Pop-up",BBC Event - UK Stream 016 (1080p HEVC)
+https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_016/hevc_iptv_mse_v0.mpd
+#EXTINF:-1 tvg-id="uk_bbc_stream_017.uk" group-title="BBC Pop-up",BBC Event - UK Stream 017 (1080p HEVC)
+https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_017/hevc_iptv_mse_v0.mpd
+#EXTINF:-1 tvg-id="uk_bbc_stream_018.uk" group-title="BBC Pop-up",BBC Event - UK Stream 018 (1080p HEVC)
+https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_018/hevc_iptv_mse_v0.mpd
+#EXTINF:-1 tvg-id="uk_bbc_stream_019.uk" group-title="BBC Pop-up",BBC Event - UK Stream 019 (1080p HEVC)
+https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_019/hevc_iptv_mse_v0.mpd
+#EXTINF:-1 tvg-id="uk_bbc_stream_020.uk" group-title="BBC Pop-up",BBC Event - UK Stream 020 (1080p HEVC)
+https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_020/hevc_iptv_mse_v0.mpd
+#EXTINF:-1 tvg-id="uk_bbc_stream_021.uk" group-title="BBC Pop-up",BBC Event - UK Stream 021 (1080p HEVC)
+https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_021/hevc_iptv_mse_v0.mpd
+#EXTINF:-1 tvg-id="uk_bbc_stream_022.uk" group-title="BBC Pop-up",BBC Event - UK Stream 022 (1080p HEVC)
+https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_022/hevc_iptv_mse_v0.mpd
+#EXTINF:-1 tvg-id="uk_bbc_stream_023.uk" group-title="BBC Pop-up",BBC Event - UK Stream 023 (1080p HEVC)
+https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_023/hevc_iptv_mse_v0.mpd
+#EXTINF:-1 tvg-id="uk_bbc_stream_024.uk" group-title="BBC Pop-up",BBC Event - UK Stream 024 (1080p HEVC)
+https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_024/hevc_iptv_mse_v0.mpd
+#EXTINF:-1 tvg-id="uk_bbc_stream_041.uk" group-title="BBC Pop-up",BBC Event - UK Stream 041 (UHD) (2160p UHD)
+https://ve-uhd-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_041/iptv_uhd_v1.mpd
+#EXTINF:-1 tvg-id="uk_bbc_stream_042.uk" group-title="BBC Pop-up",BBC Event - UK Stream 042 (UHD) (2160p UHD)
+https://ve-uhd-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_042/iptv_uhd_v1.mpd
+#EXTINF:-1 tvg-id="uk_bbc_stream_043.uk" group-title="BBC Pop-up",BBC Event - UK Stream 043 (UHD) (2160p UHD)
+https://ve-uhd-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_043/iptv_uhd_v1.mpd
+#EXTINF:-1 tvg-id="uk_bbc_stream_044.uk" group-title="BBC Pop-up",BBC Event - UK Stream 044 (UHD) (2160p UHD)
+https://ve-uhd-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_044/iptv_uhd_v1.mpd
