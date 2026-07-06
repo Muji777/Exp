@@ -1,8 +1,6 @@
 #EXTM3U
 
 #EXTINF:-1,World Cup 2026
-https://d1jzu95oc8fgt3.cloudfront.net:443/FOX_Sports.m3u8
-#EXTINF:-1,World Cup 2026
 https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
 #EXTINF:-1,Premier Sports 1 Asia
 http://cdn2.djdoolky76.com/blast/220944.m3u8
@@ -32,18 +30,6 @@ https://aegis-cloudfront-1.tubi.video/bfad29e2-5bee-44f3-8256-127324e8b106/playl
 https://webtvstream.bhtelecom.ba/star_channel.m3u8
 #EXTINF:-1,Star Movies
 https://webtvstream.bhtelecom.ba/star_movies.m3u8
-#EXTINF:-1,Hallmark Tv
-http://23.237.104.106:8080/USA_HALLMARK/index.m3u8
-#EXTINF:-1,HBO
-http://23.237.104.106:8080/USA_HBO/index.m3u8
-#EXTINF:-1,HBO 2
-http://23.237.104.106:8080/USA_HBO2/index.m3u8
-#EXTINF:-1,HBO Zone
-http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
-#EXTINF:-1,Starz 
-http://23.237.104.106:8080/USA_STARZ/index.m3u8
-#EXTINF:-1,Cinemax
-http://23.237.104.106:8080/USA_CINEMAX/index.m3u8
 #EXTINF:-1,MBC Bollywood
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8
 #EXTINF:-1,Shemaroo Bollywood
