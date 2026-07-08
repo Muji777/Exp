@@ -1,7 +1,13 @@
 #EXTM3U
 
 #EXTINF:-1,World Cup 2026
-https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
+http://143.244.62.109:80/as1premium/index.m3u8
+#EXTINF:-1,World Cup 2026
+http://143.244.62.109:80/as2premium/index.m3u8
+#EXTINF:-1,World Cup 2026
+http://143.244.62.109/rts1/index.m3u8
+#EXTINF:-1,World Cup 2026
+http://143.244.62.109/rts2/index.m3u8
 #EXTINF:-1,Premier Sports 1 Asia
 http://cdn2.djdoolky76.com/blast/220944.m3u8
 #EXTINF:-1,Premier Sports 2 Asia
