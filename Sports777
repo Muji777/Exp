@@ -1,17 +1,38 @@
 
 #EXTM3U
 
+#EXTINF:-1,Arena Sports 1
+http://178.253.194.79:10006
+#EXTINF:-1,Arena Sports 2
+http://178.253.194.79:10007
+#EXTINF:-1,Arena Sports 3
+http://178.253.194.79:10008
+#EXTINF:-1,Arena Sports 4
+http://178.253.194.79:10009
+#EXTINF:-1,Arena Sports 5
+http://178.253.194.79:10010
+#EXTINF:-1,Arena Sports 6
+http://178.253.194.79:10011
+#EXTINF:-1,Arena Sports 7
+http://178.253.194.79:10012
+#EXTINF:-1,Arena Sports 8
+http://178.253.194.79:10013
+#EXTINF:-1,Arena Sports Tennis
+http://178.253.194.79:10019
+#EXTINF:-1,Arena Premium 1
+http://178.253.194.79:10001
+#EXTINF:-1,Arena Premium 2
+http://178.253.194.79:10004
+#EXTINF:-1,Arena Premium 3
+http://178.253.194.79:10005
+#EXTINF:-1,Arena Premium 4
+http://178.253.194.79:10017
+
 #EXTINF:-1,TSN 1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
-
-#EXTINF:-1 , Fox sports 4K
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1f68713028d439ec03be07f56c1d6213:20093db6455160fffed4c394def3193d
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/enc/lsilniwjf7/out/v1/fc40f22f10374517a2784e1d97cb23f4/cenc.mpd
 
 #EXTINF:-1 group-title="Sports", Willow Cricket
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
