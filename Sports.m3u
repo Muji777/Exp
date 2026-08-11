@@ -1,9 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1,Premier Sports 1 Asia
-http://cdn2.djdoolky76.com/blast/220944.m3u8
-#EXTINF:-1,Premier Sports 2 Asia
-http://cdn2.djdoolky76.com/blast/220945.m3u8
 #EXTINF:-1,Sky Sports Cricket
 http://kho17xtr.nexeraso.top/iptv/MHG766HMYBABXR/7343/index.m3u8
 #EXTINF:-1,Willow Cricket
@@ -24,12 +20,6 @@ http://kho17xtr.nexeraso.top/iptv/MHG766HMYBABXR/6564/index.m3u8
 http://kho17xtr.nexeraso.top/iptv/MHG766HMYBABXR/19054/index.m3u8
 #EXTINF:-1,DAZN Ringside
 https://aegis-cloudfront-1.tubi.video/bfad29e2-5bee-44f3-8256-127324e8b106/playlist.m3u8
-#EXTINF:-1,HBO
-http://103.152.216.26:8443/live/cYdbMmYoQOmr_q46gHpJ7A/1785366324/180.m3u8
-#EXTINF:-1,HBO Family
-http://103.152.216.26:8443/live/cYdbMmYoQOmr_q46gHpJ7A/1785366324/191.m3u8
-#EXTINF:-1,HBO Signature
-http://103.152.216.26:8443/live/cYdbMmYoQOmr_q46gHpJ7A/1785366324/192.m3u8
 #EXTINF:-1,Star Tv
 https://webtvstream.bhtelecom.ba/star_channel.m3u8
 #EXTINF:-1,Star Movies
@@ -45,19 +35,11 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a2
 #EXTINF:-1,Shemaroo Bollywood
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
 #EXTINF:-1,BBC Earth
-http://103.152.216.26:8443/live/cYdbMmYoQOmr_q46gHpJ7A/1785366324/158.m3u8
-#EXTINF:-1,BBC Lifestyle
-http://103.152.216.26:8443/live/cYdbMmYoQOmr_q46gHpJ7A/1785366324/169.m3u8
-#EXTINF:-1,BBC Earth
 https://d3u3pfhhvuad9k.cloudfront.net/playlist/amg00793-bbcstudios-bbcearta-lgus/playlist.m3u8
 #EXTINF:-1,Discovery Asia
 https://cdn4.skygo.mn/live/disk1/Discovery_Asia/HLSv3-FTA/Discovery_Asia.m3u8
 #EXTINF:-1,Travel XP
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1,Crime & Investigation
-http://103.152.216.26:8443/live/x21IHdyVZVIDk3K06WrJuw/1785405510/156.m3u8
-#EXTINF:-1,TLC
-http://103.152.216.26:8443/live/cYdbMmYoQOmr_q46gHpJ7A/1785366324/199.m3u8
 #EXTINF:-1,Al Jazeera
 https://live-hls-web-aje-fa.getaj.net/AJE/index.m3u8
 #EXTINF:-1,CNN
