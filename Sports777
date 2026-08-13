@@ -1,46 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1,Sky Sport
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=10df3a68cdf291a763ab7215f7c748c5:64506c9bcb4ab94c874703ef9496bb57
-https://svc45.main.sl.t-online.de/bpk-tv/skysport_03_hd/DASH/index.mpd
-
-#EXTINF:-1,Arena Sports 1
-http://178.253.194.79:10006
-#EXTINF:-1,Arena Sports 2
-http://178.253.194.79:10007
-#EXTINF:-1,Arena Sports 3
-http://178.253.194.79:10008
-#EXTINF:-1,Arena Sports 4
-http://178.253.194.79:10009
-#EXTINF:-1,Arena Sports 5
-http://178.253.194.79:10010
-#EXTINF:-1,Arena Sports 6
-http://178.253.194.79:10011
-#EXTINF:-1,Arena Sports 7
-http://178.253.194.79:10012
-#EXTINF:-1,Arena Sports 8
-http://178.253.194.79:10013
-#EXTINF:-1,Arena Sports Tennis
-http://178.253.194.79:10019
-#EXTINF:-1,Arena Premium 1
-http://178.253.194.79:10001
-#EXTINF:-1,Arena Premium 2
-http://178.253.194.79:10004
-#EXTINF:-1,Arena Premium 3
-http://178.253.194.79:10005
-#EXTINF:-1,Arena Premium 4
-http://178.253.194.79:10016
-#EXTINF:-1,Arena Premium 5
-http://178.253.194.79:10017
-
-#EXTINF:-1,Premier Sports 1 Asia
-http://136.239.173.10:6610/001/2/ch00000090990000001135/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BoP1uzasPUQtxzHrrWIYilSytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001282&contentid=ch00000000000000001282&videoid=ch00000090990000001135&recommendtype=0&userid=1603895214902&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=ZGWMVRUB2AQXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
-
-#EXTINF:-1,Premier Sports 2 Asia
-http://161.49.17.2:6610/001/2/ch00000090990000001204/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Br3I6nJHzuTbw9BKFgOyZjfytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001464&contentid=ch00000000000000001464&videoid=ch00000090990000001204&recommendtype=0&userid=1844529598285&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=QG5AARDQQ8FXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
-
 #EXTINF:-1,TSN 1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
