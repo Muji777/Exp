@@ -1,5 +1,33 @@
 #EXTM3U
 
+#EXTINF:-1,Astro Premier League
+https://object.us-east-1.rumble.cloud/198d91efd71a4098b34a9dd2887b8692:test/astropremierleague.m3u8
+#EXTINF:-1,Astro Premier League 2
+https://object.us-east-1.rumble.cloud/198d91efd71a4098b34a9dd2887b8692:test/astropremierleague2.m3u8
+#EXTINF:-1,Astro Premier League 3
+https://object.us-east-1.rumble.cloud/198d91efd71a4098b34a9dd2887b8692:test/astropremierleague3.m3u8
+#EXTINF:-1,Astro Premier League 4
+https://object.us-east-1.rumble.cloud/198d91efd71a4098b34a9dd2887b8692:test/astropremierleague4.m3u8
+#EXTINF:-1,Astro Football
+https://object.us-east-1.rumble.cloud/198d91efd71a4098b34a9dd2887b8692:test/astrofootball.m3u8
+#EXTINF:-1,Astro Grandstand
+https://object.us-east-1.rumble.cloud/198d91efd71a4098b34a9dd2887b8692:test/astrograndstand.m3u8
+#EXTINF:-1,Astro Sports Plus
+https://object.us-east-1.rumble.cloud/198d91efd71a4098b34a9dd2887b8692:test/astrosportsplus.m3u8
+#EXTINF:-1,Astro Sports Plus 2
+https://object.us-east-1.rumble.cloud/198d91efd71a4098b34a9dd2887b8692:test/astrosportsplus2.m3u8
+#EXTINF:-1,Astro Tennis
+https://object.us-east-1.rumble.cloud/198d91efd71a4098b34a9dd2887b8692:test/astrotennis.m3u8
+#EXTINF:-1,Bein Sports 1
+https://object.us-east-1.rumble.cloud/198d91efd71a4098b34a9dd2887b8692:test/beinsports1my.m3u8
+#EXTINF:-1,Bein Sports 2
+https://object.us-east-1.rumble.cloud/198d91efd71a4098b34a9dd2887b8692:test/beinsports2my.m3u8
+#EXTINF:-1,Bein Sports 3
+https://object.us-east-1.rumble.cloud/198d91efd71a4098b34a9dd2887b8692:test/beinsports3my.m3u8
+#EXTINF:-1,CricBuzz
+https://object.us-east-1.rumble.cloud/198d91efd71a4098b34a9dd2887b8692:test/cricbuzzmy.m3u8
+* Premier Sports MY
+https://object.us-east-1.rumble.cloud/198d91efd71a4098b34a9dd2887b8692:test/premiersportsmy.m3u8
 #EXTINF:-1,Sky Sports 1 NZ
 https://object.us-east-1.rumble.cloud/198d91efd71a4098b34a9dd2887b8692:test/sky1nz.m3u8
 #EXTINF:-1,Sky Sports 2 NZ
