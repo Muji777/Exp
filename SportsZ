@@ -104,14 +104,16 @@ https://dash2.antik.sk/stream/nvidia_eurosport1/playlist_cenc.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
 https://dash2.antik.sk/stream/nvidia_eurosport2/playlist_cenc.mpd
 
-#EXTINF:-1 tvg-id="Eurosport1.fr" tvg-name="Eurosport 1" tvg-logo="https://i.imgur.com/example1.png" group-title="Sports",Eurosport 1
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF:-1,Eurosport 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=01a665d487aa4c1c898c9eb0ff1a21df:a0b9df5f92e6b218ddb6aa40a2cd996d
-https://tr.live.cdn.cgates.lt/live/dash/561802/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=48b8c5a6596a57ca81ac06971480c0c3:32fee56885dcad694800af43b4643bba
+e0210b9e15c45445bc66a4b15648fa9a:2bd20cadd5592293c1d86e16747e59af
+f8393bb1f9e056a0b150e8db63e4bd91:1110b32a02c90a5f41866dcc38dab872
+https://at-live-1.tentcdn.eu/bpk-tv/Eurosport_1_HD/default/index.mpd
 
-#EXTINF:-1 tvg-id="Eurosport2.fr" tvg-name="Eurosport 2" tvg-logo="https://i.imgur.com/example2.png" group-title="Sports",Eurosport 2
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF:-1,Eurosport 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=657707bbd1e240e08bd6969df27fef7c:364e00581c1432f4175e4a2e8e0cd57e
-https://tr.live.cdn.cgates.lt/live/dash/561705/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=6f2a4b2851995cb9a59ba08526c39c63:6b26918e6a41fb0167b46b8cc2d70c5a
+cfb717217eb55d84bbfb83caf18d6d61:7ba7d64473ea275e752d710d9c960cfe
+e19196cee3025e8cadca8445b9b46997:f87f2f5b88595810ccd79b673ffaf9a3
+https://at-live-1.tentcdn.eu/bpk-tv/Eurosport_2_HD/default/index.mpd
