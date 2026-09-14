@@ -10,6 +10,11 @@ https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(m4)/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=0000000000000000000000000063340a:5ce85f1aa5771900b952f0ba58857d7a
 https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(c4)/manifest.mpd
 
+#EXTINF:-1,NatGeo Wild Spain
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=76f4714902e048e481eb4224d1cf0e66:ea1d9b76cf4425d20513f8d660ee69e4
+https://cache2.zapitv.com/live/eds_c2/nat_geo_wild_hd/dash_live_ez/nat_geo_wild_hd.mpd
+
 #EXTINF:-1 group-title="World TV" tvg-id="" tvg-logo="https://i.imgur.com/9gq2SE9l.png",National Geographic Wild
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
