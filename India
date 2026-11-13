@@ -2,7 +2,8 @@
 
 #EXTINF:-1,Colors Australia
 https://catchup.yuppcdn.net/amazonv2/36/preview/colorsau/master/chunklist.m3u8
-#EXTINF:-1,Colors UK https://catchup.yuppcdn.net/amazonv2/36/preview/colorsuk/master/chunklist.m3u8
+#EXTINF:-1,Colors UK
+https://catchup.yuppcdn.net/amazonv2/36/preview/colorsuk/master/chunklist.m3u8
 #EXTINF:-1,Colors Middle East
 https://catchup.yuppcdn.net/amazonv2/36/preview/colorsme/master/chunklist.m3u8
 #EXTINF:-1,Star Plus Australia
